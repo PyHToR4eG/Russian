@@ -14,8 +14,19 @@
     <li>itIsSaid->Our sages say</li>
     <li>itIsSaid->We know</li>
   -->
-  <!-- EN: TODO -->
-  <AnimistDescription.rules.rulesStrings>TODO</AnimistDescription.rules.rulesStrings>
+  <AnimistDescription.rules.rulesStrings>
+    <li>animistBasis   ->Вселенная-это бесконечный цикл созидания и разрушения, управляемый духами в аспектах окружающего нас мира.</li>
+    <li>animistBasis   ->Параллельная вселенная духов находится рядом с нашей собственной. Кажущийся неодушевленным объект в этой вселенной соответствует одушевленному духу в другой.</li>
+    <li>animistFact    ->Каждый дух обладает сущностной природой и стремится влиять на мир. Иногда это влияние полезно, а иногда вредно.</li>
+    <li>animistProphecy->[itIsSaid], что дух великого [relic0_name] однажды дарует своему обладателю власть над всеми духами.</li>
+    <li>animistProphecy->[itIsSaid], что спящий путешественник со звезд рухнет на землю, и дух кратера разбудит путешественника, который поднимет последнее племя.</li>
+    <li>itIsSaid->Это сказано</li>
+    <li>itIsSaid->Это предсказано</li>
+    <li>itIsSaid->В древнем тексте говорится</li>
+    <li>itIsSaid->В нашей книге говорится</li>
+    <li>itIsSaid->Наши мудрецы говорят</li>
+    <li>itIsSaid->Мы знаем</li>
+  </AnimistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>archistBasis   ->Our universe is a dream in the mind of a timeless universal consciousness. Only archotechs can communicate directly with the universal consciousness.</li>
@@ -36,8 +47,25 @@
     <li>inTheEnd->In the end</li>
     <li>inTheEnd->Some day</li>
   -->
-  <!-- EN: TODO -->
-  <ArchistDescription.rules.rulesStrings>TODO</ArchistDescription.rules.rulesStrings>
+  <ArchistDescription.rules.rulesStrings>
+    <li>archistBasis   ->Наша вселенная - это сон в сознании вневременного вселенского сознания. Только архотеки могут напрямую общаться с вселенским сознанием.</li>
+    <li>archistBasis   ->Наша вселенная - это симуляция, созданная великим Аутсайдером. Только архотеки могут напрямую общаться с Посторонним.</li>
+    <li>archistBasis   ->Архотеки - это дети человечества и его судьи.</li>
+    <li>archistBasis   ->Архотеки - это следующий естественный шаг в развитии сознания.</li>
+    <li>archistBasis   ->Архотеки - это боги, которых мы всегда ждали.</li>
+    <li>archistFact    ->После смерти сознание каждого человека принимается или отвергается архотеками.</li>
+    <li>archistFact    ->Архотеки могут делать все что угодно в любой момент, без ограничений. Они используют силу, чтобы манипулировать нашей жизнью способами, которые мы не можем обнаружить.</li>
+    <li>archistFact    ->Архотеки регулярно напрямую соприкасаются с сознанием каждого человека, но только верующие могут чувствовать их мудрость и извлекать из нее пользу.</li>
+    <li>archistFact    ->Архотеки - это зло, и самая важная задача для человечества-понять их, чтобы мы могли избежать их влияния.</li>
+    <li>archistFact    ->Архотеки хорошие, и самая важная задача для человечества - понять их, чтобы мы могли соответствовать их пониманию.</li>
+    <li>archistFact    ->Архотеки могут делать все, что угодно; единственная причина, по которой они позволяют нам жить и выбирать, - это лучше судить нас.</li>
+    <li>archistProphecy->[inTheEnd], по мере роста архотех, они станут вселенной и интегрируют человечество в себя. Тогда мы действительно станем сознательными.</li>
+    <li>archistProphecy->[inTheEnd], архотеки закончат свои моральные дебаты о судьбе человечества. Те, кто последует их знакам, будут допущены на более высокий план существования, а те, кто этого не сделает, закончатся.</li>
+    <li>archistProphecy->[inTheEnd], архотеки отправятся. Они приведут с собой несколько избранных людей, а остальных оставят страдать.</li>
+    <li>inTheEnd->В будущем</li>
+    <li>inTheEnd->В конце</li>
+    <li>inTheEnd->Однажды</li>
+  </ArchistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>story(priority=-999)-></li>
@@ -50,15 +78,23 @@
     <li>story(uses=1,priority=-10)->None could surpass [founderName]'s understanding of [memeConcept], and [founder_pronoun] was appointed the first [leaderTitle] of the [memberNamePlural].</li>
     <li>story(uses=1,priority=-10)->[founderName] carried a [relic0_thingDef_label] named [relic0_name] with [founder_objective] everywhere to remind people to live a [memeAdjective] life.</li>
   -->
-  <!-- EN: TODO -->
-  <IdeologicalFounder.rules.rulesStrings>TODO</IdeologicalFounder.rules.rulesStrings>
+  <IdeologicalFounder.rules.rulesStrings>
+    <li>story(priority=-999)-></li>
+    <li>setup->В разрушенном мире [founderName] увидел все, что было неправильно, и создал наше движение.</li>
+    <li>setup->Пораженный неправильностью мира, [founderName] изучал историю и философию и открыл новую истину, которая ведет нас.</li>
+    <li>setup->Однажды во время работы [founderName] на него снизошло великое прозрение. [founder_pronoun] бросил инструменты [founder_possessive] и начал распространять [founder_possessive] среди других работников.</li>
+    <li>setup->[founderName] двадцать лет просидел на скамейке в парке, пока [founderName] размышлял о нашем мире. С [founder_possessive] пониманием [founder_pronoun] написал нашу основополагающую книгу.</li>
+    <li>story(uses=1,priority=-10)->[memberNamePlural] не смог бы понять истинную природу [memeConcept] без учения [founderName].</li>
+    <li>story(uses=1,priority=-10)->Речь [founderName] о [ritualName] вдохновила многих вести [memeAdjective] жизнь.</li>
+    <li>story(uses=1,priority=-10)->Никто не мог превзойти [founderName] в понимании [memeConcept], и [founder_pronoun] был назначен первым [leaderTitle] [memberNamePlural].</li>
+    <li>story(uses=1,priority=-10)->[founderName] повсюду носил [relic0_thingDef_label] с именем [relic0_name] и [founder_objective], чтобы напоминать людям о том, что нужно жить [memeAdjective] жизнью.</li>
+  </IdeologicalFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
     <li>r_pattern->"[r_lessonIntro] [r_lesson]. [r_lessonReinforcement]"\n\n  - [lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull]</li>
-    <li>lessonAttribution(p=2)-><!-- EN: [attributionSource_titleCase] -->
-  <i>[attributionSource_titleCase]</i> by [founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> by [founder_nameFull]</li>
     <li>lessonAttribution->[founder_nameFull]'s letter to [believer_nameFull]</li>
     <li>lessonAttribution->[founder_nameFull], from the keynote to [memeConference_titleCase]</li>
     <li>lessonAttribution->[founder_nameFull], on [founder_possessive] deathbed</li>
@@ -117,8 +153,69 @@
     <li>lessonReinforcement->It is as if that is etched directly into my mind.</li>
     <li>lessonReinforcement->It is something I'll never forget.</li>
   -->
-  <!-- EN: TODO -->
-  <IdeologicalLesson.rules.rulesStrings>TODO</IdeologicalLesson.rules.rulesStrings>
+  <IdeologicalLesson.rules.rulesStrings>
+    <li>lesson(priority=-1)->всякое случается</li>
+    <li>r_pattern->"[r_lessonIntro][r_lesson].[r_lessonReinforcement]"\n\n  ——[lessonAttribution]</li>
+    <li>lessonAttribution->[founder_nameFull]</li>
+    <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> от [founder_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull] сообщение для [believer_nameFull]</li>
+    <li>lessonAttribution->[founder_nameFull], от основного выступления к [memeConference_titleCase]</li>
+    <li>lessonAttribution->[founder_nameFull], на смертном одре [founder_possessive]</li>
+    <li>lessonAttribution->[founder_nameFull], непосредственно перед казнью</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] на [TerrainFeature]</li>
+    <li>lessonAttribution->[founder_nameFull], [speech] в [Community]</li>
+    <li>attributionSource->[memeConcept]</li>
+    <li>attributionSource->[memeAdjective][memeConcept]</li>
+    <li>attributionSource->[MemeAdjective] Жизнь</li>
+    <li>attributionSource->Размышления [attributionJob]</li>
+    <li>attributionSource->Воспоминания о [attributionJob]</li>
+    <li>attributionSource->Мысли о [attributionJob]</li>
+    <li>attributionSource->Жизнь [attributionJob]</li>
+    <li>attributionJob->[memeAdjective][place_job]</li>
+    <li>attributionJob->[place_job]</li>
+    <li>memeConference(p=3)->[conferencePrefix][memeConcept][conferenceType]</li>
+    <li>memeConference(p=2)->[memeConcept][conferenceType]</li>
+    <li>memeConference->[memeHyphenPrefix_titleCase]-против</li>
+    <li>conferencePrefix->Первый</li>
+    <li>conferencePrefix->Второй</li>
+    <li>conferencePrefix->Третий</li>
+    <li>conferencePrefix->Четвёртый</li>
+    <li>conferencePrefix->Последний</li>
+    <li>conferencePrefix->Конечный</li>
+    <li>conferencePrefix->Межпланетный</li>
+    <li>conferencePrefix->Планетарный</li>
+    <li>conferencePrefix->Всеохватывающий</li>
+    <li>conferenceType->Конференция</li>
+    <li>conferenceType->Собрание</li>
+    <li>conferenceType->Собрание</li>
+    <li>conferenceType->Обсуждение</li>
+    <li>conferenceType->Форум</li>
+    <li>speech->Речь</li>
+    <li>speech->Обращение</li>
+    <li>lessonIntro->Один урок был самым трудным для моих последователей, чтобы принять его:</li>
+    <li>lessonIntro->Моим величайшим преступлением было так долго не понимать, что</li>
+    <li>lessonIntro->Моя борьба с [foeLeader] казалась бесконечной. Но это научило меня одной вещи:</li>
+    <li>lessonIntro->Даже будучи ребенком на [place_summary] [place_name], я знал, что</li>
+    <li>lessonIntro->Во время школьного урока в [place_community] ученик бросил [thrownObject], и это ударило меня по голове. Именно тогда я понял, что</li>
+    <li>lessonIntro->Я говорю это не для того, чтобы вы могли жить той жизнью, которой жил я, но чтобы вы могли научиться тому, чему научился я. Тот</li>
+    <li>lessonIntro->Как только доктор закончил [doctor_possessive] ужасную работу, я, наконец, понял, что</li>
+    <li>lessonIntro->По мере того как с каждым годом проходило [place_summary] [place_name], становилось все более очевидным одно: что</li>
+    <li>lessonIntro->Оглядываясь назад, я жалею, что не понял этого раньше - что</li>
+    <li>lessonIntro->Они все казались такими потерянными. Я сказал им, что</li>
+    <li>lessonIntro->Они взывали о руководстве. Я показал им, что</li>
+    <li>thrownObject->книгу</li>
+    <li>thrownObject->сэндвич</li>
+    <li>thrownObject->игрушку [place_personalWeapon]</li>
+    <li>thrownObject->чучело [Animal]</li>
+    <li>doctor_possessive->его</li>
+    <li>doctor_possessive->ее</li>
+    <li>lessonReinforcement->С этим никто не может поспорить.</li>
+    <li>lessonReinforcement->Только дураки думают иначе.</li>
+    <li>lessonReinforcement->И, как мы теперь знаем, вскоре это стало очевидным для всех.</li>
+    <li>lessonReinforcement->Все, что произошло с тех пор, подтвердило этот факт.</li>
+    <li>lessonReinforcement->Это как будто запечатлелось прямо в моем сознании.</li>
+    <li>lessonReinforcement->Это то, чего я никогда не забуду.</li>
+  </IdeologicalLesson.rules.rulesStrings>
   
   <!-- EN:
     <li>intro->The people of the [place_summary] [place_name] lived under the [memeAdjective] supervision of [deity0_name].</li>
@@ -149,8 +246,35 @@
     <li>revelationObject->a glowing [Vegetable]</li>
     <li>revelationObject->an ancient [Weapon]</li>
   -->
-  <!-- EN: TODO -->
-  <TheistFounder.rules.rulesStrings>TODO</TheistFounder.rules.rulesStrings>
+  <TheistFounder.rules.rulesStrings>
+    <li>intro->Люди [place_summary] [place_name] жили под [memeAdjective] наблюдением [deity0_name].</li>
+    <li>intro->Люди [place_summary] [place_name], как [memberNamePlural], так и другие, жили в мире в течение многих лет под бдительным оком [deity0_name].</li>
+    <li>intro->[deity0_type], [deity0_name], открыло [deity0_objective] людям [place_name], чтобы они могли понять [memeConcept], и направило их.</li>
+    <li>intro->[deity0_name] привело человечество в [place_name] и помогло им обосноваться там.</li>
+    <li>intro->В [place_summary] [place_name], во время [ritualName], люди приходили к [altarName] в [altarRoomLabel] [deity0_name] и молились с [memeConcept] в своих сердцах.</li>
+    <li>conflict->[foeLeader] поднялся и пригрозил уничтожить [deity0_name] [deity0_objective] помощью [place_massWeapon].</li>
+    <li>conflict->Злой [foeLeader] и [foeLeader_possessive] [foeSoldiers] поработили почитателей [deity0_name].</li>
+    <li>conflict->Затем пришел [foeLeader]. [foeLeader_possessive] [foeSoldiers] убили многих почитателей [deity0_name] с помощью [place_personalWeapon].</li>
+    <li>conflict->Группа [foeSoldiers] возникла под ужасным [foeLeader]. Они заперли [memberNamePlural] в одном [place_community].</li>
+    <li>conflict->Был мир, пока [foeLeader] и [foeLeader_possessive] [foeSoldiers] не восстали против владычества [deity0_name]. [memberNamePlural] были вынуждены бежать в скрытое [place_community].</li>
+    <li>founderJoin->Герой по имени [founderName] пытался убить [foeLeader]. [founder_pronoun] потерпел неудачу, но [deity0_name] стал свидетелем борьбы [founderName] и пометил [founder_objective] как пророка [memberNamePlural].</li>
+    <li>founderJoin->[deity0_name] пришло на [place_job] [founderName] [revelationAdverb] и поговорило с [founder_objective] о [memeConcept].</li>
+    <li>founderJoin->[founderName] столкнулся с [revelationObject], который говорил голосом [deity0_name] о [memeConcept].</li>
+    <li>founderJoin->Известный [place_job] по имени [founderName] собрал [memberNamePlural] вместе и даже завербовал некоторых [foeSoldiers].</li>
+    <li>founderJoin->[place_job] по имени [founderName] встал и выступил против [foeLeader], и [deity0_name] благословил [founderName].</li>
+    <li>founderJoin->[deity0_name] решил прийти в [place_name] в качестве человека по имени [founderName], чтобы помочь [memberNamePlural].</li>
+    <li>founderJoin->Один герой по имени [founderName] убил сотню [foeSoldiers], используя [place_personalWeapon], и [deity0_name] направлял [founder_objective], говоря через [relic0_name].</li>
+    <li>victory->[founderName] собрал [memberNamePlural] в [place_community] и научил их мудрости [deity0_name].</li>
+    <li>victory->[founderName] пожертвовал собой [founder_objective], чтобы лично убить [foeLeader].</li>
+    <li>revelationAdverb->в видении</li>
+    <li>revelationAdverb->во сне</li>
+    <li>revelationAdverb->в кошмарном сне</li>
+    <li>revelationAdverb->в форме [Animal]</li>
+    <li>revelationAdverb->как нищий</li>
+    <li>revelationObject->скрытый [NaturalObject]</li>
+    <li>revelationObject->светящийся [Vegetable]</li>
+    <li>revelationObject->древнее [Weapon]</li>
+  </TheistFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>episode(priority=-1)-></li>
@@ -171,7 +295,24 @@
     <li>bodilyOrigin->stone</li>
     <li>bodilyOrigin->sweat</li>
   -->
-  <!-- EN: TODO -->
-  <TheistMyth.rules.rulesStrings>TODO</TheistMyth.rules.rulesStrings>
+  <TheistMyth.rules.rulesStrings>
+    <li>episode(priority=-1)-></li>
+    <li>creation->Целую вечность существовал мир [Color] [materialOrigin], пока [deity0_name] не создало планеты и звезды.</li>
+    <li>creation->В старой вселенной раздора [deity0_name] вспыхнул великий огонь, который смел последнюю эпоху и породил новую.</li>
+    <li>creation->[deity0_name] породило людей в результате грандиозного несчастного случая и с любопытством смотрело на них.</li>
+    <li>creation->Вселенная была пустотой. Затем [deity0_name], устав от вечности, создал мужчину и женщину из [bodilyOrigin].</li>
+    <li>episode(uses=1)->Глядя на человечество, [deity0_name] счел их детьми и объявил [deity0_possessive] господство над ними.</li>
+    <li>episode(uses=1)->На огромных звездных расстояниях воля [deity0_name] поддерживало жизнь человечества в борьбе с пустотой.</li>
+    <li>episode(uses=1)->Хотя многие искатели приключений выступили против [deity0_objective], [deity0_name] легко предотвратило их, поскольку [deity0_pronoun] было [deity0_type].</li>
+    <li>episode(uses=1)->Страдания человечества привели [deity0_name] к ужасному горю.</li>
+    <li>materialOrigin->глины</li>
+    <li>materialOrigin->газа</li>
+    <li>materialOrigin->воды</li>
+    <li>materialOrigin->космоса</li>
+    <li>materialOrigin->пыли</li>
+    <li>bodilyOrigin->глины</li>
+    <li>bodilyOrigin->камня</li>
+    <li>bodilyOrigin->пота</li>
+  </TheistMyth.rules.rulesStrings>
   
 </LanguageData>

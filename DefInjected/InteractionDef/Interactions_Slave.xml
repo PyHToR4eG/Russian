@@ -10,8 +10,13 @@
     <li>r_logentry->[INITIATOR_nameDef] spoke of a life beyond servitude and encouraged [RECIPIENT_nameDef] to escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</li>
   -->
-  <!-- EN: TODO -->
-  <SparkSlaveRebellion.logRulesInitiator.rulesStrings>TODO</SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+  <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] предложил им сделать перерыв для этого.</li>
+    <li>r_logentry->[INITIATOR_nameDef] призвал [RECIPIENT_nameDef] вернуть [RECIPIENT_possessive] свободу.</li>
+    <li>r_logentry->[INITIATOR_nameDef] говорил о том, чтобы покончить с их порабощением и покончить с ними.</li>
+    <li>r_logentry->[INITIATOR_nameDef] говорил о жизни за пределами рабства и поощрял [RECIPIENT_nameDef] к побегу.</li>
+    <li>r_logentry->[INITIATOR_nameDef] прошептал, что охрана слабая и сейчас самое время сбежать.</li>
+  </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
   
   <!-- EN: suppress -->
   <Suppress.label>подавлять</Suppress.label>
@@ -21,7 +26,11 @@
     <li>r_logentry->[INITIATOR_nameDef] cautioned [RECIPIENT_nameDef] against infractions of any kind.</li>
     <li>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and not ask questions.</li>
   -->
-  <!-- EN: TODO -->
-  <Suppress.logRulesInitiator.rulesStrings>TODO</Suppress.logRulesInitiator.rulesStrings>
+  <Suppress.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] сказал [RECIPIENT_nameDef], что за мятеж будут наказания.</li>
+    <li>r_logentry->[INITIATOR_nameDef] предупредил [RECIPIENT_nameDef], что неповиновение будет наказано.</li>
+    <li>r_logentry->[INITIATOR_nameDef] предостерег [RECIPIENT_nameDef] о любых нарушениях.</li>
+    <li>r_logentry->[INITIATOR_nameDef] предложил, чтобы [RECIPIENT_nameDef] выполнял приказы и не задавал вопросов.</li>
+  </Suppress.logRulesInitiator.rulesStrings>
   
 </LanguageData>

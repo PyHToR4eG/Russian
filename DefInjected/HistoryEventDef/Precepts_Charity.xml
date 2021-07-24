@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: beggars helped -->
-  <CharityFulfilled_Beggars.label>попрошайки выручены</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_Beggars.label>нищие выручены</CharityFulfilled_Beggars.label>
   
   <!-- EN: refugees helped -->
   <CharityFulfilled_HospitalityRefugees.label>беженцы выручены</CharityFulfilled_HospitalityRefugees.label>
@@ -23,10 +23,10 @@
   <CharityFulfilled_WandererJoins.label>странник принят</CharityFulfilled_WandererJoins.label>
   
   <!-- EN: beggars refused -->
-  <CharityRefused_Beggars.label>попрошайки отвергнуты</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars.label>нищие отвергнуты</CharityRefused_Beggars.label>
   
   <!-- EN: beggars betrayed -->
-  <CharityRefused_Beggars_Betrayed.label>попрошайкипреданы</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_Beggars_Betrayed.label>нищиепреданы</CharityRefused_Beggars_Betrayed.label>
   
   <!-- EN: refugees refused -->
   <CharityRefused_HospitalityRefugees.label>беженцы отвергнуты</CharityRefused_HospitalityRefugees.label>

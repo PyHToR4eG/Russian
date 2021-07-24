@@ -13,6 +13,9 @@
   <!-- EN: delivering TargetA to altar. -->
   <DeliverToAltar.reportString>доставка TargetA к алтарю.。</DeliverToAltar.reportString>
   
+  <!-- EN: dyeing hair -->
+  <DyeHair.reportString>окрашивание волос</DyeHair.reportString>
+  
   <!-- EN: entering biosculpter pod. -->
   <EnterBiosculpterPod.reportString>входим в капсулу биоскульптора.</EnterBiosculpterPod.reportString>
   

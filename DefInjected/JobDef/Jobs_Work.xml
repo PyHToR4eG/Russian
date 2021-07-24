@@ -11,7 +11,7 @@
   <ExtractSkull.reportString>извлечение черепа из TargetA.</ExtractSkull.reportString>
   
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>hвзлом TargetA.</Hack.reportString>
+  <Hack.reportString>взлом TargetA.</Hack.reportString>
   
   <!-- EN: merging into TargetB. -->
   <MergeIntoGaumakerPod.reportString>слияние в TargetB.</MergeIntoGaumakerPod.reportString>

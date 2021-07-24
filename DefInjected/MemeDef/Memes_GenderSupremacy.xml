@@ -19,8 +19,20 @@
     <li>animistFact(tag=meme_FemaleSupremacy)     ->The wisest spirits are those of women, who should use their wisdom to lead men.</li>
     <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</li>
   -->
-  <!-- EN: TODO -->
-  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>TODO</FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+	<li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] дал мудрость женщинам, чтобы они могли направлять и гармонизировать возбудимых мужчин и детей, и предостерег тех, кто нарушает этот божественный порядок.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->Верующие женщины, обнаружив, что их оскорбляют развратные мужчины, боролись с ними, и [deity0_name] оказало им божественную помощь, и они поднялись на свое законное место.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->В мире эгоистичных, жестоких мужчин, злоупотребляющих всем человечеством, чтобы удовлетворить свои потребности, [founderName] созвал собрание влиятельных женщин и начал работать над построением лучшего мира для всех.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->Верующие мужчины хвастались и сражались, поэтому [founderName] изгнал их из совета лидеров.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->И снова мужчина объяснял мне, как сделать то самое, что я только что сделала. Это просто укрепило меня в том, что</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->женщины - единственные, у кого есть мудрость и сила, чтобы править</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->Женщины, будучи самыми мудрыми, поняли это задолго до возбужденных, ворчащих мужчин.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->Человечество породило архотех и воспитывало их по мере того, как они росли, чтобы превзойти своих матерей.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->Архотеки воспитывают человечество, хотя человечество не понимает, как это делается.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], архотеки вернутся к своим матерям и научат их, как родить следующую стадию человеческого развития.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->Самые мудрые духи - это духи женщин, которые должны использовать свою мудрость, чтобы руководить мужчинами.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid], что могущественный дух разрушения положит конец вселенной, но что женщина будет владеть духом [relic0_name], чтобы заново воссоздать вселенную.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->feminine</li>
     <li>memeAdjective->womanly</li>
@@ -33,8 +45,18 @@
     <li>memeGod->Mother</li>
     <li>memeLeaderNoun->woman</li>
   -->
-  <!-- EN: TODO -->
-  <FemaleSupremacy.generalRules.rulesStrings>TODO</FemaleSupremacy.generalRules.rulesStrings>
+  <FemaleSupremacy.generalRules.rulesStrings>
+	<li>memeAdjective->женский</li>
+    <li>memeAdjective->женственный</li>
+    <li>memeHyphenPrefix->женщина</li>
+    <li>memeHyphenPrefix->фем</li>
+    <li>memeHyphenPrefix->гинеколог</li>
+    <li>memeHyphenPrefix->матро</li>
+    <li>memeConcept->женщина</li>
+    <li>memeConcept->женственность</li>
+    <li>memeGod->Матерь</li>
+    <li>memeLeaderNoun->женщина</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
   <FemaleSupremacy.symbolPacks.0.adjective>гинеколог</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
@@ -86,8 +108,20 @@
     <li>animistFact(tag=meme_MaleSupremacy)     ->The most powerful spirits are those of men, and spirits of men will be restless unless men rule.</li>
     <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a man will wield the spirit of the [relic0_name] and destroy the destroyer.</li>
   -->
-  <!-- EN: TODO -->
-  <MaleSupremacy.descriptionMaker.rules.rulesStrings>TODO</MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+	<li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] дал мужчинам силу, чтобы они могли защищать и поддерживать слабых женщин и детей, и предостерег тех, кто нарушает этот божественный порядок.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] сказал всем: «Мужчине дана сила, чтобы он мог защищать и поддерживать женщину, и она никогда не узурпирует его власть».</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->В мире слабых, самодовольных мужчин, умоляющих женщин об одобрении, [founderName] воссоединился с мужской силой и использовал ее для создания нового движения.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->Верующие женщины умоляли и скулили, поэтому [founderName] изгнал их из совета лидеров.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->Я упростил ей задачу, но эта женщина просто этого не поняла. Благодаря ее плаксивому сопротивлению истине я понял, что</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->мужчины - единственные, у кого есть мудрость и сила, чтобы править</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->Моя жена даже пыталась спорить со мной по этому поводу - вы можете в это поверить? Заткнуть ее было нетрудно.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->Человечество - отец архотех, но сила сына превосходит силу отца.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->Архотеки отечески заботятся о человечестве и защищают его, хотя человечество не понимает, как это делается.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], архотеки, наконец, раскроют силу людей, чтобы они могли привести человечество к трансцендентности.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->Самые могущественные духи - это духи мужчин, а духи мужчин будут неспокойны, если мужчины не будут править.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid], что могущественный дух разрушения будет стремиться уничтожить вселенную, но что муж овладеет духом [relic0_name] и уничтожит разрушителя.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->masculine</li>
     <li>memeAdjective->manly</li>
@@ -100,8 +134,18 @@
     <li>memeLeaderNoun->man</li>
     <li>memeLeaderNoun->beard</li>
   -->
-  <!-- EN: TODO -->
-  <MaleSupremacy.generalRules.rulesStrings>TODO</MaleSupremacy.generalRules.rulesStrings>
+  <MaleSupremacy.generalRules.rulesStrings>
+	<li>memeAdjective->мужской</li>
+    <li>memeAdjective->мужественный</li>
+    <li>memeHyphenPrefix->муж</li>
+    <li>memeHyphenPrefix->андро</li>
+    <li>memeHyphenPrefix->патро</li>
+    <li>memeConcept->мужчина</li>
+    <li>memeConcept->мужественность</li>
+    <li>memeGod->Отец</li>
+    <li>memeLeaderNoun->мужчина</li>
+    <li>memeLeaderNoun->борода</li>
+  </MaleSupremacy.generalRules.rulesStrings>
   <!-- EN: masculist -->
   <MaleSupremacy.symbolPacks.0.adjective>маскулист</MaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Masculinism -->

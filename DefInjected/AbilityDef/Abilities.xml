@@ -28,7 +28,7 @@
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>Попытайтесь обратить кого - то в идеологию говорящего. Это снизит уверенность объекта в его собственных убеждениях. Снижение определенности зависит от способности говорящего вести переговоры.</Convert.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>failed to convert<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> was upset by the attempt, but<x> {RECIPIENT_possessive} </x>certainty fell from<x> {CERTAINTYBEFORE} </x>to<x> {CERTAINTYAFTER}</x>. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage><x>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} был расстроен этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} был расстроен этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>has converted<x> {RECIPIENT_labelShort} </x>to<x> {IDEO}</x>. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} обратил {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   

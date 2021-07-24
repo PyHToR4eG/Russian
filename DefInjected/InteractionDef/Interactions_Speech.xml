@@ -19,11 +19,25 @@
     <li>speechtopic->the true layers of reality under the visual</li>
     <li>speechtopic->psychic connections</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Blinding.logRulesInitiator.rulesStrings>TODO</Speech_Blinding.logRulesInitiator.rulesStrings>
+  <Speech_Blinding.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic].</li>
+    <li>speechtopic->слепота</li>
+    <li>speechtopic->чистота слепоты</li>
+    <li>speechtopic->духовный смысл незрячих</li>
+    <li>speechtopic->скрытые миры за пределами видимости</li>
+    <li>speechtopic->ложность нашей визуальной реальности</li>
+    <li>speechtopic->техника ослепления</li>
+    <li>speechtopic->проклятие зрения</li>
+    <li>speechtopic->желе внутри глазного яблока</li>
+    <li>speechtopic->взросление зрячим</li>
+    <li>speechtopic->взросление вслепую</li>
+    <li>speechtopic->исследуя, не видя и не двигаясь</li>
+    <li>speechtopic->истинные слои реальности под визуальным</li>
+    <li>speechtopic->психические связи</li>
+  </Speech_Blinding.logRulesInitiator.rulesStrings>
   
   <!-- EN: conversion speech -->
-  <Speech_Conversion.label>обращаюшая речь</Speech_Conversion.label>
+  <Speech_Conversion.label>речь обращения</Speech_Conversion.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->uniting for the greater good</li>
@@ -42,8 +56,24 @@
     <li>speechtopic->false other beliefs</li>
     <li>speechtopic->progress towards the future</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Conversion.logRulesInitiator.rulesStrings>TODO</Speech_Conversion.logRulesInitiator.rulesStrings>
+  <Speech_Conversion.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->объединение ради общего блага</li>
+    <li>speechtopic->неправильность отступничества</li>
+    <li>speechtopic->выбор правильных убеждений</li>
+    <li>speechtopic->моральная структура вселенной</li>
+    <li>speechtopic->правильно и неправильно</li>
+    <li>speechtopic->цель жизни</li>
+    <li>speechtopic->смысл жизни</li>
+    <li>speechtopic->история человечества</li>
+    <li>speechtopic->будущее человечества</li>
+    <li>speechtopic->любовь и ненависть</li>
+    <li>speechtopic->страх и безопасность</li>
+    <li>speechtopic->правильность принадлежности</li>
+    <li>speechtopic->присоединение и принадлежность</li>
+    <li>speechtopic->ложные другие убеждения</li>
+    <li>speechtopic->прогресс на пути к будущему</li>
+  </Speech_Conversion.logRulesInitiator.rulesStrings>
   
   <!-- EN: celebration speech -->
   <Speech_DateRitual.label>праздничная речь</Speech_DateRitual.label>
@@ -58,11 +88,20 @@
     <li>praisetopic->sharing ideas</li>
     <li>praisetopic->[INITIATOR_possessive] own group</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_DateRitual.logRulesInitiator.rulesStrings>TODO</Speech_DateRitual.logRulesInitiator.rulesStrings>
+  <Speech_DateRitual.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic->радость идеологических торжеств</li>
+    <li>praisetopic->правильное мышление</li>
+    <li>praisetopic->моральная структура вселенной</li>
+    <li>praisetopic->[INITIATOR_possessive] убеждения</li>
+    <li>praisetopic->единение</li>
+    <li>praisetopic->быть вместе</li>
+    <li>praisetopic->обмен идеями</li>
+    <li>praisetopic->[INITIATOR_possessive] собственная группа</li>
+  </Speech_DateRitual.logRulesInitiator.rulesStrings>
   
   <!-- EN: duel speech -->
-  <Speech_Duel.label>决斗演说</Speech_Duel.label>
+  <Speech_Duel.label>дуэльная речь</Speech_Duel.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [praised] [praisetopic].</li>
     <li>praisetopic->death by blade</li>
@@ -81,11 +120,27 @@
     <li>praisetopic->anger and hope</li>
     <li>praisetopic->rage and strength</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Duel.logRulesInitiator.rulesStrings>TODO</Speech_Duel.logRulesInitiator.rulesStrings>
+  <Speech_Duel.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][praised][praisetopic]。</li>
+    <li>praisetopic->смерть от клинка</li>
+    <li>praisetopic->мучительная смерть</li>
+    <li>praisetopic->почетная смерть</li>
+    <li>praisetopic->почетный бой</li>
+    <li>praisetopic->выдержка и борьба</li>
+    <li>praisetopic->[AdjectiveBadass] оружие и бойцы</li>
+    <li>praisetopic->чистота физического конфликта</li>
+    <li>praisetopic->любовь через смерть</li>
+    <li>praisetopic->изгнание ненависти ради здоровья</li>
+    <li>praisetopic->сила над другими</li>
+    <li>praisetopic->конфликт, присущий вселенной</li>
+    <li>praisetopic->кровь и пыль</li>
+    <li>praisetopic->жизнь и драма</li>
+    <li>praisetopic->гнев и надежда</li>
+    <li>praisetopic->ярость и сила</li>
+  </Speech_Duel.logRulesInitiator.rulesStrings>
   
   <!-- EN: exceution speech -->
-  <Speech_Execution.label>演讲稿</Speech_Execution.label>
+  <Speech_Execution.label>вступительная речь</Speech_Execution.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->life and death</li>
@@ -98,11 +153,21 @@
     <li>speechtopic->capital punishment and its history</li>
     <li>speechtopic->the reasons for the execution</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Execution.logRulesInitiator.rulesStrings>TODO</Speech_Execution.logRulesInitiator.rulesStrings>
+  <Speech_Execution.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->жизнь и смерть</li>
+    <li>speechtopic->необходимость справедливости</li>
+    <li>speechtopic->методы исполнения</li>
+    <li>speechtopic->смерть и жестокость</li>
+    <li>speechtopic->милосердное убийство</li>
+    <li>speechtopic->милосердие правильного убийства</li>
+    <li>speechtopic->символизм смерти</li>
+    <li>speechtopic->смертная казнь и ее история</li>
+    <li>speechtopic->причины исполнения</li>
+  </Speech_Execution.logRulesInitiator.rulesStrings>
   
   <!-- EN: funeral speech -->
-  <Speech_Funeral.label>葬礼上的讲话</Speech_Funeral.label>
+  <Speech_Funeral.label>похоронная речь</Speech_Funeral.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the nobility of sacrifice</li>
@@ -118,11 +183,24 @@
     <li>speechtopic->life and joy</li>
     <li>speechtopic->carrying forward unfinished work</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Funeral.logRulesInitiator.rulesStrings>TODO</Speech_Funeral.logRulesInitiator.rulesStrings>
+  <Speech_Funeral.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->благородство самопожертвования</li>
+    <li>speechtopic->смерть</li>
+    <li>speechtopic->жизнь после смерти</li>
+    <li>speechtopic->смерть и семья</li>
+    <li>speechtopic->концепция хорошей жизни</li>
+    <li>speechtopic->смерть как путь к достоинству</li>
+    <li>speechtopic->начало и конец</li>
+    <li>speechtopic->что происходит после смерти</li>
+    <li>speechtopic->празднование следующего шага</li>
+    <li>speechtopic->отсутствующие друзья</li>
+    <li>speechtopic->жизнь и радость</li>
+    <li>speechtopic->продолжение незавершенной работы</li>
+  </Speech_Funeral.logRulesInitiator.rulesStrings>
   
   <!-- EN: leader speech -->
-  <Speech_Leader.label>领导讲话</Speech_Leader.label>
+  <Speech_Leader.label>выступление лидера</Speech_Leader.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->searching for [Vegetable]s</li>
@@ -159,11 +237,45 @@
     <li>speechtopic(p=0.25)->strong hands and hearts</li>
     <li>speechtopic(p=0.25)->the right to survive</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Leader.logRulesInitiator.rulesStrings>TODO</Speech_Leader.logRulesInitiator.rulesStrings>
+  <Speech_Leader.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->в поисках [Vegetable]</li>
+    <li>speechtopic->как быть [AdjectiveFriendly]</li>
+    <li>speechtopic->избегая [AnimalBadass]</li>
+    <li>speechtopic->как устроена жизнь [Game]</li>
+    <li>speechtopic->разум как [Weapon]</li>
+    <li>speechtopic->изучение через [TerrainFeature] и [TerrainFeature]</li>
+    <li>speechtopic->обещания, данные [Direction]</li>
+    <li>speechtopic->как быть более похожим на [Animal]</li>
+    <li>speechtopic->символизм [NaturalObject] и [NaturalObject]</li>
+    <li>speechtopic->как все [PersonFamily] и [PersonFamily]</li>
+    <li>speechtopic->как быть хорошим [PersonAlly]</li>
+    <li>speechtopic->необходимость в [PersonJob]</li>
+    <li>speechtopic->избегая [PersonBadass]</li>
+    <li>speechtopic->победить [Enemy] с помощью [ConceptPositive]</li>
+    <li>speechtopic->видеть [Gore] во время боя</li>
+    <li>speechtopic->история создания [Mechanoid]</li>
+    <li>speechtopic->значение этого [ConceptPositive]</li>
+    <li>speechtopic->[ConceptPositive] колонии</li>
+    <li>speechtopic->как быть [AdjectiveBadass], не будучи [AdjectiveBadass]</li>
+    <li>speechtopic->как [AdjectiveBadass] колония</li>
+    <li>speechtopic->[AdjectiveNatural][TerrainFeature]</li>
+    <li>speechtopic->[AdjectiveLarge] потенциал колонии</li>
+    <li>speechtopic->[PersonalCharacteristic] каждого колониста</li>
+    <li>speechtopic->ужасные [PersonalCharacteristic] врагов колонии</li>
+    <li>speechtopic(p=0.25)->держаться вместе как группа</li>
+    <li>speechtopic(p=0.25)->путь вперед через несчастье</li>
+    <li>speechtopic(p=0.25)->сообщество и его значение</li>
+    <li>speechtopic(p=0.25)->выживание против роскоши</li>
+    <li>speechtopic(p=0.25)->счастье через трудности</li>
+    <li>speechtopic(p=0.25)->удовлетворение через страдание</li>
+    <li>speechtopic(p=0.25)->смерть как мотиватор</li>
+    <li>speechtopic(p=0.25)->сильные руки и сердца</li>
+    <li>speechtopic(p=0.25)->право на выживание</li>
+  </Speech_Leader.logRulesInitiator.rulesStrings>
   
   <!-- EN: sacrifice speech -->
-  <Speech_Sacrifice.label>牺牲演讲</Speech_Sacrifice.label>
+  <Speech_Sacrifice.label>жертвенная речь</Speech_Sacrifice.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
@@ -187,11 +299,32 @@
     <li>crazy->brandished a blade</li>
     <li>crazy->muttered repetitively</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Sacrifice.logRulesInitiator.rulesStrings>TODO</Speech_Sacrifice.logRulesInitiator.rulesStrings>
+  <Speech_Sacrifice.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic->значение и истинная ценность смерти</li>
+    <li>speechtopic->выражения боли</li>
+    <li>speechtopic->контролируемая жестокость</li>
+    <li>speechtopic->тепло крови</li>
+    <li>speechtopic->значение смерти</li>
+    <li>speechtopic->любовь и смерть</li>
+    <li>speechtopic->символизирующая боль</li>
+    <li>speechtopic->лезвия и плоть</li>
+    <li>speechtopic->искусство резки</li>
+    <li>speechtopic->соблазн крови</li>
+    <li>speechtopic->музыка криков</li>
+    <li>speechtopic->кишки на полу</li>
+    <li>crazy->кричал маниакально</li>
+    <li>crazy->разразился песнопением</li>
+    <li>crazy->воспетый к небесам</li>
+    <li>crazy->плюнул в глаз жертве</li>
+    <li>crazy->хихикнул</li>
+    <li>crazy->взмахнул клинком</li>
+    <li>crazy->бормотал одно и то же</li>
+  </Speech_Sacrifice.logRulesInitiator.rulesStrings>
   
   <!-- EN: scarification speech -->
-  <Speech_Scarification.label>伤疤演讲</Speech_Scarification.label>
+  <Speech_Scarification.label>речь о шрамировании</Speech_Scarification.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>r_logentry(p=0.2)->[INITIATOR_nameDef] [crazy].</li>
@@ -213,11 +346,30 @@
     <li>crazy->brandished a blade</li>
     <li>crazy->muttered repetitively</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_Scarification.logRulesInitiator.rulesStrings>TODO</Speech_Scarification.logRulesInitiator.rulesStrings>
+  <Speech_Scarification.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_nameDef][crazy]。</li>
+    <li>speechtopic->запись боли на теле</li>
+    <li>speechtopic->выражения боли</li>
+    <li>speechtopic->контролируемая жестокость</li>
+    <li>speechtopic->тепло крови</li>
+    <li>speechtopic->значение шрама</li>
+    <li>speechtopic->любовь и боль</li>
+    <li>speechtopic->символизирующая боль</li>
+    <li>speechtopic->лезвия и плоть</li>
+    <li>speechtopic->искусство резки</li>
+    <li>speechtopic->соблазн крови</li>
+    <li>speechtopic->музыка криков</li>
+    <li>crazy->кричал маниакально</li>
+    <li>crazy->разразился песнопением</li>
+    <li>crazy->воспетый к небесам</li>
+    <li>crazy->хихикнул</li>
+    <li>crazy->взмахнул клинком</li>
+    <li>crazy->бормотал одно и то же</li>
+  </Speech_Scarification.logRulesInitiator.rulesStrings>
   
   <!-- EN: tree connection speech -->
-  <Speech_TreeConnection.label>树木连接讲话</Speech_TreeConnection.label>
+  <Speech_TreeConnection.label>речь о соединении с деревом</Speech_TreeConnection.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->the trees and the people</li>
@@ -233,7 +385,20 @@
     <li>speechtopic->plant life and eternity</li>
     <li>speechtopic->connecting with nature</li>
   -->
-  <!-- EN: TODO -->
-  <Speech_TreeConnection.logRulesInitiator.rulesStrings>TODO</Speech_TreeConnection.logRulesInitiator.rulesStrings>
+  <Speech_TreeConnection.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef][spokeof][speechtopic]。</li>
+    <li>speechtopic->деревья и люди</li>
+    <li>speechtopic->деревья и психические силы</li>
+    <li>speechtopic->дриады</li>
+    <li>speechtopic->жизненный цикл Гауранлена</li>
+    <li>speechtopic->духовное присутствие деревьев Гауранлен</li>
+    <li>speechtopic->психическая дендропатия</li>
+    <li>speechtopic->какие милые дриады</li>
+    <li>speechtopic->благородство дриад</li>
+    <li>speechtopic->возраст деревьев</li>
+    <li>speechtopic->роль человечества под деревьями</li>
+    <li>speechtopic->растительная жизнь и вечность</li>
+    <li>speechtopic->связь с природой</li>
+  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
   
 </LanguageData>

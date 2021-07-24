@@ -16,8 +16,17 @@
     <li>memeMoralist->priest</li>
     <li>memeMoralist->elder</li>
   -->
-  <!-- EN: TODO -->
-  <Structure_Animist.generalRules.rulesStrings>TODO</Structure_Animist.generalRules.rulesStrings>
+  <Structure_Animist.generalRules.rulesStrings>
+	<li>memeLeaderNoun->викарий</li>
+    <li>memeLeaderNoun->оратор</li>
+    <li>memeLeaderAdjective->вселенная</li>
+    <li>memeLeaderAdjective->дух</li>
+    <li>memeLeaderAdjective->анима</li>
+    <li>memeHyphenPrefix->ани</li>
+    <li>memeMoralist->шаман</li>
+    <li>memeMoralist->священник</li>
+    <li>memeMoralist->старейшина</li>
+  </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.adjective>анимист</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
@@ -52,8 +61,21 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <!-- EN: TODO -->
-  <Structure_Archist.generalRules.rulesStrings>TODO</Structure_Archist.generalRules.rulesStrings>
+  <Structure_Archist.generalRules.rulesStrings>
+	<li>memeAdjective->архик</li>
+    <li>memeAdjective->архотехника</li>
+    <li>memeAdjective->архонический</li>
+    <li>memeHyphenPrefix->архо</li>
+    <li>memeHyphenPrefix->арка</li>
+    <li>memeLeaderNoun->архивист</li>
+    <li>memeLeaderNoun->архотехник</li>
+    <li>memeLeaderAdjective->архик</li>
+    <li>memeLeaderAdjective->экзохром</li>
+    <li>memeMoralist->священник</li>
+    <li>memeMoralist->клерик</li>
+    <li>memeMoralist->ректор</li>
+    <li>memeMoralist->аббат</li>
+  </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
   <Structure_Archist.symbolPacks.0.adjective>архотехника</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
@@ -106,8 +128,35 @@
     <li>memeMoralist->academic</li>
     <li>memeMoralist->sophist</li>
   -->
-  <!-- EN: TODO -->
-  <Structure_Ideological.generalRules.rulesStrings>TODO</Structure_Ideological.generalRules.rulesStrings>
+  <Structure_Ideological.generalRules.rulesStrings>
+	<li>memeAdjective->этический</li>
+    <li>memeAdjective->моральный</li>
+    <li>memeAdjective->пробужденный</li>
+    <li>memeCreed->вера</li>
+    <li>memeCreed->идеология</li>
+    <li>memeCreed->кредо</li>
+    <li>memeCreed->философия</li>
+    <li>memeCreed->теория</li>
+    <li>memeCreed->кругозор</li>
+    <li>memeCreed->принципы</li>
+    <li>memeCreed->мораль</li>
+    <li>memeCreed->этика</li>
+    <li>memeCreed->справедливость</li>
+    <li>memeHyphenPrefix->ideo</li>
+    <li>memeLeaderNoun->разум</li>
+    <li>memeLeaderNoun->решающий</li>
+    <li>memeLeaderNoun->лидер</li>
+    <li>memeLeaderAdjective->этический</li>
+    <li>memeLeaderAdjective->моральный</li>
+    <li>memeLeaderAdjective->пробужденный</li>
+    <li>memeMoralist->советник</li>
+    <li>memeMoralist->спец по этике</li>
+    <li>memeMoralist->моралист</li>
+    <li>memeMoralist->философ</li>
+    <li>memeMoralist->мыслитель</li>
+    <li>memeMoralist->ученый</li>
+    <li>memeMoralist->софист</li>
+  </Structure_Ideological.generalRules.rulesStrings>
   <!-- EN: ethical -->
   <Structure_Ideological.symbolPacks.0.adjective>этический</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
@@ -165,8 +214,32 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <!-- EN: TODO -->
-  <Structure_TheistAbstract.generalRules.rulesStrings>TODO</Structure_TheistAbstract.generalRules.rulesStrings>
+  <Structure_TheistAbstract.generalRules.rulesStrings>
+	<li>memeAdjective->благочестивый</li>
+    <li>memeAdjective->святой</li>
+    <li>memeAdjective->священный</li>
+    <li>memeAdjective->божественный</li>
+    <li>memeAdjective->верный</li>
+    <li>memeCreed->храм</li>
+    <li>memeCreed->секта</li>
+    <li>memeCreed->культ</li>
+    <li>memeCreed->вера</li>
+    <li>memeHyphenPrefix->тео</li>
+    <li>memeConcept->созидание</li>
+    <li>memeConcept->жизнь</li>
+    <li>memeLeaderNoun->епископ</li>
+    <li>memeLeaderNoun->кардинал</li>
+    <li>memeLeaderNoun->папа</li>
+    <li>memeLeaderNoun->дивус</li>
+    <li>memeLeaderAdjective->святой</li>
+    <li>memeLeaderAdjective->божественный</li>
+    <li>memeMoralist->священник</li>
+    <li>memeMoralist->пастор</li>
+    <li>memeMoralist->клерик</li>
+    <li>memeMoralist->проповедник</li>
+    <li>memeMoralist->ректор</li>
+    <li>memeMoralist->настоятель</li>
+  </Structure_TheistAbstract.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistAbstract.symbolPacks.0.adjective>духовный</Structure_TheistAbstract.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
@@ -219,8 +292,19 @@
     <li>memeMoralist->priest</li>
     <li>memeMoralist->cleric</li>
   -->
-  <!-- EN: TODO -->
-  <Structure_TheistEmbodied.generalRules.rulesStrings>TODO</Structure_TheistEmbodied.generalRules.rulesStrings>
+  <Structure_TheistEmbodied.generalRules.rulesStrings>
+	<li>memeCreed->секта</li>
+    <li>memeCreed->культ</li>
+    <li>memeCreed->храм</li>
+    <li>memeCreed->вера</li>
+    <li>memeHyphenPrefix->тео</li>
+    <li>memeConcept->созидание</li>
+    <li>memeConcept->жизнь</li>
+    <li>memeLeaderNoun->тамплиер</li>
+    <li>memeLeaderAdjective->божественный</li>
+    <li>memeMoralist->священник</li>
+    <li>memeMoralist->клерик</li>
+  </Structure_TheistEmbodied.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistEmbodied.symbolPacks.0.adjective>духовный</Structure_TheistEmbodied.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->

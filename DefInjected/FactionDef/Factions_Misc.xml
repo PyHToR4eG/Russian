@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: beggars -->
-  <Beggars.label>попрошайки</Beggars.label>
+  <Beggars.label>нищие</Beggars.label>
   <!-- EN: A group of beggars seeking charity. -->
-  <Beggars.description>Группа попрошаек, ищущих милостыню.</Beggars.description>
+  <Beggars.description>Группа нищих, ищущих милостыню.</Beggars.description>
   <!-- EN: beggar -->
-  <Beggars.pawnSingular>попрошайка</Beggars.pawnSingular>
+  <Beggars.pawnSingular>нищий</Beggars.pawnSingular>
   <!-- EN: beggars -->
-  <Beggars.pawnsPlural>попрошайки</Beggars.pawnsPlural>
+  <Beggars.pawnsPlural>нищие</Beggars.pawnsPlural>
   
   <!-- EN: cannibal pirate gang -->
   <CannibalPirate.label>банда пиратов-каннибалов</CannibalPirate.label>

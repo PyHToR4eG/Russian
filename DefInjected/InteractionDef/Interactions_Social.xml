@@ -6,32 +6,36 @@
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef], but failed.</li>
   -->
-  <!-- EN: TODO -->
-  <Convert_Failure.logRulesInitiator.rulesStrings>TODO</Convert_Failure.logRulesInitiator.rulesStrings>
+  <Convert_Failure.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] попытался обратить [RECIPIENT_nameDef], но потерпел неудачу.</li>
+  </Convert_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful conversion -->
   <Convert_Success.label>удачное обращение</Convert_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] and succeeded.</li>
   -->
-  <!-- EN: TODO -->
-  <Convert_Success.logRulesInitiator.rulesStrings>TODO</Convert_Success.logRulesInitiator.rulesStrings>
+  <Convert_Success.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] попытался обратить [RECIPIENT_nameDef] и преуспел.</li>
+  </Convert_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: convert ideoligion attempt -->
   <ConvertIdeoAttempt.label>попытка изменить идеологию</ConvertIdeoAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to convert [RECIPIENT_nameDef] to [INITIATOR_possessive] own ideoligion.</li>
   -->
-  <!-- EN: TODO -->
-  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>TODO</ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+  <ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] попытался обратить [RECIPIENT_nameDef] в [INITIATOR_possessive] собственную идеологию.</li>
+  </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
   <Counsel_Failure.label>неудачный совет</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
-  <!-- EN: TODO -->
-  <Counsel_Failure.logRulesInitiator.rulesStrings>TODO</Counsel_Failure.logRulesInitiator.rulesStrings>
+  <Counsel_Failure.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] попытался посоветоваться [RECIPIENT_nameDef], но провалил попытку и сделал все еще хуже.</li>
+  </Counsel_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful counsel -->
   <Counsel_Success.label>успешный совет</Counsel_Success.label>
@@ -44,8 +48,15 @@
     <li>problems->[RECIPIENT_possessive] painful feelings</li>
     <li>problems->recent difficulties</li>
   -->
-  <!-- EN: TODO -->
-  <Counsel_Success.logRulesInitiator.rulesStrings>TODO</Counsel_Success.logRulesInitiator.rulesStrings>
+  <Counsel_Success.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] консультировал [RECIPIENT_nameDef] по [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] помог [RECIPIENT_nameDef] продумать о [problems].</li>
+    <li>r_logentry->[INITIATOR_nameDef] дал [RECIPIENT_nameDef] совет по преодолению негатива.</li>
+    <li>problems->[RECIPIENT_possessive] проблемы</li>
+    <li>problems->[RECIPIENT_possessive] неприятности</li>
+    <li>problems->[RECIPIENT_possessive] болезненные чувства</li>
+    <li>problems->недавние трудности</li>
+  </Counsel_Success.logRulesInitiator.rulesStrings>
   
   <!-- EN: preached health -->
   <PreachHealth.label>проповедовал здоровье</PreachHealth.label>
@@ -55,16 +66,21 @@
     <li>preaching_topic->higher ideoligious goals</li>
     <li>preaching_topic->[RECIPIENT_possessive] purpose of existence</li>
   -->
-  <!-- EN: TODO -->
-  <PreachHealth.logRulesInitiator.rulesStrings>TODO</PreachHealth.logRulesInitiator.rulesStrings>
+  <PreachHealth.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] укрепил здоровье [RECIPIENT_nameDef], проповедуя о [preaching_topic].</li>
+    <li>preaching_topic->причины жить</li>
+    <li>preaching_topic->высшие идеологические цели</li>
+    <li>preaching_topic->[RECIPIENT_possessive] цель существования</li>
+	</PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
   <Reassure.label>заверение</Reassure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
   -->
-  <!-- EN: TODO -->
-  <Reassure.logRulesInitiator.rulesStrings>TODO</Reassure.logRulesInitiator.rulesStrings>
+  <Reassure.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] укрепило убеждения [RECIPIENT_nameDef].</li>
+	</Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
   <Trial_Accuse.label>обвинять</Trial_Accuse.label>
@@ -86,8 +102,24 @@
     <li>wrongdoing->hateful thinking</li>
     <li>wrongdoing->disloyalty</li>
   -->
-  <!-- EN: TODO -->
-  <Trial_Accuse.logRulesInitiator.rulesStrings>TODO</Trial_Accuse.logRulesInitiator.rulesStrings>
+  <Trial_Accuse.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] представил некоторые доказательства.</li>
+    <li>r_logentry->[INITIATOR_nameDef] взывал к эмоциям зрителей.</li>
+    <li>r_logentry->[INITIATOR_nameDef] обвинил [RECIPIENT_nameDef] в [wrongdoing].</li>
+    <li>wrongdoing->саботаж в колонии</li>
+    <li>wrongdoing->быть ленивым</li>
+    <li>wrongdoing->слишком много ест</li>
+    <li>wrongdoing->кража</li>
+    <li>wrongdoing->быть ужасным человеком</li>
+    <li>wrongdoing->неуважение к священным идеям</li>
+    <li>wrongdoing->неуважение к уважаемым деятелям</li>
+    <li>wrongdoing->ересь</li>
+    <li>wrongdoing->убийство</li>
+    <li>wrongdoing->богохульство</li>
+    <li>wrongdoing->измена</li>
+    <li>wrongdoing->hateful thinking</li>
+    <li>wrongdoing->ненавистное мышление</li>
+  </Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->
   <Trial_Defend.label>защищать</Trial_Defend.label>
@@ -100,15 +132,23 @@
     <li>r_logentry->[INITIATOR_nameDef] dismissed the allegations.</li>
     <li>r_logentry->[INITIATOR_nameDef] called the trial a sham.</li>
   -->
-  <!-- EN: TODO -->
-  <Trial_Defend.logRulesInitiator.rulesStrings>TODO</Trial_Defend.logRulesInitiator.rulesStrings>
+  <Trial_Defend.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] отклонил обвинение.</li>
+    <li>r_logentry->[INITIATOR_nameDef] представил другую интерпретацию.</li>
+    <li>r_logentry->[INITIATOR_nameDef] признал свою вину перед присяжными.</li>
+    <li>r_logentry->[INITIATOR_nameDef] взывал к милосердию.</li>
+    <li>r_logentry->[INITIATOR_nameDef] приостановил разбирательство.</li>
+    <li>r_logentry->[INITIATOR_nameDef] отклонил обвинения.</li>
+    <li>r_logentry->[INITIATOR_nameDef] назвал суд притворством.</li>
+  </Trial_Defend.logRulesInitiator.rulesStrings>
   
   <!-- EN: work drive -->
   <WorkDrive.label>усердная работа</WorkDrive.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] called upon [RECIPIENT_nameDef] to work extra hard for the good of the colony.</li>
   -->
-  <!-- EN: TODO -->
-  <WorkDrive.logRulesInitiator.rulesStrings>TODO</WorkDrive.logRulesInitiator.rulesStrings>
+  <WorkDrive.logRulesInitiator.rulesStrings>
+	<li>r_logentry->[INITIATOR_nameDef] призвал [RECIPIENT_nameDef] усердно трудиться на благо колонии.</li>
+  </WorkDrive.logRulesInitiator.rulesStrings>
   
 </LanguageData>

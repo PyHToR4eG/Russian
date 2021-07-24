@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ate fungus -->
+  <AteFungus.label>съел грибок</AteFungus.label>
+  
+  <!-- EN: ate meal with fungus -->
+  <AteFungusAsIngredient.label>съел еду с грибком</AteFungusAsIngredient.label>
+  
+  <!-- EN: ate non-fungus plant meal -->
+  <AteNonFungusMealWithPlants.label>съел негрибковую растительную муку</AteNonFungusMealWithPlants.label>
+  
+  <!-- EN: ate non-fungus crop -->
+  <AteNonFungusPlant.label>съел негрибковый урожай</AteNonFungusPlant.label>
+  
+</LanguageData>

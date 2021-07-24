@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dancing. -->
+  <Dance.reportString>танцы.</Dance.reportString>
+  
+  <!-- EN: eating at TargetA. -->
+  <EatAtCannibalPlatter.reportString>ест в TargetA.</EatAtCannibalPlatter.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <GotoAndBeSociallyActive.reportString>расслабляюсь в обществе.</GotoAndBeSociallyActive.reportString>
+  
+  <!-- EN: making a skylantern. -->
+  <PrepareSkylantern.reportString>изготовление небесного фонаря.</PrepareSkylantern.reportString>
+  
+</LanguageData>

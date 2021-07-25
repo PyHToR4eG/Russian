@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>Животноей умиротворение</AnimalCalm.label>
+  <AnimalCalm.label>Животное умиротворение</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
   <AnimalCalm.description>Используйте уникальные методы общения с животными, чтобы успокоить обезумевшего зверя.</AnimalCalm.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully calmed<x> {RECIPIENT_labelShort}</x>. -->

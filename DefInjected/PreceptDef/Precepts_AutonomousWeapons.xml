@@ -16,12 +16,12 @@
   <AutonomousWeapons_Horrible.comps.0.description>Автоматическая турель в колонии</AutonomousWeapons_Horrible.comps.0.description>
   
   <!-- EN: prohibited -->
-  <AutonomousWeapons_Prohibited.label>запрещенный</AutonomousWeapons_Prohibited.label>
+  <AutonomousWeapons_Prohibited.label>под запретом</AutonomousWeapons_Prohibited.label>
   <!-- EN: Allowing a machine to decide to kill is an absolutely inhuman thing to do. -->
   <AutonomousWeapons_Prohibited.description>Позволить машине убивать - это абсолютно бесчеловечно.</AutonomousWeapons_Prohibited.description>
   <!-- EN: Automated turret in colony -->
   <AutonomousWeapons_Prohibited.comps.0.description>Автоматическая турель в колонии</AutonomousWeapons_Prohibited.comps.0.description>
   <!-- EN: Build automated turret -->
-  <AutonomousWeapons_Prohibited.comps.1.description>Prohibited</AutonomousWeapons_Prohibited.comps.1.description>
+  <AutonomousWeapons_Prohibited.comps.1.description>Под запретом</AutonomousWeapons_Prohibited.comps.1.description>
   
 </LanguageData>

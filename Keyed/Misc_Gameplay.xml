@@ -165,7 +165,7 @@
   <!-- EN: Can't use {0} with {1}. -->
   <RitualAttachedRewardCantUseWithRitual>Нельзя использовать {0} с {1}.</RitualAttachedRewardCantUseWithRitual>
   <!-- EN: Requires any of memes -->
-  <RitualAttachedRewardRequiredMemeAny>Требуется любой из мемов</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredMemeAny>Требуется любой из доктрин</RitualAttachedRewardRequiredMemeAny>
   <!-- EN: Requires {0} faction -->
   <RitualAttachedRewardRequiredFaction>Требуется {0} фракция </RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->

@@ -20,7 +20,7 @@
   <Mining_Horrible.comps.2.description>Кто-то копал блок</Mining_Horrible.comps.2.description>
   
   <!-- EN: prohibited -->
-  <Mining_Prohibited.label>запрещенный</Mining_Prohibited.label>
+  <Mining_Prohibited.label>под запретом</Mining_Prohibited.label>
   <!-- EN: Raping the natural earth with mining tools is a horrifically evil act. -->
   <Mining_Prohibited.description>Изнасилование земли горными орудиями - это ужасающее злодеяние.</Mining_Prohibited.description>
   <!-- EN: Mining -->

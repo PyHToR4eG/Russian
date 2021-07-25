@@ -8,21 +8,21 @@
   <!-- EN: {PRECEPT1} and {PRECEPT2} are incompatible. -->
   <MessageIdeoIncompatiblePrecepts>{PRECEPT1} и {PRECEPT2} несовместимы.</MessageIdeoIncompatiblePrecepts>
   <!-- EN: {PRECEPT} needs one of these buildings -->
-  <MessageRitualMissingTarget>{PRECEPT} needs one of these buildings</MessageRitualMissingTarget>
+  <MessageRitualMissingTarget>{PRECEPT} нуждается в одном из этих зданий</MessageRitualMissingTarget>
   <!-- EN: {PRECEPT} needs an associated ritual. -->
   <MessageBuildingMissingRitual>{PRECEPT} нуждается в соответствующем ритуале.</MessageBuildingMissingRitual>
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
   <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} отказывается это делать из-за {0_possessive} идеологии.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} попытался преобразовать {RECIPIENT_nameDef} в {INITIATOR_possessive} идеологию. {RECIPIENT_nameDef} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_проноун} возмущен попыткой преобразования.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} попытался обратить {RECIPIENT_nameDef} в {INITIATOR_possessive} идеологию. {RECIPIENT_nameDef} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_проноун} возмущен попыткой обратить.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
   <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} попытался обратить {PAWN2_nameDef} в {PAWN1_possessive} идеологию. Это привело к перепалке!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
-  <MessageNotEnoughMemes>Вы должны выбрать не менее {0} мемов.</MessageNotEnoughMemes>
+  <MessageNotEnoughMemes>Вы должны выбрать не менее {0} доктрин.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->
-  <MessageTooManyMemes>Вы не можете выбрать более {0} мемов.</MessageTooManyMemes>
+  <MessageTooManyMemes>Вы не можете выбрать более {0} доктрин.</MessageTooManyMemes>
   <!-- EN: You must choose a structure meme. -->
-  <MessageNotEnoughStructureMemes>Вы должны выбрать мем структуры.</MessageNotEnoughStructureMemes>
+  <MessageNotEnoughStructureMemes>Вы должны выбрать доктрину структуры.</MessageNotEnoughStructureMemes>
   <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
   <MessageIncompatibleMemes>{0_label} и {1_label} несовместимы друг с другом.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
@@ -85,9 +85,9 @@
   <!-- EN: Cannot remove -->
   <CannotRemove>Не удается удалить</CannotRemove>
   <!-- EN: Cannot remove {MEME} -->
-  <CannotRemoveMemeRequired>Не удается удалить {МЕМ}</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequired>Не удается удалить {MEME}</CannotRemoveMemeRequired>
   <!-- EN: Cannot remove {MEME}: Required by player faction. -->
-  <CannotRemoveMemeRequiredPlayer>Не удается удалить {МЕМ}: Требуется фракцией игрока.</CannotRemoveMemeRequiredPlayer>
+  <CannotRemoveMemeRequiredPlayer>Не удается удалить {MEME}: Требуется фракцией игрока.</CannotRemoveMemeRequiredPlayer>
   <!-- EN: Required by {FACTION_name}. -->
   <RequiredByFaction>Требуется для {FACTION_name}.</RequiredByFaction>
   

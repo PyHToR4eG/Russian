@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: strong -->
-  <GauranlenConnection_Strong.label>сильный</GauranlenConnection_Strong.label>
+  <GauranlenConnection_Strong.label>сильная</GauranlenConnection_Strong.label>
   <!-- EN: We have a special connection with the Gauranlen trees. The trees refocus production easily under our influence, and we are not satisfied unless we have that connection. -->
   <GauranlenConnection_Strong.description>У нас особая связь с деревьями Гауранлен. Деревья легко переориентируют производство под нашим влиянием, и мы не будем удовлетворены, если у нас не будет этой связи.</GauranlenConnection_Strong.description>
   <!-- EN: Gauranlen connection -->
@@ -19,7 +19,7 @@
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Требуется соединение с Гауранленом (минимальное ожидание: Заоблачное)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
   
   <!-- EN: desired -->
-  <Trees_Desired.label>желательный</Trees_Desired.label>
+  <Trees_Desired.label>желательно</Trees_Desired.label>
   <!-- EN: It's essential to live surrounded by beautiful trees. -->
   <Trees_Desired.description>Очень важно жить в окружении красивых деревьев.</Trees_Desired.description>
   <!-- EN: Healthy trees -->

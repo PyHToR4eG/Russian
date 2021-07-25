@@ -37,7 +37,7 @@
   <Cannibalism_Preferred.comps.2.description>Одежда из кожи человека</Cannibalism_Preferred.comps.2.description>
   
   <!-- EN: required (ravenous) -->
-  <Cannibalism_RequiredRavenous.label>требуется (голодный)。</Cannibalism_RequiredRavenous.label>
+  <Cannibalism_RequiredRavenous.label>требуется (ненасытный)</Cannibalism_RequiredRavenous.label>
   <!-- EN: Man-flesh is morality. To eat a meal without it is unthinkable. -->
   <Cannibalism_RequiredRavenous.description>Человеческая плоть - это мораль. Есть еду без этого немыслимо.</Cannibalism_RequiredRavenous.description>
   <!-- EN: No human meat for<x> {HUMANMEATREQUIREDINTERVAL} </x>days -->
@@ -46,7 +46,7 @@
   <Cannibalism_RequiredRavenous.comps.4.description>Одежда из кожи человека</Cannibalism_RequiredRavenous.comps.4.description>
   
   <!-- EN: required (strong) -->
-  <Cannibalism_RequiredStrong.label>требуется (сильный)</Cannibalism_RequiredStrong.label>
+  <Cannibalism_RequiredStrong.label>требуется (сильно)</Cannibalism_RequiredStrong.label>
   <!-- EN: Consuming human flesh is important. It should be in every meal. -->
   <Cannibalism_RequiredStrong.description>Потребление человеческой плоти важно. Это должно быть в каждом приеме пищи.</Cannibalism_RequiredStrong.description>
   <!-- EN: No human meat for<x> {HUMANMEATREQUIREDINTERVAL} </x>days -->

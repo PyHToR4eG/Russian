@@ -24,7 +24,7 @@
   <Execution.tipLabelOverride>публичная казнь</Execution.tipLabelOverride>
   
   <!-- EN: social festival -->
-  <Festival.label>светский фестиваль</Festival.label>
+  <Festival.label>культурный фестиваль</Festival.label>
   <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
   <Festival.description>Праздничное собрание для ваших колонистов, чтобы повеселиться. Лидер произнесет ободряющую речь, после чего все некоторое время будут общаться.</Festival.description>
   

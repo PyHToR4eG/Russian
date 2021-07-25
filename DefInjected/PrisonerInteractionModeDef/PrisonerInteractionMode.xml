@@ -7,12 +7,12 @@
   <Convert.description>Надзиратели попытаются обратить заключенного в свою идеологию.</Convert.description>
   
   <!-- EN: enslave -->
-  <Enslave.label>поработить</Enslave.label>
+  <Enslave.label>порабощение</Enslave.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will. Once they have no will left, the warden will enslave them. -->
   <Enslave.description>Надзиратели будут угрожать заключенному, чтобы ослабить его волю. Как только у них не останется воли, надзиратель порабощает их.</Enslave.description>
   
   <!-- EN: reduce will -->
-  <ReduceWill.label>уменьшить волю</ReduceWill.label>
+  <ReduceWill.label>ослабить волю</ReduceWill.label>
   <!-- EN: Wardens will threaten the prisoner to reduce their will, but won't enslave them. -->
   <ReduceWill.description>Надзиратели будут угрожать заключенному, чтобы ослабить его волю, но не будут порабощать его.</ReduceWill.description>
   

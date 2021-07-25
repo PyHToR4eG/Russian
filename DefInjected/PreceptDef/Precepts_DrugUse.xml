@@ -20,7 +20,7 @@
   <DrugUse_MedicalOrSocial.comps.5.description>Вводить тяжелый наркотик</DrugUse_MedicalOrSocial.comps.5.description>
   
   <!-- EN: prohibited -->
-  <DrugUse_Prohibited.label>запрещенный</DrugUse_Prohibited.label>
+  <DrugUse_Prohibited.label>под запретом</DrugUse_Prohibited.label>
   <!-- EN: The body should absolutely not be poisoned by chemicals. The only exception is the use of medicine in direct medical care. -->
   <DrugUse_Prohibited.description>Организм абсолютно не должен быть отравлен химическими веществами. Единственным исключением является использование лекарств при оказании прямой медицинской помощи.</DrugUse_Prohibited.description>
   <!-- EN: Ingest drug -->

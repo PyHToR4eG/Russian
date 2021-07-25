@@ -21,8 +21,26 @@
     <li>place_foeLeader->crime boss</li>
     <li>place_foeSoldiers->thugs</li>
   -->
-  <!-- EN: TODO -->
-  <AturaStation.placeRules.rulesStrings>TODO</AturaStation.placeRules.rulesStrings>
+  <AturaStation.placeRules.rulesStrings>
+	<li>place_name->Станция Атура</li>
+    <li>place_adjective->Атуранский</li>
+    <li>place_summary->орбитальная верфь</li>
+    <li>place_community->шаттл-док</li>
+    <li>place_community->производственное кольцо</li>
+    <li>place_community->жилое кольцо</li>
+    <li>place_powerCenter->центральная диспетчерская</li>
+    <li>place_job->оператор строительного дрона</li>
+    <li>place_job->менеджер</li>
+    <li>place_job->летчик-испытатель</li>
+    <li>place_job->торговый агент</li>
+    <li>place_job->Техник по 3D-принтерам</li>
+    <li>place_personalWeapon->электрошокер</li>
+    <li>place_personalWeapon->дуговой сварщик</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->беспилотные сварочные аппараты с дистанционным управлением</li>
+    <li>place_foeLeader->криминальный авторитет</li>
+    <li>place_foeSoldiers->головорезы</li>
+  </AturaStation.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Bagua 5</li>
@@ -44,8 +62,26 @@
     <li>place_foeLeader->junk lord</li>
     <li>place_foeSoldiers->metal-heads</li>
   -->
-  <!-- EN: TODO -->
-  <Bagua5.placeRules.rulesStrings>TODO</Bagua5.placeRules.rulesStrings>
+  <Bagua5.placeRules.rulesStrings>
+	<li>place_name->Багуа 5</li>
+    <li>place_adjective->Багуацианский</li>
+    <li>place_summary->планета свалка</li>
+    <li>place_community->укрепленная свалка</li>
+    <li>place_community->завод по переработке дождевой воды</li>
+    <li>place_community->город металлолома</li>
+    <li>place_powerCenter->торговый космопорт</li>
+    <li>place_job->мусорщик</li>
+    <li>place_job->торговец</li>
+    <li>place_job->жестянщик</li>
+    <li>place_job->стража</li>
+    <li>place_job->забияка</li>
+    <li>place_personalWeapon->трубная винтовка</li>
+    <li>place_personalWeapon->лом-меч</li>
+    <li>place_massWeapon->утилизированная ядерная бомба</li>
+    <li>place_massWeapon->вирус ржавчины</li>
+    <li>place_foeLeader->повелитель мусора</li>
+    <li>place_foeSoldiers->металлисты</li>
+  </Bagua5.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Boccocarro</li>
@@ -67,8 +103,26 @@
     <li>place_foeLeader->mine hypervisor</li>
     <li>place_foeSoldiers->abyssal marines</li>
   -->
-  <!-- EN: TODO -->
-  <Boccocarro.placeRules.rulesStrings>TODO</Boccocarro.placeRules.rulesStrings>
+  <Boccocarro.placeRules.rulesStrings>
+	<li>place_name->Боккокарро</li>
+    <li>place_adjective->Бокцинный</li>
+    <li>place_summary->пещерный мир оболочки</li>
+    <li>place_community->наземный туннель</li>
+    <li>place_community->грибная пещера</li>
+    <li>place_community->капельный колодец</li>
+    <li>place_powerCenter->конференц-зал</li>
+    <li>place_job->шахтер</li>
+    <li>place_job->грибник</li>
+    <li>place_job->очиститель поверхности</li>
+    <li>place_job->общественный повар</li>
+    <li>place_job->охотник на лягушек</li>
+    <li>place_personalWeapon->мотыга</li>
+    <li>place_personalWeapon->гидравлический арбалет</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->бомба с черным порохом</li>
+    <li>place_foeLeader->старатель</li>
+    <li>place_foeSoldiers->глубокоземные пехотинцы</li>
+  </Boccocarro.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Chelis</li>
@@ -90,8 +144,26 @@
     <li>place_foeLeader->chief</li>
     <li>place_foeSoldiers->sand-warriors</li>
   -->
-  <!-- EN: TODO -->
-  <Chelis.placeRules.rulesStrings>TODO</Chelis.placeRules.rulesStrings>
+  <Chelis.placeRules.rulesStrings>
+	<li>place_name->Челис</li>
+    <li>place_adjective->Челисный</li>
+    <li>place_summary->засушливый мир</li>
+    <li>place_community->влагозавод</li>
+    <li>place_community->пересохший город</li>
+    <li>place_community->водный центр</li>
+    <li>place_powerCenter->высокий лайфхолл</li>
+    <li>place_job->собиратель воды</li>
+    <li>place_job->охотник на ящериц</li>
+    <li>place_job->искатель оазиса</li>
+    <li>place_job->собиратель кактусов</li>
+    <li>place_job->мусорщик</li>
+    <li>place_personalWeapon->песчаная стрела</li>
+    <li>place_personalWeapon->дубокактус</li>
+    <li>place_massWeapon->песчаная буря, вызванная архотехом</li>
+    <li>place_massWeapon->нашествие шиповников</li>
+    <li>place_foeLeader->шеф</li>
+    <li>place_foeSoldiers->песчаные воины</li>
+  </Chelis.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Creticon</li>
@@ -116,8 +188,29 @@
     <li>place_foeLeader->warlord</li>
     <li>place_foeSoldiers->mercenaries</li>
   -->
-  <!-- EN: TODO -->
-  <Creticon.placeRules.rulesStrings>TODO</Creticon.placeRules.rulesStrings>
+  <Creticon.placeRules.rulesStrings>
+	<li>place_name->Кретикон</li>
+    <li>place_adjective->Кретиконианский</li>
+    <li>place_summary->проклятый мир смерти</li>
+    <li>place_community->бункер</li>
+    <li>place_community->грот</li>
+    <li>place_community->ледяное укрытие</li>
+    <li>place_powerCenter->бункер директора</li>
+    <li>place_job->ремонтник рециркулятора воды</li>
+    <li>place_job->фермер водорослей</li>
+    <li>place_job->врач</li>
+    <li>place_job->учитель</li>
+    <li>place_job->командир ополчения</li>
+    <li>place_job->пилот шаттла</li>
+    <li>place_personalWeapon->автопистолет</li>
+    <li>place_personalWeapon->LMG</li>
+    <li>place_massWeapon->ядерная ракета, установленная на плече</li>
+    <li>place_massWeapon->орбитальная бомбардировка</li>
+    <li>place_massWeapon->химические бомбы</li>
+    <li>place_massWeapon->взломанные механоиды</li>
+    <li>place_foeLeader->военачальник</li>
+    <li>place_foeSoldiers->наемники</li>
+  </Creticon.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Filson</li>
@@ -141,8 +234,28 @@
     <li>place_foeLeader->landowner</li>
     <li>place_foeSoldiers->militia</li>
   -->
-  <!-- EN: TODO -->
-  <Filson.placeRules.rulesStrings>TODO</Filson.placeRules.rulesStrings>
+  <Filson.placeRules.rulesStrings>
+	<li>place_name->Филсон</li>
+    <li>place_adjective->Филсонерный</li>
+    <li>place_summary->мир-ферма</li>
+    <li>place_community->городская ратуша</li>
+    <li>place_community->завод по переработке удобрений</li>
+    <li>place_community->мега-зернохранилище</li>
+    <li>place_community->водозаборный участок</li>
+    <li>place_powerCenter->городская ратуша</li>
+    <li>place_job->батрак</li>
+    <li>place_job->сборщик фруктов</li>
+    <li>place_job->водитель транспорта</li>
+    <li>place_job->школьный учитель</li>
+    <li>place_job->инженер-почвовед</li>
+    <li>place_personalWeapon->винтовка</li>
+    <li>place_personalWeapon->коса</li>
+    <li>place_massWeapon->бомбы с удобрениями</li>
+    <li>place_massWeapon->оружейный распылитель пестицидов</li>
+    <li>place_massWeapon->космическая линза</li>
+    <li>place_foeLeader->землевладелец</li>
+    <li>place_foeSoldiers->ополченецы</li>
+  </Filson.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Ilwaba</li>
@@ -164,8 +277,26 @@
     <li>place_foeLeader->crypto-leader</li>
     <li>place_foeSoldiers->crypto-soldiers</li>
   -->
-  <!-- EN: TODO -->
-  <Ilwaba.placeRules.rulesStrings>TODO</Ilwaba.placeRules.rulesStrings>
+  <Ilwaba.placeRules.rulesStrings>
+	<li>place_name->Илваба</li>
+    <li>place_adjective->Ильвабанный</li>
+    <li>place_summary->возрожденный руинный мир</li>
+    <li>place_community->деревня небоскребов</li>
+    <li>place_community->дорожный торговый пост</li>
+    <li>place_community->взрывной оазис</li>
+    <li>place_powerCenter->дом возрождения</li>
+    <li>place_job->крит-фермер</li>
+    <li>place_job->первопроходец</li>
+    <li>place_job->охотник за артефактами</li>
+    <li>place_job->проходчик туннелей</li>
+    <li>place_job->реставратор артефактов</li>
+    <li>place_personalWeapon->лом-меч</li>
+    <li>place_personalWeapon->зазубренный кинжал</li>
+    <li>place_massWeapon->откопанная ядерная бомба</li>
+    <li>place_massWeapon->древняя отравляющая бомба</li>
+    <li>place_foeLeader->крипто-лидер</li>
+    <li>place_foeSoldiers->крипто-солдаты</li>
+  </Ilwaba.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Iwamura</li>
@@ -188,8 +319,27 @@
     <li>place_foeLeader->mega-corp CEO</li>
     <li>place_foeSoldiers->rent-a-cops</li>
   -->
-  <!-- EN: TODO -->
-  <Iwamura.placeRules.rulesStrings>TODO</Iwamura.placeRules.rulesStrings>
+  <Iwamura.placeRules.rulesStrings>
+	<li>place_name->Ивамура</li>
+    <li>place_adjective->Ивамурянский</li>
+    <li>place_summary->каменный астероид</li>
+    <li>place_community->рыночная капсула</li>
+    <li>place_community->складская капсула</li>
+    <li>place_community->причальный пирс</li>
+    <li>place_powerCenter->вокзал-мост</li>
+    <li>place_job->инженер по жизнеобеспечению</li>
+    <li>place_job->торговец</li>
+    <li>place_job->полетный контроллер</li>
+    <li>place_job->спортсмен невесомости</li>
+    <li>place_job->радиоведущий</li>
+    <li>place_personalWeapon->зарядная винтовка</li>
+    <li>place_personalWeapon->сварочная горелка</li>
+    <li>place_massWeapon->аэрозольный токсин</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeapon->вирус саботажа жизнеобеспечения</li>
+    <li>place_foeLeader->гендир мега-корпорации</li>
+    <li>place_foeSoldiers->наемники корпорации</li>
+  </Iwamura.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Kemia</li>
@@ -212,8 +362,27 @@
     <li>place_foeLeader->poison lord</li>
     <li>place_foeSoldiers->venom-soldiers</li>
   -->
-  <!-- EN: TODO -->
-  <Kemia.placeRules.rulesStrings>TODO</Kemia.placeRules.rulesStrings>
+  <Kemia.placeRules.rulesStrings>
+	<li>place_name->Кемия</li>
+    <li>place_adjective->Кемианский</li>
+    <li>place_summary->токсичный мир войны</li>
+    <li>place_community->трущобы</li>
+    <li>place_community->туннельная колония</li>
+    <li>place_community->подземный город</li>
+    <li>place_powerCenter->городской лордхаус</li>
+    <li>place_job->дворник</li>
+    <li>place_job->инженер по очистке</li>
+    <li>place_job->фермер по производству белка</li>
+    <li>place_job->таксист</li>
+    <li>place_job->конструктор оружия</li>
+    <li>place_personalWeapon->газовая бомба</li>
+    <li>place_personalWeapon->токсичный огнемет</li>
+    <li>place_massWeapon->ядерные грязные бомбы</li>
+    <li>place_massWeapon->биоинженерная чума</li>
+    <li>place_massWeapon->проникающие токсичные бомбы</li>
+    <li>place_foeLeader->повелитель ядов</li>
+    <li>place_foeSoldiers->ядовитые солдаты</li>
+  </Kemia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Lutuni</li>
@@ -235,8 +404,26 @@
     <li>place_foeLeader->entertainment mogul</li>
     <li>place_foeSoldiers->enforcers</li>
   -->
-  <!-- EN: TODO -->
-  <Lutuni.placeRules.rulesStrings>TODO</Lutuni.placeRules.rulesStrings>
+  <Lutuni.placeRules.rulesStrings>
+	<li>place_name->Лутуни</li>
+    <li>place_adjective->Лутунийный</li>
+    <li>place_summary->тропический рай</li>
+    <li>place_community->клиника аугментации</li>
+    <li>place_community->гипер-яхта</li>
+    <li>place_community->стадион невесомости</li>
+    <li>place_powerCenter->комплекс космического лифта</li>
+    <li>place_job->гид</li>
+    <li>place_job->актер невесомости</li>
+    <li>place_job->распространитель люциферия</li>
+    <li>place_job->виртуальная знаменитость</li>
+    <li>place_job->пилот шаттла</li>
+    <li>place_personalWeapon->вибронож</li>
+    <li>place_personalWeapon->зарядный пистолет</li>
+    <li>place_massWeapon->бактерия структурной дезинтеграции</li>
+    <li>place_massWeapon->целеуказатель для орбитальной бомбардировки</li>
+    <li>place_foeLeader->король удовольствий</li>
+    <li>place_foeSoldiers->блюстители</li>
+  </Lutuni.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Novaroma</li>
@@ -260,8 +447,28 @@
     <li>place_foeLeader->high-underlord</li>
     <li>place_foeSoldiers->undertroops</li>
   -->
-  <!-- EN: TODO -->
-  <Novaroma.placeRules.rulesStrings>TODO</Novaroma.placeRules.rulesStrings>
+  <Novaroma.placeRules.rulesStrings>
+	<li>place_name->Новарома</li>
+    <li>place_adjective->Новароманский</li>
+    <li>place_summary->планетоид</li>
+    <li>place_community->министерство пропусков</li>
+    <li>place_community->закрытый пригород</li>
+    <li>place_community->небесный город</li>
+    <li>place_community->подземный город</li>
+    <li>place_powerCenter->megacity overhall</li>
+    <li>place_job->клерк</li>
+    <li>place_job->госслужащий</li>
+    <li>place_job->доставщик еды</li>
+    <li>place_job->таксист</li>
+    <li>place_job->оптовик</li>
+    <li>place_personalWeapon->револьвер</li>
+    <li>place_personalWeapon->нож</li>
+    <li>place_massWeapon->[seismicDevice]</li>
+    <li>place_massWeapon->кассетные бомбы</li>
+    <li>place_massWeapon->ядерный чемодан-бомба</li>
+    <li>place_foeLeader->верховный лорд</li>
+    <li>place_foeSoldiers->подчиненные</li>
+  </Novaroma.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Nuchadus</li>
@@ -282,8 +489,25 @@
     <li>place_foeLeader->lava lord</li>
     <li>place_foeSoldiers->stygian soldiers</li>
   -->
-  <!-- EN: TODO -->
-  <Nuchadus.placeRules.rulesStrings>TODO</Nuchadus.placeRules.rulesStrings>
+  <Nuchadus.placeRules.rulesStrings>
+	<li>place_name->Нухадус</li>
+    <li>place_adjective->Нучадианский</li>
+    <li>place_summary->мрачный вулкан-мир</li>
+    <li>place_community->базальтовый остров</li>
+    <li>place_community->озерный город</li>
+    <li>place_community->деревня дирижаблей</li>
+    <li>place_powerCenter->термальная крепость</li>
+    <li>place_job->сейсмолог</li>
+    <li>place_job->фермер лавовых улиток</li>
+    <li>place_job->ремонтник танковых гусениц</li>
+    <li>place_job->воздушный разведчик</li>
+    <li>place_personalWeapon->обсидиановый кинжал</li>
+    <li>place_personalWeapon->гарпунная винтовка</li>
+    <li>place_massWeapon->извержение вулкана, вызванное архитехами</li>
+    <li>place_massWeapon->химическая бомба</li>
+    <li>place_foeLeader->повелитель лавы</li>
+    <li>place_foeSoldiers->адские солдаты</li>
+  </Nuchadus.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Oubanyen</li>
@@ -305,8 +529,26 @@
     <li>place_foeLeader->tree-harvester</li>
     <li>place_foeSoldiers->henchmen</li>
   -->
-  <!-- EN: TODO -->
-  <Oubanyen.placeRules.rulesStrings>TODO</Oubanyen.placeRules.rulesStrings>
+  <Oubanyen.placeRules.rulesStrings>
+	<li>place_name->Убаньен</li>
+    <li>place_adjective->Убаньенный</li>
+    <li>place_summary->жаркий мир джунглей</li>
+    <li>place_community->деревня на вершине дерева</li>
+    <li>place_community->пещера шамана</li>
+    <li>place_community->зиккурат на вершине холма</li>
+    <li>place_powerCenter->городской храм</li>
+    <li>place_job->шаман</li>
+    <li>place_job->охотник</li>
+    <li>place_job->рыбак</li>
+    <li>place_job->собиратель</li>
+    <li>place_job->пастух</li>
+    <li>place_personalWeapon->пила</li>
+    <li>place_personalWeapon->иква</li>
+    <li>place_massWeapon->смертоносный дрон-экстрасенс</li>
+    <li>place_massWeapon->нейротоксиновая бомба</li>
+    <li>place_foeLeader->древожнец</li>
+    <li>place_foeSoldiers->приспешники</li>
+  </Oubanyen.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rhydell</li>
@@ -328,8 +570,26 @@
     <li>place_foeLeader->deepcorp executive</li>
     <li>place_foeSoldiers->deepcorp enforcers</li>
   -->
-  <!-- EN: TODO -->
-  <Rhydell.placeRules.rulesStrings>TODO</Rhydell.placeRules.rulesStrings>
+  <Rhydell.placeRules.rulesStrings>
+	<li>place_name->Райделл</li>
+    <li>place_adjective->Райделлийский</li>
+    <li>place_summary->дикая лесная луна</li>
+    <li>place_community->переоборудованный десантный корабль</li>
+    <li>place_community->незазищенный лагерь</li>
+    <li>place_community->центр связи</li>
+    <li>place_powerCenter->бронированная среда обитания</li>
+    <li>place_job->ботаник-пограничник</li>
+    <li>place_job->охотник за трофеями</li>
+    <li>place_job->медик</li>
+    <li>place_job->лагерный повар</li>
+    <li>place_job->инженер биолаборатории</li>
+    <li>place_personalWeapon->снайперская винтовка</li>
+    <li>place_personalWeapon->мачете</li>
+    <li>place_massWeapon->нейротоксиновый газ растительного происхождения</li>
+    <li>place_massWeapon->орбитальный лазерный удар</li>
+    <li>place_foeLeader->управляющий deepcorp</li>
+    <li>place_foeSoldiers->сотрудники deepcorp</li>
+  </Rhydell.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rogia</li>
@@ -352,8 +612,27 @@
     <li>place_foeLeader->corrupt bureaucrat</li>
     <li>place_foeSoldiers->bionic guards</li>
   -->
-  <!-- EN: TODO -->
-  <Rogia.placeRules.rulesStrings>TODO</Rogia.placeRules.rulesStrings>
+  <Rogia.placeRules.rulesStrings>
+	<li>place_name->Рогия</li>
+    <li>place_adjective->Рогийный</li>
+    <li>place_summary->мир высоких технологий</li>
+    <li>place_community->медицинский институт</li>
+    <li>place_community->космический лифт</li>
+    <li>place_community->фабрика робототехники</li>
+    <li>place_powerCenter->планетарный капитолий</li>
+    <li>place_job->курсант звездных сил</li>
+    <li>place_job->фермер-ремесленник</li>
+    <li>place_job->вундеркинд в соцсетях</li>
+    <li>place_job->спортсмен невесомости</li>
+    <li>place_job->контрабандист высоких технологий</li>
+    <li>place_personalWeapon->зарядное копье</li>
+    <li>place_personalWeapon->персональный меч</li>
+    <li>place_massWeapon->боеголовки из антивещества</li>
+    <li>place_massWeapon->вооруженный компьютерный вирус</li>
+    <li>place_massWeapon->рабочие-механоиды с дистанционным управлением</li>
+    <li>place_foeLeader->коррумпированный бюрократ</li>
+    <li>place_foeSoldiers->бионические охранники</li>
+  </Rogia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Wavia</li>
@@ -377,8 +656,28 @@
     <li>seaBeast->deep-kraken</li>
     <li>seaBeast->Wavian leviathan</li>
   -->
-  <!-- EN: TODO -->
-  <Wavia.placeRules.rulesStrings>TODO</Wavia.placeRules.rulesStrings>
+  <Wavia.placeRules.rulesStrings>
+	<li>place_name->Вавия</li>
+    <li>place_adjective->Вавийный</li>
+    <li>place_summary->планета океан</li>
+    <li>place_community->торговый атолл</li>
+    <li>place_community->плавучая деревня</li>
+    <li>place_community->завод по переработке морских водорослей</li>
+    <li>place_powerCenter->капитолийский мост</li>
+    <li>place_job->рыбак</li>
+    <li>place_job->ловец жемчуга</li>
+    <li>place_job->производитель парусов</li>
+    <li>place_job->капитан</li>
+    <li>place_job->собиратель морской травы</li>
+    <li>place_personalWeapon->гарпун</li>
+    <li>place_personalWeapon->колючая сетка</li>
+    <li>place_massWeapon->торпеда высокой мощности</li>
+    <li>place_massWeapon->приманка [seaBeast]</li>
+    <li>place_foeLeader->адмирал китобоев</li>
+    <li>place_foeSoldiers->китобойные пехотинцы</li>
+    <li>seaBeast->глубоководный кракен</li>
+    <li>seaBeast->Вавианский левиафан</li>
+  </Wavia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Xanides</li>
@@ -400,8 +699,26 @@
     <li>place_foeLeader->mine-corp boss</li>
     <li>place_foeSoldiers->mine-corp troops</li>
   -->
-  <!-- EN: TODO -->
-  <Xanides.placeRules.rulesStrings>TODO</Xanides.placeRules.rulesStrings>
+  <Xanides.placeRules.rulesStrings>
+	<li>place_name->Ксаниды</li>
+    <li>place_adjective->Ксанидский</li>
+    <li>place_summary->эксплуатируемая минеральная планета</li>
+    <li>place_community->открытый карьер</li>
+    <li>place_community->рудный завод</li>
+    <li>place_community->кафетерий с питательной пастой</li>
+    <li>place_powerCenter->кислородное депо</li>
+    <li>place_job->шахтер</li>
+    <li>place_job->руководитель</li>
+    <li>place_job->техник</li>
+    <li>place_job->механик</li>
+    <li>place_job->инженер по жизнеобеспечению</li>
+    <li>place_personalWeapon->электродубинка</li>
+    <li>place_personalWeapon->автопистолет</li>
+    <li>place_massWeapon->взрывные заряды</li>
+    <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_foeLeader->босс шахта-корп</li>
+    <li>place_foeSoldiers->спецназ шахта-корп</li>
+  </Xanides.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Yttak</li>
@@ -423,8 +740,26 @@
     <li>place_foeLeader->prison warden</li>
     <li>place_foeSoldiers->corrupt guards</li>
   -->
-  <!-- EN: TODO -->
-  <Yttak.placeRules.rulesStrings>TODO</Yttak.placeRules.rulesStrings>
+  <Yttak.placeRules.rulesStrings>
+	<li>place_name->Иттак</li>
+    <li>place_adjective->Иттакий</li>
+    <li>place_summary->тюрьма ледяной луны</li>
+    <li>place_community->обеденный зал</li>
+    <li>place_community->казармы охраны</li>
+    <li>place_community->центр заключения</li>
+    <li>place_powerCenter->офисный комплекс начальника тюрьмы</li>
+    <li>place_job->задержанный</li>
+    <li>place_job->охрана</li>
+    <li>place_job->беглец</li>
+    <li>place_job->рабочий по обслуживанию</li>
+    <li>place_job->водитель транспортного средства</li>
+    <li>place_personalWeapon->заточка</li>
+    <li>place_personalWeapon->SMG</li>
+    <li>place_massWeapon->самодельная химическая бомба</li>
+    <li>place_massWeapon->орбитальный лазерный удар</li>
+    <li>place_foeLeader->тюремный надзиратель</li>
+    <li>place_foeSoldiers->продажные охранники</li>
+  </Yttak.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Zoutera</li>
@@ -448,7 +783,27 @@
     <li>megaFauna->blue mammoths</li>
     <li>megaFauna->novoraptors</li>
   -->
-  <!-- EN: TODO -->
-  <Zoutera.placeRules.rulesStrings>TODO</Zoutera.placeRules.rulesStrings>
+  <Zoutera.placeRules.rulesStrings>
+	<li>place_name->Зутера</li>
+    <li>place_adjective->Зутерный</li>
+    <li>place_summary->заросший диномир</li>
+    <li>place_community->торговый аванпост</li>
+    <li>place_community->палаточный городок</li>
+    <li>place_community->могильник мамонта</li>
+    <li>place_powerCenter->форт на вершине холма</li>
+    <li>place_job->дино-наездник</li>
+    <li>place_job->муффало-пастух</li>
+    <li>place_job->охотник</li>
+    <li>place_job->производитель жесткой кожи</li>
+    <li>place_personalWeapon->бамбуковый посох</li>
+    <li>place_personalWeapon->взрывные стрелы</li>
+    <li>place_massWeapon->нашествие стада [megaFauna]</li>
+    <li>place_massWeapon->бомба с удобрениями</li>
+    <li>place_foeLeader->бивень-король</li>
+    <li>place_foeSoldiers->бивни-воины</li>
+    <li>megaFauna->анкилозавров</li>
+    <li>megaFauna->голубых мамонтов</li>
+    <li>megaFauna->новорапторов</li>
+  </Zoutera.placeRules.rulesStrings>
   
 </LanguageData>

@@ -134,9 +134,9 @@
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->
-  <LetterLabelSpacedroneIncoming>Космодрон приближается</LetterLabelSpacedroneIncoming>
+  <LetterLabelSpacedroneIncoming>Дрон приближается</LetterLabelSpacedroneIncoming>
   <!-- EN: A spacedrone is landing nearby. -->
-  <LetterTextSpacedroneIncoming>Неподалеку приземляется космодрон.</LetterTextSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>Неподалеку приземляется дрон.</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
   <LetterTextRaidSpacedrone>Рейд из {0} прибыл, чтобы уничтожить {1}, который был вынужден приземлиться поблизости.</LetterTextRaidSpacedrone>
 

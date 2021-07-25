@@ -17,7 +17,7 @@
   <MarriageName_KeepNames.description>Оба партнера сохраняют свои фамилии при вступлении в брак.</MarriageName_KeepNames.description>
   
   <!-- EN: random -->
-  <MarriageName_Random.label>случайный</MarriageName_Random.label>
+  <MarriageName_Random.label>случайная</MarriageName_Random.label>
   <!-- EN: Couples randomly choose whether to share a name, and which name to share. -->
   <MarriageName_Random.description>Пары случайным образом выбирают, следует ли делиться фамилией и какой фамилией делиться.</MarriageName_Random.description>
   

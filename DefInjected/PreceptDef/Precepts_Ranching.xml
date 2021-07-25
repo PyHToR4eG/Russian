@@ -16,7 +16,7 @@
   <!-- EN: Lots of animals<x> {STAGE5}</x> -->
   <Ranching_Central.comps.0.thoughtStageDescriptions.4>Много животных {STAGE5}</Ranching_Central.comps.0.thoughtStageDescriptions.4>
   <!-- EN: Tons of animals -->
-  <Ranching_Central.comps.0.thoughtStageDescriptions.5>Тонны животных</Ranching_Central.comps.0.thoughtStageDescriptions.5>
+  <Ranching_Central.comps.0.thoughtStageDescriptions.5>Масса животных</Ranching_Central.comps.0.thoughtStageDescriptions.5>
   <!-- EN: No slaughter for<x> {ANIMALSLAUGHTERREQUIREDINTERVAL} </x>days -->
   <Ranching_Central.comps.2.description> {ANIMALSLAUGHTERREQUIREDINTERVAL} дней без забоя.</Ranching_Central.comps.2.description>
   

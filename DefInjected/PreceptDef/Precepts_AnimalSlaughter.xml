@@ -16,7 +16,7 @@
   <AnimalSlaughter_Horrible.comps.1.description>Кто-то зарезал животное</AnimalSlaughter_Horrible.comps.1.description>
   
   <!-- EN: prohibited -->
-  <AnimalSlaughter_Prohibited.label>запрещенный</AnimalSlaughter_Prohibited.label>
+  <AnimalSlaughter_Prohibited.label>под запретом</AnimalSlaughter_Prohibited.label>
   <!-- EN: Slaughtering animals is absolutely prohibited. -->
   <AnimalSlaughter_Prohibited.description>Забой животных категорически запрещен.</AnimalSlaughter_Prohibited.description>
   <!-- EN: Someone slaughtered an animal -->

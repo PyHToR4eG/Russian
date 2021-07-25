@@ -11,19 +11,19 @@
   <!-- EN: No auto-use -->
   <CommandNeuralSuperchargerNoAutoUse>Без автоматического использования</CommandNeuralSuperchargerNoAutoUse>
   <!-- EN: None of your people will use this neural supercharger automatically. -->
-  <CommandNeuralSuperchargerNoAutoUseDescription>Никто из ваших людей не будет использовать этот нейронный нагнетатель автоматически.</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerNoAutoUseDescription>Никто из ваших людей не будет использовать этот нейронный ускоритель автоматически.</CommandNeuralSuperchargerNoAutoUseDescription>
   <!-- EN: Auto-use with desire -->
   <CommandNeuralSuperchargerAutoUseWithDesire>Автоматическое использование по желанию</CommandNeuralSuperchargerAutoUseWithDesire>
   <!-- EN: Your people may use this neural supercharger automatically, if they want to because of their beliefs. -->
-  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Ваши люди могут использовать этот нейронный нагнетатель автоматически, если захотят, в силу своих убеждений.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>Ваши люди могут использовать этот нейронный ускоритель автоматически, если захотят, в силу своих убеждений.</CommandNeuralSuperchargerAutoUseWithDesireDescription>
   <!-- EN: Auto-use for everyone -->
   <CommandNeuralSuperchargerAutoForEveryone>Автоматическое использование для всех</CommandNeuralSuperchargerAutoForEveryone>
   <!-- EN: All of your people will use this neural supercharger if they get the chance. -->
-  <CommandNeuralSuperchargerAutoForEveryoneDescription>Все ваши люди будут использовать этот нейронный нагнетатель, если у них будет такая возможность.</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>Все ваши люди будут использовать этот нейронный ускоритель, если у них будет такая возможность.</CommandNeuralSuperchargerAutoForEveryoneDescription>
   <!-- EN: Allow guests -->
   <CommandNeuralSuperchargerAllowGuests>Разрешить гостям</CommandNeuralSuperchargerAllowGuests>
   <!-- EN: Allow this neural supercharger to be used by temporary faction members. -->
-  <CommandNeuralSuperchargerAllowGuestsDescription>Разрешите использовать этот нейронный нагнетатель временными членами фракции.</CommandNeuralSuperchargerAllowGuestsDescription>
+  <CommandNeuralSuperchargerAllowGuestsDescription>Разрешите использовать этот нейронный ускоритель временными членами фракции.</CommandNeuralSuperchargerAllowGuestsDescription>
 
   <!-- EN: Select connected tree -->
   <CommandSelectConnectedTree>Выбрать связанное дерево</CommandSelectConnectedTree>

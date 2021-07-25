@@ -10,9 +10,9 @@
   <StatsReport_OccupiedCorpseCasket>Содержит труп</StatsReport_OccupiedCorpseCasket>
 
   <!-- EN: Conversion power bonus on map -->
-  <StatsReport_InstalledRelicConvertPowerFactor>Бонус мощности преобразования на карте</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_InstalledRelicConvertPowerFactor>Бонус силы обращения на карте</StatsReport_InstalledRelicConvertPowerFactor>
   <!-- EN: Mood bonus for rituals in room -->
-  <StatsReport_RelicAtRitualMoodBonus>Бонус за настроение для ритуалов в комнате</StatsReport_RelicAtRitualMoodBonus>
+  <StatsReport_RelicAtRitualMoodBonus>Бонус настроение для ритуалов в комнате</StatsReport_RelicAtRitualMoodBonus>
 
   <!-- EN: Relic of -->
   <Stat_Thing_RelicOf_Name>Реликвия</Stat_Thing_RelicOf_Name>
@@ -25,15 +25,15 @@
   <Stat_Thing_RelatedToIdeos_Desc>Идеологии, к которым принадлежит эта вещь.</Stat_Thing_RelatedToIdeos_Desc>
 
   <!-- EN: Holding relic -->
-  <StatsReports_HasRelic>Удержание реликвии</StatsReports_HasRelic>
+  <StatsReports_HasRelic>Имеет реликвию</StatsReports_HasRelic>
 
   <!-- EN: Blind bonus -->
-  <StatsReport_BlindPsychicSensitivityOffset>Слепой бонус</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_BlindPsychicSensitivityOffset>Бонус за слепоту</StatsReport_BlindPsychicSensitivityOffset>
   <!-- EN: Sight bonus -->
   <StatsReport_SightPsychicSensitivityOffset>Бонус за зрение</StatsReport_SightPsychicSensitivityOffset>
 
   <!-- EN: Dominating style -->
-  <Stat_Thing_StyleDominanceCategory>Доминирующий стиль</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategory>Основной стиль</Stat_Thing_StyleDominanceCategory>
   <!-- EN: The style presented by this object. This style may be associated with some ideoligions. Different people respond differently to certain styles, according to their ideoligious beliefs. -->
   <Stat_Thing_StyleDominanceCategoryDesc>Стиль, представленный этим объектом. Этот стиль может быть связан с некоторыми идеологиями. Разные люди по-разному реагируют на определенные стили в соответствии со своими идеологическими убеждениями.</Stat_Thing_StyleDominanceCategoryDesc>
   <!-- EN: Satisfies ideoligions -->

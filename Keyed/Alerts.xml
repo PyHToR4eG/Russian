@@ -2,9 +2,9 @@
 <LanguageData>
 
   <!-- EN: Need slave beds -->
-  <NeedSlaveBeds>Нужны рабские кровати</NeedSlaveBeds>
+  <NeedSlaveBeds>Нужны кровати ля рабов</NeedSlaveBeds>
   <!-- EN: You have more slaves than you have slave beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a colonist or prisoner bed to a slave bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedSlaveBedsDesc>У вас больше рабов, чем рабских кроватей. Кому-то будет не хватать места для сна.\n\nЛибо сделайте больше кроватей, либо замените кровать колониста или заключенного на кровать раба.\n\nЕсли у вас нет ресурсов, спальные места бесплатны и могут быть размещены мгновенно.</NeedSlaveBedsDesc>
+  <NeedSlaveBedsDesc>У вас больше рабов, чем кроватей для рабов. Кому-то будет не хватать места для сна.\n\nЛибо сделайте больше кроватей, либо замените кровать колониста или заключенного на кровать раба.\n\nЕсли у вас нет ресурсов, спальные места бесплатны и могут быть размещены мгновенно.</NeedSlaveBedsDesc>
 
   <!-- EN: Slave unsuppressed -->
   <SlavesUnsuppressedLabel>Раб не подавлен</SlavesUnsuppressedLabel>
@@ -24,68 +24,68 @@
   <!-- EN: {0} days: Ritual opportunity ends. -->
   <RitualExpirationTime>{0} дней: Ритуальная возможность заканчивается.</RitualExpirationTime>
   <!-- EN: Expires in -->
-  <RitualExpiresIn>Истекает в</RitualExpiresIn>
+  <RitualExpiresIn>Истекает через</RitualExpiresIn>
   <!-- EN: Completing {RITUAL_labelDef} will have these effects -->
-  <RitualCompletionEffects>Завершение {RITUAL_labelDef} будет иметь эти последствия</RitualCompletionEffects>
+  <RitualCompletionEffects>Завершение {RITUAL_labelDef} будет иметь эти последствия </RitualCompletionEffects>
   <!-- EN: To begin the ritual, select a focus object and click the 'Begin {RITUAL_label}' command. The following are valid focus objects:\n{1} -->
-  <RitualTargetsExplanation>Чтобы начать ритуал, выберите объект и нажмите кнопку 'Начать {RITUAL_label}' команду. Ниже приведены допустимые объекты:\n{1}</RitualTargetsExplanation>
+  <RitualTargetsExplanation>Чтобы начать ритуал, выберите объект и нажмите кнопку 'Начать {RITUAL_label}' команду. Ниже приведены доступные объекты:\n{1}</RitualTargetsExplanation>
   <!-- EN: Following roles have a part in {RITUAL_label}:\n{1} -->
   <RitualRolesExplanation>Следующие роли играют определенную роль в {RITUAL_label}:\n{1}</RitualRolesExplanation>
   <!-- EN: Click to jump to targets -->
   <RitualJumpToTargets>Нажмите, чтобы перейти к целям</RitualJumpToTargets>
   <!-- EN: Delaying {RITUAL_labelDef} will have following effects -->
-  <RitualObligationDelayEffects>Задержка {RITUAL_labelDef} будут иметь следующие последствия</RitualObligationDelayEffects>
+  <RitualObligationDelayEffects>Задержка {RITUAL_labelDef} будут иметь следующие последствия </RitualObligationDelayEffects>
   <!-- EN: {0} days: {1} mood on all {2}s. -->
-  <RitualObligationDelayEffectDesc>{0} дней: {1} настроение на всех {2}s.</RitualObligationDelayEffectDesc>
+  <RitualObligationDelayEffectDesc>{0} дней: {1} настроение на всех {2}.</RitualObligationDelayEffectDesc>
   <!-- EN: In order to perform {0} you need to fill these roles -->
-  <RitualUnfilledRoles>Для того, чтобы выполнить {0} вам нужно заполнить эти роли</RitualUnfilledRoles>
+  <RitualUnfilledRoles>Для того, чтобы выполнить {0} вам нужно заполнить эти роли </RitualUnfilledRoles>
 
   <!-- EN: {0} desired -->
   <IdeoBuildingMissing>{0} необходим</IdeoBuildingMissing>
   <!-- EN: {1} requires that you have a {0} in your colony as long as {2} or higher.{4}\n\nIf the requirement isn't met, these believers will become unhappy:\n{3} -->
   <IdeoBuildingMissingDesc>{1} требуется, чтобы у вас был {0} в вашей колонии до тех пор, пока {2} или больше.{4}\n\nЕсли это требование не будет выполнено, эти верующие станут несчастными:\n{3}</IdeoBuildingMissingDesc>
   <!-- EN: In order to dignify {0}, these room requirements must be met -->
-  <IdeoBuildingRoomRequirementsDesc>Для того, чтобы достойно {0}, эти требования к помещению должны быть выполнены</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingRoomRequirementsDesc>Для того, чтобы достойно {0}, эти требования к комнате должны быть выполнены </IdeoBuildingRoomRequirementsDesc>
   <!-- EN: expectations are -->
   <IdeoBuildingExpectations>ожидания таковы</IdeoBuildingExpectations>
 
   <!-- EN: {0} disrespected -->
   <IdeoBuildingDisrespected>{0} неуважительно</IdeoBuildingDisrespected>
   <!-- EN: {0} requires that {1} be in a dignified room. These room requirements must be met:\n{2}\n\nIf the {1}'s room requirements are not met, these believers will become unhappy:\n{3} -->
-  <IdeoBuildingDisrespectedDesc>{0} требует, чтобы {1} находился в достойной комнате. Эти требования к помещению должны быть выполнены:\n{2}\n\nЕсли {1}'s если требования к помещению не будут выполнены, эти верующие станут несчастными:\n{3}</IdeoBuildingDisrespectedDesc>
+  <IdeoBuildingDisrespectedDesc>{0} требует, чтобы {1} находился в достойной комнате. Эти требования к комнате должны быть выполнены:\n{2}\n\nЕсли {1}'s если требования к помещению не будут выполнены, эти верующие станут несчастными:\n{3}</IdeoBuildingDisrespectedDesc>
   
   <!-- EN: Raids arriving in {0} -->
-  <QuestPartRaidsDelay>Рейды прибудут через {0}</QuestPartRaidsDelay>
+  <QuestPartRaidsDelay>Рейд начнется через {0}</QuestPartRaidsDelay>
   <!-- EN: Raids will start arriving in {0}.\n\nThe raiders will target the spacedrone and attempt to destroy it. Protect the spacedrone so your colonists can hack its computer and retrieve the data. -->
-  <QuestPartRaidsDelayDesc>Рейды прибудут через {0}.\n\nРейдеры нацелятся на космодрон и попытаются уничтожить его. Защитите космодрон, чтобы ваши колонисты могли взломать его компьютер и получить данные.</QuestPartRaidsDelayDesc>
+  <QuestPartRaidsDelayDesc>Рейд начнется через {0}.\n\nРейдеры нацелятся на дрона и попытаются уничтожить его. Защитите дрона, чтобы ваши колонисты могли взломать его компьютер и получить данные.</QuestPartRaidsDelayDesc>
 
   <!-- EN: {0} role unfilled -->
   <IdeoRoleEmpty>{0} незаполненная роль</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>{0} незаполненные роли</IdeoRolesEmpty>
   <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>Эти роли не заполнены:\n{0}\n\nВы можете назначить кому-то роль на его вкладке "Социум".\n\nЕсли эти роли останутся пустыми, следующие люди будут недовольны</IdeoRolesEmptyDesc>
+  <IdeoRolesEmptyDesc>Эти роли не назначены:\n{0}\n\nВы можете назначить кому-то роль на его вкладке "Социум".\n\nЕсли эти роли останутся пустыми, следующие люди будут недовольны</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
-  <AncientAltarThreatsWaking>Угрозы безопасности активируются через {0}</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWaking>Защитные меры активируются  через {0}</AncientAltarThreatsWaking>
   <!-- EN: Security threats will activate in {0}. They will attack any who may threaten the relic. -->
-  <AncientAltarThreatsWakingDesc>Угрозы безопасности активируются через {0}. Они нападут на любого, кто может угрожать реликвии.</AncientAltarThreatsWakingDesc>
+  <AncientAltarThreatsWakingDesc>Защитные меры активируются через {0}. Они атакуют любого, кто угрожает реликвии.</AncientAltarThreatsWakingDesc>
 
   <!-- EN: No recent slaughter -->
-  <AlertNoRecentSlaughter>Никакой недавней резни</AlertNoRecentSlaughter>
+  <AlertNoRecentSlaughter>Давно не было убоя</AlertNoRecentSlaughter>
   <!-- EN: No large {0} animal has been slaughtered recently. This is a requirement of the following ideoligions -->
-  <AlertNoRecentSlaughterDesc>Не более {0} животных недавно было убито. Это требование преследуемой идеологии</AlertNoRecentSlaughterDesc>
+  <AlertNoRecentSlaughterDesc>Не более {0} животных недавно было убито. Это требование следующей идеологии</AlertNoRecentSlaughterDesc>
   <!-- EN: {0} body size or above -->
   <BodySizeOrAbove>{0} размер тела или более</BodySizeOrAbove>
   <!-- EN: If no slaughter is performed, these colonists will remain unhappy -->
-  <AlertNoRecentSlaughterDescPost>Если не будет произведена резня, эти колонисты останутся недовольны</AlertNoRecentSlaughterDescPost>
+  <AlertNoRecentSlaughterDescPost>Если не будет произведен убой, эти колонисты останутся недовольны</AlertNoRecentSlaughterDescPost>
   
   <!-- EN: Ritual opportunity soon -->
-  <AlertRitualComing>Возможность ритуала в ближайшее время</AlertRitualComing>
+  <AlertRitualComing>Возможен ритуал в ближайшее время</AlertRitualComing>
   <!-- EN: A ritual opportunity is coming soon for following rituals -->
-  <AlertRitualComingDesc>Скоро появится ритуальная возможность для проведения следующих ритуалов</AlertRitualComingDesc>
+  <AlertRitualComingDesc>Скоро появится возможность для проведения следующих ритуалов</AlertRitualComingDesc>
   <!-- EN: Opportunities expire after {0} days, and reoccur on the same day each year. -->
-  <AlertRitualComingExtra>Возможности истекают после {0} дней, и повторяются каждый год в один и тот же день.</AlertRitualComingExtra>
+  <AlertRitualComingExtra>Возможность истекает после {0} дней, и повторяются каждый год в один и тот же день.</AlertRitualComingExtra>
   <!-- EN: {0} on {1}, {2} left -->
   <AlertRitualComingEntry>{0} из {1}, {2} осталось</AlertRitualComingEntry>
 
@@ -94,33 +94,33 @@
   <!-- EN: Because of their beliefs, some of your colonists demand regular age reversal treatments in a biosculpter pod. If they don't get the treatments, they will be displeased.\n\nThe following people demand age reversal treatment -->
   <AlertAgeReversalDemandDesc>Из-за своих убеждений некоторые из ваших колонистов требуют регулярного лечения омоложения в капсуле биоскульптора. Если они не получат лечения, они будут недовольны.\n\nСледующие люди требуют лечения омоложения</AlertAgeReversalDemandDesc>
   <!-- EN: {PAWN} joined {FACTION} recently, and wants to begin age reversal treatments in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Recruit>{PAWN} присоединился к {FACTION} недавно, и хочет начать лечение омоложения в {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} присоединился к {FACTION} недавно, и хочет начать лечение омоложения в течении {DURATION}.</AlertAgeReversalDemandDesc_Recruit>
   <!-- EN: {PAWN} wants their next treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Next>{PAWN} хочет, чтобы их следующее лечение проходило в {DURATION}.</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} хочет следующее лечение в течении {DURATION}.</AlertAgeReversalDemandDesc_Next>
   <!-- EN: {PAWN} wants their first treatment in {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Initial>{PAWN} хочет, чтобы их первое лечение в {DURATION}.</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} хочет первое лечение в течении {DURATION}.</AlertAgeReversalDemandDesc_Initial>
   <!-- EN: {PAWN}'s treatment is overdue by {DURATION}. -->
-  <AlertAgeReversalDemandDesc_Overdue>{PAWN}'s лечение просрочено {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
+  <AlertAgeReversalDemandDesc_Overdue>Лечение {PAWN} просрочено на {DURATION}.</AlertAgeReversalDemandDesc_Overdue>
 
   <!-- EN: {PAWN_nameDef}'s belief in {IDEO_name} prevents {PAWN_objective} from eating the meat of {ANIMALS}. -->
-  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef}'s вера в {IDEO_name} предотвращает {PAWN_objective} от употребления в пищу мяса {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef} вера в {IDEO_name} запрещает {PAWN_objective} употребление в пищу мяса {ANIMALS}.</AlertRoyalTitleNoVeneratedAnimalMeat>
 
   <!-- EN: Dryad caste not set -->
   <AlertGauranlenTreeWithoutDryadTypeLabel>Каста дриад не установлена</AlertGauranlenTreeWithoutDryadTypeLabel>
   <!-- EN: One or more Gauranlen trees do not have their dryad caste set.\n\nSelect the tree and click the '{0}' button to set produced dryad caste. -->
   <AlertGauranlenTreeWithoutDryadTypeDesc>Одно или несколько деревьев Гауранлена не имеют своей касты дриад.\n\nВыберите дерево и нажмите на '{0}' кнопку для установки касты дриад.</AlertGauranlenTreeWithoutDryadTypeDesc>
   <!-- EN: Connector not assigned to plant cutting -->
-  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Соединитель не предназначен для обрезки растений</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>Соединитель не назначен для обрезки растений</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
   <!-- EN: You have Gauranlen trees which are set to be pruned, but their connectors are not assigned to plant cutting.\n\nYou should assign plant cutting work to the following people -->
   <AlertConnectedPawnNotAssignedToPlantCuttingDesc>У вас есть деревья Гауранлена, которые должны быть обрезаны, но их соединители не назначены для обрезки растений.\n\nВы должны поручить работу по обрезке растений следующим людям</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
 
   <!-- EN: Fuel node explodes in {0} -->
-  <AlertFuelNodeIgniting>Топливный узел взрывается через{0}</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgniting>Топливный узел взорвется через {0}</AlertFuelNodeIgniting>
   <!-- EN: A fuel node has ignited! It will melt down and explode very soon.\n\nGet away and be ready to fight or escape the fires. -->
-  <AlertFuelNodeIgnitingDesc>Загорелся топливный узел! Он очень скоро расплавится и взорвется.\n\nУходите и будьте готовы сражаться или спасаться от пожаров.</AlertFuelNodeIgnitingDesc>
+  <AlertFuelNodeIgnitingDesc>Загорелся топливный узел! Он очень скоро расплавится и взорвется.\n\nУходите и готовьтесь сражаться с пожаром или спасаться.</AlertFuelNodeIgnitingDesc>
 
   <!-- EN: Insects arriving in {0} -->
-  <AlertInfestationArriving>Насекомые прибудут через{0}</AlertInfestationArriving>
+  <AlertInfestationArriving>Насекомые прибудут через {0}</AlertInfestationArriving>
   <!-- EN: Giant insects have sensed your activity and are burrowing up from underground to attack. Infestations are about to begin. -->
   <AlertInfestationArrivingDesc>Гигантские насекомые почувствовали вашу активность и вылезают из-под земли, чтобы напасть. Заражения вот-вот начнется.</AlertInfestationArrivingDesc>
 

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: editing memes -->
-  <EditingMemes.label>редактирование мемов</EditingMemes.label>
+  <EditingMemes.label>редактирование доктрин</EditingMemes.label>
   <!-- EN: You can edit memes by clicking on them. -->
-  <EditingMemes.helpText>Вы можете редактировать мемы, нажимая на них.</EditingMemes.helpText>
+  <EditingMemes.helpText>Вы можете редактировать доктрины, нажимая на них.</EditingMemes.helpText>
   
   <!-- EN: editing precepts -->
   <EditingPrecepts.label>редактирование заповедей</EditingPrecepts.label>

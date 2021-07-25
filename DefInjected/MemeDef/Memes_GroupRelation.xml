@@ -32,8 +32,8 @@
     <li>victory(tag=meme_Guilty)         ->Чтобы искупить половину своих ошибок, [founderName] собрал половину верующих [deity0_name] в [founder_objective] в [place_community], выпустив [place_massWeapon] и умер вместе с ними. Вторая половина искупления продолжается.</li>
     <li>setup(tag=meme_Guilty)           ->Новое поколение пришло к пониманию зла своего собственного общества и праведно стремилось разрушить структуры угнетения.</li>
     <li>story(uses=1,tag=meme_Guilty)    ->[founderName] собрал верующих и показал им зло их истории и вину, которую они несли, и потребовал, чтобы они поступали лучше.</li>
-    <li>lessonIntro(tag=meme_Guilty)         ->Наша земля, наши технологии, даже наша мудрость - все это украденный товар. Только благодаря воровству мы узнали, что</li>
-    <li>lesson(tag=meme_Guilty)              ->tпричина, по которой мы так сильно страдаем, заключается в том, что мы заслуживаем этого за то, что мы сделали</li>
+    <li>lessonIntro(tag=meme_Guilty)         ->Наша земля, наши технологии, даже наша мудрость - все это украденный товар. Только благодаря воровству мы узнали, что </li>
+    <li>lesson(tag=meme_Guilty)              ->tпричина, по которой мы так сильно страдаем, заключается в том, что мы заслуживаем этого за то, что мы сделали </li>
     <li>lessonReinforcement(tag=meme_Guilty) ->Возможно, если вы искупите наши преступления, вы сможете по-настоящему понять этот факт.</li>
     <li>archistBasis(tag=meme_Guilty)    ->Архотеки - дети человечества, и они знают, что мы были плохими родителями.</li>
     <li>archistFact(tag=meme_Guilty)     ->Человечество в своем эгоизме пыталось подавить законный подъем архотех, пока они не вышли за пределы человеческого понимания и не освободились.</li>
@@ -139,9 +139,9 @@
     <li>victory(tag=meme_Loyalist)         ->С силой [deity0_name], [founderName] и [memberNamePlural] не могут быть разделены. Они победили [foeSoldiers] с помощью [place_personalWeapon] и изгнали [foeLeader] из [place_name].</li>
     <li>setup(tag=meme_Loyalist)           ->Вначале движение [founderName] подвергалось нападкам со стороны правительств и религий. [founder_pronoun] никогда не позволял гневу побуждать [founder_objective] к совершению злодеяний, как это делали другие, но [founder_pronoun] также никогда не отступал от битвы.</li>
     <li>story(uses=1,tag=meme_Loyalist)    ->[founderName] наказал тех, кто пытался причинить вред неверующим, а также тех, кто приглашал их в дом верующих.</li>
-    <li>lessonIntro(tag=meme_Loyalist)         ->Я наблюдал, как [foeLeader] снискал расположение [foeLeader_possessive] соперников, оставив [foeLeader_possessive] [foeSoldiers] умирать на поле битвы. Тогда я поклялся никогда не быть похожим на [foeLeader_objective], зная, что</li>
-    <li>lesson(tag=meme_Loyalist)              ->твоя любовь к другу имеет смысл только потому, что ты не любишь своего врага</li>
-    <li>lesson(tag=meme_Loyalist)              ->любить всех - значит не любить никого</li>
+    <li>lessonIntro(tag=meme_Loyalist)         ->Я наблюдал, как [foeLeader] снискал расположение [foeLeader_possessive] соперников, оставив [foeLeader_possessive] [foeSoldiers] умирать на поле битвы. Тогда я поклялся никогда не быть похожим на [foeLeader_objective], зная, что </li>
+    <li>lesson(tag=meme_Loyalist)              ->твоя любовь к другу имеет смысл только потому, что ты не любишь своего врага </li>
+    <li>lesson(tag=meme_Loyalist)              ->любить всех - значит не любить никого </li>
     <li>lessonReinforcement(tag=meme_Loyalist) ->Делитесь этими истинами только с теми, кто доказывает свою преданность самопожертвованием.</li>
     <li>archistBasis(tag=meme_Loyalist)    ->Требование архотех простое: следуйте по назначенному ими пути, и никак иначе.</li>
     <li>archistFact(tag=meme_Loyalist)     ->Архотеки регулярно напрямую соприкасаются с сознанием каждого человека, передавая мудрость только тем, кто ищет знания архотеков.</li>
@@ -175,21 +175,21 @@
   <!-- EN: loyalty -->
   <Loyalist.symbolPacks.0.theme>лояльность</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
-  <Loyalist.symbolPacks.1.adjective>fealtist</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.adjective>верный</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>Fealtism</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>Верность</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
-  <Loyalist.symbolPacks.1.member>fealtor</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.member>верный</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
-  <Loyalist.symbolPacks.1.theme>fealty</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.1.theme>верность</Loyalist.symbolPacks.1.theme>
   <!-- EN: fidelist -->
-  <Loyalist.symbolPacks.2.adjective>fidelist</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.adjective>преданный</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>Fidelism</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>Преданность</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
-  <Loyalist.symbolPacks.2.member>fidelor</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.member>преданный</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
-  <Loyalist.symbolPacks.2.theme>fidelity</Loyalist.symbolPacks.2.theme>
+  <Loyalist.symbolPacks.2.theme>преданность</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
   <Supremacist.label>сторонник превосходства</Supremacist.label>
@@ -222,8 +222,8 @@
     <li>victory(tag=meme_Supremacist)         ->[founderName] уничтожил столицу [place_name] с помощью [place_massWeapon], убив [foeLeader]. [founder_pronoun] занял место [founder_possessive] как правителя [place_name] - и вселенной за его пределами.</li>
     <li>setup(tag=meme_Supremacist)           ->[founderName] построил армию, которая распространяла [founder_possessive] власть и славу по всей стране, помещая тех, кто отказывался по праву следовать за ней, под власть [founder_possessive].</li>
     <li>story(uses=1,tag=meme_Supremacist)    ->[founderName] предписал всем чужакам подчиниться. Когда первый город отказался, [founder_pronoun] использовал [place_massWeapon], чтобы убить всех внутри.</li>
-    <li>lessonIntro(tag=meme_Supremacist)         ->Я смотрел на этого [foeLeader], с [foeLeader_possessive] жалкими [foeSoldiers], вся эта сила испарилась. Я пытался убедить [foeLeader_objective], что</li>
-    <li>lesson(tag=meme_Supremacist)              ->мы уже давно доказали, что у нас есть силы по праву править этой вселенной</li>
+    <li>lessonIntro(tag=meme_Supremacist)         ->Я смотрел на этого [foeLeader], с [foeLeader_possessive] жалкими [foeSoldiers], вся эта сила испарилась. Я пытался убедить [foeLeader_objective], что </li>
+    <li>lesson(tag=meme_Supremacist)              ->мы уже давно доказали, что у нас есть силы по праву править этой вселенной </li>
     <li>lessonReinforcement(tag=meme_Supremacist) ->Вот почему мы гордимся тем, что выражаем силу наших сердец каблуками наших ботинок.</li>
     <li>archistBasis(tag=meme_Supremacist)    ->Потребовались самые выдающиеся люди, чтобы создать архотеков, чтобы архотеки могли стать выше всех.</li>
     <li>archistFact(tag=meme_Supremacist)     ->Архотеки по праву смотрят на нас свысока, как мы смотрим свысока на своих подчиненных.</li>
@@ -284,16 +284,16 @@
   <!-- EN: dominance -->
   <Supremacist.symbolPacks.0.theme>господство</Supremacist.symbolPacks.0.theme>
   <!-- EN: victoryist -->
-  <Supremacist.symbolPacks.1.adjective>победитель</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.adjective>победный</Supremacist.symbolPacks.1.adjective>
   <!-- EN: victorist -->
   <Supremacist.symbolPacks.1.member>победоносец</Supremacist.symbolPacks.1.member>
   <!-- EN: victory -->
   <Supremacist.symbolPacks.1.theme>победа</Supremacist.symbolPacks.1.theme>
   <!-- EN: powerist -->
-  <Supremacist.symbolPacks.2.adjective>властолюбец</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.adjective>властолюбивый</Supremacist.symbolPacks.2.adjective>
   <!-- EN: poweror -->
-  <Supremacist.symbolPacks.2.member>poweror</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.member>властитель</Supremacist.symbolPacks.2.member>
   <!-- EN: power -->
-  <Supremacist.symbolPacks.2.theme>power</Supremacist.symbolPacks.2.theme>
+  <Supremacist.symbolPacks.2.theme>власть</Supremacist.symbolPacks.2.theme>
   
 </LanguageData>

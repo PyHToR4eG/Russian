@@ -157,7 +157,7 @@
     <li>memeMoralist->аббат</li>
   </Structure_OriginChristian.generalRules.rulesStrings>
   <!-- EN: Christian -->
-  <Structure_OriginChristian.symbolPacks.0.adjective>Христианин</Structure_OriginChristian.symbolPacks.0.adjective>
+  <Structure_OriginChristian.symbolPacks.0.adjective>Христианский</Structure_OriginChristian.symbolPacks.0.adjective>
   <!-- EN: Christianity -->
   <Structure_OriginChristian.symbolPacks.0.ideoName>Христианство</Structure_OriginChristian.symbolPacks.0.ideoName>
   <!-- EN: Christian -->
@@ -169,7 +169,7 @@
   <!-- EN: Catholic -->
   <Structure_OriginChristian.symbolPacks.1.member>Католический</Structure_OriginChristian.symbolPacks.1.member>
   <!-- EN: Protestant -->
-  <Structure_OriginChristian.symbolPacks.2.adjective>Протестант</Structure_OriginChristian.symbolPacks.2.adjective>
+  <Structure_OriginChristian.symbolPacks.2.adjective>Протестантский</Structure_OriginChristian.symbolPacks.2.adjective>
   <!-- EN: Protestantism -->
   <Structure_OriginChristian.symbolPacks.2.ideoName>Протестантизм</Structure_OriginChristian.symbolPacks.2.ideoName>
   <!-- EN: Protestant -->
@@ -193,19 +193,19 @@
   <!-- EN: Anglican -->
   <Structure_OriginChristian.symbolPacks.5.member>Англиканский</Structure_OriginChristian.symbolPacks.5.member>
   <!-- EN: Baptist -->
-  <Structure_OriginChristian.symbolPacks.6.adjective>Баптист</Structure_OriginChristian.symbolPacks.6.adjective>
+  <Structure_OriginChristian.symbolPacks.6.adjective>Баптисткий</Structure_OriginChristian.symbolPacks.6.adjective>
   <!-- EN: Baptism -->
   <Structure_OriginChristian.symbolPacks.6.ideoName>Баптизм</Structure_OriginChristian.symbolPacks.6.ideoName>
   <!-- EN: Baptist -->
   <Structure_OriginChristian.symbolPacks.6.member>Баптист</Structure_OriginChristian.symbolPacks.6.member>
   <!-- EN: Anabaptist -->
-  <Structure_OriginChristian.symbolPacks.7.adjective>Анабаптист</Structure_OriginChristian.symbolPacks.7.adjective>
+  <Structure_OriginChristian.symbolPacks.7.adjective>Анабаптисткий</Structure_OriginChristian.symbolPacks.7.adjective>
   <!-- EN: Anabaptism -->
   <Structure_OriginChristian.symbolPacks.7.ideoName>Анабаптизм</Structure_OriginChristian.symbolPacks.7.ideoName>
   <!-- EN: Anabaptist -->
   <Structure_OriginChristian.symbolPacks.7.member>Анабаптист</Structure_OriginChristian.symbolPacks.7.member>
   <!-- EN: Calvinist -->
-  <Structure_OriginChristian.symbolPacks.8.adjective>Кальвинист</Structure_OriginChristian.symbolPacks.8.adjective>
+  <Structure_OriginChristian.symbolPacks.8.adjective>Кальвинисткий</Structure_OriginChristian.symbolPacks.8.adjective>
   <!-- EN: Calvinism -->
   <Structure_OriginChristian.symbolPacks.8.ideoName>Кальвинизм</Structure_OriginChristian.symbolPacks.8.ideoName>
   <!-- EN: Calvinist -->

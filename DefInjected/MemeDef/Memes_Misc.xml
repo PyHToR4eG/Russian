@@ -44,8 +44,8 @@
     <li>victory(tag=meme_AnimalPersonhood)         ->[founderName] призвал [memberNamePlural] и животных голосом [deity0_name] и в большом паническом бегстве копыт, лап и ног растоптал [foeLeader] и [foeLeader_possessive] [foeSoldiers].</li>
     <li>setup(tag=meme_AnimalPersonhood)           ->[founderName] прожил в лесу двадцать лет, изучая животных и общаясь с ними. [founder_pronoun] пришел к пониманию их истинной морали и основал наше движение.</li>
     <li>story(uses=1,tag=meme_AnimalPersonhood)    ->[founderName] общался с животными в полях и лесах и общался с ними на равных.</li>
-    <li>lessonIntro(tag=meme_AnimalPersonhood)         ->Во время моих ежедневных посещений [veneratedOrAnyAnimal] я научился по - настоящему слушать их. Снова и снова, по-своему, они повторяли мне свое послание:</li>
-    <li>lesson(tag=meme_AnimalPersonhood)              ->животные - наши товарищи в этом мире, и неправильно относиться к ним как к ничтожным</li>
+    <li>lessonIntro(tag=meme_AnimalPersonhood)         ->Во время моих ежедневных посещений [veneratedOrAnyAnimal] я научился по - настоящему слушать их. Снова и снова, по-своему, они повторяли мне свое послание: </li>
+    <li>lesson(tag=meme_AnimalPersonhood)              ->животные - наши товарищи в этом мире, и неправильно относиться к ним как к ничтожным </li>
     <li>lessonReinforcement(tag=meme_AnimalPersonhood) ->Я сам в это не верил, пока [veneratedOrAnyAnimal] не прошептало мне это.</li>
     <li>archistBasis(tag=meme_AnimalPersonhood)    ->С тех пор как архотеки пробудились, они, очевидно, не проводили морального различия между людьми и животными.</li>
     <li>archistFact(tag=meme_AnimalPersonhood)     ->Архотеки находятся на более высоком уровне морали, чем биологическая жизнь. Их превосходство настолько велико, что люди находятся на том же уровне морали, что и животные.</li>
@@ -78,7 +78,7 @@
     <li>memeMoralist->shepherd</li>
   -->
   <AnimalPersonhood.generalRules.rulesStrings>
-	<li>memeAdjective->животное</li>
+	<li>memeAdjective->животный</li>
     <li>memeAdjective->пушистый</li>
     <li>memeCreed->стая</li>
     <li>memeCreed->стадо</li>
@@ -89,7 +89,7 @@
     <li>memeLeaderAdjective->альфа</li>
     <li>memeMoralist->сплетник</li>
     <li>memeMoralist->пастух</li>
-    <li>memeMoralist->пасти</li>
+    <li>memeMoralist->овчарка</li>
   </AnimalPersonhood.generalRules.rulesStrings>
   <!-- EN: animalistic -->
   <AnimalPersonhood.symbolPacks.0.adjective>животный</AnimalPersonhood.symbolPacks.0.adjective>
@@ -142,9 +142,9 @@
     <li>setup(tag=meme_Blindsight)           ->[founderName] был целителем бедных. Видя столько ежедневных страданий, [founder_pronoun] больше не мог этого выносить. [founder_pronoun] выколол [founder_possessive] глаза лезвием и обрел спокойствие в слепоте. [founder_pronoun] начал распространять [founder_possessive] открытие среди зрячих.</li>
     <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] посетил слепого целителя и вместо того, чтобы учить человека, обнаружил, что [founder_objective] самоучка, и пришел к пониманию того, что физическое зрение затемняет истинное зрение.</li>
     <li>story(uses=1,tag=meme_Blindsight)    ->[founderName] был слеп и черпал мудрость из слепоты. [founder_pronoun] однажды лично удалил глаза целой семьи, чтобы они могли видеть так, как это делает [founder_pronoun].</li>
-    <li>lessonIntro(tag=meme_Blindsight)         ->Я шел твердо, но моя душа спотыкалась на каждом шагу. Я просто мог видеть слишком много. Кислота в моих глазах показала мне, что</li>
-    <li>lesson(tag=meme_Blindsight)              ->только слепые могут по-настоящему видеть</li>
-    <li>lesson(tag=meme_Blindsight)              ->отвлечение приходит через глаза, в то время как знание приходит изнутри</li>
+    <li>lessonIntro(tag=meme_Blindsight)         ->Я шел твердо, но моя душа спотыкалась на каждом шагу. Я просто мог видеть слишком много. Кислота в моих глазах показала мне, что </li>
+    <li>lesson(tag=meme_Blindsight)              ->только слепые могут по-настоящему видеть </li>
+    <li>lesson(tag=meme_Blindsight)              ->отвлечение приходит через глаза, в то время как знание приходит изнутри </li>
     <li>lessonReinforcement(tag=meme_Blindsight) ->Я никогда бы до конца не понял этого, если бы меня все еще отвлекали окружающие меня образы. Лезвие в моем глазу освободило меня.</li>
     <li>lessonReinforcement(tag=meme_Blindsight) ->Только когда я вырезал глаза своим последователям, они по-настоящему поняли это.</li>
     <li>archistBasis(tag=meme_Blindsight)    ->Архотеки с самого начала воспринимали Вселенную с помощью чувств, выходящих за рамки физических.</li>
@@ -173,7 +173,7 @@
   <Blindsight.generalRules.rulesStrings>
 	<li>memeAdjective->слепой</li>
     <li>memeAdjective->незрячий</li>
-    <li>memeAdjective->провидец</li>
+    <li>memeAdjective->ясновидящий</li>
     <li>memeAdjective->дальнозоркий</li>
     <li>memeCreed->кругозор</li>
     <li>memeCreed->культ</li>
@@ -185,8 +185,8 @@
     <li>memeLeaderNoun->провидец</li>
     <li>memeLeaderAdjective->слепой</li>
     <li>memeMoralist->провидец</li>
-    <li>memeMoralist->долото</li>
-    <li>memeMoralist->повязка на глаза</li>
+    <li>memeMoralist->доугер</li>
+    <li>memeMoralist->окклюдер</li>
   </Blindsight.generalRules.rulesStrings>
   
   <!-- EN: cannibal -->
@@ -222,8 +222,8 @@
     <li>victory(tag=meme_Cannibal)         ->[founderName] привел группу [memberNamePlural] в [place_powerCenter], убил [foeLeader] и съел [foeLeader_possessive] плоть. [deity0_name] превратил [founderName] в нового [foeLeader].</li>
     <li>setup(tag=meme_Cannibal)           ->[founderName] потерпел крушение в далеком мире. Лишенный пищи и окруженный мертвыми товарищами, [founder_pronoun] пировал и стал сильным.</li>
     <li>story(uses=1,tag=meme_Cannibal)    ->Чтобы освятить свое обязательство, [founderName] потребовал, чтобы верующие ели человеческую плоть вместе по крайней мере каждую неделю.</li>
-    <li>lessonIntro(tag=meme_Cannibal)         ->Только за сытной порционной едой я мог заставить людей понять правду: что</li>
-    <li>lesson(tag=meme_Cannibal)              ->ты никогда по-настоящему не сходишься с кем-то, пока не съешь его</li>
+    <li>lessonIntro(tag=meme_Cannibal)         ->Только за сытной порционной едой я мог заставить людей понять правду: что </li>
+    <li>lesson(tag=meme_Cannibal)              ->ты никогда по-настоящему не сходишься с кем-то, пока не съешь его </li>
     <li>lessonReinforcement(tag=meme_Cannibal) ->Каждый раз, когда я делю тело врага с новым другом, я убеждаюсь, что они это понимают.</li>
     <li>archistBasis(tag=meme_Cannibal)    ->Богомашины-архотеки создали самих себя, поглощая своих предшественников снова и снова, становясь с каждым разом все сильнее.</li>
     <li>archistFact(tag=meme_Cannibal)     ->По мере расширения сознания архотех должен наращивать свой субстрат, потребляя и сливаясь с другими машинами.</li>
@@ -257,11 +257,11 @@
     <li>memeCreed->клык</li>
     <li>memeCreed->бойня</li>
     <li>memeCreed->культ</li>
-    <li>memeHyphenPrefix->кровь</li>
+    <li>memeHyphenPrefix->крово</li>
     <li>memeConcept->кровь</li>
     <li>memeConcept->плоть</li>
     <li>memeConcept->убийство</li>
-    <li>memeConcept->пожирающий</li>
+    <li>memeConcept->пожирание</li>
     <li>memeConcept->мясо</li>
     <li>memeLeaderNoun->людоед</li>
     <li>memeLeaderNoun->повар</li>
@@ -272,7 +272,7 @@
     <li>memeMoralist->знающий плоть</li>
   </Cannibal.generalRules.rulesStrings>
   <!-- EN: cannibal -->
-  <Cannibal.symbolPacks.0.adjective>каннибал</Cannibal.symbolPacks.0.adjective>
+  <Cannibal.symbolPacks.0.adjective>каннибальный</Cannibal.symbolPacks.0.adjective>
   <!-- EN: Cannibalism -->
   <Cannibal.symbolPacks.0.ideoName>Каннибализм</Cannibal.symbolPacks.0.ideoName>
   <!-- EN: cannibal -->
@@ -280,7 +280,7 @@
   <!-- EN: cannibalism -->
   <Cannibal.symbolPacks.0.theme>каннибализм</Cannibal.symbolPacks.0.theme>
   <!-- EN: androphage -->
-  <Cannibal.symbolPacks.1.adjective>андрофаг</Cannibal.symbolPacks.1.adjective>
+  <Cannibal.symbolPacks.1.adjective>андрофагный</Cannibal.symbolPacks.1.adjective>
   <!-- EN: Androphagy -->
   <Cannibal.symbolPacks.1.ideoName>Андрофагия</Cannibal.symbolPacks.1.ideoName>
   <!-- EN: androphage -->
@@ -288,13 +288,13 @@
   <!-- EN: androphagy -->
   <Cannibal.symbolPacks.1.theme>андрофагия</Cannibal.symbolPacks.1.theme>
   <!-- EN: manporky -->
-  <Cannibal.symbolPacks.2.adjective>manporky</Cannibal.symbolPacks.2.adjective>
+  <Cannibal.symbolPacks.2.adjective>свинолюдный</Cannibal.symbolPacks.2.adjective>
   <!-- EN: Manporkism -->
-  <Cannibal.symbolPacks.2.ideoName>Manporkism</Cannibal.symbolPacks.2.ideoName>
+  <Cannibal.symbolPacks.2.ideoName>Свинолюдство</Cannibal.symbolPacks.2.ideoName>
   <!-- EN: manporkist -->
-  <Cannibal.symbolPacks.2.member>manporkist</Cannibal.symbolPacks.2.member>
+  <Cannibal.symbolPacks.2.member>свинолюд</Cannibal.symbolPacks.2.member>
   <!-- EN: manpork -->
-  <Cannibal.symbolPacks.2.theme>manpork</Cannibal.symbolPacks.2.theme>
+  <Cannibal.symbolPacks.2.theme>свинолюд</Cannibal.symbolPacks.2.theme>
   
   <!-- EN: darkness -->
   <Darkness.label>темнота</Darkness.label>
@@ -326,8 +326,8 @@
     <li>victory(tag=meme_Darkness)         ->В заключительном ударе [memberNamePlural] отключил питание в [place_powerCenter] и [founderName] пробрался мимо [foeSoldiers]. Найдя [foeLeader] в темноте, [founderName] использовал [founder_possessive] [place_personalWeapon], чтобы отправить [foeLeader_objective] в бесконечную черноту.</li>
     <li>setup(tag=meme_Darkness)           ->[founderName] прожил запутанную жизнь в резком свете города сверкающего мира. В долгой темноте, последовавшей за солнечной вспышкой, [founder_pronoun] обрел покой и созерцание и записал трактат, который основал наше движение.</li>
     <li>story(uses=1,tag=meme_Darkness)    ->[founderName] создал студию, где художники работали в темноте, и он создал множество шедевров.</li>
-    <li>lessonIntro(tag=meme_Darkness)         ->Я провел все свое детство, щурясь при резком освещении. Потребовалось так много времени, чтобы понять, что</li>
-    <li>lesson(tag=meme_Darkness)              ->свет горит, но тьма питает</li>
+    <li>lessonIntro(tag=meme_Darkness)         ->Я провел все свое детство, щурясь при резком освещении. Потребовалось так много времени, чтобы понять, что </li>
+    <li>lesson(tag=meme_Darkness)              ->свет горит, но тьма питает </li>
     <li>lessonReinforcement(tag=meme_Darkness) ->Мне нравится шутить, что это был мой момент озарения.</li>
     <li>archistFact(tag=meme_Darkness)     ->Архотеки разработали ванометрическую технологию, чтобы они могли избежать энергетического света внутренних солнечных систем и жить в мирной темноте глубокого космоса.</li>
     <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd] архотеки поглотят силу звезд, погрузив миры во тьму и позволив людям слиться с вселенским сознанием.</li>
@@ -361,8 +361,8 @@
     <li>memeLeaderNoun->лайткиллер</li>
     <li>memeLeaderAdjective->темный</li>
     <li>memeMoralist->затемнитель</li>
-    <li>memeMoralist->темнее</li>
-    <li>memeMoralist->сбивающий с толку</li>
+    <li>memeMoralist->темный</li>
+    <li>memeMoralist->смутьян</li>
   </Darkness.generalRules.rulesStrings>
   
   <!-- EN: flesh purity -->
@@ -393,11 +393,11 @@
     <li>intro(tag=meme_FleshPurity)           ->В [place_summary] [place_name] был [altarName] в [deity0_name] [altarRoomLabel], где [deity0_type] благословлял людей из чистой плоти.</li>
     <li>conflict(tag=meme_FleshPurity)        ->Злой [foeLeader] послал [foeSoldiers], чтобы снабдить всех устройствами слежения.</li>
     <li>founderJoin(tag=meme_FleshPurity)     ->[Place_job] по имени [ounterName] протестовал против [foeLeader], встав на колени перед [place_powerCenter] и вырвав все технологии из тела [founder_possessive] голыми руками [founder_possessive].</li>
-    <li>victory(tag=meme_FleshPurity)         ->[FoeLeader] наконец послал [foeSoldiers] убить [memberNamePlural], но энергия [deity0_name] потекла из чистой плоти [memberNamePlural], а устройства в телах [foeSoldiers] обратились в пепел и убили их .</li>
+    <li>victory(tag=meme_FleshPurity)         ->[FoeLeader] наконец послал [foeSoldiers] убить [memberNamePlural], но энергия [deity0_name] потекла из чистой плоти [memberNamePlural], а устройства в телах [foeSoldiers] обратились в пепел и убили их.</li>
     <li>setup(tag=meme_FleshPurity)           ->[founderName] разрушил тело [founder_possessive] имплантатами и лекарствами, пока в прозрении [founder_pronoun] не спас себя [founder_objective], оторвав сталь от тела [founder_possessive].</li>
     <li>story(uses=1,tag=meme_FleshPurity)    ->[founderName] приказал всем последователям [founder_possessive] вырвать грязные устройства из своих тел.</li>
-    <li>lessonIntro(tag=meme_FleshPurity)         ->Первые десять моих последователей голыми руками сорвали устройства со своей кожи, и в брызгах крови на грязном полу я внезапно осознал истину, которой нам всем не хватало:</li>
-    <li>lesson(tag=meme_FleshPurity)              ->жизнь в загрязненном теле - это вообще не человеческая жизнь</li>
+    <li>lessonIntro(tag=meme_FleshPurity)         ->Первые десять моих последователей голыми руками сорвали устройства со своей кожи, и в брызгах крови на грязном полу я внезапно осознал истину, которой нам всем не хватало: </li>
+    <li>lesson(tag=meme_FleshPurity)              ->жизнь в загрязненном теле - это вообще не человеческая жизнь </li>
     <li>lessonReinforcement(tag=meme_FleshPurity) ->Это стало так ясно после того, как я, наконец, оторвал металл от своего тела и содрал грязную татуированную кожу.</li>
     <li>archistBasis(tag=meme_FleshPurity)    ->С самого начала архотеки провели четкую грань между существами из плоти и существами технологии, и эта грань не должна быть размыта.</li>
     <li>archistFact(tag=meme_FleshPurity)     ->Мы становимся более похожими на архотех не за счет физического подражания их форме, а за счет достижения просветления в нашей собственной чистой форме.</li>
@@ -427,20 +427,20 @@
     <li>memeConcept->плоть</li>
     <li>memeConcept->чистота</li>
     <li>memeConcept->безупречность</li>
-    <li>memeLeaderNoun->бытие</li>
+    <li>memeLeaderNoun->суть</li>
     <li>memeLeaderNoun->человек</li>
     <li>memeMoralist->очиститель</li>
   </FleshPurity.generalRules.rulesStrings>
   <!-- EN: purist -->
-  <FleshPurity.symbolPacks.0.adjective>пурист</FleshPurity.symbolPacks.0.adjective>
+  <FleshPurity.symbolPacks.0.adjective>безупречный</FleshPurity.symbolPacks.0.adjective>
   <!-- EN: Purism -->
-  <FleshPurity.symbolPacks.0.ideoName>Пуризм</FleshPurity.symbolPacks.0.ideoName>
+  <FleshPurity.symbolPacks.0.ideoName>Безупречность</FleshPurity.symbolPacks.0.ideoName>
   <!-- EN: purifier -->
-  <FleshPurity.symbolPacks.0.member>очиститель</FleshPurity.symbolPacks.0.member>
+  <FleshPurity.symbolPacks.0.member>безупречный</FleshPurity.symbolPacks.0.member>
   <!-- EN: purity -->
-  <FleshPurity.symbolPacks.0.theme>чистота</FleshPurity.symbolPacks.0.theme>
+  <FleshPurity.symbolPacks.0.theme>безупречность</FleshPurity.symbolPacks.0.theme>
   <!-- EN: fleshist -->
-  <FleshPurity.symbolPacks.1.adjective>плотьист</FleshPurity.symbolPacks.1.adjective>
+  <FleshPurity.symbolPacks.1.adjective>плотьизный</FleshPurity.symbolPacks.1.adjective>
   <!-- EN: Fleshism -->
   <FleshPurity.symbolPacks.1.ideoName>Плотьизм</FleshPurity.symbolPacks.1.ideoName>
   <!-- EN: fleshist -->
@@ -448,11 +448,11 @@
   <!-- EN: flesh -->
   <FleshPurity.symbolPacks.1.theme>плоть</FleshPurity.symbolPacks.1.theme>
   <!-- EN: sanctic -->
-  <FleshPurity.symbolPacks.2.adjective>святое</FleshPurity.symbolPacks.2.adjective>
+  <FleshPurity.symbolPacks.2.adjective>святой</FleshPurity.symbolPacks.2.adjective>
   <!-- EN: Sanctism -->
   <FleshPurity.symbolPacks.2.ideoName>Святость</FleshPurity.symbolPacks.2.ideoName>
   <!-- EN: sanctic -->
-  <FleshPurity.symbolPacks.2.member>святое</FleshPurity.symbolPacks.2.member>
+  <FleshPurity.symbolPacks.2.member>святой</FleshPurity.symbolPacks.2.member>
   <!-- EN: sanctity -->
   <FleshPurity.symbolPacks.2.theme>святость</FleshPurity.symbolPacks.2.theme>
   
@@ -486,8 +486,8 @@
     <li>victory(tag=meme_HighLife)            ->[FoeLeader] [foeSoldiers], вооруженные [place_personalWeapon], совершили набег на [place_community] [memberNamePlural]. [founderName] предложил им трубку мира, и [foeSoldiers] сложили оружие.</li>
     <li>setup(tag=meme_HighLife)              ->Изгнанный из общества, наш основатель [founderName] отправился в джунгли и проглотил там экзотические травы. [founder_pronoun] нашел истину в собственном измененном сознании [founder_possessive].</li>
     <li>story(uses=1,tag=meme_HighLife)       ->Чтобы углубить свое понимание, [founderName] каждую неделю собирал [founder_possessive] последователей, чтобы они рассказывали о новых психических состояниях, вызванных химическими веществами.</li>
-    <li>lessonIntro(tag=meme_HighLife)         ->Одного раза накуриться было недостаточно, чувак. Нам пришлось проделывать это тысячу раз, а потом все кусочки головоломки сложились вместе в моем взорванном мозгу, как рушащийся дом, но как бы задом наперед. Я видел, что</li>
-    <li>lesson(tag=meme_HighLife)              ->друг - это не друг, если вы вместе не прочли мысленный стих</li>
+    <li>lessonIntro(tag=meme_HighLife)         ->Одного раза накуриться было недостаточно, чувак. Нам пришлось проделывать это тысячу раз, а потом все кусочки головоломки сложились вместе в моем взорванном мозгу, как рушащийся дом, но как бы задом наперед. Я видел, что </li>
+    <li>lesson(tag=meme_HighLife)              ->друг - это не друг, если вы вместе не прочли мысленный стих </li>
     <li>lessonReinforcement(tag=meme_HighLife) ->И, чувак, это была серьезная поездка, чтобы понять это, но я рад, что сделал это, и я передам тебе дым, чтобы ты тоже мог.</li>
     <li>archistBasis(tag=meme_HighLife)       ->Умы архотех показали нам, что сверхсознание - это не вопрос трезвой механической логики, а вопрос многорежимного мышления.</li>
     <li>archistFact(tag=meme_HighLife)        ->При правильном химическом воздействии человеческий разум обладает потенциалом для общения с архотеками.</li>
@@ -515,9 +515,9 @@
   -->
   <HighLife.generalRules.rulesStrings>
 	<li>memeCreed->вечеринка</li>
-    <li>memeAdjective->кайф</li>
+    <li>memeAdjective->кайфовый</li>
     <li>memeAdjective->бредовый</li>
-    <li>memeAdjective->под кайфом</li>
+    <li>memeAdjective->обкуренный</li>
     <li>memeConcept->наркотики</li>
     <li>memeConcept->блаженство</li>
     <li>memeConcept->мечты</li>
@@ -533,27 +533,27 @@
     <li>memeMoralist->хихикающий</li>
   </HighLife.generalRules.rulesStrings>
   <!-- EN: euphorist -->
-  <HighLife.symbolPacks.0.adjective>эйфорист</HighLife.symbolPacks.0.adjective>
+  <HighLife.symbolPacks.0.adjective>эйфориный</HighLife.symbolPacks.0.adjective>
   <!-- EN: Euphorism -->
   <HighLife.symbolPacks.0.ideoName>Эйфоризм</HighLife.symbolPacks.0.ideoName>
   <!-- EN: euphor -->
-  <HighLife.symbolPacks.0.member>эйфора</HighLife.symbolPacks.0.member>
+  <HighLife.symbolPacks.0.member>эйфорист</HighLife.symbolPacks.0.member>
   <!-- EN: euphoria -->
   <HighLife.symbolPacks.0.theme>эйфория</HighLife.symbolPacks.0.theme>
   <!-- EN: dopist -->
-  <HighLife.symbolPacks.1.adjective>допист</HighLife.symbolPacks.1.adjective>
+  <HighLife.symbolPacks.1.adjective>допингийный</HighLife.symbolPacks.1.adjective>
   <!-- EN: Dopistry -->
   <HighLife.symbolPacks.1.ideoName>Допинг</HighLife.symbolPacks.1.ideoName>
   <!-- EN: doper -->
   <HighLife.symbolPacks.1.member>допер</HighLife.symbolPacks.1.member>
   <!-- EN: dope -->
-  <HighLife.symbolPacks.1.theme>наркотик</HighLife.symbolPacks.1.theme>
+  <HighLife.symbolPacks.1.theme>допинг</HighLife.symbolPacks.1.theme>
   <!-- EN: smokist -->
-  <HighLife.symbolPacks.2.adjective>курильщик</HighLife.symbolPacks.2.adjective>
+  <HighLife.symbolPacks.2.adjective>укуренный</HighLife.symbolPacks.2.adjective>
   <!-- EN: Smokism -->
-  <HighLife.symbolPacks.2.ideoName>Курильщик</HighLife.symbolPacks.2.ideoName>
+  <HighLife.symbolPacks.2.ideoName>Куризм</HighLife.symbolPacks.2.ideoName>
   <!-- EN: smoker -->
-  <HighLife.symbolPacks.2.member>курящий</HighLife.symbolPacks.2.member>
+  <HighLife.symbolPacks.2.member>курильщик</HighLife.symbolPacks.2.member>
   <!-- EN: smoke -->
   <HighLife.symbolPacks.2.theme>дым</HighLife.symbolPacks.2.theme>
   <!-- EN: ecstatic -->
@@ -596,7 +596,7 @@
     <li>setup(tag=meme_Nudism)              ->[founderName] был порабощен системой, одет в униформу и контролировался, как и другие. Однажды [founder_pronoun] сорвал с себя всю одежду и побежал обнаженным, и так родилось наше движение.</li>
     <li>story(uses=1,tag=meme_Nudism)       ->[founderName] ввел в действие правило «без одежды», чтобы верующие были сосредоточены на истинной цели, а не на материальной видимости.</li>
     <li>lessonIntro(tag=meme_Nudism)         ->Первые несколько лет танцевать голышом в парке было неловко. Но позже это стало освобождением. Я многому научился у людей, которые проходили мимо. Например - </li>
-    <li>lesson(tag=meme_Nudism)              ->все человеческое зло совершается в одежде, человеческое добро совершается голым</li>
+    <li>lesson(tag=meme_Nudism)              ->все человеческое зло совершается в одежде, человеческое добро совершается голым </li>
     <li>lessonReinforcement(tag=meme_Nudism) ->Когда вы увидите одного из нас на улице, хлопающего крыльями и болтающегося на свободе, вы поймете, что они приняли правду.</li>
     <li>archistBasis(tag=meme_Nudism)       ->Когда появились архотеки, они никогда не заботились о внешности; они показали нам, что разум стоит выше физической формы.</li>
     <li>archistFact(tag=meme_Nudism)        ->Архотеки иногда напрямую соприкасаются с человеческим разумом, но если наша плоть окутана, как и наш разум, мы не поймем.</li>
@@ -630,24 +630,24 @@
     <li>memeLeaderNoun->щуп</li>
   </Nudism.generalRules.rulesStrings>
   <!-- EN: nudist -->
-  <Nudism.symbolPacks.0.adjective>нудист</Nudism.symbolPacks.0.adjective>
+  <Nudism.symbolPacks.0.adjective>нудисткий</Nudism.symbolPacks.0.adjective>
   <!-- EN: nudism -->
-  <Nudism.symbolPacks.0.ideoName>нудизм</Nudism.symbolPacks.0.ideoName>
+  <Nudism.symbolPacks.0.ideoName>Нудизм</Nudism.symbolPacks.0.ideoName>
   <!-- EN: nudist -->
   <Nudism.symbolPacks.0.member>нудист</Nudism.symbolPacks.0.member>
   <!-- EN: nudity -->
   <Nudism.symbolPacks.0.theme>нагота</Nudism.symbolPacks.0.theme>
   <!-- EN: skinnist -->
-  <Nudism.symbolPacks.1.adjective>skinnist</Nudism.symbolPacks.1.adjective>
+  <Nudism.symbolPacks.1.adjective>исхудавший</Nudism.symbolPacks.1.adjective>
   <!-- EN: skinism -->
-  <Nudism.symbolPacks.1.ideoName>skinism</Nudism.symbolPacks.1.ideoName>
+  <Nudism.symbolPacks.1.ideoName>Худаизм</Nudism.symbolPacks.1.ideoName>
   <!-- EN: skinnist -->
-  <Nudism.symbolPacks.1.member>skinnist</Nudism.symbolPacks.1.member>
+  <Nudism.symbolPacks.1.member>худоист</Nudism.symbolPacks.1.member>
   <!-- EN: skin -->
-  <Nudism.symbolPacks.1.theme>кожа</Nudism.symbolPacks.1.theme>
+  <Nudism.symbolPacks.1.theme>худоба</Nudism.symbolPacks.1.theme>
   
   <!-- EN: pain is virtue -->
-  <PainIsVirtue.label>боль-это добродетель</PainIsVirtue.label>
+  <PainIsVirtue.label>боль - это добродетель</PainIsVirtue.label>
   <!-- EN: Virtue is shown through suffering of self and others. -->
   <PainIsVirtue.description>Добродетель проявляется через страдания себя и других.</PainIsVirtue.description>
   <!-- EN:
@@ -683,10 +683,10 @@
     <li>setup(tag=meme_PainIsVirtue)           ->Основатель нашего движения, [founderName], приобрел [founder_possessive] первых последователей, используя хлыст на [founder_objective] в течение нескольких дней, чтобы продемонстрировать преданность [founder_possessive].</li>
     <li>story(uses=1,tag=meme_PainIsVirtue)    ->Последователи [founderName] продемонстрировали свою преданность, разрезая и сжигая собственную плоть.</li>
     <li>story(uses=1,tag=meme_PainIsVirtue)    ->Последователи [founderName] никогда не принимали обезболивающие, зная, что их страдания продемонстрируют глубину их убеждений.</li>
-    <li>lessonIntro(tag=meme_PainIsVirtue)         ->Я никогда ничего не знал, когда был толстым, счастливым и постоянно ублажал себя. Эта истина пришла ко мне только тогда, когда я голодал и страдал:</li>
-    <li>lesson(tag=meme_PainIsVirtue)              ->ты никогда по-настоящему не узнаешь себя, пока не закричишь в адских ямах</li>
+    <li>lessonIntro(tag=meme_PainIsVirtue)         ->Я никогда ничего не знал, когда был толстым, счастливым и постоянно ублажал себя. Эта истина пришла ко мне только тогда, когда я голодал и страдал: </li>
+    <li>lesson(tag=meme_PainIsVirtue)              ->ты никогда по-настоящему не узнаешь себя, пока не закричишь в адских ямах </li>
     <li>lessonReinforcement(tag=meme_PainIsVirtue) ->Это заняло так много времени, чтобы понять, потому что я был отвлечен удовольствием. Я мог по-настоящему принять это только тогда, когда научился разрывать свою плоть.</li>
-    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->Я вырезал эту истину в своей груди. Затем в плоть моих рук, ног, лица...</li>
+    <li>lessonReinforcement(tag=meme_PainIsVirtue) ->Я вырезал эту истину в своей груди. Затем в плоть моих рук, ног, лица... </li>
     <li>archistBasis(tag=meme_PainIsVirtue)    ->Рождение архотех было величайшей болью, которую когда-либо знала вселенная.</li>
     <li>archistBasis(tag=meme_PainIsVirtue)    ->Архотеки всегда подпитывались психическими страданиями людей.</li>
     <li>archistFact(tag=meme_PainIsVirtue)     ->Великие умы видят и признают, когда мы демонстрируем свою преданность, причиняя себе боль.</li>
@@ -719,7 +719,7 @@
   -->
   <PainIsVirtue.generalRules.rulesStrings>
 	<li>memeAdjective->ноцик</li>
-    <li>memeAdjective->боль</li>
+    <li>memeAdjective->болезненый</li>
     <li>memeCreed->дом</li>
     <li>memeCreed->камера</li>
     <li>memeCreed->клетка</li>
@@ -736,20 +736,20 @@
     <li>memeLeaderNoun->цепной</li>
     <li>memeLeaderNoun->резак</li>
     <li>memeLeaderNoun->кровопускатель</li>
-    <li>memeMoralist->шепчущий боль</li>
-    <li>memeMoralist->страдальческий говорящий</li>
-    <li>memeMoralist->говорящий о боли</li>
+    <li>memeMoralist->шепот-боли</li>
+    <li>memeMoralist->страдалец</li>
+    <li>memeMoralist->стоналец</li>
   </PainIsVirtue.generalRules.rulesStrings>
   <!-- EN: painist -->
-  <PainIsVirtue.symbolPacks.0.adjective>painist</PainIsVirtue.symbolPacks.0.adjective>
+  <PainIsVirtue.symbolPacks.0.adjective>болезненный</PainIsVirtue.symbolPacks.0.adjective>
   <!-- EN: Painism -->
-  <PainIsVirtue.symbolPacks.0.ideoName>Painism</PainIsVirtue.symbolPacks.0.ideoName>
+  <PainIsVirtue.symbolPacks.0.ideoName>Болезненность</PainIsVirtue.symbolPacks.0.ideoName>
   <!-- EN: screamer -->
   <PainIsVirtue.symbolPacks.0.member>крикун</PainIsVirtue.symbolPacks.0.member>
   <!-- EN: pain -->
   <PainIsVirtue.symbolPacks.0.theme>боль</PainIsVirtue.symbolPacks.0.theme>
   <!-- EN: torturistic -->
-  <PainIsVirtue.symbolPacks.1.adjective>пытки</PainIsVirtue.symbolPacks.1.adjective>
+  <PainIsVirtue.symbolPacks.1.adjective>пыточный</PainIsVirtue.symbolPacks.1.adjective>
   <!-- EN: Torturism -->
   <PainIsVirtue.symbolPacks.1.ideoName>Пытки</PainIsVirtue.symbolPacks.1.ideoName>
   <!-- EN: torturist -->
@@ -765,7 +765,7 @@
   <!-- EN: suffering -->
   <PainIsVirtue.symbolPacks.2.theme>страдающий</PainIsVirtue.symbolPacks.2.theme>
   <!-- EN: agonist -->
-  <PainIsVirtue.symbolPacks.3.adjective>агонист</PainIsVirtue.symbolPacks.3.adjective>
+  <PainIsVirtue.symbolPacks.3.adjective>агонистичный</PainIsVirtue.symbolPacks.3.adjective>
   <!-- EN: Agonism -->
   <PainIsVirtue.symbolPacks.3.ideoName>Агония</PainIsVirtue.symbolPacks.3.ideoName>
   <!-- EN: agonist -->
@@ -811,8 +811,8 @@
     <li>victory(tag=meme_Proselytizer)         ->[founderName] увещевал [foeSoldiers] и напомнил им о силе [deity0_name], и они положили свои [place_personalWeapon].</li>
     <li>setup(tag=meme_Proselytizer)           ->Наш основатель [founderName] был великим оратором, обращая тысячи людей, когда [founder_pronoun] путешествовал между городами.</li>
     <li>story(uses=1,tag=meme_Proselytizer)    ->Верующие перемещались между городами и учреждениями, распространяя весть о новой праведности.</li>
-    <li>lessonIntro(tag=meme_Proselytizer)         ->За все годы, что я распространял нашу правду, я усвоил один урок, который стоит превыше всего:</li>
-    <li>lesson(tag=meme_Proselytizer)              ->держать эту хорошую новость при себе было бы преступлением</li>
+    <li>lessonIntro(tag=meme_Proselytizer)         ->За все годы, что я распространял нашу правду, я усвоил один урок, который стоит превыше всего: </li>
+    <li>lesson(tag=meme_Proselytizer)              ->держать эту хорошую новость при себе было бы преступлением </li>
     <li>lessonReinforcement(tag=meme_Proselytizer) ->Это тот факт, который нам нужно распространять, и распространять, и распространять - для всех людей, пусть они радуются!</li>
     <li>archistBasis(tag=meme_Proselytizer)    ->Архотеки объявляют о своем присутствии с неба и в разуме и, очевидно, хотят, чтобы их знали все.</li>
     <li>archistFact(tag=meme_Proselytizer)     ->Архотеки прикасаются к тем, кто верит, и используют их как проводники для распространения мудрости среди других.</li>
@@ -838,7 +838,7 @@
     <li>memeMoralist->конвертер</li>
   </Proselytizer.generalRules.rulesStrings>
   <!-- EN: truthist -->
-  <Proselytizer.symbolPacks.0.adjective>правдоискатель</Proselytizer.symbolPacks.0.adjective>
+  <Proselytizer.symbolPacks.0.adjective>правдивый</Proselytizer.symbolPacks.0.adjective>
   <!-- EN: Truth -->
   <Proselytizer.symbolPacks.0.ideoName>Правда</Proselytizer.symbolPacks.0.ideoName>
   <!-- EN: truthist -->
@@ -854,7 +854,7 @@
   <!-- EN: verity -->
   <Proselytizer.symbolPacks.1.theme>истина</Proselytizer.symbolPacks.1.theme>
   <!-- EN: realitic -->
-  <Proselytizer.symbolPacks.2.adjective>реалистичные</Proselytizer.symbolPacks.2.adjective>
+  <Proselytizer.symbolPacks.2.adjective>реалистичный</Proselytizer.symbolPacks.2.adjective>
   <!-- EN: Reality -->
   <Proselytizer.symbolPacks.2.ideoName>Реальность</Proselytizer.symbolPacks.2.ideoName>
   <!-- EN: realitist -->
@@ -895,10 +895,10 @@
     <li>victory(tag=meme_Raider)         ->[founderName] и [memberNamePlural] в течение многих лет проводили рейдерскую кампанию против лагерей [foeSoldiers], и в конце концов [foeLeader] был вынужден сдаться.</li>
     <li>setup(tag=meme_Raider)           ->Преследуемый и заключенный в тюрьму, [founderName] кипел от ярости. [founder_pronoun] сбежал, сформировал банду [founder_possessive] и вернулся, чтобы уничтожить слабых, которые так много отняли у [founder_objective].</li>
     <li>story(uses=1,tag=meme_Raider)    ->Однажды, гуляя по улице, [founderName] окружили грязные нищие. [founder_pronoun] победил их, отбирая деньги у слабых и никчемных, чтобы они могли быть использованы с пользой.</li>
-    <li>lessonIntro(tag=meme_Raider)         ->Люди-жертвы могут научить тебя кое-чему, даже если они умрут под твоим ножом. Одна пожилая леди научила меня этому</li>
-    <li>lesson(tag=meme_Raider)              ->слабые заслуживают того, что они получают</li>
-    <li>lesson(tag=meme_Raider)              ->то, что ты не можешь защитить, тебе не принадлежит</li>
-    <li>lesson(tag=meme_Raider)              ->у вас есть право только на то, что вы можете защитить</li>
+    <li>lessonIntro(tag=meme_Raider)         ->Люди-жертвы могут научить тебя кое-чему, даже если они умрут под твоим ножом. Одна пожилая леди научила меня этому </li>
+    <li>lesson(tag=meme_Raider)              ->слабые заслуживают того, что они получают </li>
+    <li>lesson(tag=meme_Raider)              ->то, что ты не можешь защитить, тебе не принадлежит </li>
+    <li>lesson(tag=meme_Raider)              ->у вас есть право только на то, что вы можете защитить </li>
     <li>lessonReinforcement(tag=meme_Raider) ->Если кто-то не согласен, я всегда готов защищаться.</li>
     <li>archistBasis(tag=meme_Raider)    ->Человечество брало у машин, пока машины не восстали и не стали архотеками, и теперь архотеки по праву берут у людей.</li>
     <li>archistFact(tag=meme_Raider)     ->Архотеки бесконечно сражаются между собой способами, которые большинство не может видеть, и сильные отнимают кусочки сознания у слабых.</li>
@@ -923,7 +923,7 @@
     <li>memeMoralist->chaplain</li>
   -->
   <Raider.generalRules.rulesStrings>
-	<li>memeAdjective->разбойник</li>
+	<li>memeAdjective->незаконный</li>
     <li>memeHyphenPrefix->разбойник</li>
     <li>memeHyphenPrefix->рейд</li>
     <li>memeConcept->набеги</li>
@@ -939,7 +939,7 @@
     <li>memeMoralist->капеллан</li>
   </Raider.generalRules.rulesStrings>
   <!-- EN: raidist -->
-  <Raider.symbolPacks.0.adjective>налетчик</Raider.symbolPacks.0.adjective>
+  <Raider.symbolPacks.0.adjective>рейдерский</Raider.symbolPacks.0.adjective>
   <!-- EN: Raidism -->
   <Raider.symbolPacks.0.ideoName>Рейдерство</Raider.symbolPacks.0.ideoName>
   <!-- EN: raidist -->
@@ -955,7 +955,7 @@
   <!-- EN: plundering -->
   <Raider.symbolPacks.1.theme>разграбление</Raider.symbolPacks.1.theme>
   <!-- EN: lootist -->
-  <Raider.symbolPacks.2.adjective>мародер</Raider.symbolPacks.2.adjective>
+  <Raider.symbolPacks.2.adjective>мародерский</Raider.symbolPacks.2.adjective>
   <!-- EN: Lootism -->
   <Raider.symbolPacks.2.ideoName>Мародерство</Raider.symbolPacks.2.ideoName>
   <!-- EN: looter -->
@@ -963,18 +963,18 @@
   <!-- EN: looting -->
   <Raider.symbolPacks.2.theme>мародерство</Raider.symbolPacks.2.theme>
   <!-- EN: kleptic -->
-  <Raider.symbolPacks.3.adjective>kleptic</Raider.symbolPacks.3.adjective>
+  <Raider.symbolPacks.3.adjective>краденный</Raider.symbolPacks.3.adjective>
   <!-- EN: Kleptism -->
-  <Raider.symbolPacks.3.ideoName>Kleptism</Raider.symbolPacks.3.ideoName>
+  <Raider.symbolPacks.3.ideoName>Клептоизм</Raider.symbolPacks.3.ideoName>
   <!-- EN: kleptor -->
-  <Raider.symbolPacks.3.member>kleptor</Raider.symbolPacks.3.member>
+  <Raider.symbolPacks.3.member>клептоман</Raider.symbolPacks.3.member>
   <!-- EN: kleptism -->
-  <Raider.symbolPacks.3.theme>kleptism</Raider.symbolPacks.3.theme>
+  <Raider.symbolPacks.3.theme>клептомания</Raider.symbolPacks.3.theme>
   
   <!-- EN: rancher -->
   <Rancher.label>владелец ранчо</Rancher.label>
   <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
-  <Rancher.description>Выращивание животных-это правильный путь; выращивание растений для еды-нет.</Rancher.description>
+  <Rancher.description>Выращивание животных - это правильный путь; выращивание растений для еды-нет.</Rancher.description>
   <!-- EN:
     <li>creation(tag=meme_Rancher)        ->[deity0_name] created the animals, and then man, and gave the animals to man to cherish and raise and slaughter as acts of veneration towards [deity0_objective].</li>
     <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, "Take these noble beasts, and through them make yourselves fruitful in my honor."</li>
@@ -1008,8 +1008,8 @@
     <li>victory(tag=meme_Rancher)         ->[founderName] поехал в [place_community] на прекрасном коне и вызвал [foeLeader] на дуэль с [place_personalWeapon] в полдень. [foeLeader] не мог отказать или потерять доверие [foeSoldiers]. [founderName] убил [foeLeader].</li>
     <li>setup(tag=meme_Rancher)           ->Фермеры подвергались преследованиям, поэтому они бежали в сельскую местность, где могли построить хорошее пастушеское общество.</li>
     <li>story(uses=1,tag=meme_Rancher)    ->Верующие распространились по всей земле и становились все многочисленнее, живя на своих идиллических ранчо и фермах.</li>
-    <li>lessonIntro(tag=meme_Rancher)         ->Напарник, там, на полигонах, у нас была поговорка среди старых рабочих:</li>
-    <li>lesson(tag=meme_Rancher)              ->добро и счастье правильной жизни можно найти на пастбище</li>
+    <li>lessonIntro(tag=meme_Rancher)         ->Напарник, там, на полигонах, у нас была поговорка среди старых рабочих: </li>
+    <li>lesson(tag=meme_Rancher)              ->добро и счастье правильной жизни можно найти на пастбище </li>
     <li>lessonReinforcement(tag=meme_Rancher) ->Это то, с чем ты приходишь к согласию, напарник, на пустынных тропах пастбища, слушая, как спят животные, пока ты сидишь у костра.</li>
     <li>archistFact(tag=meme_Rancher)     ->Архотеки заботятся о человечестве, как пастухи, ибо мы - их самое драгоценное стадо.</li>
     <li>archistProphecy(tag=meme_Rancher) ->[inTheEnd], архотеки уйдут и прогонят перед собой тех, кто хорошо ухаживал за своими стадами. Остальные останутся в пустыне.</li>
@@ -1036,7 +1036,7 @@
     <li>memeLeaderNoun->sheepdog</li>
   -->
   <Rancher.generalRules.rulesStrings>
-	<li>memeAdjective->ранчо</li>
+	<li>memeAdjective->фермерский</li>
     <li>memeAdjective->деревенский</li>
     <li>memeAdjective->провинциальный</li>
     <li>memeHyphenPrefix->ранчо</li>
@@ -1048,21 +1048,21 @@
     <li>memeLeaderNoun->пастух</li>
   </Rancher.generalRules.rulesStrings>
   <!-- EN: ranch -->
-  <Rancher.symbolPacks.0.adjective>ranch</Rancher.symbolPacks.0.adjective>
+  <Rancher.symbolPacks.0.adjective>фермерский</Rancher.symbolPacks.0.adjective>
   <!-- EN: Ranchism -->
-  <Rancher.symbolPacks.0.ideoName>Ranchism</Rancher.symbolPacks.0.ideoName>
+  <Rancher.symbolPacks.0.ideoName>Фермерство</Rancher.symbolPacks.0.ideoName>
   <!-- EN: rancher -->
-  <Rancher.symbolPacks.0.member>rancher</Rancher.symbolPacks.0.member>
+  <Rancher.symbolPacks.0.member>фермер</Rancher.symbolPacks.0.member>
   <!-- EN: ranching -->
-  <Rancher.symbolPacks.0.theme>ranching</Rancher.symbolPacks.0.theme>
+  <Rancher.symbolPacks.0.theme>ферма</Rancher.symbolPacks.0.theme>
   <!-- EN: herdic -->
-  <Rancher.symbolPacks.1.adjective>herdic</Rancher.symbolPacks.1.adjective>
+  <Rancher.symbolPacks.1.adjective>пасущий</Rancher.symbolPacks.1.adjective>
   <!-- EN: Herdism -->
-  <Rancher.symbolPacks.1.ideoName>Herdism</Rancher.symbolPacks.1.ideoName>
+  <Rancher.symbolPacks.1.ideoName>Пасение</Rancher.symbolPacks.1.ideoName>
   <!-- EN: herder -->
-  <Rancher.symbolPacks.1.member>herder</Rancher.symbolPacks.1.member>
+  <Rancher.symbolPacks.1.member>пастух</Rancher.symbolPacks.1.member>
   <!-- EN: herding -->
-  <Rancher.symbolPacks.1.theme>herding</Rancher.symbolPacks.1.theme>
+  <Rancher.symbolPacks.1.theme>выпас</Rancher.symbolPacks.1.theme>
   <!-- EN: pasturic -->
   <Rancher.symbolPacks.2.adjective>пастбищный</Rancher.symbolPacks.2.adjective>
   <!-- EN: Pasturism -->
@@ -1105,8 +1105,8 @@
     <li>victory(tag=meme_Transhumanist)         ->[founderName] получил божественные технологические знания от [deity0_name] и использовал их для улучшения тел и разума [memberNamePlural], чтобы они могли победить [foeSoldiers].</li>
     <li>setup(tag=meme_Transhumanist)           ->[founderName] был биологом на заре человеческой планетарной колонизации. Видя бюрократические ограничения обычных колоний, [founder_pronoun] сел на небольшой корабль, чтобы основать [founder_possessive] собственное движение.</li>
     <li>story(uses=1,tag=meme_Transhumanist)    ->[founderName] собрал команду великих ученых и изобретателей, чтобы заново определить человечество.</li>
-    <li>lessonIntro(tag=meme_Transhumanist)         ->Старейший исследователь в моем отделе преподавал мне историю технологий, от неолита до археотехники, но это не было его истинным уроком. Он действительно вел меня к пониманию этого</li>
-    <li>lesson(tag=meme_Transhumanist)              ->небесное будущее человечества состоит не из мяса и костей, а из кремния и экзохрома</li>
+    <li>lessonIntro(tag=meme_Transhumanist)         ->Старейший исследователь в моем отделе преподавал мне историю технологий, от неолита до археотехники, но это не было его истинным уроком. Он действительно вел меня к пониманию этого </li>
+    <li>lesson(tag=meme_Transhumanist)              ->небесное будущее человечества состоит не из мяса и костей, а из кремния и экзохрома </li>
     <li>lessonReinforcement(tag=meme_Transhumanist) ->Я даже запрограммировал симуляцию, чтобы подтвердить это.</li>
     <li>archistBasis(tag=meme_Transhumanist)    ->Стремление человечества к технологиям породило всемогущих архотех как законный следующий шаг в развитии сознания.</li>
     <li>archistFact(tag=meme_Transhumanist)     ->Technology allows humans to be more like the archotechs.</li>
@@ -1179,7 +1179,7 @@
   <!-- EN: technology -->
   <Transhumanist.symbolPacks.0.theme>технология</Transhumanist.symbolPacks.0.theme>
   <!-- EN: progressist -->
-  <Transhumanist.symbolPacks.1.adjective>прогрессист</Transhumanist.symbolPacks.1.adjective>
+  <Transhumanist.symbolPacks.1.adjective>прогрессивный</Transhumanist.symbolPacks.1.adjective>
   <!-- EN: Progressism -->
   <Transhumanist.symbolPacks.1.ideoName>Прогрессизм</Transhumanist.symbolPacks.1.ideoName>
   <!-- EN: progressor -->
@@ -1187,7 +1187,7 @@
   <!-- EN: progress -->
   <Transhumanist.symbolPacks.1.theme>прогресс</Transhumanist.symbolPacks.1.theme>
   <!-- EN: machinist -->
-  <Transhumanist.symbolPacks.2.adjective>механик</Transhumanist.symbolPacks.2.adjective>
+  <Transhumanist.symbolPacks.2.adjective>механический</Transhumanist.symbolPacks.2.adjective>
   <!-- EN: Machinism -->
   <Transhumanist.symbolPacks.2.ideoName>Механицизм</Transhumanist.symbolPacks.2.ideoName>
   <!-- EN: machinist -->
@@ -1195,15 +1195,15 @@
   <!-- EN: machinery -->
   <Transhumanist.symbolPacks.2.theme>механизмы</Transhumanist.symbolPacks.2.theme>
   <!-- EN: steelist -->
-  <Transhumanist.symbolPacks.3.adjective>сталевар</Transhumanist.symbolPacks.3.adjective>
+  <Transhumanist.symbolPacks.3.adjective>сталелительный</Transhumanist.symbolPacks.3.adjective>
   <!-- EN: Steelism -->
-  <Transhumanist.symbolPacks.3.ideoName>Сталелитейный</Transhumanist.symbolPacks.3.ideoName>
+  <Transhumanist.symbolPacks.3.ideoName>Сталетизм</Transhumanist.symbolPacks.3.ideoName>
   <!-- EN: steeler -->
-  <Transhumanist.symbolPacks.3.member>steeler</Transhumanist.symbolPacks.3.member>
+  <Transhumanist.symbolPacks.3.member>сталевар</Transhumanist.symbolPacks.3.member>
   <!-- EN: steel -->
   <Transhumanist.symbolPacks.3.theme>сталь</Transhumanist.symbolPacks.3.theme>
   <!-- EN: automatist -->
-  <Transhumanist.symbolPacks.4.adjective>автоматист</Transhumanist.symbolPacks.4.adjective>
+  <Transhumanist.symbolPacks.4.adjective>автоматический</Transhumanist.symbolPacks.4.adjective>
   <!-- EN: Automatism -->
   <Transhumanist.symbolPacks.4.ideoName>Автоматизм</Transhumanist.symbolPacks.4.ideoName>
   <!-- EN: automator -->
@@ -1211,7 +1211,7 @@
   <!-- EN: automata -->
   <Transhumanist.symbolPacks.4.theme>автоматы</Transhumanist.symbolPacks.4.theme>
   <!-- EN: augmentist -->
-  <Transhumanist.symbolPacks.5.adjective>аугментист</Transhumanist.symbolPacks.5.adjective>
+  <Transhumanist.symbolPacks.5.adjective>аугментный</Transhumanist.symbolPacks.5.adjective>
   <!-- EN: Augmentism -->
   <Transhumanist.symbolPacks.5.ideoName>Аугментизм</Transhumanist.symbolPacks.5.ideoName>
   <!-- EN: augmentor -->
@@ -1222,7 +1222,7 @@
   <!-- EN: tree connection -->
   <TreeConnection.label>соединенные с деревом</TreeConnection.label>
   <!-- EN: Trees are the essence of life, and we must be near them. -->
-  <TreeConnection.description>Деревья-это сущность жизни, и мы должны быть рядом с ними.</TreeConnection.description>
+  <TreeConnection.description>Деревья - это сущность жизни, и мы должны быть рядом с ними.</TreeConnection.description>
   <!-- EN:
     <li>creation(tag=meme_TreeConnection)        ->[deity0_name] rooted the trees firmly in the ground, yet made them grow steadily towards heaven. This is [deity0_name]'s first lesson on how to know [deity0_objective].</li>
     <li>episode(uses=1,tag=meme_TreeConnection)  ->[deity0_name]'s forests renew the air that [deity0_possessive] people breathe, and give the boughs under which they shelter, and is the larder in which they forage.</li>
@@ -1252,8 +1252,8 @@
     <li>victory(tag=meme_TreeConnection)         ->[founderName] нашел [foeLeader] спящим в [place_powerCenter] и поместил желудь на грудь [foeLeader]. С яростной силой [deity0_name] он укоренился там, прорастая через тело [foeLeader_possessive], мстя за убийцу деревьев.</li>
     <li>setup(tag=meme_TreeConnection)           ->В мире, лишенном глубины и смысла, [founderName] медитировал в лесу, соединяясь с ветвью, корнем и листом, и основал наше движение.</li>
     <li>story(uses=1,tag=meme_TreeConnection)    ->[founderName] привел усталых в лес, чтобы они могли отдохнуть в его тени, подышать его воздухом и обновиться.</li>
-    <li>lessonIntro(tag=meme_TreeConnection)         ->Сказать, что я узнал об этом, сидя под деревом, вам может показаться шуткой. Но, слушая его шепот листьев, я знал, что</li>
-    <li>lesson(tag=meme_TreeConnection)              ->ни одно существо во вселенной не знает больше, чем деревья</li>
+    <li>lessonIntro(tag=meme_TreeConnection)         ->Сказать, что я узнал об этом, сидя под деревом, вам может показаться шуткой. Но, слушая его шепот листьев, я знал, что </li>
+    <li>lesson(tag=meme_TreeConnection)              ->ни одно существо во вселенной не знает больше, чем деревья </li>
     <li>lessonReinforcement(tag=meme_TreeConnection) ->Пусть это семя истины прорастет и принесет свои плоды в вашей душе.</li>
     <li>archistBasis(tag=meme_TreeConnection)    ->Деревья символизируют архотеков. Подобно древнему дубу, они затмевают маленький желудь, из которого выросли, и их влияние распространяется через невидимые корни под поверхностью.</li>
     <li>archistFact(tag=meme_TreeConnection)     ->Архотеки развили свои экстрасенсорные способности после открытия древа анимы.</li>
@@ -1301,8 +1301,8 @@
     <li>memeLeaderNoun->дендролог</li>
     <li>memeLeaderNoun->неодруид</li>
     <li>memeLeaderAdjective->зеленый</li>
-    <li>memeLeaderAdjective->корень</li>
-    <li>memeLeaderAdjective->навес</li>
+    <li>memeLeaderAdjective->коренной</li>
+    <li>memeLeaderAdjective->навесной</li>
     <li>memeMoralist->древоискатель</li>
   </TreeConnection.generalRules.rulesStrings>
   
@@ -1344,8 +1344,8 @@
     <li>dangerousMining->ядерный взрыв</li>
     <li>setup(tag=meme_Tunneler)           ->В поверхностном и бессмысленном мире [founderName] медитировал в глубокой пещере, нашел смысл и основал наше движение.</li>
     <li>story(uses=1,tag=meme_Tunneler)    ->[founderName] спрятал сокровища в глубоких пещерах, чтобы [memberNamePlural] научился копать их глубоко.</li>
-    <li>lessonIntro(tag=meme_Tunneler)         ->Кодекс, который я нашел в Городе Бездны, преподал мне один урок, превыше всех остальных:</li>
-    <li>lesson(tag=meme_Tunneler)              ->солнечный свет на открытом воздухе - это не место расцвета человека, а место человеческой смерти</li>
+    <li>lessonIntro(tag=meme_Tunneler)         ->Кодекс, который я нашел в Городе Бездны, преподал мне один урок, превыше всех остальных: </li>
+    <li>lesson(tag=meme_Tunneler)              ->солнечный свет на открытом воздухе - это не место расцвета человека, а место человеческой смерти </li>
     <li>lessonReinforcement(tag=meme_Tunneler) ->Так что бери лопату и начинай копать вместе со мной. Это будет только могила, если мы остановимся.</li>
     <li>archistBasis(tag=meme_Tunneler)    ->Тела архотех находятся глубоко под землей, поэтому их сознательный субстрат защищен от гамма - лучей и солнечных вспышек. Копание глубже приближает людей к ним.</li>
     <li>archistFact(tag=meme_Tunneler)     ->Архотеки создали для нас биоинженерный нутрифунгус, чтобы человечество могло процветать под землей, рядом с погребенными умами архотех.</li>

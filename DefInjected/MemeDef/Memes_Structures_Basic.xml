@@ -19,22 +19,22 @@
   <Structure_Animist.generalRules.rulesStrings>
 	<li>memeLeaderNoun->викарий</li>
     <li>memeLeaderNoun->оратор</li>
-    <li>memeLeaderAdjective->вселенная</li>
-    <li>memeLeaderAdjective->дух</li>
-    <li>memeLeaderAdjective->анима</li>
+    <li>memeLeaderAdjective->бесконечный</li>
+    <li>memeLeaderAdjective->духовный</li>
+    <li>memeLeaderAdjective->животный</li>
     <li>memeHyphenPrefix->ани</li>
     <li>memeMoralist->шаман</li>
     <li>memeMoralist->священник</li>
     <li>memeMoralist->старейшина</li>
   </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.adjective>анимист</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.adjective>животный</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.member>анимист</Structure_Animist.symbolPacks.0.member>
   <!-- EN: animism -->
   <Structure_Animist.symbolPacks.0.theme>анимизм</Structure_Animist.symbolPacks.0.theme>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.adjective>спиритист</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_Animist.symbolPacks.1.adjective>спиритистический</Structure_Animist.symbolPacks.1.adjective>
   <!-- EN: spiritist -->
   <Structure_Animist.symbolPacks.1.member>спиритист</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
@@ -62,8 +62,8 @@
     <li>memeMoralist->abbot</li>
   -->
   <Structure_Archist.generalRules.rulesStrings>
-	<li>memeAdjective->архик</li>
-    <li>memeAdjective->архотехника</li>
+	<li>memeAdjective->архикный</li>
+    <li>memeAdjective->архотехничный</li>
     <li>memeAdjective->архонический</li>
     <li>memeHyphenPrefix->архо</li>
     <li>memeHyphenPrefix->арка</li>
@@ -77,7 +77,7 @@
     <li>memeMoralist->аббат</li>
   </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>архотехника</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>архотехничный</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
   <Structure_Archist.symbolPacks.0.ideoName>Архотехника</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
@@ -85,7 +85,7 @@
   <!-- EN: archotechnology -->
   <Structure_Archist.symbolPacks.0.theme>архотехнология</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.adjective>архивист</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>архивистный</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
   <Structure_Archist.symbolPacks.1.ideoName>Архизм</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
@@ -166,7 +166,7 @@
   <!-- EN: ethics -->
   <Structure_Ideological.symbolPacks.0.theme>этика</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>идеологические</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>идеологический</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
   <Structure_Ideological.symbolPacks.1.ideoName>Идеология</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
@@ -257,7 +257,7 @@
   <!-- EN: faith -->
   <Structure_TheistAbstract.symbolPacks.1.theme>вера</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
-  <Structure_TheistAbstract.symbolPacks.2.adjective>прорицатель</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <Structure_TheistAbstract.symbolPacks.2.adjective>прорицательный</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
   <Structure_TheistAbstract.symbolPacks.2.ideoName>Богословие</Structure_TheistAbstract.symbolPacks.2.ideoName>
   <!-- EN: divinist -->
@@ -265,15 +265,15 @@
   <!-- EN: divinity -->
   <Structure_TheistAbstract.symbolPacks.2.theme>божественность</Structure_TheistAbstract.symbolPacks.2.theme>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.adjective>holyist</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <Structure_TheistAbstract.symbolPacks.3.adjective>святой</Structure_TheistAbstract.symbolPacks.3.adjective>
   <!-- EN: Holyism -->
-  <Structure_TheistAbstract.symbolPacks.3.ideoName>Holyism</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>Святоизм</Structure_TheistAbstract.symbolPacks.3.ideoName>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.member>holyist</Structure_TheistAbstract.symbolPacks.3.member>
+  <Structure_TheistAbstract.symbolPacks.3.member>святой</Structure_TheistAbstract.symbolPacks.3.member>
   <!-- EN: holiness -->
-  <Structure_TheistAbstract.symbolPacks.3.theme>holiness</Structure_TheistAbstract.symbolPacks.3.theme>
+  <Structure_TheistAbstract.symbolPacks.3.theme>святость</Structure_TheistAbstract.symbolPacks.3.theme>
   <!-- EN: temple -->
-  <Structure_TheistAbstract.worshipRoomLabel>temple</Structure_TheistAbstract.worshipRoomLabel>
+  <Structure_TheistAbstract.worshipRoomLabel>храм</Structure_TheistAbstract.worshipRoomLabel>
   
   <!-- EN: embodied theist -->
   <Structure_TheistEmbodied.label>воплощенный теист</Structure_TheistEmbodied.label>

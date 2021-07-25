@@ -15,12 +15,12 @@
     <li>itIsSaid->We know</li>
   -->
   <AnimistDescription.rules.rulesStrings>
-    <li>animistBasis   ->Вселенная-это бесконечный цикл созидания и разрушения, управляемый духами в аспектах окружающего нас мира.</li>
+    <li>animistBasis   ->Вселенная - это бесконечный цикл созидания и разрушения, управляемый духами в аспектах окружающего нас мира.</li>
     <li>animistBasis   ->Параллельная вселенная духов находится рядом с нашей собственной. Кажущийся неодушевленным объект в этой вселенной соответствует одушевленному духу в другой.</li>
     <li>animistFact    ->Каждый дух обладает сущностной природой и стремится влиять на мир. Иногда это влияние полезно, а иногда вредно.</li>
     <li>animistProphecy->[itIsSaid], что дух великого [relic0_name] однажды дарует своему обладателю власть над всеми духами.</li>
     <li>animistProphecy->[itIsSaid], что спящий путешественник со звезд рухнет на землю, и дух кратера разбудит путешественника, который поднимет последнее племя.</li>
-    <li>itIsSaid->Это сказано</li>
+    <li>itIsSaid->Говорят</li>
     <li>itIsSaid->Это предсказано</li>
     <li>itIsSaid->В древнем тексте говорится</li>
     <li>itIsSaid->В нашей книге говорится</li>
@@ -82,7 +82,7 @@
     <li>story(priority=-999)-></li>
     <li>setup->В разрушенном мире [founderName] увидел все, что было неправильно, и создал наше движение.</li>
     <li>setup->Пораженный неправильностью мира, [founderName] изучал историю и философию и открыл новую истину, которая ведет нас.</li>
-    <li>setup->Однажды во время работы [founderName] на него снизошло великое прозрение. [founder_pronoun] бросил инструменты [founder_possessive] и начал распространять [founder_possessive] среди других работников.</li>
+    <li>setup->Однажды во время работы [founderName] на него снизошло великое озарение. [founder_pronoun] бросил инструменты [founder_possessive] и начал распространять [founder_possessive] среди других работников.</li>
     <li>setup->[founderName] двадцать лет просидел на скамейке в парке, пока [founderName] размышлял о нашем мире. С [founder_possessive] пониманием [founder_pronoun] написал нашу основополагающую книгу.</li>
     <li>story(uses=1,priority=-10)->[memberNamePlural] не смог бы понять истинную природу [memeConcept] без учения [founderName].</li>
     <li>story(uses=1,priority=-10)->Речь [founderName] о [ritualName] вдохновила многих вести [memeAdjective] жизнь.</li>
@@ -192,17 +192,17 @@
     <li>conferenceType->Форум</li>
     <li>speech->Речь</li>
     <li>speech->Обращение</li>
-    <li>lessonIntro->Один урок был самым трудным для моих последователей, чтобы принять его:</li>
-    <li>lessonIntro->Моим величайшим преступлением было так долго не понимать, что</li>
-    <li>lessonIntro->Моя борьба с [foeLeader] казалась бесконечной. Но это научило меня одной вещи:</li>
-    <li>lessonIntro->Даже будучи ребенком на [place_summary] [place_name], я знал, что</li>
-    <li>lessonIntro->Во время школьного урока в [place_community] ученик бросил [thrownObject], и это ударило меня по голове. Именно тогда я понял, что</li>
-    <li>lessonIntro->Я говорю это не для того, чтобы вы могли жить той жизнью, которой жил я, но чтобы вы могли научиться тому, чему научился я. Тот</li>
-    <li>lessonIntro->Как только доктор закончил [doctor_possessive] ужасную работу, я, наконец, понял, что</li>
-    <li>lessonIntro->По мере того как с каждым годом проходило [place_summary] [place_name], становилось все более очевидным одно: что</li>
-    <li>lessonIntro->Оглядываясь назад, я жалею, что не понял этого раньше - что</li>
-    <li>lessonIntro->Они все казались такими потерянными. Я сказал им, что</li>
-    <li>lessonIntro->Они взывали о руководстве. Я показал им, что</li>
+    <li>lessonIntro->Один урок был самым трудным для моих последователей, чтобы принять его: </li>
+    <li>lessonIntro->Моим величайшим преступлением было так долго не понимать, что </li>
+    <li>lessonIntro->Моя борьба с [foeLeader] казалась бесконечной. Но это научило меня одной вещи: </li>
+    <li>lessonIntro->Даже будучи ребенком на [place_summary] [place_name], я знал, что </li>
+    <li>lessonIntro->Во время школьного урока в [place_community] ученик бросил [thrownObject], и это ударило меня по голове. Именно тогда я понял, что </li>
+    <li>lessonIntro->Я говорю это не для того, чтобы вы могли жить той жизнью, которой жил я, но чтобы вы могли научиться тому, чему научился я. Тот </li>
+    <li>lessonIntro->Как только доктор закончил [doctor_possessive] ужасную работу, я, наконец, понял, что </li>
+    <li>lessonIntro->По мере того как с каждым годом проходило [place_summary] [place_name], становилось все более очевидным одно: что </li>
+    <li>lessonIntro->Оглядываясь назад, я жалею, что не понял этого раньше - что </li>
+    <li>lessonIntro->Они все казались такими потерянными. Я сказал им, что </li>
+    <li>lessonIntro->Они взывали о руководстве. Я показал им, что </li>
     <li>thrownObject->книгу</li>
     <li>thrownObject->сэндвич</li>
     <li>thrownObject->игрушку [place_personalWeapon]</li>
@@ -271,9 +271,9 @@
     <li>revelationAdverb->в кошмарном сне</li>
     <li>revelationAdverb->в форме [Animal]</li>
     <li>revelationAdverb->как нищий</li>
-    <li>revelationObject->скрытый [NaturalObject]</li>
-    <li>revelationObject->светящийся [Vegetable]</li>
-    <li>revelationObject->древнее [Weapon]</li>
+    <li>revelationObject->незримым [NaturalObject]</li>
+    <li>revelationObject->светящимся [Vegetable]</li>
+    <li>revelationObject->древним [Weapon]</li>
   </TheistFounder.rules.rulesStrings>
   
   <!-- EN:

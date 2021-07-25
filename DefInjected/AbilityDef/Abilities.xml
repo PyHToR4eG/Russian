@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>Животное спокойствие</AnimalCalm.label>
+  <AnimalCalm.label>Животноей умиротворение</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
   <AnimalCalm.description>Используйте уникальные методы общения с животными, чтобы успокоить обезумевшего зверя.</AnimalCalm.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully calmed<x> {RECIPIENT_labelShort}</x>. -->
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} успешно успокоен {RECIPIENT_labelShort}.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>берсерковый транс</BerserkTrance.label>
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
   <!-- EN: The caster fills himself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
   <BerserkTrance.description>Заклинатель наполняет себя гневом из-за идеологических обид. Это укрепляет тело сверх нормальных пределов, но также означает потерю контроля и атаку на каждого врага поблизости в неудержимой ярости. Состояние берсерка продлится 3 часа.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>боевая команда</CombatCommand.label>
+  <CombatCommand.label>боевое командование</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
   <CombatCommand.description>Создает ауру, которая повышает боевые навыки всех, кто находится поблизости. Эффект длится 24 часа и остается привязанным к лидеру в течение всего времени.</CombatCommand.description>
   
@@ -26,16 +26,16 @@
   <!-- EN: convert -->
   <Convert.label>обращение</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-  <Convert.description>Попытайтесь обратить кого - то в идеологию говорящего. Это снизит уверенность объекта в его собственных убеждениях. Снижение определенности зависит от способности говорящего вести переговоры.</Convert.description>
+  <Convert.description>Попытайтесь обратить кого-то в идеологию говорящего. Это снизит уверенность объекта в его собственных убеждениях. Снижение определенности зависит от способности говорящего вести переговоры.</Convert.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>failed to convert<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> was upset by the attempt, but<x> {RECIPIENT_possessive} </x>certainty fell from<x> {CERTAINTYBEFORE} </x>to<x> {CERTAINTYAFTER}</x>. -->
   <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} был расстроен этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>has converted<x> {RECIPIENT_labelShort} </x>to<x> {IDEO}</x>. -->
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} обратил {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
-  <Counsel.label>Совет</Counsel.label>
+  <Counsel.label>Консультация</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-  <Counsel.description>Предложите человеку совет, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
+  <Counsel.description>Предложите человеку консультацию, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>botched the attempt to counsel<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> has become upset. -->
   <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} неудачно попытался посоветовать {RECIPIENT_labelShort}. {RECIPIENT_labelShort} расстроился.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, canceling the mood impact of<x> {2}</x>. -->
@@ -44,12 +44,12 @@
   <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно посоветовал {RECIPIENT_labelShort}, повышая {RECIPIENT_possessive} настроение {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>фермерская команда</FarmingCommand.label>
+  <FarmingCommand.label>аграрная команда</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <FarmingCommand.description>Предложите рекомендации по методам ведения сельского хозяйства, повышая возможности ведения сельского хозяйства для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
-  <ImmunityDrive.label>Заряд иммунитета</ImmunityDrive.label>
+  <ImmunityDrive.label>Укрепление иммунитета</ImmunityDrive.label>
   <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
   <ImmunityDrive.description>Предложите моральную поддержку, которая заряжает организм энергией, повышая чей-то иммунитет на один день.</ImmunityDrive.description>
   

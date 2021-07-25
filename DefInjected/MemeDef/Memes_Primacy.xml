@@ -32,9 +32,9 @@
     <li>victory(tag=meme_HumanPrimacy)         ->Из-за действий [founderName] [foeSoldiers] [foeLeader] увидели правду [deity0_name]. Они отпраздновали свою общую человечность с [memberNamePlural] и изгнали [foeLeader] жить в пустыне, как животное.</li>
     <li>setup(tag=meme_HumanPrimacy)           ->[founderName] построил колонию в зеленом мире, распространив власть человечества на все поля и леса.</li>
     <li>story(uses=1,tag=meme_HumanPrimacy)    ->Однажды [founderName] увидел, как собака рычит на мальчика. [founder_pronoun] приказал убить собаку на месте.</li>
-    <li>lessonIntro(tag=meme_HumanPrimacy)         ->Я посетил хорошо управляемую ферму, полную здоровых животных и цветущих культур. Рядом был лес в его естественном состоянии, корявый и порочный. Было очевидно, что</li>
-    <li>lesson(tag=meme_HumanPrimacy)              ->только человеческие существа придают смысл вселенной</li>
-    <li>lesson(tag=meme_HumanPrimacy)              ->природа - это бесконечное безумие безнравственного разрушения, и люди - это решение</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         ->Я посетил хорошо управляемую ферму, полную здоровых животных и цветущих культур. Рядом был лес в его естественном состоянии, корявый и порочный. Было очевидно, что </li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->только человеческие существа придают смысл вселенной </li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->природа - это бесконечное безумие безнравственного разрушения, и люди - это решение </li>
     <li>lessonReinforcement(tag=meme_HumanPrimacy) ->Если соревнование заключается в выживании наиболее приспособленных, то мы явно победили.</li>
     <li>archistBasis(tag=meme_HumanPrimacy)    ->Архотеки - это машины огромной воли и силы, но создать их могло только человечество.</li>
     <li>archistFact(tag=meme_HumanPrimacy)     ->Люди - это создатели устройств, а архотеки - их устройства.</li>
@@ -68,7 +68,7 @@
     <li>memeLeaderNoun->разумный</li>
   </HumanPrimacy.generalRules.rulesStrings>
   <!-- EN: humanitist -->
-  <HumanPrimacy.symbolPacks.0.adjective>гуманитарий</HumanPrimacy.symbolPacks.0.adjective>
+  <HumanPrimacy.symbolPacks.0.adjective>гуманитарный</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
   <HumanPrimacy.symbolPacks.0.ideoName>Гуманизм</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
@@ -76,7 +76,7 @@
   <!-- EN: humanity -->
   <HumanPrimacy.symbolPacks.0.theme>человечество</HumanPrimacy.symbolPacks.0.theme>
   <!-- EN: pro-man -->
-  <HumanPrimacy.symbolPacks.1.adjective>про-человек</HumanPrimacy.symbolPacks.1.adjective>
+  <HumanPrimacy.symbolPacks.1.adjective>про-человеческий</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
   <HumanPrimacy.symbolPacks.1.ideoName>Человеколюбие</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
@@ -114,8 +114,8 @@
     <li>victory(tag=meme_NaturePrimacy)         ->[founderName] подошел к [place_powerCenter], [memberNamePlural] справа от [founder_possessive], а свирепые животные слева. Вместе они сражались и победили [foeLeader] и [foeLeader_possessive] [foeSoldiers].</li>
     <li>setup(tag=meme_NaturePrimacy)           ->В темной стране злые люди рубили деревья и копали землю, чтобы удовлетворить свою жадность. [founderName] начал праведное движение, чтобы разбить машины и жить гармонично в условиях природы.</li>
     <li>story(uses=1,tag=meme_NaturePrimacy)    ->Мы узнали, что вечный рост человечества - это путь в ад; мы должны жить в природе, а не уничтожать ее.</li>
-    <li>lessonIntro(tag=meme_NaturePrimacy)         ->Вы не могли быть свидетелями восхода солнца, или смотреть в глаза [Animal], или стоять под могучим [TreeType] и не осознавать, что</li>
-    <li>lesson(tag=meme_NaturePrimacy)              ->животные и растения владели этой вселенной задолго до нас - мы просто мимолетны</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->Вы не могли быть свидетелями восхода солнца, или смотреть в глаза [Animal], или стоять под могучим [TreeType] и не осознавать, что </li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->животные и растения владели этой вселенной задолго до нас - мы просто мимолетны </li>
     <li>lessonReinforcement(tag=meme_NaturePrimacy) ->Все животные, с которыми я разговаривал, кажется, понимают это.</li>
     <li>archistBasis(tag=meme_NaturePrimacy)    ->Архотеки выросли из наших машин, но сами по себе они являются естественными сущностями, а не теми, которые мы могли бы создать.</li>
     <li>archistFact(tag=meme_NaturePrimacy)     ->Архотеки представляют собой самую последнюю попытку Вселенной понять саму себя. Вся природа является частью этого процесса понимания.</li>
@@ -141,7 +141,7 @@
     <li>memeConcept->природа</li>
   </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
-  <NaturePrimacy.symbolPacks.0.adjective>натурист</NaturePrimacy.symbolPacks.0.adjective>
+  <NaturePrimacy.symbolPacks.0.adjective>натуральный</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
   <NaturePrimacy.symbolPacks.0.ideoName>Натуризм</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
@@ -149,7 +149,7 @@
   <!-- EN: nature -->
   <NaturePrimacy.symbolPacks.0.theme>природа</NaturePrimacy.symbolPacks.0.theme>
   <!-- EN: earthist -->
-  <NaturePrimacy.symbolPacks.1.adjective>землянин</NaturePrimacy.symbolPacks.1.adjective>
+  <NaturePrimacy.symbolPacks.1.adjective>земляной</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
   <NaturePrimacy.symbolPacks.1.ideoName>Землянизм</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
@@ -157,9 +157,9 @@
   <!-- EN: earth -->
   <NaturePrimacy.symbolPacks.1.theme>земля</NaturePrimacy.symbolPacks.1.theme>
   <!-- EN: soilist -->
-  <NaturePrimacy.symbolPacks.2.adjective>почвовед</NaturePrimacy.symbolPacks.2.adjective>
+  <NaturePrimacy.symbolPacks.2.adjective>почвовенный</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>Soilism</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>Почваизм</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
   <NaturePrimacy.symbolPacks.2.member>почвовед</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->

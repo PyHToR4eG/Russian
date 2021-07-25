@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: dancing. -->
-  <Dance.reportString>танцы.</Dance.reportString>
+  <Dance.reportString>танцует.</Dance.reportString>
   
   <!-- EN: eating at TargetA. -->
-  <EatAtCannibalPlatter.reportString>ест в TargetA.</EatAtCannibalPlatter.reportString>
+  <EatAtCannibalPlatter.reportString>ест TargetA.</EatAtCannibalPlatter.reportString>
   
   <!-- EN: relaxing socially. -->
-  <GotoAndBeSociallyActive.reportString>расслабляюсь в обществе.</GotoAndBeSociallyActive.reportString>
+  <GotoAndBeSociallyActive.reportString>социально расслабляется.</GotoAndBeSociallyActive.reportString>
   
   <!-- EN: making a skylantern. -->
-  <PrepareSkylantern.reportString>изготовление небесного фонаря.</PrepareSkylantern.reportString>
+  <PrepareSkylantern.reportString>изготавливает фонарик.</PrepareSkylantern.reportString>
   
 </LanguageData>

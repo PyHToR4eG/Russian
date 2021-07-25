@@ -9,9 +9,9 @@
   <GauranlenPodSpawn.letterText>Поблизости пророс стручок Гауранлена!\n\nСоберите урожай, чтобы собрать семя Гауранлена. Это специальное семя может быть использовано для посадки величественного дерева Гауранлен.\n\nВаши колонисты могут соединиться с деревьями Гауранлен и заставить их порождать ресурсы и полезных дриад, чтобы работать или сражаться за вас.</GauranlenPodSpawn.letterText>
   
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.label>прибывают попрошайки</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.label>прибывают нищие</GiveQuest_Beggars.label>
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.letterLabel>прибывают попрошайки</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_Beggars.letterLabel>прибывают нищие</GiveQuest_Beggars.letterLabel>
   
   <!-- EN: pilgrims arrive -->
   <GiveQuest_ReliquaryPilgrims.label>прибывают паломники</GiveQuest_ReliquaryPilgrims.label>

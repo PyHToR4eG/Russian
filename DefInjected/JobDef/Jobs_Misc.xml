@@ -2,60 +2,60 @@
 <LanguageData>
   
   <!-- EN: invoking archotech. -->
-  <ActivateArchonexusCore.reportString>вызываю архотех.</ActivateArchonexusCore.reportString>
+  <ActivateArchonexusCore.reportString>вызывает архотех.</ActivateArchonexusCore.reportString>
   
   <!-- EN: Blinding TargetA. -->
-  <Blind.reportString>Ослепляющая TargetA.</Blind.reportString>
+  <Blind.reportString>Ослепляет TargetA.</Blind.reportString>
   
   <!-- EN: carrying TargetA to biosculpter pod. -->
-  <CarryToBiosculpterPod.reportString>переносим TargetA в капсулу биоскульптора.</CarryToBiosculpterPod.reportString>
+  <CarryToBiosculpterPod.reportString>переносит TargetA в капсулу биоскульптора.</CarryToBiosculpterPod.reportString>
   
   <!-- EN: delivering TargetA to altar. -->
-  <DeliverToAltar.reportString>доставка TargetA к алтарю.。</DeliverToAltar.reportString>
+  <DeliverToAltar.reportString>доставляет TargetA к алтарю.</DeliverToAltar.reportString>
   
   <!-- EN: dyeing hair -->
-  <DyeHair.reportString>окрашивание волос</DyeHair.reportString>
+  <DyeHair.reportString>окрашивает волосы</DyeHair.reportString>
   
   <!-- EN: entering biosculpter pod. -->
-  <EnterBiosculpterPod.reportString>входим в капсулу биоскульптора.</EnterBiosculpterPod.reportString>
+  <EnterBiosculpterPod.reportString>погружается в капсулу биоскульптора.</EnterBiosculpterPod.reportString>
   
   <!-- EN: extracting TargetB from TargetA. -->
-  <ExtractRelic.reportString>извлечение TargetB из TargetA.</ExtractRelic.reportString>
+  <ExtractRelic.reportString>извлекает TargetB из TargetA.</ExtractRelic.reportString>
   
   <!-- EN: extracting TargetA to inventory. -->
-  <ExtractToInventory.reportString>извлечение TargetA в инвентарь.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>извлекает TargetA в инвентарь.</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>получение нейронного заряда от TargetA</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>разгоняет нейроны от TargetA</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
-  <GiveToPawn.reportString>передача TargetA TargetB.</GiveToPawn.reportString>
+  <GiveToPawn.reportString>передает TargetA TargetB.</GiveToPawn.reportString>
   
   <!-- EN: inducing TargetA to rebel. -->
-  <InduceSlaveToRebel.reportString>побуждение TargetA к мятежу.</InduceSlaveToRebel.reportString>
+  <InduceSlaveToRebel.reportString>побуждает TargetA к мятежу.</InduceSlaveToRebel.reportString>
   
   <!-- EN: installing TargetA in TargetB -->
-  <InstallRelic.reportString>установка TargetA в TargetB</InstallRelic.reportString>
+  <InstallRelic.reportString>устанавливает TargetA в TargetB</InstallRelic.reportString>
   
   <!-- EN: praying. -->
-  <MeditatePray.reportString>молиться.</MeditatePray.reportString>
+  <MeditatePray.reportString>молится.</MeditatePray.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <OpenStylingStationDialog.reportString>изменение стиля в TargetA.</OpenStylingStationDialog.reportString>
+  <OpenStylingStationDialog.reportString>меняет стиль в TargetA.</OpenStylingStationDialog.reportString>
   
   <!-- EN: recoloring apparel -->
-  <RecolorApparel.reportString>перекраска одежды</RecolorApparel.reportString>
+  <RecolorApparel.reportString>перекрашивает одежду</RecolorApparel.reportString>
   
   <!-- EN: Sacrificing TargetA. -->
-  <Sacrifice.reportString>Жертвуя TargetA.</Sacrifice.reportString>
+  <Sacrifice.reportString>Приносит TargetA в жертву.</Sacrifice.reportString>
   
   <!-- EN: Scarifying TargetA. -->
-  <Scarify.reportString>Скарифицирующая TargetA.</Scarify.reportString>
+  <Scarify.reportString>Шрамирует TargetA.</Scarify.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStation.reportString>изменение стиля в TargetA.</UseStylingStation.reportString>
+  <UseStylingStation.reportString>меняет стиль в TargetA.</UseStylingStation.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStationAutomatic.reportString>изменение стиля в TargetA.</UseStylingStationAutomatic.reportString>
+  <UseStylingStationAutomatic.reportString>меняет стиль в TargetA.</UseStylingStationAutomatic.reportString>
   
 </LanguageData>

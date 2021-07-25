@@ -31,8 +31,8 @@
     <li>victory(tag=meme_Collectivist)         ->Действия [founderName] сплотили людей. Они двинулись в ногу к дому [foeLeader]. Те, что были впереди, позволили [foeSoldiers] убить себя, но всех не остановить, и они схватили [foeLeader].</li>
     <li>setup(tag=meme_Collectivist)           ->В мире, где каждый сам за себя, [founderName] основал новую семью незнакомцев, объединив множество разных людей.</li>
     <li>story(uses=1,tag=meme_Collectivist)    ->Некоторые из ложных верующих пытались нарушить правила и выбрать свой собственный путь. [founderName] сурово наказал их.</li>
-    <li>lessonIntro(tag=meme_Collectivist)     ->[place_job] прекратил вносить свой вклад, но продолжал есть из обычного склада. Я убил его [place_personalWeapon]. Люди были в шоке, но я объяснил, что</li>
-    <li>lesson(tag=meme_Collectivist)              ->моя смерть, как и твоя, ничего не будет значить, пока наши люди продолжают</li>
+    <li>lessonIntro(tag=meme_Collectivist)     ->[place_job] прекратил вносить свой вклад, но продолжал есть из обычного склада. Я убил его [place_personalWeapon]. Люди были в шоке, но я объяснил, что </li>
+    <li>lesson(tag=meme_Collectivist)              ->моя смерть, как и твоя, ничего не будет значить, пока наши люди продолжают </li>
     <li>lessonReinforcement(tag=meme_Collectivist) ->Если я умру, обучая этому Вселенную, это будет моим величайшим триумфом.</li>
     <li>archistBasis(tag=meme_Collectivist)    ->Архотеки-это все аспекты одного сверхразума.</li>
     <li>archistFact(tag=meme_Collectivist)     ->Архотеки не заинтересованы в том, чтобы судить нас поодиночке. Они ждут единственного народа, который сможет продемонстрировать наше достоинство, действуя морально как один.</li>
@@ -72,25 +72,25 @@
     <li>memeMoralist->комиссар</li>
   </Collectivist.generalRules.rulesStrings>
   <!-- EN: solidaritist -->
-  <Collectivist.symbolPacks.0.adjective>солидарист</Collectivist.symbolPacks.0.adjective>
+  <Collectivist.symbolPacks.0.adjective>солидарный</Collectivist.symbolPacks.0.adjective>
   <!-- EN: solidaritor -->
-  <Collectivist.symbolPacks.0.member>солидарность</Collectivist.symbolPacks.0.member>
+  <Collectivist.symbolPacks.0.member>солидар</Collectivist.symbolPacks.0.member>
   <!-- EN: soldiarity -->
-  <Collectivist.symbolPacks.0.theme>soldiarity</Collectivist.symbolPacks.0.theme>
+  <Collectivist.symbolPacks.0.theme>солидарность</Collectivist.symbolPacks.0.theme>
   <!-- EN: unitary -->
   <Collectivist.symbolPacks.1.adjective>унитарный</Collectivist.symbolPacks.1.adjective>
   <!-- EN: unitist -->
-  <Collectivist.symbolPacks.1.member>юнитист</Collectivist.symbolPacks.1.member>
+  <Collectivist.symbolPacks.1.member>унитист</Collectivist.symbolPacks.1.member>
   <!-- EN: unity -->
   <Collectivist.symbolPacks.1.theme>единство</Collectivist.symbolPacks.1.theme>
   <!-- EN: harmonist -->
-  <Collectivist.symbolPacks.2.adjective>гармонист</Collectivist.symbolPacks.2.adjective>
+  <Collectivist.symbolPacks.2.adjective>гармоничный</Collectivist.symbolPacks.2.adjective>
   <!-- EN: harmonist -->
   <Collectivist.symbolPacks.2.member>гармонист</Collectivist.symbolPacks.2.member>
   <!-- EN: harmony -->
   <Collectivist.symbolPacks.2.theme>гармония</Collectivist.symbolPacks.2.theme>
   <!-- EN: oneist -->
-  <Collectivist.symbolPacks.3.adjective>онеист</Collectivist.symbolPacks.3.adjective>
+  <Collectivist.symbolPacks.3.adjective>единый</Collectivist.symbolPacks.3.adjective>
   <!-- EN: oneist -->
   <Collectivist.symbolPacks.3.member>онеист</Collectivist.symbolPacks.3.member>
   <!-- EN: oneness -->
@@ -128,8 +128,8 @@
     <li>victory(tag=meme_Individualist)         ->[memberNamePlural] собрался на секретную конференцию со множеством  [foeSoldiers]. Все они научились ценить друг друга и отказались от [foeLeader].</li>
     <li>setup(tag=meme_Individualist)           ->Под давлением далеких правителей, требовавших от народа единого повиновения, [founderName] создал повстанческое движение, которое разгромило государство и построило на его месте новую землю свободы.</li>
     <li>story(uses=1,tag=meme_Individualist)    ->[founderName] нарушил все социальные правила, которые пытались навязать угнетатели, просто чтобы показать, что [founder_pronoun] может.</li>
-    <li>lessonIntro(tag=meme_Individualist)         ->Моя семья, мой клан, моя команда - все они пытались прикрыть мне глаза пеленой, чтобы я не увидел простой факт:</li>
-    <li>lesson(tag=meme_Individualist)              ->каждый человек уникален и ценен и должен идти своим собственным путем</li>
+    <li>lessonIntro(tag=meme_Individualist)         ->Моя семья, мой клан, моя команда - все они пытались прикрыть мне глаза пеленой, чтобы я не увидел простой факт: </li>
+    <li>lesson(tag=meme_Individualist)              ->каждый человек уникален и ценен и должен идти своим собственным путем </li>
     <li>lessonReinforcement(tag=meme_Individualist) ->Но это был только мой путь - Каким будет твой?</li>
     <li>archistBasis(tag=meme_Individualist)    ->Архотеки выступают как суверенные сознания и одинаково признают и судят каждого из нас в отдельности.</li>
     <li>archistFact(tag=meme_Individualist)     ->После смерти архотеки исследуют уникальную мораль каждого человека.</li>
@@ -155,13 +155,13 @@
     <li>memeConcept->свобода</li>
   </Individualist.generalRules.rulesStrings>
   <!-- EN: freedomist -->
-  <Individualist.symbolPacks.0.adjective>сторонник свободы</Individualist.symbolPacks.0.adjective>
+  <Individualist.symbolPacks.0.adjective>свободолюбивый</Individualist.symbolPacks.0.adjective>
   <!-- EN: freeist -->
-  <Individualist.symbolPacks.0.member>халявщик</Individualist.symbolPacks.0.member>
+  <Individualist.symbolPacks.0.member>свободолюб</Individualist.symbolPacks.0.member>
   <!-- EN: freedom -->
   <Individualist.symbolPacks.0.theme>независимость</Individualist.symbolPacks.0.theme>
   <!-- EN: libertine -->
-  <Individualist.symbolPacks.1.adjective>распутник</Individualist.symbolPacks.1.adjective>
+  <Individualist.symbolPacks.1.adjective>свободный</Individualist.symbolPacks.1.adjective>
   <!-- EN: Libertism -->
   <Individualist.symbolPacks.1.ideoName>Либертизм</Individualist.symbolPacks.1.ideoName>
   <!-- EN: libertor -->
@@ -177,11 +177,11 @@
   <!-- EN: independence -->
   <Individualist.symbolPacks.2.theme>независимость</Individualist.symbolPacks.2.theme>
   <!-- EN: autonomist -->
-  <Individualist.symbolPacks.3.adjective>автономист</Individualist.symbolPacks.3.adjective>
+  <Individualist.symbolPacks.3.adjective>автономный</Individualist.symbolPacks.3.adjective>
   <!-- EN: Autonomism -->
   <Individualist.symbolPacks.3.ideoName>Автономизм</Individualist.symbolPacks.3.ideoName>
   <!-- EN: autonomor -->
-  <Individualist.symbolPacks.3.member>автономность</Individualist.symbolPacks.3.member>
+  <Individualist.symbolPacks.3.member>автоном</Individualist.symbolPacks.3.member>
   <!-- EN: autonomy -->
   <Individualist.symbolPacks.3.theme>автономия</Individualist.symbolPacks.3.theme>
   

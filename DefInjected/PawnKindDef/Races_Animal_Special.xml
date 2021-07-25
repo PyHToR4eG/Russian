@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: barkskin dryad -->
-  <Dryad_Barkskin.label>баркскин дриада</Dryad_Barkskin.label>
+  <Dryad_Barkskin.label>древошкурная дриада</Dryad_Barkskin.label>
   
   <!-- EN: immature dryad -->
   <Dryad_Basic.label>незрелая дриада</Dryad_Basic.label>
@@ -14,15 +14,15 @@
   <Dryad_Carrier.label>дриада-носитель</Dryad_Carrier.label>
   
   <!-- EN: clawer dryad -->
-  <Dryad_Clawer.label>clawer дриада</Dryad_Clawer.label>
+  <Dryad_Clawer.label>гоготь дриада</Dryad_Clawer.label>
   
   <!-- EN: gaumaker dryad -->
-  <Dryad_Gaumaker.label>gaumaker дриада</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.label>гаумакер дриада</Dryad_Gaumaker.label>
   
   <!-- EN: medicinemaker dryad -->
   <Dryad_Medicinemaker.label>лекарственная дриада</Dryad_Medicinemaker.label>
   
   <!-- EN: woodmaker dryad -->
-  <Dryad_Woodmaker.label>древоносная дриада</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.label>древесная дриада</Dryad_Woodmaker.label>
   
 </LanguageData>

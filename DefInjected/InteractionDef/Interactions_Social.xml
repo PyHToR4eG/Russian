@@ -29,16 +29,16 @@
   </ConvertIdeoAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: failed counsel -->
-  <Counsel_Failure.label>неудачный совет</Counsel_Failure.label>
+  <Counsel_Failure.label>неудачная консультация</Counsel_Failure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to counsel [RECIPIENT_nameDef], but botched the attempt and made things worse.</li>
   -->
   <Counsel_Failure.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] попытался посоветоваться [RECIPIENT_nameDef], но провалил попытку и сделал все еще хуже.</li>
+	<li>r_logentry->[INITIATOR_nameDef] попытался проконсультировать [RECIPIENT_nameDef], но провалил попытку и сделал все еще хуже.</li>
   </Counsel_Failure.logRulesInitiator.rulesStrings>
   
   <!-- EN: successful counsel -->
-  <Counsel_Success.label>успешный совет</Counsel_Success.label>
+  <Counsel_Success.label>успешная консультация</Counsel_Success.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] counseled [RECIPIENT_nameDef] on [problems].</li>
     <li>r_logentry->[INITIATOR_nameDef] helped [RECIPIENT_nameDef] think through [problems].</li>
@@ -74,16 +74,16 @@
 	</PreachHealth.logRulesInitiator.rulesStrings>
   
   <!-- EN: reassurance -->
-  <Reassure.label>заверение</Reassure.label>
+  <Reassure.label>убеждение</Reassure.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] reinforced [RECIPIENT_nameDef]'s beliefs.</li>
   -->
   <Reassure.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] укрепило убеждения [RECIPIENT_nameDef].</li>
+	<li>r_logentry->[INITIATOR_nameDef] укрепил [RECIPIENT_nameDef] вероучение.</li>
 	</Reassure.logRulesInitiator.rulesStrings>
   
   <!-- EN: accuse -->
-  <Trial_Accuse.label>обвинять</Trial_Accuse.label>
+  <Trial_Accuse.label>обвиняет</Trial_Accuse.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] presented some evidence.</li>
     <li>r_logentry->[INITIATOR_nameDef] appealed to the emotions of the spectators.</li>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>берсерковый транс</BerserkTrance.label>
+  <BerserkTrance.label>транс берсерка</BerserkTrance.label>
   <!-- EN: Driven by fierce moral certainty and stories of ideoligious grievance, this person has driven him or herself into a rage. Every muscle is at peak performance, but it's hard to shut down the anger. -->
   <BerserkTrance.description>Движимый яростной моральной уверенностью и историями об идеологических обидах, этот человек привел себя в ярость. Каждая мышца работает на пике, но трудно подавить гнев.</BerserkTrance.description>
   
@@ -17,17 +17,17 @@
   <CombatCommandBuff.description>Боевые способности повышаются благодаря тому, что вы находитесь рядом с кем-то, кто использует способность боевого командования.</CombatCommandBuff.description>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>фермерская команда</FarmingCommand.label>
+  <FarmingCommand.label>аграрная команда</FarmingCommand.label>
   <!-- EN: This person is offering guidance on farming techniques, boosting the farming abilities for everyone nearby. -->
   <FarmingCommand.description>Этот человек предлагает рекомендации по методам ведения сельского хозяйства, повышая возможности ведения сельского хозяйства для всех, кто находится поблизости.</FarmingCommand.description>
   
   <!-- EN: farming command -->
-  <FarmingCommandBuff.label>фермерская команда</FarmingCommandBuff.label>
+  <FarmingCommandBuff.label>аграрная команда</FarmingCommandBuff.label>
   <!-- EN: This person's farming abilities are boosted thanks to being near someone who is using the farming command ability. -->
   <FarmingCommandBuff.description>Фермерские способности этого человека повышаются благодаря тому, что он находится рядом с кем-то, кто использует способность управлять фермерством.</FarmingCommandBuff.description>
   
   <!-- EN: immunity drive -->
-  <ImmunityDrive.label>Заряд иммунитета</ImmunityDrive.label>
+  <ImmunityDrive.label>Укрепение иммунитета</ImmunityDrive.label>
   <!-- EN: This person has received moral support of an ideoligious nature. Their mental certainty has energized their body and boosted their immune system. -->
   <ImmunityDrive.description>Этот человек получил моральную поддержку идеологического характера. Их ментальная уверенность зарядила энергией их тело и укрепила их иммунную систему.</ImmunityDrive.description>
   

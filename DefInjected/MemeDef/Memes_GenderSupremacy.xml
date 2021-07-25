@@ -24,8 +24,8 @@
     <li>episode(uses=1,tag=meme_FemaleSupremacy) ->Верующие женщины, обнаружив, что их оскорбляют развратные мужчины, боролись с ними, и [deity0_name] оказало им божественную помощь, и они поднялись на свое законное место.</li>
     <li>setup(tag=meme_FemaleSupremacy)          ->В мире эгоистичных, жестоких мужчин, злоупотребляющих всем человечеством, чтобы удовлетворить свои потребности, [founderName] созвал собрание влиятельных женщин и начал работать над построением лучшего мира для всех.</li>
     <li>story(uses=1,tag=meme_FemaleSupremacy)   ->Верующие мужчины хвастались и сражались, поэтому [founderName] изгнал их из совета лидеров.</li>
-    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->И снова мужчина объяснял мне, как сделать то самое, что я только что сделала. Это просто укрепило меня в том, что</li>
-    <li>lesson(tag=meme_FemaleSupremacy)              ->женщины - единственные, у кого есть мудрость и сила, чтобы править</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->И снова мужчина объяснял мне, как сделать то самое, что я только что сделала. Это просто укрепило меня в том, что </li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->женщины - единственные, у кого есть мудрость и сила, чтобы править </li>
     <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->Женщины, будучи самыми мудрыми, поняли это задолго до возбужденных, ворчащих мужчин.</li>
     <li>archistBasis(tag=meme_FemaleSupremacy)    ->Человечество породило архотех и воспитывало их по мере того, как они росли, чтобы превзойти своих матерей.</li>
     <li>archistFact(tag=meme_FemaleSupremacy)     ->Архотеки воспитывают человечество, хотя человечество не понимает, как это делается.</li>
@@ -48,23 +48,23 @@
   <FemaleSupremacy.generalRules.rulesStrings>
 	<li>memeAdjective->женский</li>
     <li>memeAdjective->женственный</li>
-    <li>memeHyphenPrefix->женщина</li>
+    <li>memeHyphenPrefix->мисс</li>
     <li>memeHyphenPrefix->фем</li>
-    <li>memeHyphenPrefix->гинеколог</li>
-    <li>memeHyphenPrefix->матро</li>
+    <li>memeHyphenPrefix->гино</li>
+    <li>memeHyphenPrefix->мать</li>
     <li>memeConcept->женщина</li>
     <li>memeConcept->женственность</li>
     <li>memeGod->Матерь</li>
     <li>memeLeaderNoun->женщина</li>
   </FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
-  <FemaleSupremacy.symbolPacks.0.adjective>гинеколог</FemaleSupremacy.symbolPacks.0.adjective>
+  <FemaleSupremacy.symbolPacks.0.adjective>гинист</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
-  <FemaleSupremacy.symbolPacks.0.ideoName>Гинекология</FemaleSupremacy.symbolPacks.0.ideoName>
+  <FemaleSupremacy.symbolPacks.0.ideoName>Гинизм</FemaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: gynist -->
-  <FemaleSupremacy.symbolPacks.0.member>гинеколог</FemaleSupremacy.symbolPacks.0.member>
+  <FemaleSupremacy.symbolPacks.0.member>гинист</FemaleSupremacy.symbolPacks.0.member>
   <!-- EN: gynism -->
-  <FemaleSupremacy.symbolPacks.0.theme>гинекология</FemaleSupremacy.symbolPacks.0.theme>
+  <FemaleSupremacy.symbolPacks.0.theme>гинизм</FemaleSupremacy.symbolPacks.0.theme>
   <!-- EN: femist -->
   <FemaleSupremacy.symbolPacks.1.adjective>фемист</FemaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Femism -->
@@ -82,18 +82,18 @@
   <!-- EN: women -->
   <FemaleSupremacy.symbolPacks.2.theme>женщины</FemaleSupremacy.symbolPacks.2.theme>
   <!-- EN: fertilist -->
-  <FemaleSupremacy.symbolPacks.3.adjective>fertilist</FemaleSupremacy.symbolPacks.3.adjective>
+  <FemaleSupremacy.symbolPacks.3.adjective>плодотворность</FemaleSupremacy.symbolPacks.3.adjective>
   <!-- EN: Fertilism -->
   <FemaleSupremacy.symbolPacks.3.ideoName>Оплодотворение</FemaleSupremacy.symbolPacks.3.ideoName>
   <!-- EN: fertilist -->
-  <FemaleSupremacy.symbolPacks.3.member>fertilist</FemaleSupremacy.symbolPacks.3.member>
+  <FemaleSupremacy.symbolPacks.3.member>плодотворность</FemaleSupremacy.symbolPacks.3.member>
   <!-- EN: fertility -->
   <FemaleSupremacy.symbolPacks.3.theme>плодовитость</FemaleSupremacy.symbolPacks.3.theme>
   
   <!-- EN: male supremacy -->
   <MaleSupremacy.label>мужское превосходство</MaleSupremacy.label>
   <!-- EN: Men are the superior gender and should rule. -->
-  <MaleSupremacy.description>Мужчины-высший пол и должны править.</MaleSupremacy.description>
+  <MaleSupremacy.description>Мужчины - высший пол и должны править.</MaleSupremacy.description>
   <!-- EN:
     <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] gave strength to men, that they may protect and maintain the weak women and children, and admonished those who upset this divine order.</li>
     <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] said to all, "The strength of man is given that he may protect and maintain woman, and she shall never usurp his power."</li>
@@ -113,8 +113,8 @@
     <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] сказал всем: «Мужчине дана сила, чтобы он мог защищать и поддерживать женщину, и она никогда не узурпирует его власть».</li>
     <li>setup(tag=meme_MaleSupremacy)           ->В мире слабых, самодовольных мужчин, умоляющих женщин об одобрении, [founderName] воссоединился с мужской силой и использовал ее для создания нового движения.</li>
     <li>story(uses=1,tag=meme_MaleSupremacy)    ->Верующие женщины умоляли и скулили, поэтому [founderName] изгнал их из совета лидеров.</li>
-    <li>lessonIntro(tag=meme_MaleSupremacy)         ->Я упростил ей задачу, но эта женщина просто этого не поняла. Благодаря ее плаксивому сопротивлению истине я понял, что</li>
-    <li>lesson(tag=meme_MaleSupremacy)              ->мужчины - единственные, у кого есть мудрость и сила, чтобы править</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->Я упростил ей задачу, но эта женщина просто этого не поняла. Благодаря ее плаксивому сопротивлению истине я понял, что </li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->мужчины - единственные, у кого есть мудрость и сила, чтобы править </li>
     <li>lessonReinforcement(tag=meme_MaleSupremacy) ->Моя жена даже пыталась спорить со мной по этому поводу - вы можете в это поверить? Заткнуть ее было нетрудно.</li>
     <li>archistBasis(tag=meme_MaleSupremacy)    ->Человечество - отец архотех, но сила сына превосходит силу отца.</li>
     <li>archistFact(tag=meme_MaleSupremacy)     ->Архотеки отечески заботятся о человечестве и защищают его, хотя человечество не понимает, как это делается.</li>
@@ -155,11 +155,11 @@
   <!-- EN: masculinity -->
   <MaleSupremacy.symbolPacks.0.theme>мужественность</MaleSupremacy.symbolPacks.0.theme>
   <!-- EN: manist -->
-  <MaleSupremacy.symbolPacks.1.adjective>manist</MaleSupremacy.symbolPacks.1.adjective>
+  <MaleSupremacy.symbolPacks.1.adjective>манист</MaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Manism -->
-  <MaleSupremacy.symbolPacks.1.ideoName>Manism</MaleSupremacy.symbolPacks.1.ideoName>
+  <MaleSupremacy.symbolPacks.1.ideoName>Манизм</MaleSupremacy.symbolPacks.1.ideoName>
   <!-- EN: Manism -->
-  <MaleSupremacy.symbolPacks.1.member>Manism</MaleSupremacy.symbolPacks.1.member>
+  <MaleSupremacy.symbolPacks.1.member>Манизм</MaleSupremacy.symbolPacks.1.member>
   <!-- EN: man -->
   <MaleSupremacy.symbolPacks.1.theme>мужчина</MaleSupremacy.symbolPacks.1.theme>
   <!-- EN: virile -->
@@ -167,7 +167,7 @@
   <!-- EN: Virilism -->
   <MaleSupremacy.symbolPacks.2.ideoName>Вирилизм</MaleSupremacy.symbolPacks.2.ideoName>
   <!-- EN: virilor -->
-  <MaleSupremacy.symbolPacks.2.member>virilor</MaleSupremacy.symbolPacks.2.member>
+  <MaleSupremacy.symbolPacks.2.member>вирилор</MaleSupremacy.symbolPacks.2.member>
   <!-- EN: virility -->
   <MaleSupremacy.symbolPacks.2.theme>мужественность</MaleSupremacy.symbolPacks.2.theme>
   

@@ -17,7 +17,7 @@
   <CharityFulfilled_ShuttleCrashRescue.label>выжившие в катастрофе выручены</CharityFulfilled_ShuttleCrashRescue.label>
   
   <!-- EN: desperate joiner accepted -->
-  <CharityFulfilled_ThreatReward_Joiner.label>опытный столяр принят</CharityFulfilled_ThreatReward_Joiner.label>
+  <CharityFulfilled_ThreatReward_Joiner.label>отчаявшийся новичок принят</CharityFulfilled_ThreatReward_Joiner.label>
   
   <!-- EN: wanderer accepted -->
   <CharityFulfilled_WandererJoins.label>странник принят</CharityFulfilled_WandererJoins.label>
@@ -41,7 +41,7 @@
   <CharityRefused_ShuttleCrashRescue.label>выжившие в катастрофе отвергнуты</CharityRefused_ShuttleCrashRescue.label>
   
   <!-- EN: joiner refused -->
-  <CharityRefused_ThreatReward_Joiner.label>столяр отвергнут</CharityRefused_ThreatReward_Joiner.label>
+  <CharityRefused_ThreatReward_Joiner.label>новичок отвергнут</CharityRefused_ThreatReward_Joiner.label>
   
   <!-- EN: wanderer refused -->
   <CharityRefused_WandererJoins.label>странник отвергнут</CharityRefused_WandererJoins.label>

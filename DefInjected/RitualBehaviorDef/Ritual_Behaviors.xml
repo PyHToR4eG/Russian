@@ -4,7 +4,7 @@
   <!-- EN: target -->
   <BlindingCeremony.roles.0.label>цель</BlindingCeremony.roles.0.label>
   <!-- EN: the person to blind -->
-  <BlindingCeremony.roles.0.missingDesc>человека ослепить</BlindingCeremony.roles.0.missingDesc>
+  <BlindingCeremony.roles.0.missingDesc>ослеплять человека</BlindingCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
   <BlindingCeremony.roles.1.label>резак</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
@@ -39,7 +39,7 @@
   <!-- EN: speaker -->
   <Conversion.roles.0.label>оратор</Conversion.roles.0.label>
   <!-- EN: convertee -->
-  <Conversion.roles.1.label>конвертируемый</Conversion.roles.1.label>
+  <Conversion.roles.1.label>обращенный</Conversion.roles.1.label>
   <!-- EN: Prisoner is not reachable. -->
   <Conversion.stages.0.failTriggers.0.desc>Заключенный недоступен.</Conversion.stages.0.failTriggers.0.desc>
   

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: barkskin dryad -->
-  <Dryad_Barkskin.label>барскин дриады</Dryad_Barkskin.label>
+  <Dryad_Barkskin.label>древошкур дриады</Dryad_Barkskin.label>
   <!-- EN: A dryad caste specialized in absorbing hits during combat. Barkskin dryads are covered by a thick bark-like hide which is partly formed by the Gauranlen tree itself. Under human influence, it can act as a damage-absorbing fighter.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <Dryad_Barkskin.description>Каста дриад специализировалась на поглощении ударов во время боя. Дриады из шкуры коры покрыты толстой корой, похожей на шкуру, которая частично образована самим деревом Гауранлен. Под воздействием человека он может действовать как поглотитель урона.\n\nВ целом, дриады-это млекопитающие, похожие на существ, которые имеют симбиотические отношения с деревом Гауранлен. Они размножаются вместе со своим деревом, в котором содержится скрытая королева дриад. Дриады могут превращаться в различные специализированные касты.</Dryad_Barkskin.description>
   <!-- EN: left claw -->
@@ -79,7 +79,7 @@
   <Dryad_Medicinemaker.tools.head.label>голова</Dryad_Medicinemaker.tools.head.label>
   
   <!-- EN: woodmaker dryad -->
-  <Dryad_Woodmaker.label>woodmaker дриада</Dryad_Woodmaker.label>
+  <Dryad_Woodmaker.label>древесная дриада</Dryad_Woodmaker.label>
   <!-- EN: A slow, bumbling caste of dryad which specializes in wood production. Together with its Gauranlen tree, this dryad can generate a wood-like material on an ongoing basis. However, it is slow and ineffective at work or combat.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
   <Dryad_Woodmaker.description>Медленная, неуклюжая каста дриад, специализирующаяся на производстве древесины. Вместе со своим деревом Гауранлен эта дриада может на постоянной основе генерировать древесный материал. Однако это медленно и неэффективно на работе или в бою.\n\nВ целом, дриады-это млекопитающие, похожие на существ, которые имеют симбиотические отношения с деревом Гауранлен. Они размножаются вместе со своим деревом, в котором содержится скрытая королева дриад. Дриады могут превращаться в различные специализированные касты.</Dryad_Woodmaker.description>
   <!-- EN: left claw -->

@@ -10,8 +10,15 @@
     <li>cultureLeaderAdjective->grand</li>
     <li>cultureLeaderNoun->chief</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>TODO</LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+  <LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+	<li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->великолепный</li>
+    <li>cultureLeaderAdjective->старший</li>
+    <li>cultureLeaderAdjective->первый</li>
+    <li>cultureLeaderAdjective->великий</li>
+    <li>cultureLeaderNoun->вождь</li>
+  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderAdjective->high</li>
@@ -23,8 +30,16 @@
     <li>cultureLeaderNoun->governor</li>
     <li>cultureLeaderNoun->leader</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>TODO</LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+  <LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+	<li>cultureLeaderAdjective->старший</li>
+    <li>cultureLeaderAdjective->великолепный</li>
+    <li>cultureLeaderAdjective->первый</li>
+    <li>cultureLeaderAdjective->главный</li>
+    <li>cultureLeaderNoun->президент</li>
+    <li>cultureLeaderNoun->директор</li>
+    <li>cultureLeaderNoun->губернатор</li>
+    <li>cultureLeaderNoun->лидер</li>
+  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</li>
@@ -32,8 +47,12 @@
     <li>r_leaderTitle(p=1)->[memeLeaderAdjective] [cultureLeaderNoun]</li>
     <li>r_leaderTitle(p=1)->[cultureLeaderTitle]</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>TODO</LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+  <LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+	<li>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=3)->[cultureLeaderAdjective] [memeLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[memeLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>r_leaderTitle(p=1)->[cultureLeaderTitle]</li>
+  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
   
   <!-- EN:
     <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
@@ -47,8 +66,18 @@
     <li>cultureLeaderNoun->gun</li>
     <li>cultureLeaderNoun->dog</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>TODO</LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+  <LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+	<li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
+    <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->большой</li>
+    <li>cultureLeaderAdjective->лучший</li>
+    <li>cultureLeaderAdjective->полноправный</li>
+    <li>cultureLeaderNoun->босс</li>
+    <li>cultureLeaderNoun->бандит</li>
+    <li>cultureLeaderNoun->шишка</li>
+    <li>cultureLeaderNoun->пушка</li>
+    <li>cultureLeaderNoun->псина</li>
+  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
@@ -60,13 +89,22 @@
     <li>cultureLeaderNoun->guide</li>
     <li>cultureLeaderNoun->steersman</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>TODO</LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+  <LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+	<li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
+    <li>cultureLeaderAdjective->главный</li>
+    <li>cultureLeaderAdjective->первый</li>
+    <li>cultureLeaderNoun->советник</li>
+    <li>cultureLeaderNoun->лидер</li>
+    <li>cultureLeaderNoun->министр</li>
+    <li>cultureLeaderNoun->проводник</li>
+    <li>cultureLeaderNoun->рулевой</li>
+  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_leaderTitle->high stellarch</li>
+    <li>r_leaderTitle->высший стелларх</li>
   -->
-  <!-- EN: TODO -->
-  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>TODO</LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+  <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+	<li>r_leaderTitle->high stellarch</li>
+  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
   
 </LanguageData>

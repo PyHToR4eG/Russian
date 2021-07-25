@@ -17,7 +17,21 @@
     <li>ritNoun->gashing</li>
     <li>ritNoun->rend</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRitualMutilation.rulePack.rulesStrings>TODO</NamerRitualMutilation.rulePack.rulesStrings>
+  <NamerRitualMutilation.rulePack.rulesStrings>
+	<li>r_ritualName->[ritNoun] [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] [memeConcept]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->увечье</li>
+    <li>ritNoun->резка</li>
+    <li>ritNoun->нарезка</li>
+    <li>ritNoun->чистка</li>
+    <li>ritNoun->лезвие</li>
+    <li>ritNoun->разрыв</li>
+    <li>ritNoun->искажение</li>
+    <li>ritNoun->резьба по плоти</li>
+    <li>ritNoun->запил</li>
+    <li>ritNoun->разрывание</li>
+  </NamerRitualMutilation.rulePack.rulesStrings>
   
 </LanguageData>

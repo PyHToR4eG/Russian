@@ -18,7 +18,22 @@
     <li>funeral->requiem</li>
     <li>funeral->sepulture</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRitualFuneral.rulePack.rulesStrings>TODO</NamerRitualFuneral.rulePack.rulesStrings>
+  <NamerRitualFuneral.rulePack.rulesStrings>
+	<li>r_ritualName(p=2)->[memeAdjective] [funeral]</li>
+    <li>r_ritualName->[funeral] [chosenTheme]</li>
+    <li>r_ritualName->[chosenAdjective] [funeral]</li>
+    <li>r_ritualName->[keyDeity] [funeral]</li>
+    <li>r_ritualName->[funeral] [keyDeity]</li>
+    <li>r_ritualName->[funeral] [memeConcept]</li>
+    <li>r_ritualName->[funeral] [chosenIdeoName]</li>
+    <li>funeral->похороны</li>
+    <li>funeral->траур</li>
+    <li>funeral->надгробная речь</li>
+    <li>funeral->захоронение</li>
+    <li>funeral->погребение</li>
+    <li>funeral->ингумация</li>
+    <li>funeral->панихида</li>
+    <li>funeral->сепультура</li>
+  </NamerRitualFuneral.rulePack.rulesStrings>
   
 </LanguageData>

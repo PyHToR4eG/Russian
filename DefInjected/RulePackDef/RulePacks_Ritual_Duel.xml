@@ -12,7 +12,16 @@
     <li>ritNoun->brawl</li>
     <li>ritNoun->contest</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRitualGladiatorDuel.rulePack.rulesStrings>TODO</NamerRitualGladiatorDuel.rulePack.rulesStrings>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings>
+	<li>r_ritualName->[ritNoun] [keyDeity]</li>
+    <li>r_ritualName->[ritNoun] [chosenTheme]</li>
+    <li>r_ritualName->[ritNoun] [memeConcept]</li>
+    <li>r_ritualName->[memeAdjective] [ritNoun]</li>
+    <li>ritNoun->битва</li>
+    <li>ritNoun->дуэль</li>
+    <li>ritNoun->сражение</li>
+    <li>ritNoun->драка</li>
+    <li>ritNoun->борьба</li>
+  </NamerRitualGladiatorDuel.rulePack.rulesStrings>
   
 </LanguageData>

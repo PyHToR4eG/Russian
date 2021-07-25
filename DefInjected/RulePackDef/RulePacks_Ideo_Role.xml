@@ -15,8 +15,20 @@
     <li>secondPart(p=4)->kin</li>
     <li>secondPart(p=4)->touch</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>TODO</NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+  <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+	<li>r_roleName->создатель</li>
+    <li>r_roleName->животное</li>
+    <li>firstPart->мехо</li>
+    <li>firstPart->лапа</li>
+    <li>firstPart->копыто</li>
+    <li>firstPart->хвост</li>
+    <li>firstPart->усико</li>
+    <li>firstPart->клыко</li>
+    <li>firstPart->дико</li>
+    <li>firstPart->мордо</li>
+    <li>secondPart(p=4)->родный</li>
+    <li>secondPart(p=4)->трог</li>
+  </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->berserker</li>
@@ -34,8 +46,22 @@
     <li>firstPart->smash</li>
     <li>firstPart->crush</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleBrawler.rulePack.rulesStrings>TODO</NamerRoleBrawler.rulePack.rulesStrings>
+  <NamerRoleBrawler.rulePack.rulesStrings>
+	<li>r_roleName->берсеркер</li>
+    <li>firstPart->порез</li>
+    <li>firstPart->кулак</li>
+    <li>firstPart->синяк</li>
+    <li>firstPart->лезвие</li>
+    <li>firstPart->дебош</li>
+    <li>firstPart->сустав</li>
+    <li>firstPart->копье</li>
+    <li>firstPart->меч</li>
+    <li>firstPart->дубина</li>
+    <li>firstPart->ребро</li>
+    <li>firstPart->разрез</li>
+    <li>firstPart->разгром</li>
+    <li>firstPart->давка</li>
+  </NamerRoleBrawler.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->health</li>
@@ -47,8 +73,16 @@
     <li>firstPart->surgo</li>
     <li>firstPart->clinic</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleMedicalSpecialist.rulePack.rulesStrings>TODO</NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+  <NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+	<li>firstPart->медик</li>
+    <li>firstPart->лекарь</li>
+    <li>firstPart->кардиолог</li>
+    <li>firstPart->врач</li>
+    <li>firstPart->хирург</li>
+    <li>firstPart->санитар</li>
+    <li>firstPart->доктор</li>
+    <li>firstPart->терапевт</li>
+  </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->spelunker</li>
@@ -66,8 +100,22 @@
     <li>firstPart->tunnel</li>
     <li>firstPart->crack</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleMiner.rulePack.rulesStrings>TODO</NamerRoleMiner.rulePack.rulesStrings>
+  <NamerRoleMiner.rulePack.rulesStrings>
+	<li>r_roleName->спелеолог</li>
+    <li>firstPart->шахтер</li>
+    <li>firstPart->бездна</li>
+    <li>firstPart->пучина</li>
+    <li>firstPart->скала</li>
+    <li>firstPart->пещера</li>
+    <li>firstPart->кирка</li>
+    <li>firstPart->бур</li>
+    <li>firstPart->низший</li>
+    <li>firstPart->камень</li>
+    <li>firstPart->гора</li>
+    <li>firstPart->нора</li>
+    <li>firstPart->труба</li>
+    <li>firstPart->трещина</li>
+  </NamerRoleMiner.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=4)->[memeMoralist]</li>
@@ -79,8 +127,16 @@
     <li>r_roleName->[chosenAdjective] [memeMoralist]</li>
     <li>r_roleName->[keyDeity]'s [memeMoralist]</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleMoralist.rulePack.rulesStrings>TODO</NamerRoleMoralist.rulePack.rulesStrings>
+  <NamerRoleMoralist.rulePack.rulesStrings>
+	<li>r_roleName(p=4)->[memeMoralist]</li>
+    <li>r_roleName(p=2)->[memeAdjective] [memeMoralist]</li>
+    <li>r_roleName->[memeMoralist] [chosenTheme]</li>
+    <li>r_roleName->[memeMoralist] [keyDeity]</li>
+    <li>r_roleName->[memeMoralist] [memeConcept]</li>
+    <li>r_roleName->[memeMoralist] [chosenIdeoName]</li>
+    <li>r_roleName->[chosenAdjective] [memeMoralist]</li>
+    <li>r_roleName->[memeMoralist] [keyDeity]</li>
+  </NamerRoleMoralist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->manufactor</li>
@@ -92,8 +148,16 @@
     <li>firstPart->manu</li>
     <li>firstPart->make</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleProductionSpecialist.rulePack.rulesStrings>TODO</NamerRoleProductionSpecialist.rulePack.rulesStrings>
+  <NamerRoleProductionSpecialist.rulePack.rulesStrings>
+	<li>r_roleName->производитель</li>
+    <li>r_roleName->мастер</li>
+    <li>r_roleName->разработчик</li>
+    <li>firstPart->работа</li>
+    <li>firstPart->ремесло</li>
+    <li>firstPart->сборка</li>
+    <li>firstPart->ману</li>
+    <li>firstPart->модель</li>
+  </NamerRoleProductionSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->highmind</li>
@@ -107,8 +171,18 @@
     <li>firstPart->cogito</li>
     <li>firstPart->idea</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleResearcher.rulePack.rulesStrings>TODO</NamerRoleResearcher.rulePack.rulesStrings>
+  <NamerRoleResearcher.rulePack.rulesStrings>
+	<li>r_roleName->высокий разум</li>
+    <li>r_roleName->мыслитель</li>
+    <li>r_roleName->философ</li>
+    <li>r_roleName->ученик</li>
+    <li>firstPart->ум</li>
+    <li>firstPart->мысль</li>
+    <li>firstPart->внимание</li>
+    <li>firstPart->нейро</li>
+    <li>firstPart->когито</li>
+    <li>firstPart->идея</li>
+  </NamerRoleResearcher.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->gun</li>
@@ -122,8 +196,18 @@
     <li>firstPart->shoot</li>
     <li>secondPart(p=4)->slinger</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleShooter.rulePack.rulesStrings>TODO</NamerRoleShooter.rulePack.rulesStrings>
+  <NamerRoleShooter.rulePack.rulesStrings>
+	<li>firstPart->пушка</li>
+    <li>firstPart->выстрел</li>
+    <li>firstPart->триггер</li>
+    <li>firstPart->пуля</li>
+    <li>firstPart->гильза</li>
+    <li>firstPart->прицел</li>
+    <li>firstPart->снайпер</li>
+    <li>firstPart->точка</li>
+    <li>firstPart->расстрел</li>
+    <li>secondPart(p=4)->пращник</li>
+  </NamerRoleShooter.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->fertilizer</li>
@@ -142,8 +226,23 @@
     <li>firstPart->soil</li>
     <li>firstPart->root</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleSower.rulePack.rulesStrings>TODO</NamerRoleSower.rulePack.rulesStrings>
+  <NamerRoleSower.rulePack.rulesStrings>
+	<li>r_roleName->удобрение</li>
+    <li>firstPart->лист</li>
+    <li>firstPart->растение</li>
+    <li>firstPart->зелень</li>
+    <li>firstPart->росток</li>
+    <li>firstPart->сад</li>
+    <li>firstPart->флора</li>
+    <li>firstPart->трава</li>
+    <li>firstPart->урожай</li>
+    <li>firstPart->ферма</li>
+    <li>firstPart->земля</li>
+    <li>firstPart->грязь</li>
+    <li>firstPart->семя</li>
+    <li>firstPart->почва</li>
+    <li>firstPart->корень</li>
+  </NamerRoleSower.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
@@ -172,7 +271,32 @@
     <li>secondPart->izer</li>
     <li>secondPart->iner</li>
   -->
-  <!-- EN: TODO -->
-  <NamerRoleSpecialistUtility.rulePack.rulesStrings>TODO</NamerRoleSpecialistUtility.rulePack.rulesStrings>
+  <NamerRoleSpecialistUtility.rulePack.rulesStrings>
+	<li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>secondPart->мастер</li>
+    <li>secondPart->кратер</li>
+    <li>secondPart->пламя</li>
+    <li>secondPart->сознание</li>
+    <li>secondPart->голова</li>
+    <li>secondPart->глаз</li>
+    <li>secondPart->рука</li>
+    <li>secondPart->функция</li>
+    <li>secondPart->мозг</li>
+    <li>secondPart->держатель</li>
+    <li>secondPart->приносящий</li>
+    <li>secondPart->болтун</li>
+    <li>secondPart->оратор</li>
+    <li>secondPart->знающий</li>
+    <li>secondPart->любовник</li>
+    <li>secondPart->клиент</li>
+    <li>secondPart->единица</li>
+    <li>secondPart->дерзость</li>
+    <li>secondPart->итор</li>
+    <li>secondPart->инор</li>
+    <li>secondPart->алор</li>
+    <li>secondPart->ор</li>
+    <li>secondPart->изер</li>
+    <li>secondPart->инер</li>
+  </NamerRoleSpecialistUtility.rulePack.rulesStrings>
   
 </LanguageData>

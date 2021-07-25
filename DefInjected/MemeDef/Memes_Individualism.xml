@@ -23,7 +23,7 @@
     <li>animistFact(tag=meme_Collectivist)     ->Every spirit is simply an aspect of all the others, and those that try to stand alone are fall quickly.</li>
   -->
   <Collectivist.descriptionMaker.rules.rulesStrings>
-	<li>creation(tag=meme_Collectivist)        ->[deity0_name] создал всех мужчин и женщин из огромной формы, а те, кто отклонился [deity0_pronoun], бросили в огонь, чтобы верующие могли жить в гармонии.</li>
+	<li>creation(tag=meme_Collectivist)        ->[deity0_name] создал всех мужчин и женщин из огромной формы, а тех, кто отклонился, [deity0_pronoun] бросил в огонь, чтобы верующие могли жить в гармонии.</li>
     <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] сказал всем: «Никто из вас не стоит выше целого. Работайте вместе или погибните вместе».</li>
     <li>intro(tag=meme_Collectivist)           ->Люди [place_summary] [place_name] работали вместе в гармонии и построили великий [altarName] в честь [deity0_name], который научил их истинной ценности [memeConcept].</li>
     <li>conflict(tag=meme_Collectivist)        ->[foeLeader] не мог оставаться в семье [memberNamePlural] и отправил [foeLeader_possessive] [foeSoldiers] в [place_community], чтобы разделить их.</li>

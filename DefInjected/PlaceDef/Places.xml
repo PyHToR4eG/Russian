@@ -77,7 +77,7 @@
     <li>place_job->забияка</li>
     <li>place_personalWeapon->трубная винтовка</li>
     <li>place_personalWeapon->лом-меч</li>
-    <li>place_massWeapon->утилизированная ядерная бомба</li>
+    <li>place_massWeapon->утилизированную ядерную бомбу</li>
     <li>place_massWeapon->вирус ржавчины</li>
     <li>place_foeLeader->повелитель мусора</li>
     <li>place_foeSoldiers->металлисты</li>
@@ -119,7 +119,7 @@
     <li>place_personalWeapon->мотыга</li>
     <li>place_personalWeapon->гидравлический арбалет</li>
     <li>place_massWeapon->[seismicDevice]</li>
-    <li>place_massWeapon->бомба с черным порохом</li>
+    <li>place_massWeapon->бомбу с черным порохом</li>
     <li>place_foeLeader->старатель</li>
     <li>place_foeSoldiers->глубокоземные пехотинцы</li>
   </Boccocarro.placeRules.rulesStrings>
@@ -159,7 +159,7 @@
     <li>place_job->мусорщик</li>
     <li>place_personalWeapon->песчаная стрела</li>
     <li>place_personalWeapon->дубокактус</li>
-    <li>place_massWeapon->песчаная буря, вызванная архотехом</li>
+    <li>place_massWeapon->песчаную бурю, вызванную архотехом</li>
     <li>place_massWeapon->нашествие шиповников</li>
     <li>place_foeLeader->шеф</li>
     <li>place_foeSoldiers->песчаные воины</li>
@@ -204,8 +204,8 @@
     <li>place_job->пилот шаттла</li>
     <li>place_personalWeapon->автопистолет</li>
     <li>place_personalWeapon->LMG</li>
-    <li>place_massWeapon->ядерная ракета, установленная на плече</li>
-    <li>place_massWeapon->орбитальная бомбардировка</li>
+    <li>place_massWeapon->ядерную ракету, установленную на плече</li>
+    <li>place_massWeapon->орбитальную бомбардировку</li>
     <li>place_massWeapon->химические бомбы</li>
     <li>place_massWeapon->взломанные механоиды</li>
     <li>place_foeLeader->военачальник</li>
@@ -252,7 +252,7 @@
     <li>place_personalWeapon->коса</li>
     <li>place_massWeapon->бомбы с удобрениями</li>
     <li>place_massWeapon->оружейный распылитель пестицидов</li>
-    <li>place_massWeapon->космическая линза</li>
+    <li>place_massWeapon->космическую линзу</li>
     <li>place_foeLeader->землевладелец</li>
     <li>place_foeSoldiers->ополченецы</li>
   </Filson.placeRules.rulesStrings>
@@ -292,8 +292,8 @@
     <li>place_job->реставратор артефактов</li>
     <li>place_personalWeapon->лом-меч</li>
     <li>place_personalWeapon->зазубренный кинжал</li>
-    <li>place_massWeapon->откопанная ядерная бомба</li>
-    <li>place_massWeapon->древняя отравляющая бомба</li>
+    <li>place_massWeapon->откопанную ядерню бомбу</li>
+    <li>place_massWeapon->древнюю отравляющую бомбу</li>
     <li>place_foeLeader->крипто-лидер</li>
     <li>place_foeSoldiers->крипто-солдаты</li>
   </Ilwaba.placeRules.rulesStrings>
@@ -336,7 +336,7 @@
     <li>place_personalWeapon->сварочная горелка</li>
     <li>place_massWeapon->аэрозольный токсин</li>
     <li>place_massWeapon->[anEMPAttack]</li>
-    <li>place_massWeapon->вирус саботажа жизнеобеспечения</li>
+    <li>place_massWeapon->вирусом саботажа жизнеобеспечения</li>
     <li>place_foeLeader->гендир мега-корпорации</li>
     <li>place_foeSoldiers->наемники корпорации</li>
   </Iwamura.placeRules.rulesStrings>
@@ -377,9 +377,9 @@
     <li>place_job->конструктор оружия</li>
     <li>place_personalWeapon->газовая бомба</li>
     <li>place_personalWeapon->токсичный огнемет</li>
-    <li>place_massWeapon->ядерные грязные бомбы</li>
+    <li>place_massWeapon->ядерную грязню бомбу</li>
     <li>place_massWeapon->биоинженерная чума</li>
-    <li>place_massWeapon->проникающие токсичные бомбы</li>
+    <li>place_massWeapon->проникающую токсичную бомбу</li>
     <li>place_foeLeader->повелитель ядов</li>
     <li>place_foeSoldiers->ядовитые солдаты</li>
   </Kemia.placeRules.rulesStrings>
@@ -419,8 +419,8 @@
     <li>place_job->пилот шаттла</li>
     <li>place_personalWeapon->вибронож</li>
     <li>place_personalWeapon->зарядный пистолет</li>
-    <li>place_massWeapon->бактерия структурной дезинтеграции</li>
-    <li>place_massWeapon->целеуказатель для орбитальной бомбардировки</li>
+    <li>place_massWeapon->бактерию структурной дезинтеграции</li>
+    <li>place_massWeapon->целеуказателем для орбитальной бомбардировки</li>
     <li>place_foeLeader->король удовольствий</li>
     <li>place_foeSoldiers->блюстители</li>
   </Lutuni.placeRules.rulesStrings>
@@ -504,7 +504,7 @@
     <li>place_personalWeapon->обсидиановый кинжал</li>
     <li>place_personalWeapon->гарпунная винтовка</li>
     <li>place_massWeapon->извержение вулкана, вызванное архитехами</li>
-    <li>place_massWeapon->химическая бомба</li>
+    <li>place_massWeapon->химическую бомбу</li>
     <li>place_foeLeader->повелитель лавы</li>
     <li>place_foeSoldiers->адские солдаты</li>
   </Nuchadus.placeRules.rulesStrings>
@@ -545,7 +545,7 @@
     <li>place_personalWeapon->пила</li>
     <li>place_personalWeapon->иква</li>
     <li>place_massWeapon->смертоносный дрон-экстрасенс</li>
-    <li>place_massWeapon->нейротоксиновая бомба</li>
+    <li>place_massWeapon->нейротоксиновую бомбу</li>
     <li>place_foeLeader->древожнец</li>
     <li>place_foeSoldiers->приспешники</li>
   </Oubanyen.placeRules.rulesStrings>
@@ -627,9 +627,9 @@
     <li>place_job->контрабандист высоких технологий</li>
     <li>place_personalWeapon->зарядное копье</li>
     <li>place_personalWeapon->персональный меч</li>
-    <li>place_massWeapon->боеголовки из антивещества</li>
+    <li>place_massWeapon->боеголовку из антивещества</li>
     <li>place_massWeapon->вооруженный компьютерный вирус</li>
-    <li>place_massWeapon->рабочие-механоиды с дистанционным управлением</li>
+    <li>place_massWeapon->рабочих-механоиды с дистанционным управлением</li>
     <li>place_foeLeader->коррумпированный бюрократ</li>
     <li>place_foeSoldiers->бионические охранники</li>
   </Rogia.placeRules.rulesStrings>
@@ -671,12 +671,12 @@
     <li>place_job->собиратель морской травы</li>
     <li>place_personalWeapon->гарпун</li>
     <li>place_personalWeapon->колючая сетка</li>
-    <li>place_massWeapon->торпеда высокой мощности</li>
-    <li>place_massWeapon->приманка [seaBeast]</li>
+    <li>place_massWeapon->торпеду высокой мощности</li>
+    <li>place_massWeapon->приманку [seaBeast]</li>
     <li>place_foeLeader->адмирал китобоев</li>
     <li>place_foeSoldiers->китобойные пехотинцы</li>
-    <li>seaBeast->глубоководный кракен</li>
-    <li>seaBeast->Вавианский левиафан</li>
+    <li>seaBeast->глубоководныго кракена</li>
+    <li>seaBeast->Вавианского левиафана</li>
   </Wavia.placeRules.rulesStrings>
   
   <!-- EN:
@@ -755,7 +755,7 @@
     <li>place_job->водитель транспортного средства</li>
     <li>place_personalWeapon->заточка</li>
     <li>place_personalWeapon->SMG</li>
-    <li>place_massWeapon->самодельная химическая бомба</li>
+    <li>place_massWeapon->самодельную химическую бомба</li>
     <li>place_massWeapon->орбитальный лазерный удар</li>
     <li>place_foeLeader->тюремный надзиратель</li>
     <li>place_foeSoldiers->продажные охранники</li>
@@ -798,7 +798,7 @@
     <li>place_personalWeapon->бамбуковый посох</li>
     <li>place_personalWeapon->взрывные стрелы</li>
     <li>place_massWeapon->нашествие стада [megaFauna]</li>
-    <li>place_massWeapon->бомба с удобрениями</li>
+    <li>place_massWeapon->бомбу с удобрениями</li>
     <li>place_foeLeader->бивень-король</li>
     <li>place_foeSoldiers->бивни-воины</li>
     <li>megaFauna->анкилозавров</li>

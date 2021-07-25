@@ -11,8 +11,16 @@
     <li>adj->omnipotent</li>
     <li>adj->universal</li>
   -->
-  <!-- EN: TODO -->
-  <DietyTypeMakerAbrahamic.rulePack.rulesStrings>TODO</DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+  <DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+	<li>r_deityType->Создатель [all]</li>
+    <li>r_deityType->[adj] бог</li>
+    <li>all->всего</li>
+    <li>all->всех</li>
+    <li>all->вселенной</li>
+    <li>adj->всесильный</li>
+    <li>adj->всемогущий</li>
+    <li>adj->вселенский</li>
+  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName(p=3)->God</li>
@@ -21,8 +29,13 @@
     <li>r_deityName->[color] Jesus</li>
     <li>r_deityName->[color] Christ</li>
   -->
-  <!-- EN: TODO -->
-  <NamerDeityChristian.rulePack.rulesStrings>TODO</NamerDeityChristian.rulePack.rulesStrings>
+  <NamerDeityChristian.rulePack.rulesStrings>
+	<li>r_deityName(p=3)->Бог</li>
+    <li>r_deityName->Христос-Господь</li>
+    <li>r_deityName->Христос</li>
+    <li>r_deityName->[color] Иисус</li>
+    <li>r_deityName->[color] Христос</li>
+  </NamerDeityChristian.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName(p=8)->Allah</li>
@@ -42,7 +55,23 @@
     <li>r_deityName->Al-Alim</li>
     <li>r_deityName->Al-Hakam</li>
   -->
-  <!-- EN: TODO -->
-  <NamerDeityIslamic.rulePack.rulesStrings>TODO</NamerDeityIslamic.rulePack.rulesStrings>
+  <NamerDeityIslamic.rulePack.rulesStrings>
+	<li>r_deityName(p=8)->Аллах</li>
+    <li>r_deityName->Аль-Илах</li>
+    <li>r_deityName->Ар-Рахман</li>
+    <li>r_deityName->Аль-Малик</li>
+    <li>r_deityName->Аль-Кудус</li>
+    <li>r_deityName->Ас-Салям</li>
+    <li>r_deityName->Al-Mumin</li>
+    <li>r_deityName->Аль-Азиз</li>
+    <li>r_deityName->Аль-Джаббар</li>
+    <li>r_deityName->Аль-Халик</li>
+    <li>r_deityName->Аль-Гаффар</li>
+    <li>r_deityName->Аль-Кахар</li>
+    <li>r_deityName->Аль-Ваххаб</li>
+    <li>r_deityName->Аль-Фаттах</li>
+    <li>r_deityName->Аль-Алим</li>
+    <li>r_deityName->Аль-Хакам</li>
+  </NamerDeityIslamic.rulePack.rulesStrings>
   
 </LanguageData>

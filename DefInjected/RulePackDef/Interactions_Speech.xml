@@ -17,7 +17,21 @@
     <li>praised->heaped glory on</li>
     <li>praised->raved about</li>
   -->
-  <!-- EN: TODO -->
-  <SpeechUtility.rulePack.rulesStrings>TODO</SpeechUtility.rulePack.rulesStrings>
+  <SpeechUtility.rulePack.rulesStrings>
+	<li>spokeof->общался о</li>
+    <li>spokeof->говорил о</li>
+    <li>spokeof->высказал мысли о</li>
+    <li>spokeof->обсуждал</li>
+    <li>spokeof->объяснял</li>
+    <li>spokeof->описал</li>
+    <li>praised->выступил с речью о</li>
+    <li>praised->общался о</li>
+    <li>praised->говорил о</li>
+    <li>praised->хвалил</li>
+    <li>praised->превозносил достоинства</li>
+    <li>praised->приветствовал</li>
+    <li>praised->нахваливал</li>
+    <li>praised->бредил о</li>
+  </SpeechUtility.rulePack.rulesStrings>
   
 </LanguageData>

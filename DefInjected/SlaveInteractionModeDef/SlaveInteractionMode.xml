@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: emancipate -->
-  <Emancipate.label>освободиться</Emancipate.label>
+  <Emancipate.label>освободить</Emancipate.label>
   <!-- EN: A warden will free this slave. -->
   <Emancipate.description>Надзиратель освободит этого раба.</Emancipate.description>
   
@@ -12,7 +12,7 @@
   <Execute.description>Надзиратель казнит этого раба на месте, зарезав.</Execute.description>
   
   <!-- EN: imprison -->
-  <Imprison.label>сажать в тюрьму</Imprison.label>
+  <Imprison.label>посадить в тюрьму</Imprison.label>
   <!-- EN: A warden will imprison this slave. Once imprisoned, they can be recruited, or enslaved once again. -->
   <Imprison.description>Надзиратель посадит этого раба в тюрьму. Попав в тюрьму, они могут быть завербованы или снова обращены в рабство.</Imprison.description>
   

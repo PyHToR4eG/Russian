@@ -4,8 +4,9 @@
   <!-- EN:
     <li>questDescription->You've learned of an ancient complex nearby that is said to contain ancient treasure.\n\nYou can break in to collect the loot inside.\n\nBe warned - these kinds of structures can contain a variety of threats. In addition, your activity at the complex might draw unwanted attention.</li>
   -->
-  <!-- EN: TODO -->
-  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
+	<li>questDescription->Вы узнали о древнем комплексе неподалеку, который, как говорят, содержит древние сокровища.\n\nВы можете проникнуть внутрь, чтобы собрать добычу внутри.\n\nБудьте осторожны - такого рода структуры могут содержать множество угроз. Кроме того, ваша деятельность в комплексе может привлечь нежелательное внимание.</li>
+  </OpportunitySite_AncientComplex.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
     <li>questName->[complex] [finalWord]</li>
@@ -31,7 +32,30 @@
     <li>finalWord->caper</li>
     <li>finalWord->booty</li>
   -->
-  <!-- EN: TODO -->
-  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
+	<li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
+    <li>questName->[complex] [finalWord]</li>
+    <li>complexAdj->секретный</li>
+    <li>complexAdj->таинственный</li>
+    <li>complexAdj->древний</li>
+    <li>complexAdj->старый</li>
+    <li>complexAdj->спрятанный</li>
+    <li>complexAdj->смертоносный</li>
+    <li>complex->комплекс</li>
+    <li>complex->объект</li>
+    <li>complex->строй</li>
+    <li>finalWord->сокровища</li>
+    <li>finalWord->богатства</li>
+    <li>finalWord->клада</li>
+    <li>finalWord->тайника</li>
+    <li>finalWord->лута</li>
+    <li>finalWord->грабежа</li>
+    <li>finalWord->мародерства</li>
+    <li>finalWord->набегов</li>
+    <li>finalWord->воров</li>
+    <li>finalWord->кражи</li>
+    <li>finalWord->каперса</li>
+    <li>finalWord->добычи</li>
+  </OpportunitySite_AncientComplex.questNameRules.rulesStrings>
   
 </LanguageData>

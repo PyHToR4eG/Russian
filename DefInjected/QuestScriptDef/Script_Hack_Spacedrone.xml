@@ -8,8 +8,13 @@
     <li>droneDetectionMethod(enemyFactionNeolithic==true)->spot the drone during its decent</li>
     <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</li>
   -->
-  <!-- EN: TODO -->
-  <Hack_Spacedrone.questDescriptionRules.rulesStrings>TODO</Hack_Spacedrone.questDescriptionRules.rulesStrings>
+  <Hack_Spacedrone.questDescriptionRules.rulesStrings>
+	<li>questDescription->Вы обнаружили орбитальный космический объект, который может содержать информацию о [relic_name]. У вас есть код, который заставит его приземлиться на [map_definite].\n\nЧтобы получить информацию, взломайте компьютер дрона. Взлом требует времени, но те, кто силен в интеллектуальных навыках, могут ускорить этот процесс.[raidsDescription]\n\nДрон самоуничтожится через [destroyDelayTicks_duration].</li>
+    <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] из [enemyFaction_name] будет [droneDetectionMethod]. Пока он здесь, они будут посылать налетчиков примерно каждые [raidIntervalAvg_duration], чтобы уничтожить его и украсть богатство, которое, по их мнению, в нем содержится. У вас будет некоторое время, чтобы подготовить оборону вокруг него, прежде чем они прибудут.</li>
+    <li>raidsDescription(allowViolence==false)-></li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==true)->следить за дроном во время его спуска</li>
+    <li>droneDetectionMethod(enemyFactionNeolithic==false)->проследит энергетическую сигнатуру дрона</li>
+  </Hack_Spacedrone.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[droneAdj] [drone] hack</li>
     <li>questName->[drone] [data] hack</li>
@@ -24,7 +29,19 @@
     <li>data->intel</li>
     <li>data->info</li>
   -->
-  <!-- EN: TODO -->
-  <Hack_Spacedrone.questNameRules.rulesStrings>TODO</Hack_Spacedrone.questNameRules.rulesStrings>
+  <Hack_Spacedrone.questNameRules.rulesStrings>
+	<li>questName->взлом [droneAdj] [drone]</li>
+    <li>questName->взлом [drone] [data]</li>
+    <li>droneAdj->орбитального</li>
+    <li>droneAdj->информационого</li>
+    <li>droneAdj->древнего</li>
+    <li>drone->дрона</li>
+    <li>drone->космокорабля</li>
+    <li>drone->космодрона</li>
+    <li>drone->криптодрона</li>
+    <li>data->данных</li>
+    <li>data->разведки</li>
+    <li>data->информации</li>
+  </Hack_Spacedrone.questNameRules.rulesStrings>
   
 </LanguageData>

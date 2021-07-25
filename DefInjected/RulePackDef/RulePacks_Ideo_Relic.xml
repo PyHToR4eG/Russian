@@ -65,7 +65,69 @@
     <li>second->lash</li>
     <li>second->krome</li>
   -->
-  <!-- EN: TODO -->
-  <NamerIdeoRelic.rulePack.rulesStrings>TODO</NamerIdeoRelic.rulePack.rulesStrings>
+  <NamerIdeoRelic.rulePack.rulesStrings>
+	<li>r_ideoRelicName(p=2)->[first]-[second]</li>
+    <li>r_ideoRelicName->[thingLabel] [memeConcept]</li>
+    <li>r_ideoRelicName->[memeAdjective] [thingLabel]</li>
+    <li>r_ideoRelicName->[memeHyphenPrefix]-[thingLabel]</li>
+    <li>r_ideoRelicName->[memeAdjective] [relic]</li>
+    <li>r_ideoRelicName->[relic] [memeConcept]</li>
+    <li>r_ideoRelicName->[memeHyphenPrefix]-[relic]</li>
+    <li>relic->реликвия</li>
+    <li>relic->артефакт</li>
+    <li>relic->сувенир</li>
+    <li>relic->мементо</li>
+    <li>relic->останки</li>
+    <li>relic->наследие</li>
+    <li>relic->напоминание</li>
+    <li>first(p=5)->[memeHyphenPrefix]</li>
+    <li>first->длинный</li>
+    <li>first->небесный</li>
+    <li>first->звездный</li>
+    <li>first->глубинный</li>
+    <li>first->далекий</li>
+    <li>first->мертвый</li>
+    <li>first->живой</li>
+    <li>first->светлый</li>
+    <li>first->темный</li>
+    <li>first->конечный</li>
+    <li>first->хор</li>
+    <li>first->ан</li>
+    <li>first->экс</li>
+    <li>first->тон</li>
+    <li>first->дав</li>
+    <li>first->бор</li>
+    <li>first->вен</li>
+    <li>first->ксан</li>
+    <li>first->арл</li>
+    <li>first->хекс</li>
+    <li>first->бакс</li>
+    <li>first->цел</li>
+    <li>first->лок</li>
+    <li>first->поле</li>
+    <li>first->лоде</li>
+    <li>second->посетитель</li>
+    <li>second->нисущий</li>
+    <li>second->динамик</li>
+    <li>second->лжец</li>
+    <li>second->звено</li>
+    <li>second->узы</li>
+    <li>second->петля</li>
+    <li>second->nexus</li>
+    <li>second->ядро</li>
+    <li>second->крест</li>
+    <li>second->массив</li>
+    <li>second->сборник</li>
+    <li>second->очаг</li>
+    <li>second->лупа</li>
+    <li>second->фонарь</li>
+    <li>second->призрак</li>
+    <li>second->сур</li>
+    <li>second->локус</li>
+    <li>second->форма</li>
+    <li>second->перстень</li>
+    <li>second->плеть</li>
+    <li>second->кроум</li>
+  </NamerIdeoRelic.rulePack.rulesStrings>
   
 </LanguageData>

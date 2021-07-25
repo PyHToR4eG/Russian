@@ -17,7 +17,21 @@
     <li>ritual->ceremony</li>
     <li>ritual->gathering</li>
   -->
-  <!-- EN: TODO -->
-  <NamerTreeConnection.rulePack.rulesStrings>TODO</NamerTreeConnection.rulePack.rulesStrings>
+  <NamerTreeConnection.rulePack.rulesStrings>
+	<li>r_ritualName->[ritual] [verb] дерева</li>
+    <li>verb->связивания</li>
+    <li>verb->соединения</li>
+    <li>verb->объединения</li>
+    <li>verb->связи</li>
+    <li>verb->контакта</li>
+    <li>verb->слияния</li>
+    <li>verb->единства</li>
+    <li>verb->единения</li>
+    <li>verb->узы</li>
+    <li>verb->сопряжения</li>
+    <li>ritual->ритуал</li>
+    <li>ritual->церемония</li>
+    <li>ritual->собрание</li>
+  </NamerTreeConnection.rulePack.rulesStrings>
   
 </LanguageData>

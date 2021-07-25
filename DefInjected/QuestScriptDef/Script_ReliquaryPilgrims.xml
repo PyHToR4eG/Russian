@@ -17,8 +17,22 @@
     <li>factionAdj(pilgrimFaction==true)-></li>
     <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</li>
   -->
-  <!-- EN: TODO -->
-  <ReliquaryPilgrims.questContentRules.rulesStrings>TODO</ReliquaryPilgrims.questContentRules.rulesStrings>
+  <ReliquaryPilgrims.questContentRules.rulesStrings>
+	<li>pilgrimsArrivedLetterLabel->[factionAdj] [pilgrimSingularOrPlural] прибыл</li>
+    <li>pilgrimsArrivedLetterText->[questDescription]</li>
+    <li>delayedRewardLetterText->[pawns0_nameDef] благодарит вас за то, что вы позволили [pawns0_objective] [andFollowers] почитать [relic_name] в [venerateDate]. В качестве награды [pawns0_nameDef] отправляет вам следующее через дроп-капсулу (общая стоимость [rewardsMarketValue_money]):\n\n[rewards].</li>
+    <li>pilgrimsLeavingMessage->[pilgrimsLabelSingularOrPlural] [hasHave] закончили поклоняться [relic_name] и [areIs] теперь уходит.</li>
+    <li>pilgrimsLeftMessage->[pilgrimsLabelSingularOrPlural] [hasHave] покадиет карту.</li>
+    <li>areIs(pilgrimCount==1)->он</li>
+    <li>areIs(pilgrimCount>=2)->они</li>
+    <li>andFollowers(pilgrimCount==1)-></li>
+    <li>andFollowers(pilgrimCount==2)->и другие [faction_pawnSingular]</li>
+    <li>andFollowers(pilgrimCount>=3)->и другие [faction_pawnsPlural]</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount==1)->странник</li>
+    <li>pilgrimSingularOrPlural(pilgrimCount>=2)->странники</li>
+    <li>factionAdj(pilgrimFaction==true)-></li>
+    <li>factionAdj(pilgrimFaction==false)->[faction_pawnSingular]</li>
+  </ReliquaryPilgrims.questContentRules.rulesStrings>
   <!-- EN:
     <li>pilgrimsLabel->[pawns0_nameDef]</li>
     <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
@@ -27,8 +41,14 @@
     <li>hasHave(pilgrimCount==1)->has</li>
     <li>hasHave(pilgrimCount>=2)->have</li>
   -->
-  <!-- EN: TODO -->
-  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>TODO</ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+	<li>pilgrimsLabel->[pawns0_nameDef]</li>
+    <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount==1)->[pilgrimsLabel]</li>
+    <li>pilgrimsLabelSingularOrPlural(pilgrimCount>=2)->[pilgrimsLabelPlural]</li>
+    <li>hasHave(pilgrimCount==1)-></li>
+    <li>hasHave(pilgrimCount>=2)-></li>
+  </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>isAre(pilgrimCount==1)->is</li>
@@ -38,8 +58,15 @@
     <li>visitSingularOrPlural(pilgrimCount==1)->visits</li>
     <li>visitSingularOrPlural(pilgrimCount>=2)->visit</li>
   -->
-  <!-- EN: TODO -->
-  <ReliquaryPilgrims.questDescriptionRules.rulesStrings>TODO</ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+  <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+	<li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] прибыли поклониться [relic_name].\n\nЕсли вы гарантируете [pronounSingularOrPlural] [isAre] безопасность и уважение, пока [pronounSingularOrPlural] [visitSingularOrPlural] древнюю реликвию, [pronounSingularOrPlural] может предложить вам награду.</li>
+    <li>isAre(pilgrimCount==1)-></li>
+    <li>isAre(pilgrimCount>=2)-></li>
+    <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
+    <li>pronounSingularOrPlural(pilgrimCount>=2)->они</li>
+    <li>visitSingularOrPlural(pilgrimCount==1)->посещает</li>
+    <li>visitSingularOrPlural(pilgrimCount>=2)->посещают</li>
+  </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
     <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
@@ -60,7 +87,25 @@
     <li>visit->tour</li>
     <li>visit->veneration</li>
   -->
-  <!-- EN: TODO -->
-  <ReliquaryPilgrims.questNameRules.rulesStrings>TODO</ReliquaryPilgrims.questNameRules.rulesStrings>
+  <ReliquaryPilgrims.questNameRules.rulesStrings>
+	<li>questName(pilgrimCount==1)->[visitAdj] [visit] [pilgrimsLabelSingularOrPlural]</li>
+    <li>questName(pilgrimCount>=2)->[visitAdj] [visit] [pilgrimsLabelSingularOrPlural]ов</li>
+    <li>visitAdj(p=6)-></li>
+    <li>visitAdj->святой</li>
+    <li>visitAdj->священный</li>
+    <li>visitAdj->духовный</li>
+    <li>visitAdj->божественный</li>
+    <li>visitAdj->освященный</li>
+    <li>visitAdj->торжественный</li>
+    <li>visitAdj->сакральный</li>
+    <li>visitAdj->ханжеский</li>
+    <li>visit->визит</li>
+    <li>visit->паломничество</li>
+    <li>visit->миссия</li>
+    <li>visit->экспедиция</li>
+    <li>visit->экскурсия</li>
+    <li>visit->тур</li>
+    <li>visit->поклонение</li>
+  </ReliquaryPilgrims.questNameRules.rulesStrings>
   
 </LanguageData>

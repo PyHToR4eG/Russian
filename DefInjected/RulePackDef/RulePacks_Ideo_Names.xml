@@ -9,14 +9,21 @@
     <li>globalHyphenPrefix->astro</li>
     <li>globalHyphenPrefix->stello</li>
   -->
-  <!-- EN: TODO -->
-  <CultureSpacer.rulePack.rulesStrings>TODO</CultureSpacer.rulePack.rulesStrings>
+  <CultureSpacer.rulePack.rulesStrings>
+	<li>globalAdjective->Космическая</li>
+    <li>globalAdjective->Великолепная</li>
+    <li>globalAdjective->Звездная</li>
+    <li>globalAdjective->Межзвездная</li>
+    <li>globalHyphenPrefix->астро</li>
+    <li>globalHyphenPrefix->стелло</li>
+  </CultureSpacer.rulePack.rulesStrings>
   
   <!-- EN:
     <li>globalAdjective(p=15)->Tribal</li>
   -->
-  <!-- EN: TODO -->
-  <NamerIdeoCorunan.rulePack.rulesStrings>TODO</NamerIdeoCorunan.rulePack.rulesStrings>
+  <NamerIdeoCorunan.rulePack.rulesStrings>
+	<li>globalAdjective(p=15)->Племенной</li>
+  </NamerIdeoCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ideoName->[keyDeity]ism</li>
@@ -61,7 +68,48 @@
     <li>globalHyphenPrefix->archaeo</li>
     <li>globalHyphenPrefix->hyper</li>
   -->
-  <!-- EN: TODO -->
-  <NamerIdeoGlobal.rulePack.rulesStrings>TODO</NamerIdeoGlobal.rulePack.rulesStrings>
+  <NamerIdeoGlobal.rulePack.rulesStrings>
+	<li>r_ideoName->[keyDeity]изм</li>
+    <li>r_ideoName->[hyphenPrefix]-[keyDeity]изм</li>
+    <li>r_ideoName->[keyDeity]й [creed]</li>
+    <li>r_ideoName->[creed] [keyDeity]</li>
+    <li>r_ideoAdjective->[keyDeity]ic</li>
+    <li>r_memberName->[keyDeity]ист</li>
+    <li>r_memberName->[keyDeity]ит</li>
+    <li>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
+    <li>r_ideoName->[memeAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=0.5)->[memeAdjective] [creed]</li>
+    <li>r_ideoName(p=0.2)->[creed] [packTheme]</li>
+    <li>r_ideoAdjective(priority=1)->[packAdjective]</li>
+    <li>r_memberName->[packMember]</li>
+    <li>creed(priority=1)->[memeCreed]</li>
+    <li>creed->[genericCreed]</li>
+    <li>genericCreed->вероучение</li>
+    <li>genericCreed->доктрина</li>
+    <li>genericCreed->путь</li>
+    <li>genericCreed->дорога</li>
+    <li>globalAdjective->[Color]</li>
+    <li>globalAdjective->Новый</li>
+    <li>globalAdjective->Полный</li>
+    <li>globalAdjective->Старый</li>
+    <li>globalAdjective->Древний</li>
+    <li>globalAdjective->Исторический</li>
+    <li>globalAdjective->Исправленный</li>
+    <li>globalAdjective->Реформированный</li>
+    <li>globalAdjective->Суровый</li>
+    <li>globalAdjective->Основополагающий</li>
+    <li>globalAdjective->Истинный</li>
+    <li>globalAdjective->Народный</li>
+    <li>globalAdjective->Исправленный</li>
+    <li>globalAdjective->[place_adjective]</li>
+    <li>hyphenPrefix->[globalHyphenPrefix]</li>
+    <li>hyphenPrefix->[memeHyphenPrefix]</li>
+    <li>globalHyphenPrefix(p=4)->нео</li>
+    <li>globalHyphenPrefix(p=2)->пост</li>
+    <li>globalHyphenPrefix->нова</li>
+    <li>globalHyphenPrefix->архео</li>
+    <li>globalHyphenPrefix->сверх</li>
+  </NamerIdeoGlobal.rulePack.rulesStrings>
   
 </LanguageData>

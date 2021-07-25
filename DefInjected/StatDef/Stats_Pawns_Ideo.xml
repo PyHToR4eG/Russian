@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: biosculpter occupant speed -->
-  <BiosculpterOccupantSpeed.label>скорость пользователя биоскульптора</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.label>скорость использования биоскульптора</BiosculpterOccupantSpeed.label>
   <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
   <BiosculpterOccupantSpeed.description>Множитель, определяющий, как быстро этот человек завершит цикл биоскульптуры.</BiosculpterOccupantSpeed.description>
   

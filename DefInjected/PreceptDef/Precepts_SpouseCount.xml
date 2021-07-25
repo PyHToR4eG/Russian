@@ -41,4 +41,14 @@
   <!-- EN: Men may have as many spouses as they like. -->
   <SpouseCount_Male_Unlimited.description>У мужчин может быть столько жен, сколько им заблагорассудится.</SpouseCount_Male_Unlimited.description>
   
+  <!-- EN: one only -->
+  <SpouseCount_Female_MaxOne.label>только один</SpouseCount_Female_MaxOne.label>
+  <!-- EN: Women may have one spouse only. -->
+  <SpouseCount_Female_MaxOne.description>У женщин может быть только один супруг.</SpouseCount_Female_MaxOne.description>
+  
+  <!-- EN: one only -->
+  <SpouseCount_Male_MaxOne.label>только одна</SpouseCount_Male_MaxOne.label>
+  <!-- EN: Men may have one spouse only. -->
+  <SpouseCount_Male_MaxOne.description>У мужчин может быть только одна супруга.</SpouseCount_Male_MaxOne.description>
+  
 </LanguageData>

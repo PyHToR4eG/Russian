@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: disapproved -->
-  <TreeCutting_Disapproved.label>неодобрительно</TreeCutting_Disapproved.label>
+  <TreeCutting_Disapproved.label>не одобряется</TreeCutting_Disapproved.label>
   <!-- EN: To cut down a tree is a distasteful thing to do. -->
   <TreeCutting_Disapproved.description>Срубить дерево - это неприятное занятие.</TreeCutting_Disapproved.description>
   <!-- EN: Someone cut down a tree -->

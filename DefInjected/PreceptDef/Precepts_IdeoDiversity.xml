@@ -13,7 +13,7 @@
   <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>Разнообразное окружение</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: appreciated -->
-  <IdeoDiversity_Approved.label>оцененный</IdeoDiversity_Approved.label>
+  <IdeoDiversity_Approved.label>ценится</IdeoDiversity_Approved.label>
   <!-- EN: Other beliefs are worth understanding. It's good to live with others who think differently. -->
   <IdeoDiversity_Approved.description>Другие убеждения заслуживают понимания. Хорошо жить с другими, которые думают по-другому.</IdeoDiversity_Approved.description>
   <!-- EN: Uniform surroundings -->
@@ -49,7 +49,7 @@
   <IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>Разнообразное окружение</IdeoDiversity_Horrible.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: highly appreciated -->
-  <IdeoDiversity_Respected.label>высоко ценим</IdeoDiversity_Respected.label>
+  <IdeoDiversity_Respected.label>высоко ценится</IdeoDiversity_Respected.label>
   <!-- EN: Other beliefs hold unique knowledge. It's great to live with others who think differently. -->
   <IdeoDiversity_Respected.description>Другие верования содержат уникальные знания. Здорово жить с другими людьми, которые думают по-другому.</IdeoDiversity_Respected.description>
   <!-- EN: Uniform surroundings -->
@@ -58,7 +58,7 @@
   <IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>Разнообразное окружение</IdeoDiversity_Respected.comps.1.thoughtStageDescriptions.1>
   
   <!-- EN: neutral -->
-  <IdeoDiversity_Standard.label>нейтральный</IdeoDiversity_Standard.label>
+  <IdeoDiversity_Standard.label>нейтрально</IdeoDiversity_Standard.label>
   <!-- EN: Other beliefs are neither approved or disapproved. -->
   <IdeoDiversity_Standard.description>Другие убеждения не одобряются и не осуждаются.</IdeoDiversity_Standard.description>
   <!-- EN: Uniform surroundings -->

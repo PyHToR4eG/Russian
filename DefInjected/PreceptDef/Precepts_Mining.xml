@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: disapproved -->
-  <Mining_Disapproved.label>неодобрительно</Mining_Disapproved.label>
+  <Mining_Disapproved.label>не одобряется</Mining_Disapproved.label>
   <!-- EN: Mining into the natural earth is an ugly act. -->
   <Mining_Disapproved.description>Добыча полезных ископаемых в земле - это уродливый поступок.</Mining_Disapproved.description>
   <!-- EN: Someone mined a block -->

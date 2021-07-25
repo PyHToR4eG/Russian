@@ -16,7 +16,7 @@
   <Slavery_Acceptable.description>Рабство - это нормальная, ничем не примечательная часть жизни.</Slavery_Acceptable.description>
   
   <!-- EN: disapproved -->
-  <Slavery_Disapproved.label>неодобрительно</Slavery_Disapproved.label>
+  <Slavery_Disapproved.label>не одобряется</Slavery_Disapproved.label>
   <!-- EN: Slavery is part of life, though it is extremely distasteful. -->
   <Slavery_Disapproved.description>Рабство - это часть жизни, хотя оно и крайне неприятно.</Slavery_Disapproved.description>
   <!-- EN: Each slave in colony -->

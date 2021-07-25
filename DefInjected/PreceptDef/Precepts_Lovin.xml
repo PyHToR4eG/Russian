@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: free and approved -->
-  <Lovin_FreeApproved.label>свободный и одобренный</Lovin_FreeApproved.label>
+  <Lovin_FreeApproved.label>свободно и разрешено</Lovin_FreeApproved.label>
   <!-- EN: The physical act of love is a noble thing, no matter who does it with whom. -->
   <Lovin_FreeApproved.description>Физический акт любви - благородная вещь, независимо от того, кто и с кем это делает.</Lovin_FreeApproved.description>
   
@@ -16,7 +16,7 @@
   <Lovin_Horrible.comps.3.description>Похотливый акт с супругом</Lovin_Horrible.comps.3.description>
   
   <!-- EN: prohibited -->
-  <Lovin_Prohibited.label>запрещенный</Lovin_Prohibited.label>
+  <Lovin_Prohibited.label>под запретом</Lovin_Prohibited.label>
   <!-- EN: The physical act of lust is always vile, disgusting, and wrong. -->
   <Lovin_Prohibited.description>Физический акт вожделения всегда мерзок, отвратителен и неправильен.</Lovin_Prohibited.description>
   <!-- EN: Lustful act -->
@@ -30,17 +30,22 @@
   <Lovin_SpouseOnly_Mild.comps.1.description>Похотливый акт с не-супругом</Lovin_SpouseOnly_Mild.comps.1.description>
   
   <!-- EN: spouse only (moderate) -->
-  <Lovin_SpouseOnly_Moderate.label>только супруг (умеренный)</Lovin_SpouseOnly_Moderate.label>
+  <Lovin_SpouseOnly_Moderate.label>только супруг (умеренно)</Lovin_SpouseOnly_Moderate.label>
   <!-- EN: To make love with another outside of marriage is wrong. -->
   <Lovin_SpouseOnly_Moderate.description>Заниматься любовью с другим человеком вне брака неправильно.</Lovin_SpouseOnly_Moderate.description>
   <!-- EN: Lustful act with non-spouse -->
   <Lovin_SpouseOnly_Moderate.comps.1.description>Похотливый акт с не-супругом</Lovin_SpouseOnly_Moderate.comps.1.description>
   
   <!-- EN: spouse only (strict) -->
-  <Lovin_SpouseOnly_Strict.label>только супруг (строгий)</Lovin_SpouseOnly_Strict.label>
+  <Lovin_SpouseOnly_Strict.label>только супруг (строго)</Lovin_SpouseOnly_Strict.label>
   <!-- EN: To make love with another outside of marriage is deeply immoral. -->
   <Lovin_SpouseOnly_Strict.description>Заниматься любовью с другим человеком вне брака глубоко аморально.</Lovin_SpouseOnly_Strict.description>
   <!-- EN: Lustful act with non-spouse -->
   <Lovin_SpouseOnly_Strict.comps.1.description>Похотливый акт с не-супругом</Lovin_SpouseOnly_Strict.comps.1.description>
+  
+  <!-- EN: free -->
+  <Lovin_Free.label>свободно</Lovin_Free.label>
+  <!-- EN: Physical intimacy is a natural part of life, with any partner, married or not. -->
+  <Lovin_Free.description>Физическая близость - естественная часть жизни с любым партнером, женатым или нет.</Lovin_Free.description>
   
 </LanguageData>

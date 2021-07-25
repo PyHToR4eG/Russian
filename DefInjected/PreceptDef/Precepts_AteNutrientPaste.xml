@@ -6,4 +6,9 @@
   <!-- EN: There's nothing wrong with a meal of efficient, healthy nutrient paste. -->
   <NutrientPasteEating_DontMind.description>Нет ничего плохого в еде из эффективной, здоровой питательной пасты.</NutrientPasteEating_DontMind.description>
   
+  <!-- EN: disgusting -->
+  <NutrientPasteEating_Disgusting.label>отвратительно</NutrientPasteEating_Disgusting.label>
+  <!-- EN: Nutrient paste is disgusting. -->
+  <NutrientPasteEating_Disgusting.description>Питательная паста отвратительна.</NutrientPasteEating_Disgusting.description>
+  
 </LanguageData>

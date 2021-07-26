@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.label>
   <!-- EN: I enslaved a person. It's hard to justify such actions. -->
   <EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>Я поработил человека. Трудно оправдать такие действия.</EnslavedPrisoner_Disapproved.stages.enslaved_prisoner.description>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.label>
   <!-- EN: I took someone into slavery. With no choice, they had to submit to me. -->
   <EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>Я взял кое-кого в рабство. Не имея выбора, они должны были подчиниться мне.</EnslavedPrisoner_Honorable.stages.enslaved_prisoner.description>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.label>
   <!-- EN: I forced someone into slavery. How can I justify that? -->
   <EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>Я заставил кого-то стать рабом. Как я могу это оправдать?</EnslavedPrisoner_Horrible.stages.enslaved_prisoner.description>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Know_Abhorrent.stages.enslaved_prisoner.label>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Know_Disapproved.stages.enslaved_prisoner.label>
   
   <!-- EN: prisoner enslaved -->
-  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>черепные шипы</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>пленник порабощен</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.label>
   <!-- EN: We enslaved someone. We shouldn't have done that. -->
   <EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>Мы кого-то поработили. Нам не следовало этого делать.</EnslavedPrisoner_Know_Disapproved_Mood.stages.prisoner_enslaved.description>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Know_Honorable.stages.enslaved_prisoner.label>
   
   <!-- EN: prisoner enslaved -->
-  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>черепные шипы</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>пленник порабощен</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.label>
   <!-- EN: We enslaved someone. Now they know our honor and power! -->
   <EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>Мы кого-то поработили. Теперь они знают нашу честь и силу!</EnslavedPrisoner_Know_Honorable_Mood.stages.prisoner_enslaved.description>
   
   <!-- EN: enslaved prisoner -->
-  <EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>черепные шипы</EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>
+  <EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>порабощен пленник</EnslavedPrisoner_Know_Horrible.stages.enslaved_prisoner.label>
   
   <!-- EN: prisoner enslaved -->
-  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>черепные шипы</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>
+  <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>пленник порабощен</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.label>
   <!-- EN: We enslaved someone. What a horrible thing to do to another human. -->
   <EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>Мы кого-то поработили. Что за ужасная вещь - поступить с другим человеком.</EnslavedPrisoner_Know_Horrible_Mood.stages.prisoner_enslaved.description>
   

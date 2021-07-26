@@ -2,46 +2,46 @@
 <LanguageData>
   
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>ношение одежды (непаховая)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>ношение одежды (кроме паха)</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.label>
   <!-- EN: To stifle the skin is wrong. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>Душить кожу - неправильно. Прикрывать следует только пах.</AnyBodyPartButGroinCovered_Disapproved_Female.stages.wearing_clothes_nongroin.description>
   
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>ношение одежды (непаховая)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>ношение одежды (кроме паха)</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.label>
   <!-- EN: To stifle the skin is wrong. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>Душить кожу - неправильно. Прикрывать следует только пах.</AnyBodyPartButGroinCovered_Disapproved_Male.stages.wearing_clothes_nongroin.description>
   
   <!-- EN: wore clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>ношение одежды (непаховая)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>ношение одежды (кроме паха)</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.label>
   <!-- EN: To conceal the skin is wrong, but I did it anyway. Only the groin should be covered. -->
   <AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>Скрывать кожу неправильно, но я все равно это сделал. Только пах должен быть прикрыт.</AnyBodyPartButGroinCovered_Disapproved_Memory.stages.wore_clothes_nongroin.description>
   
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>ношение одежды (непаховая)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>ношение одежды (кроме паха)</AnyBodyPartButGroinCovered_Disapproved_Social_Female.stages.wearing_clothes_nongroin.label>
   
   <!-- EN: wearing clothes (non-groin) -->
-  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>ношение одежды (непаховая)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
+  <AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>ношение одежды (кроме паха)</AnyBodyPartButGroinCovered_Disapproved_Social_Male.stages.wearing_clothes_nongroin.label>
   
   <!-- EN: wearing clothes -->
-  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>носить одежду</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>носит одежду</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.label>
   <!-- EN: I don't approve of covering myself, yet here I am doing it. -->
-  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>Я не одобряю прикрываться, но вот я это делаю.</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
+  <AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>Мне не нравится прикрываться, и все же я это делаю.</AnyBodyPartCovered_Disapproved_Female.stages.wearing_clothes.description>
   
   <!-- EN: wearing clothes -->
-  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>носить одежду</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>носит одежду</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.label>
   <!-- EN: I don't approve of covering myself, yet here I am doing it. -->
-  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>Я не одобряю прикрываться, но вот я это делаю.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
+  <AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>Мне не нравится прикрываться, и все же я это делаю.</AnyBodyPartCovered_Disapproved_Male.stages.wearing_clothes.description>
   
   <!-- EN: wore clothes -->
   <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>носил одежду</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.label>
   <!-- EN: I concealed my flesh. It was wrong. -->
-  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>Я спрятал свою плоть. Это было неправильно.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
+  <AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>Я спрятал свое тело. Это было неправильно.</AnyBodyPartCovered_Disapproved_Memory.stages.wore_clothes.description>
   
   <!-- EN: wearing clothes -->
-  <AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>носить одежду</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>носит одежду</AnyBodyPartCovered_Disapproved_Social_Female.stages.wearing_clothes.label>
   
   <!-- EN: wearing clothes -->
-  <AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>носить одежду</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
+  <AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>носит одежду</AnyBodyPartCovered_Disapproved_Social_Male.stages.wearing_clothes.label>
   
   <!-- EN: uncovered any body part -->
   <GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>раскрыта любая часть тела</GroinChestHairOrFaceUncovered_Disapproved_Female.stages.uncovered_any_body_part.label>
@@ -94,12 +94,12 @@
   <!-- EN: uncovered groin -->
   <GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>открытый пах</GroinUncovered_Disapproved_Female.stages.uncovered_groin.label>
   <!-- EN: I shouldn't have my private parts hanging out. -->
-  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>Мне не следовало бы выставлять свои интимные части наружу.</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
+  <GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>Мне не следовало бы выставлять свои интимные части напоказ.</GroinUncovered_Disapproved_Female.stages.uncovered_groin.description>
   
   <!-- EN: uncovered groin -->
   <GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>открытый пах</GroinUncovered_Disapproved_Male.stages.uncovered_groin.label>
   <!-- EN: I shouldn't have my private parts hanging out. -->
-  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>Мне не следовало бы выставлять свои интимные части наружу.</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
+  <GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>Мне не следовало бы выставлять свои интимные части напоказ.</GroinUncovered_Disapproved_Male.stages.uncovered_groin.description>
   
   <!-- EN: uncovered groin -->
   <GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>открытый пах</GroinUncovered_Disapproved_Social_Female.stages.uncovered_groin.label>

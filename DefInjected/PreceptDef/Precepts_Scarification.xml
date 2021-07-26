@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: extreme -->
-  <Scarification_Extreme.label>экстремальный</Scarification_Extreme.label>
+  <Scarification_Extreme.label>радикально</Scarification_Extreme.label>
   <!-- EN: Every person ought to bear the ritual scars - all over. -->
   <Scarification_Extreme.description>Каждый человек должен носить ритуальные шрамы - повсюду.</Scarification_Extreme.description>
   <!-- EN: Scarification (5 scars required) -->
@@ -11,7 +11,7 @@
   <Scarification_Extreme.comps.1.thoughtStageDescriptions.0>Шрамирование (требуется 5 шрамов)</Scarification_Extreme.comps.1.thoughtStageDescriptions.0>
   
   <!-- EN: heavy -->
-  <Scarification_Heavy.label>тяжелый</Scarification_Heavy.label>
+  <Scarification_Heavy.label>тяжело</Scarification_Heavy.label>
   <!-- EN: Every person ought to bear the ritual scars - many of them. -->
   <Scarification_Heavy.description>Каждый человек должен носить ритуальные шрамы - их много.</Scarification_Heavy.description>
   <!-- EN: Scarification (3 scars required) -->
@@ -27,7 +27,7 @@
   <Scarification_Horrible.comps.0.description>кого-то раскритиковали</Scarification_Horrible.comps.0.description>
   
   <!-- EN: minor -->
-  <Scarification_Minor.label>незначительный</Scarification_Minor.label>
+  <Scarification_Minor.label>незначительно</Scarification_Minor.label>
   <!-- EN: Every person ought to bear a ritual scar. -->
   <Scarification_Minor.description>У каждого человека должен быть ритуальный шрам.</Scarification_Minor.description>
   <!-- EN: Scarification (1 scar required) -->

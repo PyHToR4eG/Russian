@@ -18,7 +18,7 @@
   <!-- EN: prohibited -->
   <TreeCutting_Prohibited.label>под запретом</TreeCutting_Prohibited.label>
   <!-- EN: To violate the forest by cutting down a tree is a deeply abhorrent act and should never be done. -->
-  <TreeCutting_Prohibited.description>Надругательство над лесом путем вырубки дерева является глубоко отвратительным поступком, и его никогда не следует совершать.</TreeCutting_Prohibited.description>
+  <TreeCutting_Prohibited.description>Надругательство над лесом путем вырубки дерева является крайне отвратительным поступком, и его никогда не следует совершать.</TreeCutting_Prohibited.description>
   <!-- EN: Someone cut down a tree -->
   <TreeCutting_Prohibited.comps.2.description>Кто-то срубил дерево</TreeCutting_Prohibited.comps.2.description>
   

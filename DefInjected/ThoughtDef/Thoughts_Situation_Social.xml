@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: conversion resentment -->
-  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>возмущение обращением</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
+  <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>возмущен обращением</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.label>
   <!-- EN: Someone tried to convert me. I hate being proselytized this way. -->
   <FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>Кто-то пытался обратить меня в свою веру. Я ненавижу, когда меня таким образом прозелитизируют.</FailedConvertIdeoAttemptResentment.stages.conversion_resentment.description>
   

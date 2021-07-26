@@ -7,7 +7,7 @@
   <Apparel_Blindfold.description>Длинная полоска ткани, которая закрывает глаза, чтобы блокировать зрение.</Apparel_Blindfold.description>
   
   <!-- EN: slave body strap -->
-  <Apparel_BodyStrap.label>ремень для тела раба</Apparel_BodyStrap.label>
+  <Apparel_BodyStrap.label>рабский нательный ремень</Apparel_BodyStrap.label>
   <!-- EN: An uncomfortable arrangement of straps around the torso made for slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion. -->
   <Apparel_BodyStrap.description>Неудобное расположение ремней вокруг туловища, сделанное для рабов. Он напоминает владельцу об их рабском статусе и психологически подавляет их, уменьшая вероятность восстания рабов.</Apparel_BodyStrap.description>
   
@@ -22,8 +22,8 @@
   <Apparel_Robe.description>Длинная, струящаяся мантия без капюшона.</Apparel_Robe.description>
   
   <!-- EN: torture crown -->
-  <Apparel_TortureCrown.label>корона пыток</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.label>терновый венец</Apparel_TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby inward-facing spikes that poke the head. It is used to induce pain in the wearer. -->
-  <Apparel_TortureCrown.description>Головной убор в виде короны с короткими шипами, обращенными внутрь, которые пронзают голову. Он используется для того, чтобы вызвать боль у владельца.</Apparel_TortureCrown.description>
+  <Apparel_TortureCrown.description>Головной убор в виде венца с короткими шипами, обращенными внутрь, которые пронзают голову. Он используется для того, чтобы вызвать боль у владельца.</Apparel_TortureCrown.description>
   
 </LanguageData>

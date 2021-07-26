@@ -972,7 +972,7 @@
   <Raider.symbolPacks.3.theme>клептомания</Raider.symbolPacks.3.theme>
   
   <!-- EN: rancher -->
-  <Rancher.label>владелец ранчо</Rancher.label>
+  <Rancher.label>скотовод</Rancher.label>
   <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
   <Rancher.description>Выращивание животных - это правильный путь; выращивание растений для еды-нет.</Rancher.description>
   <!-- EN:
@@ -1002,7 +1002,7 @@
   <Rancher.descriptionMaker.rules.rulesStrings>
 	<li>creation(tag=meme_Rancher)        ->[deity0_name] создал животных, а затем человека, и дал животных человеку, чтобы они лелеяли, выращивали и убивали как акты почитания по отношению к [deity0_objective].</li>
     <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] создал всех благородных зверей и зверей земли и сказал: «Возьми этих благородных зверей и через них сделайте себя плодовитыми в мою честь.».</li>
-    <li>intro(tag=meme_Rancher)           ->Ранние владельцы ранчо [ranchingAnimal] в [place_summary] [place_name] построили великий [altarName] для [deity0_name].</li>
+    <li>intro(tag=meme_Rancher)           ->Ранние скотоводы [ranchingAnimal] в [place_summary] [place_name] построили великий [altarName] для [deity0_name].</li>
     <li>conflict(tag=meme_Rancher)        ->Могущественный [foeLeader] презирал [memberNamePlural] и их пути, и скупил все луга, чтобы выращивать [Vegetable].</li>
     <li>founderJoin(tag=meme_Rancher)     ->Спаситель [memberName] [founderName] родился весенним утром в скромном сарае, среди [ranchingAnimal], и [founder_possessive] родители были [rancherParent1] и [rancherParent2].</li>
     <li>victory(tag=meme_Rancher)         ->[founderName] поехал в [place_community] на прекрасном коне и вызвал [foeLeader] на дуэль с [place_personalWeapon] в полдень. [foeLeader] не мог отказать или потерять доверие [foeSoldiers]. [founderName] убил [foeLeader].</li>
@@ -1041,7 +1041,7 @@
     <li>memeAdjective->провинциальный</li>
     <li>memeHyphenPrefix->ранчо</li>
     <li>memeConcept->скотоводство</li>
-    <li>memeLeaderNoun->владелец ранчо</li>
+    <li>memeLeaderNoun->скотовод</li>
     <li>memeLeaderNoun->рабочик</li>
     <li>memeLeaderNoun->ковбой</li>
     <li>memeLeaderNoun->скотовод</li>

@@ -4,7 +4,7 @@
   <!-- EN: Demanded -->
   <AgeReversal_Demanded.label>Требуется</AgeReversal_Demanded.label>
   <!-- EN: Why get old? One must have a once-yearly age reversal treatment in the biosculpter pod. -->
-  <AgeReversal_Demanded.description>Зачем стареть? Необходимо один раз в год проходить лечение по изменению возраста в капсуле биоскульптора.</AgeReversal_Demanded.description>
+  <AgeReversal_Demanded.description>Зачем стареть? Необходимо один раз в год проходить процедуру омоложения в капсуле биоскульптора.</AgeReversal_Demanded.description>
   
   <!-- EN: despised -->
   <BioSculpter_Despised.label>презираемо</BioSculpter_Despised.label>
@@ -19,7 +19,7 @@
   <!-- EN: preferred -->
   <NeuralSupercharge_Preferred.label>предпочтительно</NeuralSupercharge_Preferred.label>
   <!-- EN: Having a neural supercharge is the new standard. Without it, you're obsolete. -->
-  <NeuralSupercharge_Preferred.description>Наличие нейронного наддува - это новый стандарт. Без этого ты устареешь.</NeuralSupercharge_Preferred.description>
+  <NeuralSupercharge_Preferred.description>Наличие устройства разгона нейронов - это новый стандарт. Без этого ты старомоден.</NeuralSupercharge_Preferred.description>
   
   <!-- EN: preferred -->
   <SleepAccelerator_Preferred.label>предпочтительно</SleepAccelerator_Preferred.label>

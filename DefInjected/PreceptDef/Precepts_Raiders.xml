@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: required -->
-  <Raiding_Required.label>необходимый</Raiding_Required.label>
+  <Raiding_Required.label>требуется</Raiding_Required.label>
   <!-- EN: We don't work like common laborers, we take from the weak as the strong should. Failing to do so is a tremendous shame. -->
   <Raiding_Required.description>Мы работаем не как простые рабочие, мы берем у слабых, как и положено сильным. Неспособность сделать это-огромный позор.</Raiding_Required.description>
   <!-- EN: Less than<x> {DAYSSINCELASTRAIDTHRESHOLD} </x>days since our last raid -->

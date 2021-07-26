@@ -7,9 +7,9 @@
   <CounselFailed.stages.failed_consolation_by.description>Так или иначе, эта попытка помочь сделала все еще хуже.</CounselFailed.stages.failed_consolation_by.description>
   
   <!-- EN: counselled by<x> {0}</x> -->
-  <Counselled.stages.counselled_by.label>по совету {0}</Counselled.stages.counselled_by.label>
+  <Counselled.stages.counselled_by.label>Проконсультирован {0}</Counselled.stages.counselled_by.label>
   <!-- EN: I received counseling about something that's been bothering me. -->
-  <Counselled.stages.counselled_by.description>Я получил консультацию по поводу того, что меня беспокоит.</Counselled.stages.counselled_by.description>
+  <Counselled.stages.counselled_by.description>Меня проконсультировали по поводу того, что меня беспокоит.</Counselled.stages.counselled_by.description>
   
   <!-- EN: counselled by<x> {0}</x> -->
   <Counselled_MoodBoost.stages.counselled_by.label>по совету {0}</Counselled_MoodBoost.stages.counselled_by.label>

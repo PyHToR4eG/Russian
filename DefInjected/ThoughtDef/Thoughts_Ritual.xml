@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: <x>{RELICNAME} </x>at ritual -->
+  <!-- EN: {RELICNAME} at ritual -->
   <RelicAtRitual.stages.at_ritual.label>{RELICNAME} на ритуале</RelicAtRitual.stages.at_ritual.label>
-  <!-- EN: <x>{RELICNAME} </x>was present during our ritual. -->
+  <!-- EN: {RELICNAME} was present during our ritual. -->
   <RelicAtRitual.stages.at_ritual.description>{RELICNAME} присутствовал во время нашего ритуала.</RelicAtRitual.stages.at_ritual.description>
   
-  <!-- EN: <x>{RITUAL_labelCap} </x>delayed -->
+  <!-- EN: {RITUAL_labelCap} delayed -->
   <RitualDelayed.stages.delayed.label>{RITUAL_labelCap} отложен</RitualDelayed.stages.delayed.label>
-  <!-- EN: <x>{RITUAL_labelCapDef} </x>has been delayed. We should have started it already. -->
-  <RitualDelayed.stages.delayed.description>{RITUAL_labelCapDef} было отложен. Мы должны были уже начать это.</RitualDelayed.stages.delayed.description>
+  <!-- EN: {RITUAL_labelCapDef} has been delayed. We should have started it already. -->
+  <RitualDelayed.stages.delayed.description>{RITUAL_labelCapDef} было отложен. Мы должны были уже начать.</RitualDelayed.stages.delayed.description>
   
   <!-- EN: convicted -->
   <TrialConvicted.stages.convicted.label>осужден</TrialConvicted.stages.convicted.label>
@@ -24,6 +24,6 @@
   <!-- EN: failed trial -->
   <TrialFailed.stages.failed_trial.label>неудачный суд</TrialFailed.stages.failed_trial.label>
   <!-- EN: I made an accusation and couldn't even make it stick. This is humiliating. -->
-  <TrialFailed.stages.failed_trial.description>Я выдвинул обвинение и даже не смог его закрепить. Это унизительно.</TrialFailed.stages.failed_trial.description>
+  <TrialFailed.stages.failed_trial.description>Я выдвинул обвинение и даже не смог его подкрепить. Это унизительно.</TrialFailed.stages.failed_trial.description>
   
 </LanguageData>

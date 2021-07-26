@@ -95,10 +95,10 @@
   <Raider_All.label>рейдер</Raider_All.label>
   
   <!-- EN: rancher vs animal personhood -->
-  <Rancher_AnimalPersonhood.label>владелец ранчо против личности животного</Rancher_AnimalPersonhood.label>
+  <Rancher_AnimalPersonhood.label>скотовод против личности животного</Rancher_AnimalPersonhood.label>
   
   <!-- EN: rancher vs nature primacy -->
-  <Rancher_NaturePrimacy.label>владелец ранчо против первенства природы</Rancher_NaturePrimacy.label>
+  <Rancher_NaturePrimacy.label>скотовод против первенства природы</Rancher_NaturePrimacy.label>
   
   <!-- EN: both follow<x> {0_name}</x> -->
   <SameIdeo.label>оба следуют {0_name}</SameIdeo.label>

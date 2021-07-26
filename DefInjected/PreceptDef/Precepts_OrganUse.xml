@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: totally abhorrent -->
-  <OrganUse_Abhorrent.label>совершенно отвратительно</OrganUse_Abhorrent.label>
+  <OrganUse_Abhorrent.label>абсолютно отвратительно</OrganUse_Abhorrent.label>
   <!-- EN: Any harvesting, trading, or installing natural organs is an abhorrent evil. -->
   <OrganUse_Abhorrent.description>Любое извлечение, торговля или пересадка естественных органов - это отвратительное зло.</OrganUse_Abhorrent.description>
   <!-- EN: Someone harvested an organ -->
@@ -13,7 +13,7 @@
   <OrganUse_Abhorrent.comps.8.description>Кто-то пересадил орган</OrganUse_Abhorrent.comps.8.description>
   
   <!-- EN: acceptable -->
-  <OrganUse_Acceptable.label>приемлемый</OrganUse_Acceptable.label>
+  <OrganUse_Acceptable.label>приемлемо</OrganUse_Acceptable.label>
   <!-- EN: It's okay to harvest, buy, install, or sell organs. -->
   <OrganUse_Acceptable.description>Это нормально - извлекать, покупать, пересаживать или продавать органы.</OrganUse_Acceptable.description>
   

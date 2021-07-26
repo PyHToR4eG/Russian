@@ -491,13 +491,13 @@
   <!-- EN: Muslim -->
   <Structure_OriginIslamic.symbolPacks.0.member>Мусульманин</Structure_OriginIslamic.symbolPacks.0.member>
   <!-- EN: Islamist -->
-  <Structure_OriginIslamic.symbolPacks.1.adjective>Исламист</Structure_OriginIslamic.symbolPacks.1.adjective>
+  <Structure_OriginIslamic.symbolPacks.1.adjective>Исламистский</Structure_OriginIslamic.symbolPacks.1.adjective>
   <!-- EN: Islamism -->
   <Structure_OriginIslamic.symbolPacks.1.ideoName>Исламизм</Structure_OriginIslamic.symbolPacks.1.ideoName>
   <!-- EN: Islamist -->
   <Structure_OriginIslamic.symbolPacks.1.member>Исламист</Structure_OriginIslamic.symbolPacks.1.member>
   <!-- EN: Shiite -->
-  <Structure_OriginIslamic.symbolPacks.2.adjective>Шиит</Structure_OriginIslamic.symbolPacks.2.adjective>
+  <Structure_OriginIslamic.symbolPacks.2.adjective>Шиитский</Structure_OriginIslamic.symbolPacks.2.adjective>
   <!-- EN: Shiism -->
   <Structure_OriginIslamic.symbolPacks.2.ideoName>Шиизм</Structure_OriginIslamic.symbolPacks.2.ideoName>
   <!-- EN: Shiite -->
@@ -509,23 +509,23 @@
   <!-- EN: Sunni -->
   <Structure_OriginIslamic.symbolPacks.3.member>Суннитский</Structure_OriginIslamic.symbolPacks.3.member>
   <!-- EN: Ibadi -->
-  <Structure_OriginIslamic.symbolPacks.4.adjective>Ибади</Structure_OriginIslamic.symbolPacks.4.adjective>
+  <Structure_OriginIslamic.symbolPacks.4.adjective>Ибадийский</Structure_OriginIslamic.symbolPacks.4.adjective>
   <!-- EN: Ibadism -->
   <Structure_OriginIslamic.symbolPacks.4.ideoName>Ибадизм</Structure_OriginIslamic.symbolPacks.4.ideoName>
   <!-- EN: Ibadi -->
   <Structure_OriginIslamic.symbolPacks.4.member>Ибади</Structure_OriginIslamic.symbolPacks.4.member>
   <!-- EN: Ismaili -->
-  <Structure_OriginIslamic.symbolPacks.5.adjective>Исмаилиты</Structure_OriginIslamic.symbolPacks.5.adjective>
+  <Structure_OriginIslamic.symbolPacks.5.adjective>Исмаилитный</Structure_OriginIslamic.symbolPacks.5.adjective>
   <!-- EN: Ismailism -->
   <Structure_OriginIslamic.symbolPacks.5.ideoName>Исмаилизм</Structure_OriginIslamic.symbolPacks.5.ideoName>
   <!-- EN: Ismaili -->
   <Structure_OriginIslamic.symbolPacks.5.member>Исмаилиты</Structure_OriginIslamic.symbolPacks.5.member>
   <!-- EN: Mustalic -->
-  <Structure_OriginIslamic.symbolPacks.6.adjective>Mustalic</Structure_OriginIslamic.symbolPacks.6.adjective>
+  <Structure_OriginIslamic.symbolPacks.6.adjective>Мустализмный</Structure_OriginIslamic.symbolPacks.6.adjective>
   <!-- EN: Mustalism -->
-  <Structure_OriginIslamic.symbolPacks.6.ideoName>Mustalism</Structure_OriginIslamic.symbolPacks.6.ideoName>
+  <Structure_OriginIslamic.symbolPacks.6.ideoName>Мустализм</Structure_OriginIslamic.symbolPacks.6.ideoName>
   <!-- EN: Mustali -->
-  <Structure_OriginIslamic.symbolPacks.6.member>Mustali</Structure_OriginIslamic.symbolPacks.6.member>
+  <Structure_OriginIslamic.symbolPacks.6.member>Мустали</Structure_OriginIslamic.symbolPacks.6.member>
   <!-- EN: Tayyibic -->
   <Structure_OriginIslamic.symbolPacks.7.adjective>Tayyibic</Structure_OriginIslamic.symbolPacks.7.adjective>
   <!-- EN: Tayyibism -->
@@ -563,15 +563,15 @@
   <!-- EN: Azraqi -->
   <Structure_OriginIslamic.symbolPacks.12.member>Azraqi</Structure_OriginIslamic.symbolPacks.12.member>
   <!-- EN: Wahhabi -->
-  <Structure_OriginIslamic.symbolPacks.13.adjective>Ваххабит</Structure_OriginIslamic.symbolPacks.13.adjective>
+  <Structure_OriginIslamic.symbolPacks.13.adjective>Ваххабитный</Structure_OriginIslamic.symbolPacks.13.adjective>
   <!-- EN: Wahhabism -->
   <Structure_OriginIslamic.symbolPacks.13.ideoName>Ваххабизм</Structure_OriginIslamic.symbolPacks.13.ideoName>
   <!-- EN: Wahhabi -->
   <Structure_OriginIslamic.symbolPacks.13.member>Ваххабит</Structure_OriginIslamic.symbolPacks.13.member>
   <!-- EN: Caliphic -->
-  <Structure_OriginIslamic.symbolPacks.14.adjective>Халифат</Structure_OriginIslamic.symbolPacks.14.adjective>
+  <Structure_OriginIslamic.symbolPacks.14.adjective>Халифатный</Structure_OriginIslamic.symbolPacks.14.adjective>
   <!-- EN: Caliphate -->
-  <Structure_OriginIslamic.symbolPacks.14.ideoName>Caliphate</Structure_OriginIslamic.symbolPacks.14.ideoName>
+  <Structure_OriginIslamic.symbolPacks.14.ideoName>Халифат</Structure_OriginIslamic.symbolPacks.14.ideoName>
   <!-- EN: Caliphist -->
   <Structure_OriginIslamic.symbolPacks.14.member>Халифист</Structure_OriginIslamic.symbolPacks.14.member>
   <!-- EN: mosque -->

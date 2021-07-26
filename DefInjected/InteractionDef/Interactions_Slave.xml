@@ -11,7 +11,7 @@
     <li>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</li>
   -->
   <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] предложил им сделать перерыв для этого.</li>
+	<li>r_logentry->[INITIATOR_nameDef] предложил им освободиться от оков.</li>
     <li>r_logentry->[INITIATOR_nameDef] призвал [RECIPIENT_nameDef] вернуть [RECIPIENT_possessive] свободу.</li>
     <li>r_logentry->[INITIATOR_nameDef] говорил о том, чтобы покончить с их порабощением и покончить с ними.</li>
     <li>r_logentry->[INITIATOR_nameDef] говорил о жизни за пределами рабства и поощрял [RECIPIENT_nameDef] к побегу.</li>

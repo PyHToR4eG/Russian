@@ -49,7 +49,7 @@
   <!-- EN: Prisoner {1_nameDef}'s will has been broken by {0_nameDef}. -->
   <MessagePrisonerWillBroken>Воля заключенного {1_nameDef} была сломлена {0_nameDef}.</MessagePrisonerWillBroken>
   <!-- EN: Enslavement will follow. -->
-  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>Порабощение последует.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>За этим последует порабощение.</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
 
   <!-- Prisoner interactions -->
   <!-- EN: No warden is capable of this enslavement. -->

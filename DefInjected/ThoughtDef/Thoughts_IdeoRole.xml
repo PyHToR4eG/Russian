@@ -19,7 +19,7 @@
   <!-- EN: Leader of different ideoligion -->
   <IdeoLeaderResentmentStandard.label>Лидер другой идеологии</IdeoLeaderResentmentStandard.label>
   <!-- EN: I don't like having a<x> {0} </x>as a leader. -->
-  <IdeoLeaderResentmentStandard.stages.0.description>Мне не нравится иметь {0} в качестве лидера.</IdeoLeaderResentmentStandard.stages.0.description>
+  <IdeoLeaderResentmentStandard.stages.0.description>Мне не нравится {0} в качестве лидера.</IdeoLeaderResentmentStandard.stages.0.description>
   
   <!-- EN: Want<x> {ROLE_label} </x>apparel -->
   <IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>Хочет {ROLE_label} одежду</IdeoRoleApparelRequirementNotMet.stages.Want_apparel.label>
@@ -29,11 +29,11 @@
   <!-- EN: No<x> {ROLE_label}</x> -->
   <IdeoRoleEmpty.stages.No.label>Нет {ROLE_label}</IdeoRoleEmpty.stages.No.label>
   <!-- EN: <x>{0}</x>s must have<x> {ROLE_labelIndef}</x>! -->
-  <IdeoRoleEmpty.stages.No.description>{0} должен иметь {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
+  <IdeoRoleEmpty.stages.No.description>{0} должен быть {ROLE_labelIndef}!</IdeoRoleEmpty.stages.No.description>
   
   <!-- EN: Lost<x> {ROLE_label} </x>role -->
-  <IdeoRoleLost.stages.Lost_role.label>Потерянная роль {ROLE_label} </IdeoRoleLost.stages.Lost_role.label>
+  <IdeoRoleLost.stages.Lost_role.label>Потеряна роль {ROLE_label} </IdeoRoleLost.stages.Lost_role.label>
   <!-- EN: I lost my role as<x> {ROLE_labelDef}</x>. -->
-  <IdeoRoleLost.stages.Lost_role.description>Я потерял свою роль {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
+  <IdeoRoleLost.stages.Lost_role.description>Я больше не {ROLE_labelDef}.</IdeoRoleLost.stages.Lost_role.description>
   
 </LanguageData>

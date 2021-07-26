@@ -52,7 +52,7 @@
   <Execution_HorribleIfInnocent.comps.7.description>Кто-то казнил заключенного</Execution_HorribleIfInnocent.comps.7.description>
   
   <!-- EN: required -->
-  <Execution_Required.label>необходимый</Execution_Required.label>
+  <Execution_Required.label>требуется</Execution_Required.label>
   <!-- EN: Prisoners must be executed on a regular basis. When they are, it is a happy occasion. -->
   <Execution_Required.description>Заключенные должны регулярно подвергаться казни. Когда они есть, это счастливый случай.</Execution_Required.description>
   <!-- EN: Executed prisoner -->

@@ -13,7 +13,7 @@
   -->
   <Beggars.questContentRules.rulesStrings>
 	<li>letterLabelBeggarsBetrayed->[groupLabelSingleOrPlural] предан</li>
-    <li>letterTextBeggarsBetrayed->[GroupLabelSingleOrPlural], [wasWere] вашей милостыни, [hasHave]. Колонисты с милосердием будут недовольны.</li>
+    <li>letterTextBeggarsBetrayed->[groupLabelSingleOrPlural], [wasWere] вашей милостыни, [hasHave]. Колонисты с милосердием будут недовольны.</li>
     <li>hasHave(beggarCount==1)->был предан</li>
     <li>hasHave(beggarCount>=2)->были преданы</li>
     <li>wasWere(beggarCount==1)->который искал</li>

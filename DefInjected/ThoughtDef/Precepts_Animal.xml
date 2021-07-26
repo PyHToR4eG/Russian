@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: ate venerated animal meat -->
-  <AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>ел мясо почитаемых животных</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>
+  <AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>ел мясо почитаемого животного</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.label>
   <!-- EN: I ate the flesh of a venerated animal. I've violated a most basic moral rule. -->
   <AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>Я ел мясо почитаемого животного. Я нарушил самое основное моральное правило.</AteVeneratedAnimalMeat.stages.ate_venerated_animal_meat.description>
   
   <!-- EN: venerated<x> {ANIMALKIND} </x>died -->
   <TameVeneratedAnimalDied.stages.venerated_died.label>почитаемый {ANIMALKIND} умер</TameVeneratedAnimalDied.stages.venerated_died.label>
   <!-- EN: A tame<x> {ANIMALKIND} </x>passed away. The death of such a noble beast is cause for sadness. -->
-  <TameVeneratedAnimalDied.stages.venerated_died.description>Умер прирученный {ANIMALKIND}. Смерть такого благородного зверя - повод для печали.</TameVeneratedAnimalDied.stages.venerated_died.description>
+  <TameVeneratedAnimalDied.stages.venerated_died.description>Прирученный {ANIMALKIND} умер. Смерть такого благородного зверя - повод для печали.</TameVeneratedAnimalDied.stages.venerated_died.description>
   
   <!-- EN: venerated<x> {ANIMAL_label}</x> -->
   <VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>почитаемый {ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.stages.venerated-0.label>

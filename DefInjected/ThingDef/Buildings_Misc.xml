@@ -44,12 +44,12 @@
   <!-- EN: lightball -->
   <LightBall.label>световой шар</LightBall.label>
   <!-- EN: A decorative light that rotates and changes colors. Used as a focus for dance parties. -->
-  <LightBall.description>Декоративный светильник, который вращается и меняет цвета. Используется в качестве фокуса для танцевальных вечеринок.</LightBall.description>
+  <LightBall.description>Декоративный светильник, который вращается и меняет цвета. Используется в качестве центра для танцевальных вечеринок.</LightBall.description>
   
   <!-- EN: loudspeaker -->
-  <Loudspeaker.label>громкоговоритель</Loudspeaker.label>
+  <Loudspeaker.label>динамик</Loudspeaker.label>
   <!-- EN: A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect. -->
-  <Loudspeaker.description>Большой громкоговоритель для воспроизведения музыки. По крайней мере, один необходим для проведения танцевальной вечеринки, и большее количество громкоговорителей усилит эффект.</Loudspeaker.description>
+  <Loudspeaker.description>Большой динамик для воспроизведения музыки. По крайней мере, один необходим для проведения танцевальной вечеринки, и большее количество громкоговорителей усилит эффект.</Loudspeaker.description>
   
   <!-- EN: pew -->
   <Pew.label>скамья</Pew.label>
@@ -67,9 +67,9 @@
   <Reliquary.description>Церемониальное здание, которое защищает и демонстрирует реликвию. Реликвии - это древние предметы, почитаемые верующими определенной идеологии.</Reliquary.description>
   
   <!-- EN: skullspike -->
-  <Skullspike.label>череп на шипе</Skullspike.label>
+  <Skullspike.label>череп на пике</Skullspike.label>
   <!-- EN: A spike mounted upright for the purpose of piercing and displaying a human skill. To some, displayed skulls are a symbol of power. To others, they represent barbaric evil. Skullspikes are an especially brutal and effective way to terrorize slaves. -->
-  <Skullspike.description>Шип, установленный вертикально с целью пронзения и демонстрации силы. Для некоторых выставленные черепа являются символом власти. Для других они олицетворяют варварское зло. Черепа на шипах - это особенно жестокий и эффективный способ терроризировать рабов.</Skullspike.description>
+  <Skullspike.description>Шип, установленный вертикально с целью пронзения и демонстрации силы. Для некоторых выставленные черепа являются символом власти. Для других они олицетворяют варварское зло. Черепа на пиках - это особенно жестокий и эффективный способ терроризировать рабов.</Skullspike.description>
   
   <!-- EN: slab bed -->
   <SlabBed.label>кровать плита</SlabBed.label>
@@ -77,7 +77,7 @@
   <SlabBed.description>Плита из твердого материала, на которой можно спать. Кровати с плитами неудобны, но некоторые рассматривают их использование как демонстрацию морального блага.</SlabBed.description>
   
   <!-- EN: slab double bed -->
-  <SlabDoubleBed.label>двуспальная кровать плита</SlabDoubleBed.label>
+  <SlabDoubleBed.label>двуспальная каменная кровать</SlabDoubleBed.label>
   <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. This one is wide enough to fit two people. -->
   <SlabDoubleBed.description>Плита из твердого материала, на которой можно спать. Кровати с плитами неудобны, но некоторые рассматривают их использование как демонстрацию морального блага. Этот достаточно широк, чтобы вместить двух человек.</SlabDoubleBed.description>
   
@@ -85,5 +85,10 @@
   <StylingStation.label>станция для укладки</StylingStation.label>
   <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
   <StylingStation.description>Столик с зеркалом и инструментами для укладки. Люди могут использовать это, чтобы изменить свой внешний вид.</StylingStation.description>
+  
+  <!-- EN: egg box -->
+  <EggBox.label>коробка для яиц</EggBox.label>
+  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
+  <EggBox.description>Коробка из мягкого материала, предназначенная для хранения яиц. Яйцекладущие животные будут откладывать яйца в ящики для яиц, если смогут. Ваши носильщики будут вынимать все яйца только тогда, когда коробка будет заполнена, чтобы сэкономить время. Коробка также защищает яйца от порчи на открытом воздухе, хотя и не защищает от температурных повреждений.</EggBox.description>
   
 </LanguageData>

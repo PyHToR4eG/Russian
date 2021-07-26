@@ -10,7 +10,7 @@
   <!-- EN: Someone mined a block -->
   <Mining_Disapproved.comps.2.description>Кто-то копал блок</Mining_Disapproved.comps.2.description>
   
-  <!-- EN: ужасно -->
+  <!-- EN: horrible -->
   <Mining_Horrible.label>ужасно</Mining_Horrible.label>
   <!-- EN: Violating the natural earth with mining tools is a horrible act. -->
   <Mining_Horrible.description>Осквернение земли с помощью горных инструментов - это ужасный акт.</Mining_Horrible.description>

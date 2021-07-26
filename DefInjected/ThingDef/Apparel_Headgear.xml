@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: authority cap -->
-  <Apparel_AuthorityCap.label>колпак власти</Apparel_AuthorityCap.label>
+  <Apparel_AuthorityCap.label>шапка мономаха</Apparel_AuthorityCap.label>
   <!-- EN: A hat with a stiff brim and peaked top. It's not particularly protective, but it creates a sense of authority and makes the wearer more effective in suppressing slaves. -->
   <Apparel_AuthorityCap.description>Шляпа с жесткими полями и остроконечным верхом. Он не особенно защищает, но создает ощущение авторитета и делает владельца более эффективным в подавлении рабов.</Apparel_AuthorityCap.description>
   
   <!-- EN: broadwrap -->
-  <Apparel_Broadwrap.label>обертка</Apparel_Broadwrap.label>
+  <Apparel_Broadwrap.label>повязка</Apparel_Broadwrap.label>
   <!-- EN: Wrapped fabric sheets that loosely cover the wearer's head and shoulders. -->
   <Apparel_Broadwrap.description>Обернутые тканевые простыни, которые свободно закрывают голову и плечи владельца.</Apparel_Broadwrap.description>
   
@@ -19,7 +19,7 @@
   <!-- EN: flophat -->
   <Apparel_Flophat.label>флофат</Apparel_Flophat.label>
   <!-- EN: A large, thick cap, similar to a tuque. It has extra fabric along the back. -->
-  <Apparel_Flophat.description>Большая, толстая кепка, похожая на туку. У него есть дополнительная ткань вдоль спины.</Apparel_Flophat.description>
+  <Apparel_Flophat.description>Большая, толстая кепка, похожая на туку. У нее есть специальная выделка сзади.</Apparel_Flophat.description>
   
   <!-- EN: headwrap -->
   <Apparel_Headwrap.label>повязка на голову</Apparel_Headwrap.label>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: <x>{BUILDING_labelCap} </x>disrespected -->
-  <IdeoBuildingDisrespected.stages.disrespected.label>{BUILDING_labelCap} неуважение</IdeoBuildingDisrespected.stages.disrespected.label>
+  <IdeoBuildingDisrespected.stages.disrespected.label>неуважение к {BUILDING_labelCap}</IdeoBuildingDisrespected.stages.disrespected.label>
   <!-- EN: We have<x> {BUILDING_labelIndef}</x>, but it needs to be placed in a room that satisfies the proper requirements. -->
   <IdeoBuildingDisrespected.stages.disrespected.description>У нас есть {BUILDING_labelIndef}, но его нужно разместить в помещении, которое удовлетворяет необходимым требованиям.</IdeoBuildingDisrespected.stages.disrespected.description>
   

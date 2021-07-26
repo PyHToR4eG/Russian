@@ -4,7 +4,7 @@
   <!-- EN: Choose your faction's ideoligion -->
   <ChooseIdeoligion>Выберите идеологию своей фракции</ChooseIdeoligion>
   <!-- EN: Create custom -->
-  <CreateCustom>Создание собственного</CreateCustom>
+  <CreateCustom>Создать собственную</CreateCustom>
   <!-- EN: Create new -->
   <CreateNew>Создать новый</CreateNew>
   <!-- EN: Load existing -->
@@ -286,7 +286,7 @@
   <!-- EN: building -->
   <IdeoBuilding>здание</IdeoBuilding>
   <!-- EN: relic -->
-  <IdeoRelic>реликвия</IdeoRelic>
+  <IdeoRelic>реликвию</IdeoRelic>
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
@@ -547,5 +547,9 @@
   <!-- EN: Cleanliness speed factor -->
   <!-- ISSUE -->
   <BiosculpterCleanlinessSpeedFactor>Коэффициент скорости очистки</BiosculpterCleanlinessSpeedFactor>
+  
+    <!-- Rituals -->
+  <!-- EN: ritual -->
+  <Ritual>ритуал</Ritual>
 
 </LanguageData>

@@ -27,7 +27,7 @@
   <AncientHermeticCrate.description>Герметичный ящик с автономным питанием для хранения ценных предметов. Они могут сохранять свое содержимое в течение длительного времени.</AncientHermeticCrate.description>
   
   <!-- EN: security crate -->
-  <AncientSecurityCrate.label>защитный ящик</AncientSecurityCrate.label>
+  <AncientSecurityCrate.label>защищенный ящик</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
   <AncientSecurityCrate.description>Большой герметичный ящик с автономным питанием и встроенной охранной сигнализацией. Они могут сохранять свое содержимое в течение длительного времени. Если он будет открыт без соответствующего кода, он, вероятно, активирует какую-нибудь близлежащую систему безопасности.</AncientSecurityCrate.description>
   

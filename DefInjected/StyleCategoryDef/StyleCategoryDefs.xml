@@ -8,7 +8,7 @@
   <Buddhist.label>Буддийский</Buddhist.label>
   
   <!-- EN: Christian -->
-  <Christian.label>Христианин</Christian.label>
+  <Christian.label>Христианский</Christian.label>
   
   <!-- EN: Hindu -->
   <Hindu.label>Индуистский</Hindu.label>
@@ -17,7 +17,7 @@
   <Islamic.label>Исламский</Islamic.label>
   
   <!-- EN: morbid -->
-  <Morbid.label>патологический</Morbid.label>
+  <Morbid.label>мрачный</Morbid.label>
   
   <!-- EN: rustic -->
   <Rustic.label>деревенский</Rustic.label>
@@ -26,7 +26,7 @@
   <Spikecore.label>колючий</Spikecore.label>
   
   <!-- EN: techist -->
-  <Techist.label>техник</Techist.label>
+  <Techist.label>техно</Techist.label>
   
   <!-- EN: totemic -->
   <Totemic.label>тотемный</Totemic.label>

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- bug fix for Core -->
+  
   <!-- EN:
     <li>place_name->Atura Station</li>
     <li>place_adjective->Aturan</li>

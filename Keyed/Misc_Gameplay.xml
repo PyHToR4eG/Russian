@@ -212,7 +212,7 @@
   <!-- EN: Can start after event -->
   <RitualStartEvent>Может начаться после события</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>Фокусировка объектов</RitualFocusObjects>
+  <RitualFocusObjects>Центр объектов</RitualFocusObjects>
   <!-- EN: Repeating a ritual within {0} days reduces its quality. {1} days have passed since the last ritual, so the current quality reduction is {2}. This penalty will fall to zero {3} days from now. -->
   <RitualRepeatPenaltyTip>Повторение ритуала в течение {0} дней снижает его качество. {1} с момента последнего ритуала прошло несколько дней, поэтому текущее снижение качества составляет {2}. Этот штраф упадет до нуля {3} дней с этого момента.</RitualRepeatPenaltyTip>
   <!-- EN: Participating roles -->

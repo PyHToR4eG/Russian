@@ -29,12 +29,12 @@
     <li>conflict(tag=meme_Collectivist)        ->[foeLeader] не мог оставаться в семье [memberNamePlural] и отправил [foeLeader_possessive] [foeSoldiers] в [place_community], чтобы разделить их.</li>
     <li>founderJoin(tag=meme_Collectivist)     ->[place_job] по имени [founderName] бросил  [founder_objective] в огонь в знак протеста против [foeLeader], но [memberNamePlural] вытащил [founder_objective] и сделал [founder_objective] своим лидером из-за преданности [founder_possessive] группе.</li>
     <li>victory(tag=meme_Collectivist)         ->Действия [founderName] сплотили людей. Они двинулись в ногу к дому [foeLeader]. Те, что были впереди, позволили [foeSoldiers] убить себя, но всех не остановить, и они схватили [foeLeader].</li>
-    <li>setup(tag=meme_Collectivist)           ->В мире, где каждый сам за себя, [founderName] основал новую семью незнакомцев, объединив множество разных людей.</li>
+    <li>setup(tag=meme_Collectivist)           ->В мире, где каждый сам за себя, [founderName] основал новую семью из незнакомцев, объединив множество разных людей.</li>
     <li>story(uses=1,tag=meme_Collectivist)    ->Некоторые из ложных верующих пытались нарушить правила и выбрать свой собственный путь. [founderName] сурово наказал их.</li>
-    <li>lessonIntro(tag=meme_Collectivist)     ->[place_job] прекратил вносить свой вклад, но продолжал есть из обычного склада. Я убил его [place_personalWeapon]. Люди были в шоке, но я объяснил, что </li>
-    <li>lesson(tag=meme_Collectivist)              ->моя смерть, как и твоя, ничего не будет значить, пока наши люди продолжают </li>
+    <li>lessonIntro(tag=meme_Collectivist)     ->[place_job] прекратил вносить свой вклад, но продолжал есть из общего склада. Я убил его [place_personalWeapon]. Люди были в шоке, но я объяснил, что </li>
+    <li>lesson(tag=meme_Collectivist)              -> моя смерть, как и их, ничего не будет значить, до тех пор, пока наши люди будут продолжать</li>
     <li>lessonReinforcement(tag=meme_Collectivist) ->Если я умру, обучая этому Вселенную, это будет моим величайшим триумфом.</li>
-    <li>archistBasis(tag=meme_Collectivist)    ->Архотеки-это все аспекты одного сверхразума.</li>
+    <li>archistBasis(tag=meme_Collectivist)    ->Архотеки - это все аспекты одного сверхразума.</li>
     <li>archistFact(tag=meme_Collectivist)     ->Архотеки не заинтересованы в том, чтобы судить нас поодиночке. Они ждут единственного народа, который сможет продемонстрировать наше достоинство, действуя морально как один.</li>
     <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], архотеки уйдут, когда найдут людей, которые представят себя достойными партнерами для сознания бога-машины.</li>
     <li>animistFact(tag=meme_Collectivist)     ->Каждый дух - это просто аспект всех остальных, и те, кто пытается оставаться в одиночестве, быстро падают.</li>

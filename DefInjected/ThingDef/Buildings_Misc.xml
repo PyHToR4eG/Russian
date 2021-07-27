@@ -22,19 +22,19 @@
   <GaumakerCocoon.description>В результате слияния нескольких дриад Гаумакера, этот симбиотический стручок растения/животного является неотъемлемой частью жизненного цикла Гауранлена. Через некоторое время он расцветет в зрелый стручок Гауранлена, который можно собрать, чтобы посадить новое дерево Гауранлена.</GaumakerCocoon.description>
   
   <!-- EN: gibbet cage -->
-  <GibbetCage.label>клетка для виселицы</GibbetCage.label>
+  <GibbetCage.label>клетка виселицы</GibbetCage.label>
   <!-- EN: A steel cage for holding and displaying corpses. This horrifying sight inspires terror and disgust in observers. It is an especially brutal and effective way to terrorize slaves. -->
   <GibbetCage.description>Стальная клетка для хранения и демонстрации трупов. Это ужасающее зрелище внушает ужас и отвращение наблюдателям. Это особенно жестокий и эффективный способ устрашения рабов.</GibbetCage.description>
   
   <!-- EN: kneel pillow -->
-  <KneelPillow.label>подушка на коленях</KneelPillow.label>
+  <KneelPillow.label>молитвенная подушка</KneelPillow.label>
   <!-- EN: A pillow on which believers kneel while observing rituals, praying, or discussing. -->
   <KneelPillow.description>Подушка, на которой верующие преклоняют колени во время соблюдения ритуалов, молитвы или обсуждения.</KneelPillow.description>
   
   <!-- EN: kneel sheet -->
-  <KneelSheet.label>простыня на коленях</KneelSheet.label>
+  <KneelSheet.label>молитвенный коврик</KneelSheet.label>
   <!-- EN: A sheet on which believers kneel while observing rituals, praying, or discussing. -->
-  <KneelSheet.description>Простыня, на которой верующие преклоняют колени во время соблюдения ритуалов, молитвы или обсуждения.</KneelSheet.description>
+  <KneelSheet.description>Коврик, на котором верующие преклоняют колени во время соблюдения ритуалов, молитвы или обсуждения.</KneelSheet.description>
   
   <!-- EN: lectern -->
   <Lectern.label>кафедра</Lectern.label>
@@ -42,9 +42,9 @@
   <Lectern.description>Наклонная платформа, на которой перед выступающим находится текст. Поместите его рядом с центром ритуалов и речей, чтобы продлить продолжительность их положительного эффекта.</Lectern.description>
   
   <!-- EN: lightball -->
-  <LightBall.label>световой шар</LightBall.label>
+  <LightBall.label>дискошар</LightBall.label>
   <!-- EN: A decorative light that rotates and changes colors. Used as a focus for dance parties. -->
-  <LightBall.description>Декоративный светильник, который вращается и меняет цвета. Используется в качестве центра для танцевальных вечеринок.</LightBall.description>
+  <LightBall.description>Декоративный дискошар, который вращается и меняет цвета. Используется в качестве центра для танцевальных вечеринок.</LightBall.description>
   
   <!-- EN: loudspeaker -->
   <Loudspeaker.label>динамик</Loudspeaker.label>

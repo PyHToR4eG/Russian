@@ -180,9 +180,9 @@
   <!-- EN: active speaker count -->
   <CelebrationPartyDanceTech.comps.2.label>количество активных выступающих</CelebrationPartyDanceTech.comps.2.label>
   <!-- EN: started at lightball -->
-  <CelebrationPartyDanceTech.comps.3.label>началось у светошара</CelebrationPartyDanceTech.comps.3.label>
+  <CelebrationPartyDanceTech.comps.3.label>началось у дискошара</CelebrationPartyDanceTech.comps.3.label>
   <!-- EN: a lightball -->
-  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>светошар</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
+  <CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>дискошар</CelebrationPartyDanceTech.comps.3.expectedThingLabelTip>
   <!-- EN: If the<x> {0} </x>is fun or unforgettable, participants may gain increased work speed for a while. -->
   <CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>Если {0} весело или незабываемо, участники могут на некоторое время увеличить скорость работы.</CelebrationPartyDanceTech.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->

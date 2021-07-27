@@ -111,9 +111,9 @@
   <!-- EN: Altar or any ritual spot. -->
   <RitualTargetGatherAltarOrRitualSpotInfo>Алтарь или любое другое ритуальное место.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>Световой шар или ритуальное пятно. Световой шар и громкоговорители должны быть включены.</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>Дискошар или ритуальное место. Дискошар и громкоговорители должны быть включены.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
-  <RitualTargetLightBallIsNotPowered>Световой шар не работает.</RitualTargetLightBallIsNotPowered>
+  <RitualTargetLightBallIsNotPowered>Дискошар не работает.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
   <RitualTargetNoPoweredSpeakers>Никаких динамиков с питанием.</RitualTargetNoPoweredSpeakers>
   <!-- EN: Campfire is not fueled. -->
@@ -687,8 +687,6 @@
   
   <!-- EN: Requires {0} trait -->
   <TraitRequired>Требуется {0} признак</TraitRequired>
-  <!-- EN: Goodwill -->
-  <Goodwill>Репутация</Goodwill>333
   <!-- EN: Natural goodwill -->
   <NaturalGoodwill>Обычная репутация</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->

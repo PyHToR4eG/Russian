@@ -244,7 +244,7 @@
   <Structure_OriginChristian.worshipRoomLabel>церковь</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
-  <Structure_OriginHindu.label>Индуистского начала</Structure_OriginHindu.label>
+  <Structure_OriginHindu.label>Индуистское начала</Structure_OriginHindu.label>
   <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
   <Structure_OriginHindu.description>Это вариант воплощенной теистической структуры. Эта идеология является потомком древнего индуизма. Возможно, его заповеди сильно отличаются от тех, что были тысячи лет назад, но его символы схожи.</Structure_OriginHindu.description>
   <!-- EN: God of Creation -->

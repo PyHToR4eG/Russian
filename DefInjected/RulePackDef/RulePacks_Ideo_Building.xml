@@ -34,8 +34,8 @@
   <NamerCannibalPlatter.rulePack.rulesStrings>
 	<li>buildingName->блюдо</li>
     <li>buildingName->миска</li>
-    <li>buildingName->пир</li>
-    <li>buildingName->свинина</li>
+    <li>buildingName->тарелка</li>
+    <li>buildingName->люк</li>
   </NamerCannibalPlatter.rulePack.rulesStrings>
   
   <!-- EN:
@@ -56,8 +56,15 @@
     <li>r_ideoBuildingName->[buildingName] of [memeConcept]</li>
     <li>r_ideoBuildingName->[buildingName] of [chosenIdeoName]</li>
   -->
-  <!-- EN: TODO -->
-  <NamerIdeoBuilding.rulePack.rulesStrings>TODO</NamerIdeoBuilding.rulePack.rulesStrings>
+  <NamerIdeoBuilding.rulePack.rulesStrings>
+	<li>r_ideoBuildingName(p=2)->[memeAdjective] [buildingName]</li>
+    <li>r_ideoBuildingName->[chosenTheme] [buildingName]</li>
+    <li>r_ideoBuildingName->[chosenAdjective] [buildingName]</li>
+    <li>r_ideoBuildingName->[buildingName] [keyDeity]</li>
+    <li>r_ideoBuildingName->[keyDeity] [buildingName]</li>
+    <li>r_ideoBuildingName->[memeConcept] [buildingName]</li>
+    <li>r_ideoBuildingName->[chosenIdeoName] [buildingName]</li>
+  </NamerIdeoBuilding.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->ideogram</li>
@@ -103,7 +110,11 @@
     <li>buildingName->fumer</li>
     <li>buildingName->smolderer</li>
   -->
-  <!-- EN: TODO -->
-  <NamerSmoker.rulePack.rulesStrings>TODO</NamerSmoker.rulePack.rulesStrings>
+  <NamerSmoker.rulePack.rulesStrings>
+	<li>buildingName->коптильня</li>
+    <li>buildingName->ингалятор</li>
+    <li>buildingName->фумер</li>
+    <li>buildingName->кальян</li>
+  </NamerSmoker.rulePack.rulesStrings>
   
 </LanguageData>

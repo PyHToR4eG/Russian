@@ -76,7 +76,7 @@
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Шанс получить наставление</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort} любимый цвет. Наличие более {PERCENTAGE} одежды {PAWN_possessive} этого цвета или цвета идеологии {PAWN_possessive} сделает {PAWN_objective} немного счастливее.\n\nВы можете изменить цвета одежды на станции укладки, используя краситель tinctoria.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort} любимый цвет. Наличие более {PERCENTAGE} одежды {PAWN_possessive} цвета или {PAWN_possessive} цвета идеологии сделает {PAWN_objective} немного счастливее.\n\nВы можете изменить цвета одежды на станции укладки, используя краситель тинктория.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Установите цвет ideo</SetIdeoColor>
   <!-- EN: Set favorite color -->
@@ -552,11 +552,11 @@
   <!-- EN: ritual -->
   <Ritual>ритуал</Ritual>
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>Проходит в</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>Любой {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending -->
-  <LordReportAttending>TODO</LordReportAttending>
+  <LordReportAttending>Посещает</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
   <RitualCalledOff>{0} отменен.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
@@ -665,5 +665,58 @@
   <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>{0} максимум</MaxValue>
+  
+  <!-- Core -->
+  
+  <!-- Various -->
+  <!-- EN: Execute -->
+  <Execute>Казнить</Execute>
+  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
+  <ExecuteColonist>Казнить виновного колониста\n\nЕсли вы включите это, надзиратель приступит к казни этого человека.</ExecuteColonist> <!-- text_doto -->
+  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
+  <MessageColonistMarkedForExecution>{0_labelShort} теперь помечен для выполнения. Следующий доступный надзиратель отправится выполнять {0_objective}.</MessageColonistMarkedForExecution>
+  
+  <!-- EN: Rideable animals / people -->
+  <RideableAnimalsPerPeople>Ездовые животные/люди</RideableAnimalsPerPeople>
+  <!-- EN: Multiplier from ridden animals -->
+  <MultiplierFromRiddenAnimals>Множитель от ездовых животных</MultiplierFromRiddenAnimals>
+  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
+  <RideableAnimalTip>На этом животном можно ездить верхом. Люди в караване будут ездить на самых быстрых доступных животных, повышая скорость каравана в целом.</RideableAnimalTip>
+  <!-- EN: This caravan can't move because it carries too much. -->
+  <EncumberedCaravanTilesPerDayTip>Этот караван не может двигаться, потому что он перегружен.</EncumberedCaravanTilesPerDayTip>
+  
+  <!-- EN: Requires {0} trait -->
+  <TraitRequired>Требуется {0} признак</TraitRequired>
+  <!-- EN: Goodwill -->
+  <Goodwill>Репутация</Goodwill>333
+  <!-- EN: Natural goodwill -->
+  <NaturalGoodwill>Обычная репутация</NaturalGoodwill>
+  <!-- EN: Natural goodwill range -->
+  <NaturalGoodwillRange>Диапазон обычной репутации</NaturalGoodwillRange>
+  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
+  <NaturalGoodwillDescription>Обычная репутация основана на идентичности и убеждениях фракций. Если текущая репутация далека от обычной, со временем она будет постепенно смещаться в сторону обычной.\n\nВсе эффекты репутации умножаются на {0} при переходе к обычной репутации.</NaturalGoodwillDescription>
+  <!-- EN: Too large -->
+  <TooLargeForBed>Слишком большой</TooLargeForBed>
+  <!-- EN: Warning -->
+  <Warning>Внимание</Warning>
+  <!-- EN: Has subquest -->
+  <HasSubquest>Есть подзадача</HasSubquest>
+  <!-- EN: Subquest of -->
+  <SubquestOf>Подзадача</SubquestOf>
+  <!-- EN: Raid -->
+  <Raid>Рейд</Raid>
+  <!-- EN: Disabled by -->
+  <ApparelRequirementDisabledLabel>Отключено</ApparelRequirementDisabledLabel>
+  <!-- EN: Nudism -->
+  <Nudism>Нудизм</Nudism>
+  <!-- EN: Study progress -->
+  <StudyProgress>Ход обучения</StudyProgress>
+  <!-- EN: completed -->
+  <StudyCompleted>завершен</StudyCompleted>
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Атакуйте это, чтобы уничтожить.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Удалите это, атакуя на него.</RemoveByAttackingTooltip>
+  
 
 </LanguageData>

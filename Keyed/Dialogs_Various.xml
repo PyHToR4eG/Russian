@@ -242,5 +242,42 @@
 
   <!-- EN: Relics -->
   <RelicsSection>Реликвии</RelicsSection>
+  
+  <!-- Core -->
+  
+  <!-- Auto slaughter -->
+  <!-- EN: Animal -->
+  
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>TODO</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>TODO</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>TODO</AllowSlaughter>
+
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Текущее количество детенышей и молодых самцов в колонии.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Максимальное количество детенышей и молодых самцов в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Текущее количество детенышей и молодых самок в колонии.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Максимальное количество детенышей и молодых самок в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Текущее количество беременных животных в колонии.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Разрешить забивать беременных животных вместе с другими самками того же вида.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>Текущее количество прирученных животных в колонии.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Разрешить забивать связанных животных.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
 </LanguageData>

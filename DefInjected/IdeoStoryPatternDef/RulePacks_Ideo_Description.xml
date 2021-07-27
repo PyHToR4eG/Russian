@@ -84,7 +84,7 @@
     <li>setup->Пораженный неправильностью мира, [founderName] изучал историю и философию и открыл новую истину, которая ведет нас.</li>
     <li>setup->Однажды во время работы [founderName] на него снизошло великое озарение. [founder_pronoun] бросил инструменты [founder_possessive] и начал распространять [founder_possessive] среди других работников.</li>
     <li>setup->[founderName] двадцать лет просидел на скамейке в парке, пока [founderName] размышлял о нашем мире. С [founder_possessive] пониманием [founder_pronoun] написал нашу основополагающую книгу.</li>
-    <li>story(uses=1,priority=-10)->[memberNamePlural] не смог бы понять истинную природу [memeConcept] без учения [founderName].</li>
+    <li>story(uses=1,priority=-10)->[memberNamePlural] не смогли бы понять истинную природу [memeConcept] без учения [founderName].</li>
     <li>story(uses=1,priority=-10)->Речь [founderName] о [ritualName] вдохновила многих вести [memeAdjective] жизнь.</li>
     <li>story(uses=1,priority=-10)->Никто не мог превзойти [founderName] в понимании [memeConcept], и [founder_pronoun] был назначен первым [leaderTitle] [memberNamePlural].</li>
     <li>story(uses=1,priority=-10)->[founderName] повсюду носил [relic0_thingDef_label] с именем [relic0_name] и [founder_objective], чтобы напоминать людям о том, что нужно жить [memeAdjective] жизнью.</li>

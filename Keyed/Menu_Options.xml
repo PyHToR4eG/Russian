@@ -4,5 +4,11 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Фон меню</SetBackgroundImage>
+  
+  <!-- Core -->
+  
+  <!-- Gameplay -->
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>Симулировать отсутствие Ideology</SimulateNotOwningIdeology>
 
 </LanguageData>

@@ -203,5 +203,16 @@
   <LetterLabelArchotechStructuresAbandoned>Заброшенные архотехнические сооружения</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
   <LetterTextArchotechStructuresAbandoned>Вы отказались от структур архонекса в {0_definite}.\n\nНаблюдатели, находящиеся на расстоянии, говорят, что они видели яркую вспышку, исходящую из этого места вскоре после того, как вы ушли</LetterTextArchotechStructuresAbandoned>
+  
+  <!-- Core -->
+  
+  <!-- EN: neutral -->
+  <NeutralLower>безразлично</NeutralLower>
+  
+  <!-- Quest items added to caravan inventory -->
+  <!-- EN: {CARAVAN_label} received items -->
+  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} получил товары</LetterLabelQuestItemsAddedToCaravanInventory>
+  <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
+  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} получил следующие товары:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
 </LanguageData>

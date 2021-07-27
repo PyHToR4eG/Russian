@@ -7,6 +7,8 @@
   <!-- EN: Choose next colony site -->
   <ChooseNextColonySite>Выберите следующий участок колонии</ChooseNextColonySite>
   
+  <!-- Core -->
+  
   <!-- Factions -->
   <!-- EN: Factions -->
   <Factions>Фракции</Factions>
@@ -28,5 +30,26 @@
   <MechanoidsDisabledContentWarning>Отключение {0} означает меньшее разнообразие заданий и неожиданных угроз.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Без других фракций рейды, торговля и квесты не будут происходить как обычно.</FactionsDisabledWarning>
+    
+  <!-- Mods config -->
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Не удается переместить {0}: он должен быть загружен после {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Не удается переместить {0}: он должен быть загружен до {1}.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Перетаскивайте, чтобы упорядочить</DragToReorder>
+  
+  <!-- EN: Player tools -->
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Классические минометы</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Минометы не требуют для изготовления или перезарядки усиленных труб, и они сбалансированы для облегчения доступа.</Difficulty_ClassicMortars_Info>
+  
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Идеология</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>TODO</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>С одним колонистом стартовой идеологии игрока шанс перехода в его идеологию умножается на эту сумму. Попытки обращения против них имеют свой эффект, деленный на эту величину.\n\nС двумя колонистами стартовой идеологии игрока эффект уменьшается вдвое.\n\nС тремя или более колонистами начальной идеологии игрока это не имеет никакого эффекта.</Difficulty_LowPopConversionBoost_Info>
 
 </LanguageData>

@@ -89,5 +89,12 @@
   <Cut>Вырезать</Cut>
   <!-- EN: Cut both eyes -->
   <CutBothEyes>Вырезать оба глаза</CutBothEyes>
+  
+  <!-- Core -->
+  
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>TODO</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
 
 </LanguageData>

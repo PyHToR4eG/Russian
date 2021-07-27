@@ -189,5 +189,45 @@
   <ResearchProjectHasDefsWithMissingMemes>{0} открывает вещи, которые вы не можете создать, потому что для них требуются доктрины, в которые никто из ваших людей не верит</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
   <SelectedWorkTypeOpposedByIdeo>Предупреждение: Этому виду работы противостоит идеология {0_possessive}, поэтому это может сделать этого человека несчастным.</SelectedWorkTypeOpposedByIdeo>
+  
+  <!-- Core -->
+  
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>Отключено предысторией: {0}</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>Отключено признаком: {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>Отключено заданием: {0}</WorkDisabledByQuest>
+  
+  <!-- Factions tab -->
+  <!-- EN: hostile -->
+  <HostileLower>недружественный</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>союзник</AllyLower>
+  <!-- EN: defeated -->
+  <RecentEvents>Последние события</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>Текущие события</OngoingEvents>
+  
+    <!-- EN: Factions -->
+  <FactionsTab>Фракции</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>Нет известных фракций</NoFactions>
+  
+  <!-- Research tab -->
+  <!-- EN: Study -->
+  <Study>Изучить</Study>
+  
+  <!-- Quests tab -->
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>богатства колонии не менее {0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>союз с {0}</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>враждебно к {0}</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>нейтрально к {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>изучено {0_labelShort}</QuestRequiredThingStudied>
 
 </LanguageData>

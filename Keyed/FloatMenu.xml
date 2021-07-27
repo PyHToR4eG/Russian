@@ -130,5 +130,18 @@
   <CannotCarryToBiosculpterPod>Не может быть перенесен в капсулу биоскульптора</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
   <NoBiosculpterPod>Нет доступного модуля биоскульптуры.</NoBiosculpterPod>
+  
+  <!-- Core -->
+  
+  <!-- CommsConsole -->
+
+  <!-- EN: Invoke {0} -->
+  <Invoke>Вызвать</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Не удается вызвать {0}</CannotInvoke>
+  <!-- EN: power -->
+  <Power>сила</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>уже вызван</AlreadyInvoked>
 
 </LanguageData>

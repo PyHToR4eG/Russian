@@ -52,7 +52,7 @@
   <MiningCommandBuff.description>Скорость добычи ресурсов этого человека повышается благодаря тому, что он находится рядом с кем-то, кто использует командную способность добычи.</MiningCommandBuff.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>проповедование здоровья</PreachHealth.label>
+  <PreachHealth.label>проповедь здоровья</PreachHealth.label>
   <!-- EN: This person's will to survive was reinforced by a talk with a moral guide of their ideoligion. That moral certainty has improved their healing and immunization gain rates. -->
   <PreachHealth.description>Воля этого человека к выживанию была подкреплена беседой с моральным наставником их идеологии. Эта моральная уверенность улучшила показатели их выздоровления и иммунизации.</PreachHealth.description>
   

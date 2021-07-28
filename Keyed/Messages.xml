@@ -14,9 +14,9 @@
   <!-- EN: {0_labelShort} refuses to do this because of {0_possessive} ideoligion. -->
   <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} отказывается это делать из-за {0_possessive} идеологии.</MessagePawnUnwillingToDoDueToIdeo>
   <!-- EN: {INITIATOR_nameDef} tried to convert {RECIPIENT_nameDef} to {INITIATOR_possessive} ideoligion. {RECIPIENT_nameDef}'s certainty has fallen from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. {RECIPIENT_pronoun} resents the conversion attempt. -->
-  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} попытался обратить {RECIPIENT_nameDef} в {INITIATOR_possessive} идеологию. {RECIPIENT_nameDef} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_проноун} возмущен попыткой обратить.</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} {INITIATOR_gender ? попытался : попыталась} обратить {RECIPIENT_nameDef} в {INITIATOR_possessive} идеологию. {RECIPIENT_nameDef} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}. {RECIPIENT_pronoun} {RECIPIENT_gender ? возмущен : возмущена} попыткой обращения.</MessageFailedConvertIdeoAttempt>
   <!-- EN: {PAWN1_nameDef} tried to convert {PAWN2_nameDef} to {PAWN1_possessive} ideoligion. This led to a social fight! -->
-  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} попытался обратить {PAWN2_nameDef} в {PAWN1_possessive} идеологию. Это привело к перепалке!</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} {INITIATOR_gender ? попытался : попыталась} обратить {PAWN2_nameDef} в {PAWN1_possessive} идеологию. Это привело к перепалке!</MessageFailedConvertIdeoAttemptSocialFight>
   <!-- EN: You must choose at least {0} memes. -->
   <MessageNotEnoughMemes>Вы должны выбрать не менее {0} доктрин.</MessageNotEnoughMemes>
   <!-- EN: You can't choose more than {0} memes. -->

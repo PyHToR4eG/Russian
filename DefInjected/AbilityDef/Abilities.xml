@@ -69,7 +69,7 @@
   <MiningCommand.description>Предложите рекомендации по методам добычи полезных ископаемых, повысив скорость добычи для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</MiningCommand.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>проповедование здоровья</PreachHealth.label>
+  <PreachHealth.label>проповедь здоровья</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
   <PreachHealth.description>Проповедуйте моральную силу больному или раненому человеку с помощью концепций вашей идеологии. Это улучшит их скорость заживления ран и укрепит иммунитет.</PreachHealth.description>
   

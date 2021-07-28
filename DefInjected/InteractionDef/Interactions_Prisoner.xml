@@ -10,10 +10,10 @@
     <li>r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment.</li>
   -->
   <EnslaveAttempt.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] сказал [RECIPIENT_nameDef], что [RECIPIENT_pronoun] должен работать на колонию.</li>
-    <li>r_logentry->[INITIATOR_nameDef] сообщил [RECIPIENT_nameDef], что [RECIPIENT_pronoun] должен подчиняться приказам и работать.</li>
-    <li>r_logentry->[INITIATOR_nameDef] приказал [RECIPIENT_nameDef] подготовиться к жизни на принудительных работах.</li>
-    <li>r_logentry->[INITIATOR_nameDef] объяснил [RECIPIENT_nameDef], что [RECIPIENT_pronoun] должен работать, иначе ему грозит наказание.</li>
+	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказал : сказала} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} работать на колонию.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сообщил : сообщила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} подчиняться приказам и работать.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? приказал : призвала} [RECIPIENT_nameDef] подготовиться к жизни на принудительных работах.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? объяснил : объяснила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} работать, иначе ему грозит наказание.</li>
   </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
@@ -62,11 +62,11 @@
     <li>givein->yield [RECIPIENT_objective]self</li>
   -->
   <ReduceWill.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] сказал [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
-    <li>r_logentry->[INITIATOR_nameDef] объяснил, [RECIPIENT_nameDef] что [negative].</li>
-    <li>r_logentry->[INITIATOR_nameDef] пригрозил [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
-    <li>r_logentry->[INITIATOR_nameDef] сообщил [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [disillusionment].</li>
-    <li>r_logentry->[INITIATOR_nameDef] потребовал [RECIPIENT_nameDef] [givein] колонии.</li>
+	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказал : сказала} [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? объяснил : объяснила}, [RECIPIENT_nameDef] что [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? пригрозил : пригрозила} [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сообщил : сообщила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? потребовал : потребовала} [RECIPIENT_nameDef] [givein] колонии.</li>
     <li>negative->у него не было будущего</li>
     <li>negative->не было никакой возможности сбежать</li>
     <li>negative->у него не было будущего за пределами колонии</li>

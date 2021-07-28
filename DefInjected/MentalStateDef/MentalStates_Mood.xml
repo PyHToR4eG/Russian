@@ -6,7 +6,7 @@
   <!-- EN: Mental state: Crisis of belief -->
   <IdeoChange.baseInspectLine>Психическое состояние: Кризис веры</IdeoChange.baseInspectLine>
   <!-- EN: <x>{PAWN_nameDef}</x>'s spirit has broken. As a result,<x> {PAWN_pronoun} </x>was forced to question everything. -->
-  <IdeoChange.beginLetter>{PAWN_nameDef} Дух сломлен. В результате {PAWN_pronoun} был вынужден подвергнуть все сомнению.</IdeoChange.beginLetter>
+  <IdeoChange.beginLetter>{PAWN_nameDef} дух сломлен. В результате {PAWN_pronoun} {PAWN_gender ? был вынужден : была вынуждена} подвергнуть все сомнению.</IdeoChange.beginLetter>
   
   <!-- EN: rebelling -->
   <Rebellion.label>бунт</Rebellion.label>

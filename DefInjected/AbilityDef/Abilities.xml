@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>Животное умиротворение</AnimalCalm.label>
+  <AnimalCalm.label>Угомонить животное</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
   <AnimalCalm.description>Используйте уникальные методы общения с животными, чтобы успокоить обезумевшего зверя.</AnimalCalm.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully calmed<x> {RECIPIENT_labelShort}</x>. -->
@@ -28,20 +28,20 @@
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
   <Convert.description>Попытайтесь обратить кого-то в идеологию говорящего. Это снизит уверенность объекта в его собственных убеждениях. Снижение определенности зависит от способности говорящего вести переговоры.</Convert.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>failed to convert<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> was upset by the attempt, but<x> {RECIPIENT_possessive} </x>certainty fell from<x> {CERTAINTYBEFORE} </x>to<x> {CERTAINTYAFTER}</x>. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} был расстроен этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} не удалось обратить {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? был расстроен : была расстроена} этой попыткой, но {RECIPIENT_possessive} уверенность упала с {CERTAINTYBEFORE} до {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>has converted<x> {RECIPIENT_labelShort} </x>to<x> {IDEO}</x>. -->
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} обратил {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? обратил : обратила} {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
   <Counsel.label>Консультация</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
   <Counsel.description>Предложите человеку консультацию, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>botched the attempt to counsel<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> has become upset. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} неудачно попытался посоветовать {RECIPIENT_labelShort}. {RECIPIENT_labelShort} расстроился.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} неудачно {INITIATOR_gender ? попытался : попыталась} проконсультировать {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? расстроился : расстроилась}.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, canceling the mood impact of<x> {2}</x>. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} успешно посоветовал {RECIPIENT_labelShort}, отменяя влияние {2} на настроение.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} успешно {INITIATOR_gender ? проконсультировал : проконсультировала} {RECIPIENT_labelShort}, отменяя влияние {2} на настроение.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, increasing<x> {RECIPIENT_possessive} </x>mood by<x> {MOODBONUS}</x>. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно посоветовал {RECIPIENT_labelShort}, повышая {RECIPIENT_possessive} настроение {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно {INITIATOR_gender ? проконсультировал : проконсультировала} {RECIPIENT_labelShort}, повышая {RECIPIENT_possessive} настроение {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
   <FarmingCommand.label>аграрный приказ</FarmingCommand.label>
@@ -83,7 +83,7 @@
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
   <Reassure.description>Повысьте чью-то уверенность в собственных убеждениях. Обретенная уверенность основана на способности говорящего вести переговоры.</Reassure.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>has reassured<x> {RECIPIENT_labelShort}</x>, increasing<x> {RECIPIENT_possessive} </x>certainty in<x> {IDEO} </x>from<x> {BEFORECERTAINTY} </x>to<x> {AFTERCERTAINTY}</x>. -->
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} успокоил {RECIPIENT_labelShort}, повысив {RECIPIENT_possessive} уверенность в {IDEO} с {BEFORECERTAINTY} до {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? успокоил : успокоила} {RECIPIENT_labelShort}, повысив {RECIPIENT_possessive} уверенность в {IDEO} с {BEFORECERTAINTY} до {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
   <ResearchCommand.label>научный приказ</ResearchCommand.label>

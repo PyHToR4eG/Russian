@@ -11,11 +11,11 @@
     <li>r_logentry->[INITIATOR_nameDef] whispered that security was lax and now would be a good time to escape.</li>
   -->
   <SparkSlaveRebellion.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] предложил им освободиться от оков.</li>
-    <li>r_logentry->[INITIATOR_nameDef] призвал [RECIPIENT_nameDef] вернуть [RECIPIENT_possessive] свободу.</li>
-    <li>r_logentry->[INITIATOR_nameDef] призвал покончить с их порабощением и покончить с ними.</li>
-    <li>r_logentry->[INITIATOR_nameDef] рассказывал о жизни за пределами рабства и воодушевлял [RECIPIENT_nameDef] на побег.</li>
-    <li>r_logentry->[INITIATOR_nameDef] прошептал, что охрана слабая и сейчас самое время сбежать.</li>
+	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? предложил : предложила} им освободиться от оков.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? призвал : призвала} [RECIPIENT_nameDef] вернуть [RECIPIENT_possessive] свободу.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? призвал : призвала} покончить с их порабощением и покончить с ними.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? рассказывал : рассказывала} о жизни за пределами рабства и воодушевлял [RECIPIENT_nameDef] на побег.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? прошептал : прошептала}, что охрана слабая и сейчас самое время сбежать.</li>
   </SparkSlaveRebellion.logRulesInitiator.rulesStrings>
   
   <!-- EN: suppress -->
@@ -27,10 +27,10 @@
     <li>r_logentry->[INITIATOR_nameDef] suggested that [RECIPIENT_nameDef] follow orders and ыnot ask questions.</li>
   -->
   <Suppress.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] сказал [RECIPIENT_nameDef], что за мятеж будут наказания.</li>
-    <li>r_logentry->[INITIATOR_nameDef] предупредил [RECIPIENT_nameDef], что неповиновение будет наказано.</li>
-    <li>r_logentry->[INITIATOR_nameDef] предостерег [RECIPIENT_nameDef] от любых нарушениях.</li>
-    <li>r_logentry->[INITIATOR_nameDef] предложил, чтобы [RECIPIENT_nameDef] выполнял приказы и не задавал вопросов.</li>
+	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказал : сказала} [RECIPIENT_nameDef], что за мятеж будут наказания.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? предупредил : предупредила} [RECIPIENT_nameDef], что неповиновение будет наказано.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? предостерег : предостерегла} [RECIPIENT_nameDef] от любых нарушениях.</li>
+    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? предложил : предложила}, чтобы [RECIPIENT_nameDef] {RECIPIENT_gender ? выполнял : выполняла} приказы и не задавал вопросов.</li>
   </Suppress.logRulesInitiator.rulesStrings>
   
 </LanguageData>

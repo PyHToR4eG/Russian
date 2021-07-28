@@ -101,10 +101,10 @@
   </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_leaderTitle->высший стелларх</li>
+    <li>r_leaderTitle->high stellarch</li>
   -->
   <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
-	<li>r_leaderTitle->high stellarch</li>
+	<li>r_leaderTitle->верховное светило</li>
   </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
   
 </LanguageData>

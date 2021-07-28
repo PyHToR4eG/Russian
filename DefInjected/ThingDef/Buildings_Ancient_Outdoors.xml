@@ -157,33 +157,33 @@
   <AncientWarspiderRemains.description>Разрушенные останки древнего боевого паука среднего масштаба. Его перебирали много раз, и не осталось ничего ценного, что можно было бы разграбить.</AncientWarspiderRemains.description>
   
   <!-- EN: ancient warwalker claw -->
-  <AncientWarwalkerClaw.label>древний коготь воителя</AncientWarwalkerClaw.label>
+  <AncientWarwalkerClaw.label>коготь древнего воителя</AncientWarwalkerClaw.label>
   <!-- EN: The assault claw of an ancient mid-scale warwalker. This weapon specialized in tearing through heavy plasteel armor at close range. Its valuable components were looted long ago. -->
   <AncientWarwalkerClaw.description>Штурмовой коготь древнего воителя среднего масштаба. Это оружие специализировалось на разрыве тяжелой пласталевой брони с близкого расстояния. Его ценные компоненты были давно разграблены.</AncientWarwalkerClaw.description>
   
   <!-- EN: ancient warwalker foot -->
-  <AncientWarwalkerFoot.label>нога древнего воителя</AncientWarwalkerFoot.label>
+  <AncientWarwalkerFoot.label>ступня древнего воителя</AncientWarwalkerFoot.label>
   <!-- EN: A massive foot from an ancient warwalker. It seems to have been torn free from its owner by some kind of heavy weapon. All the useful components were looted or deteriorated long ago. -->
-  <AncientWarwalkerFoot.description>Массивная нога древнего ходока войны. Похоже, он был вырван у своего владельца каким-то тяжелым оружием. Все полезные компоненты были давно разграблены или испорчены.</AncientWarwalkerFoot.description>
+  <AncientWarwalkerFoot.description>Массивная ступня древнего воителя. Похоже, она была оторвана у своего владельца каким-то тяжелым оружием. Все полезные компоненты были давно разграблены или испорчены.</AncientWarwalkerFoot.description>
   
   <!-- EN: ancient warwalker leg -->
   <AncientWarwalkerLeg.label>нога древнего воителя</AncientWarwalkerLeg.label>
   <!-- EN: The shattered leg of a mid-scale warwalker that fell here long ago. It has been picked clean by looters, and no valuable components remain. -->
-  <AncientWarwalkerLeg.description>Раздробленная нога военного странника среднего масштаба, который упал здесь давным-давно. Он был очищен мародерами, и никаких ценных компонентов не осталось.</AncientWarwalkerLeg.description>
+  <AncientWarwalkerLeg.description>Раздробленная нога воителя среднего размера, который пал здесь давным-давно. Он был обчищен мародерами, и никаких ценных компонентов не осталось.</AncientWarwalkerLeg.description>
   
   <!-- EN: ancient warwalker shell -->
-  <AncientWarwalkerShell.label>древний панцирь ходока войны</AncientWarwalkerShell.label>
+  <AncientWarwalkerShell.label>панцирь древнего воителя</AncientWarwalkerShell.label>
   <!-- EN: Most of the armored shell of a warwalker. It appears to have been torn off by some colossal weapon system. All the valuable parts were looted, and the rest is badly deteriorated. -->
-  <AncientWarwalkerShell.description>Большая часть бронированного панциря ходока войны. Похоже, он был оторван какой-то колоссальной системой оружия. Все ценные детали были разграблены, а остальное сильно испортилось.</AncientWarwalkerShell.description>
+  <AncientWarwalkerShell.description>Большая часть бронированного панциря воителя. Похоже, он был оторван какой-то колоссальной оружейной системой. Все ценные детали были разграблены, а остальное сильно испортилось.</AncientWarwalkerShell.description>
   
   <!-- EN: ancient warwalker torso -->
   <AncientWarwalkerTorso.label>туловище древнего воителя</AncientWarwalkerTorso.label>
   <!-- EN: The torso of a mid-scale warwalker which fell here in ancient days. The valuable parts were looted long ago. -->
-  <AncientWarwalkerTorso.description>Туловище воителя среднего масштаба, который упал здесь в древние времена. Ценные части были давно разграблены.</AncientWarwalkerTorso.description>
+  <AncientWarwalkerTorso.description>Туловище воителя среднего размера, который пал здесь в древние времена. Ценные части были давно разграблены.</AncientWarwalkerTorso.description>
   
   <!-- EN: ancient wheel -->
   <AncientWheel.label>древнее колесо</AncientWheel.label>
   <!-- EN: An ancient wheel from some kind of vehicle. The rubber has deteriorated away and the metal is twisted and rusted. -->
-  <AncientWheel.description>Древнее колесо от какого - то транспортного средства. Резина испортилась, а металл искорежен и проржавел.</AncientWheel.description>
+  <AncientWheel.description>Древнее колесо от какого-то транспортного средства. Резина испортилась, а металл искорежен и проржавел.</AncientWheel.description>
   
 </LanguageData>

@@ -22,9 +22,9 @@
   <!-- EN: horrible -->
   <Scarification_Horrible.label>ужасно</Scarification_Horrible.label>
   <!-- EN: Scarifying people for ideoligious reasons is horrible. -->
-  <Scarification_Horrible.description>Подвергать людей критике по идеологическим соображениям ужасно.</Scarification_Horrible.description>
+  <Scarification_Horrible.description>Подвергать людей шрамированию по идеологическим соображениям ужасно.</Scarification_Horrible.description>
   <!-- EN: someone got scarified -->
-  <Scarification_Horrible.comps.0.description>кого-то раскритиковали</Scarification_Horrible.comps.0.description>
+  <Scarification_Horrible.comps.0.description>кого-то шрамировали</Scarification_Horrible.comps.0.description>
   
   <!-- EN: minor -->
   <Scarification_Minor.label>незначительно</Scarification_Minor.label>

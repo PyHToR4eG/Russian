@@ -111,7 +111,7 @@
   <!-- EN: Altar or any ritual spot. -->
   <RitualTargetGatherAltarOrRitualSpotInfo>Алтарь или любое другое ритуальное место.</RitualTargetGatherAltarOrRitualSpotInfo>
   <!-- EN: A lightball or ritual spot. Lightball and loudspeakers must be powered. -->
-  <RitualTargetLightBallInfo>Дискошар или ритуальное место. Дискошар и громкоговорители должны быть включены.</RitualTargetLightBallInfo>
+  <RitualTargetLightBallInfo>Дискошар или ритуальное место. Дискошар и динамики должны быть включены.</RitualTargetLightBallInfo>
   <!-- EN: Lightball is not powered. -->
   <RitualTargetLightBallIsNotPowered>Дискошар не работает.</RitualTargetLightBallIsNotPowered>
   <!-- EN: No powered speakers. -->
@@ -137,9 +137,9 @@
   <!-- EN: Accuse -->
   <Accuse>Обвинять</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
-  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} не верит в идеологическое шрамирование и не будет любить, когда его раскритикуют.</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} не верит в идеологическое шрамирование и не будет любить, когда его шрамируют.</RitualScarificationWarnNonScarificationIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being scarified. -->
-  <RitualScarificationWarnWimp>{PAWN_labelShort} - слабак, и ему не понравится, когда его раскритикуют.</RitualScarificationWarnWimp>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} - слабак, и ему не понравится, когда его шрамируют.</RitualScarificationWarnWimp>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious blinding and will not like being blinded. -->
   <RitualBlindingWarnNonBlindingIdeo>{PAWN_labelShort} не верит в идеологическое ослепление и не любит, когда его ослепляют.</RitualBlindingWarnNonBlindingIdeo>
   <!-- EN: {PAWN_labelShort} is a wimp and will not like being blinded. -->
@@ -165,7 +165,7 @@
   <!-- EN: Can't use {0} with {1}. -->
   <RitualAttachedRewardCantUseWithRitual>Нельзя использовать {0} с {1}.</RitualAttachedRewardCantUseWithRitual>
   <!-- EN: Requires any of memes -->
-  <RitualAttachedRewardRequiredMemeAny>Требуется любой из доктрин</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredMemeAny>Требуется любая из доктрин</RitualAttachedRewardRequiredMemeAny>
   <!-- EN: Requires {0} faction -->
   <RitualAttachedRewardRequiredFaction>Требуется {0} фракция </RitualAttachedRewardRequiredFaction>
   <!-- EN: positive -->
@@ -290,9 +290,9 @@
   
   <!-- Beggars -->
   <!-- EN: Give {0} to {1_nameDef} -->
-  <GiveItemsTo>Дайте {0} {1_nameDef}</GiveItemsTo>
+  <GiveItemsTo>Передать {0} {1_nameDef}</GiveItemsTo>
   <!-- EN: Cannot give {0} to {1_nameDef} -->
-  <CannotGiveItemsTo>Не удается присвоить {0} {1_nameDef}</CannotGiveItemsTo>
+  <CannotGiveItemsTo>Не удается передать {0} {1_nameDef}</CannotGiveItemsTo>
   <!-- EN: No item found -->
   <NoItemFound>Предмет не найден</NoItemFound>
 
@@ -348,7 +348,7 @@
 
   <!-- Ritual requirements -->
   <!-- EN: Active loudspeakers -->
-  <RitualPredictedOutcomeDescNumActiveLoudspeakers>Активные громкоговорители</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>Активные динамики</RitualPredictedOutcomeDescNumActiveLoudspeakers>
   <!-- EN: Drums -->
   <RitualPredictedOutcomeDescNumDrums>Барабаны</RitualPredictedOutcomeDescNumDrums>
 
@@ -382,16 +382,16 @@
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>{PAWN_nameDef} слишком далеко</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
-  <TreeBlockedByNearbyBuildingsDesc>Посадка {PLANT_definite} вблизи искусственных зданий приведет к тому, что прочность его соединения со временем ослабнет. Прочность соединения определяет максимальное количество дриад, которое {PLANT_definite} может поддерживать одновременно.\n\nВы уверены, что хотите посадить здесь?</TreeBlockedByNearbyBuildingsDesc>
+  <TreeBlockedByNearbyBuildingsDesc>Посадка {PLANT_definite} вблизи искусственных зданий приведет к тому, что прочность его связи со временем ослабнет. Прочность связи определяет максимальное количество дриад, которое {PLANT_definite} может поддерживать одновременно.\n\nВы уверены, что хотите посадить здесь?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
   <!-- ISSUE -->
   <GauranlenModeChangeDescFull>Изменение касты дриад {TREE_definite} требует времени и энергии.\n\nПосле того, как подключенный человек взаимодействует с деревом, все дриады проведут {ПРОДОЛЖИТЕЛЬНОСТЬ} дней в коконах, пока они трансформируются в выбранную касту.\n\nСуществующие коконы отменят свою трансформацию, чтобы они могли превратиться в текущую касту.</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
   <ChangeModeDesc>Измените тип дриад, созданных {TREE_definite}.</ChangeModeDesc>
   <!-- EN: Connection strength fall -->
-  <ConnectionStrengthFall>Падение прочности соединения</ConnectionStrengthFall>
+  <ConnectionStrengthFall>Падение прочности связи</ConnectionStrengthFall>
   <!-- EN: Connection strength -->
-  <ConnectionStrength>Прочность соединения</ConnectionStrength>
+  <ConnectionStrength>Прочность связи</ConnectionStrength>
   <!-- EN: {0} strength -->
   <ConnectionStrengthDisplay>{0} сила</ConnectionStrengthDisplay>
   <!-- EN: Determines how many dryads this tree can support. -->
@@ -401,15 +401,15 @@
   <!-- EN: The maximum number of dryads this tree can support. -->
   <MaximumDryadsDesc>Максимальное количество дриад, которое может поддерживать это дерево.</MaximumDryadsDesc>
   <!-- EN: Max dryads based on connection strength -->
-  <MaxDryadsBasedOnConnectionStrength>Максимальное количество дриад в зависимости от прочности соединения</MaxDryadsBasedOnConnectionStrength>
+  <MaxDryadsBasedOnConnectionStrength>Максимальное количество дриад в зависимости от прочности связи</MaxDryadsBasedOnConnectionStrength>
   <!-- EN: Pruning connection strength gain -->
-  <PruningConnectionStrength>Увеличение прочности соединения при обрезке</PruningConnectionStrength>
+  <PruningConnectionStrength>Увеличение прочности связи при обрезке</PruningConnectionStrength>
   <!-- EN: Hours per day to maintain -->
-  <PruningHoursToMaintain>Часов в день для поддержания</PruningHoursToMaintain>
+  <PruningHoursToMaintain>Часов в день для поддерживания</PruningHoursToMaintain>
   <!-- EN: Desired -->
   <DesiredConnectionStrength>Желанный</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} будет обрезать {TREE_definite} достаточно часто, чтобы поддерживать силу соединения выше этого уровня.\n\nБолее высокая прочность соединения позволяет поддерживать больше дриад, но также падает быстрее и, следовательно, требует более частой обрезки для поддержания.\n\nВы можете нажать на панель, чтобы настроить желаемую целевую силу соединения.\n\nПадение прочности соединения в день: {FALL}\n\nНа прочность соединения влияют близлежащие здания.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} будет обрезать {TREE_definite} достаточно часто, чтобы поддерживать силу связи выше этого уровня.\n\nБолее высокая прочность связи позволяет поддерживать больше дриад, но также падает быстрее и, следовательно, требует более частой обрезки для поддерживания.\n\nВы можете нажать на панель, чтобы настроить желаемую целевую силу связи.\n\nПадение прочности связи в день: {FALL}\n\nНа прочность связи влияют близлежащие здания.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
   <WaitingForConnectorToChangeCaste>Ожидание {CONNECTEDPAWN_nameDef} для изменения касты дриад.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
@@ -432,17 +432,17 @@
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
   <DryadCannotChangeMaster>{ANIMAL_nameDef} связан с {MASTER_nameDef} через {ANIMAL_possessive} дерево Гауранлен. {ANIMAL_possessive} хозяин не может быть изменен.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
-  <ConnectionStrengthTooWeakForGaumakerPod>Прочность соединения слишком мала, чтобы создать модуль Гауранлена.</ConnectionStrengthTooWeakForGaumakerPod>
+  <ConnectionStrengthTooWeakForGaumakerPod>Прочность связи слишком мала, чтобы создать модуль Гауранлена.</ConnectionStrengthTooWeakForGaumakerPod>
   <!-- EN: Unconnected -->
   <Unconnected>Несвязанный</Unconnected>
   <!-- EN: Dryads -->
   <DryadPlural>Дриады</DryadPlural>
   <!-- EN: Connection strength affected by -->
-  <ConnectionStrengthAffectedBy>На прочность соединения влияет</ConnectionStrengthAffectedBy>
+  <ConnectionStrengthAffectedBy>На прочность связи влияет</ConnectionStrengthAffectedBy>
   <!-- EN: Currently affected by -->
   <CurrentlyAffectedBy>В настоящее время затронуты</CurrentlyAffectedBy>
   <!-- EN: {0} connection strength needed to support a dryad. -->
-  <NotEnoughConnectionStrengthForSingleDryad>{0} прочность соединения, необходимая для поддержки дриады.</NotEnoughConnectionStrengthForSingleDryad>
+  <NotEnoughConnectionStrengthForSingleDryad>{0} прочность связи, необходимая для поддержки дриады.</NotEnoughConnectionStrengthForSingleDryad>
 
   <!-- Shooting report -->
   <!-- EN: Target outdoors and night-time -->

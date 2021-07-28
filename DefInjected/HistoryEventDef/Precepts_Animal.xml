@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: ate venerated animal meat -->
-  <AteVeneratedAnimalMeat.label>ел мясо почитаемых животных</AteVeneratedAnimalMeat.label>
+  <AteVeneratedAnimalMeat.label>ел мясо священного животного</AteVeneratedAnimalMeat.label>
   
   <!-- EN: hunted venerated animal -->
-  <HuntedVeneratedAnimal.label>охотился на почитаемое животное</HuntedVeneratedAnimal.label>
+  <HuntedVeneratedAnimal.label>охотился на священное животное</HuntedVeneratedAnimal.label>
   
   <!-- EN: slaughtered venerated animal -->
-  <SlaughteredVeneratedAnimal.label>зарезал почитаемое животное</SlaughteredVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>зарезал священное животное</SlaughteredVeneratedAnimal.label>
   
   <!-- EN: tame venerated animal died -->
-  <TameVeneratedAnimalDied.label>ручное почитаемое животное умерло</TameVeneratedAnimalDied.label>
+  <TameVeneratedAnimalDied.label>ручное священное животное умерло</TameVeneratedAnimalDied.label>
   
 </LanguageData>

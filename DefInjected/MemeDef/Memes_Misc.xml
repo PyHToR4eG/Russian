@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal personhood -->
-  <AnimalPersonhood.label>человекоподобная личность</AnimalPersonhood.label>
+  <AnimalPersonhood.label>индивидуальность животных</AnimalPersonhood.label>
   <!-- EN: Animals have rights as humans do. -->
   <AnimalPersonhood.description>Животные имеют такие же права, как и люди.</AnimalPersonhood.description>
   <!-- EN:
@@ -734,7 +734,7 @@
     <li>memeLeaderNoun->агонизатор</li>
     <li>memeLeaderNoun->вифанд</li>
     <li>memeLeaderNoun->цепной</li>
-    <li>memeLeaderNoun->резак</li>
+    <li>memeLeaderNoun->мясник</li>
     <li>memeLeaderNoun->кровопускатель</li>
     <li>memeMoralist->шепот-боли</li>
     <li>memeMoralist->страдалец</li>
@@ -1001,8 +1001,8 @@
   -->
   <Rancher.descriptionMaker.rules.rulesStrings>
 	<li>creation(tag=meme_Rancher)        ->[deity0_name] создал животных, а затем человека, и дал животных человеку, чтобы они лелеяли, выращивали и убивали как акты почитания по отношению к [deity0_objective].</li>
-    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] создал всех благородных зверей и зверей земли и сказал: «Возьми этих благородных зверей и через них сделайте себя плодовитыми в мою честь.».</li>
-    <li>intro(tag=meme_Rancher)           ->Ранние скотоводы [ranchingAnimal] в [place_summary] [place_name] построили великий [altarName] для [deity0_name].</li>
+    <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] создал всех благородных зверей и зверей земли и сказал: «Возьми этих благородных зверей и через них сделайте себя плодовитыми в мою честь.»</li>
+    <li>intro(tag=meme_Rancher)           ->Первые скотоводы [ranchingAnimal] в [place_summary] [place_name] построили великий [altarName] для [deity0_name].</li>
     <li>conflict(tag=meme_Rancher)        ->Могущественный [foeLeader] презирал [memberNamePlural] и их пути, и скупил все луга, чтобы выращивать [Vegetable].</li>
     <li>founderJoin(tag=meme_Rancher)     ->Спаситель [memberName] [founderName] родился весенним утром в скромном сарае, среди [ranchingAnimal], и [founder_possessive] родители были [rancherParent1] и [rancherParent2].</li>
     <li>victory(tag=meme_Rancher)         ->[founderName] поехал в [place_community] на прекрасном коне и вызвал [foeLeader] на дуэль с [place_personalWeapon] в полдень. [foeLeader] не мог отказать или потерять доверие [foeSoldiers]. [founderName] убил [foeLeader].</li>
@@ -1220,7 +1220,7 @@
   <Transhumanist.symbolPacks.5.theme>приумножение</Transhumanist.symbolPacks.5.theme>
   
   <!-- EN: tree connection -->
-  <TreeConnection.label>соединенные с деревом</TreeConnection.label>
+  <TreeConnection.label>связь с деревом</TreeConnection.label>
   <!-- EN: Trees are the essence of life, and we must be near them. -->
   <TreeConnection.description>Деревья - это сущность жизни, и мы должны быть рядом с ними.</TreeConnection.description>
   <!-- EN:
@@ -1307,7 +1307,7 @@
   </TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
-  <Tunneler.label>туннельщик</Tunneler.label>
+  <Tunneler.label>копатель</Tunneler.label>
   <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
   <Tunneler.description>Люди должны жить под землей и наслаждаться сочными плодами глубин.</Tunneler.description>
   <!-- EN:

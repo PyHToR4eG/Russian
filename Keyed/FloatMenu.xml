@@ -78,13 +78,13 @@
   <!-- EN: deity -->
   <Deity>божество</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>требуется доктрины</RequiresMeme>
+  <RequiresMeme>требуется доктрина</RequiresMeme>
   <!-- EN: requires one of -->
-  <RequiresOneOfMemes>требуется один из</RequiresOneOfMemes>
+  <RequiresOneOfMemes>требуется одина из</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
   <ConflictsWithMeme>конфликты с доктриной</ConflictsWithMeme>
   <!-- EN: conflicts with memes -->
-  <ConflictsWithMemes>конфликты с доктриной</ConflictsWithMemes>
+  <ConflictsWithMemes>конфликты с доктринами</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
   <IdeoAlreadyHasAltar>может быть только один алтарь/идеограмма</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->

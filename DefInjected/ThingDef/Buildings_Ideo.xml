@@ -24,7 +24,7 @@
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>модуль биоскульптора</BiosculpterPod.label>
   <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>Погружной модуль, оснащенный инжектором биоскульптурной жидкости и подключенной системой управления. Он может выполнять различные биологические изменения, включая изменение возраста и доставление удовольствия. Каждый модуль становится биотонизированным для своего пользователя и не может быть использован кем-либо другим. Биотунинг сбрасывается через 60 дней. Сторонники трансгуманизма считают, что биоскульптурные капсулы имеют решающее значение в их стремлении преодолеть обычные физические ограничения человека.</BiosculpterPod.description>
+  <BiosculpterPod.description>Погружной модуль, оснащенный инжектором биоскульптурной жидкости и подключенной системой управления. Он может выполнять различные биологические изменения, включая изменение возраста и доставление удовольствия. Каждый модуль становится бионастроенным для своего пользователя и не может быть использован кем-либо другим. Бионастройка сбрасывается через 60 дней. Сторонники трансгуманизма считают, что биоскульптурные капсулы имеют решающее значение в их стремлении преодолеть обычные физические ограничения человека.</BiosculpterPod.description>
   <!-- EN: healing -->
   <BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>исцеление</BiosculpterPod.comps.CompBiosculpterPod_HealingCycle.label>
   <!-- EN: Heal all fresh wounds and one random permanent injury. -->
@@ -39,7 +39,7 @@
   <BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>Временно измените нервную систему, чтобы на какое-то время обеспечить повышенный уровень счастья.</BiosculpterPod.comps.CompBiosculpterPod_PleasureCycle.description>
   
   <!-- EN: burnbong -->
-  <Burnbong.label>бернбонг</Burnbong.label>
+  <Burnbong.label>огнебонг</Burnbong.label>
   <!-- EN: A wood structure packed with smokeleaf. It can be ignited during a ritual and produce a huge amount of smokeleaf smoke for a few hours, after which it is destroyed. -->
   <Burnbong.description>Деревянная конструкция, набитая листом дыма. Он может быть зажжен во время ритуала и производить огромное количество дыма в течение нескольких часов, после чего он уничтожается.</Burnbong.description>
   
@@ -103,7 +103,7 @@
   <!-- EN: sacrificial flag -->
   <SacrificialFlag.label>жертвенный столб</SacrificialFlag.label>
   <!-- EN: A flag representing enemies, ready to be burned as part of a ritual. -->
-  <SacrificialFlag.description>Столб, представляющий врагов, готовых к сожжению в ритуале.</SacrificialFlag.description>
+  <SacrificialFlag.description>Столб, символизирующий врагов, готовых к сожжению в ритуале.</SacrificialFlag.description>
   
   <!-- EN: sleep accelerator -->
   <SleepAccelerator.label>ускоритель сна</SleepAccelerator.label>

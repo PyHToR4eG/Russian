@@ -49,7 +49,7 @@
   <!-- EN: loudspeaker -->
   <Loudspeaker.label>динамик</Loudspeaker.label>
   <!-- EN: A large loudspeaker for playing music. At least one is necessary to hold a dance party, and more loudspeakers will enhance the effect. -->
-  <Loudspeaker.description>Большой динамик для воспроизведения музыки. По крайней мере, один необходим для проведения танцевальной вечеринки, и большее количество громкоговорителей усилит эффект.</Loudspeaker.description>
+  <Loudspeaker.description>Большой динамик для воспроизведения музыки. По крайней мере, один необходим для проведения танцевальной вечеринки, и большее количество динамиков усилит эффект.</Loudspeaker.description>
   
   <!-- EN: pew -->
   <Pew.label>скамья</Pew.label>
@@ -82,9 +82,12 @@
   <SlabDoubleBed.description>Плита из твердого материала, на которой можно спать. Кровати с плитами неудобны, но некоторые рассматривают их использование как демонстрацию морального блага. Этот достаточно широк, чтобы вместить двух человек.</SlabDoubleBed.description>
   
   <!-- EN: styling station -->
-  <StylingStation.label>станция для укладки</StylingStation.label>
+  <StylingStation.label>туалетный столик</StylingStation.label>
   <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
   <StylingStation.description>Столик с зеркалом и инструментами для укладки. Люди могут использовать это, чтобы изменить свой внешний вид.</StylingStation.description>
+  
+  
+  <!-- Core --> 
   
   <!-- EN: egg box -->
   <EggBox.label>коробка для яиц</EggBox.label>

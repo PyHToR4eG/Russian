@@ -14,7 +14,7 @@
   <!-- EN: nutrifungus -->
   <Nutrifungus.label>питательный гриб</Nutrifungus.label>
   <!-- EN: A meaty bioengineered mushroom grown for its nutritious value. It can grow on fungal gravel, but only in darkness - exposing it to any kind of light, including darklights, will kill it. -->
-  <Nutrifungus.description>Мясистый биоинженерный гриб, выращенный из-за его питательной ценности. Он может расти на грибковом грунте, но только в темноте - воздействие на него любого вида света, включая темные фонари, убьет его.</Nutrifungus.description>
+  <Nutrifungus.description>Мясистый биоинженерный гриб, выращенный из-за его питательной ценности. Он растет на грибковом грунте, но только в темноте - воздействие на него любого вида света, включая темные фонари, убьет его.</Nutrifungus.description>
   
   <!-- EN: fibercorn -->
   <Plant_Fibercorn.label>волокнистая кукуруза</Plant_Fibercorn.label>

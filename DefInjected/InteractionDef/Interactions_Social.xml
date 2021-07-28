@@ -117,8 +117,8 @@
     <li>wrongdoing->убийство</li>
     <li>wrongdoing->богохульство</li>
     <li>wrongdoing->измена</li>
-    <li>wrongdoing->hateful thinking</li>
     <li>wrongdoing->ненавистное мышление</li>
+    <li>wrongdoing->вероломство</li>
   </Trial_Accuse.logRulesInitiator.rulesStrings>
   
   <!-- EN: defend -->

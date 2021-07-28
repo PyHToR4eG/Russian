@@ -63,15 +63,15 @@
   -->
   <ReduceWill.logRulesInitiator.rulesStrings>
 	<li>r_logentry->[INITIATOR_nameDef] сказал [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
-    <li>r_logentry->[INITIATOR_nameDef] объяснил, что [RECIPIENT_nameDef] [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] объяснил, [RECIPIENT_nameDef] что [negative].</li>
     <li>r_logentry->[INITIATOR_nameDef] пригрозил [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
     <li>r_logentry->[INITIATOR_nameDef] сообщил [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [disillusionment].</li>
     <li>r_logentry->[INITIATOR_nameDef] потребовал [RECIPIENT_nameDef] [givein] колонии.</li>
     <li>negative->у него не было будущего</li>
     <li>negative->не было никакой возможности сбежать</li>
     <li>negative->у него не было будущего за пределами колонии</li>
-    <li>negative->у меня не было средств сбежать</li>
-    <li>negative->следует немедленно представить</li>
+    <li>negative->у него не было шансов сбежать</li>
+    <li>negative->следует немедленно подчиниться</li>
     <li>negative->следует забыть [RECIPIENT_possessive] стремления</li>
     <li>negative->следует подчиниться колонии</li>
     <li>threat->пыткой</li>
@@ -96,9 +96,9 @@
     <li>refused->поведет себя мерзко</li>
     <li>disillusionment->следует принять ситуацию [RECIPIENT_possessive]</li>
     <li>disillusionment->не было никакой надежды на другое будущее</li>
-    <li>disillusionment->было бы лучше всего отправить</li>
+    <li>disillusionment->было бы лучше всего подчиниться</li>
     <li>disillusionment->не выживет на [RECIPIENT_possessive] сам по себе</li>
-    <li>disillusionment->у меня не было другого выбора, кроме как подчиниться</li>
+    <li>disillusionment->не было другого выбора, кроме как подчиниться</li>
     <li>givein->сдаваться</li>
     <li>givein->отправить [RECIPIENT_objective]</li>
     <li>givein->сдать [RECIPIENT_objective]</li>

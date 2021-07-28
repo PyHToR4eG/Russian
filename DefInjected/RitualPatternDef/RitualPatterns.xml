@@ -58,7 +58,7 @@
   <Conversion.ritualExplanation>В случае успеха их уверенность снизится или они немедленно обратятся в другую веру. Если это приведет к обратным результатам, их уверенность в собственных убеждениях возрастет.</Conversion.ritualExplanation>
   
   <!-- EN: A ritualistic flesh-eating meal. Participants gather around a platter of human flesh and bloodily feast on it. -->
-  <FeastCannibal.descOverride>Ритуальная мясоедческая трапеза. Участники собираются вокруг блюда с человеческим мясом и кроваво лакомятся им.</FeastCannibal.descOverride>
+  <FeastCannibal.descOverride>Ритуальная мясоедческая трапеза. Участники собираются вокруг блюда с человечиной и кроваво лакомятся им.</FeastCannibal.descOverride>
   <!-- EN: Every year on<x> {DATE}</x>,<x> {MEMBERS} </x>celebrate<x> {RITUAL_labelDef}</x>. -->
   <FeastCannibal.ritualExpectedDesc>Каждый год {DATE}, {MEMBERS} празднуют {RITUAL_labelDef}.</FeastCannibal.ritualExpectedDesc>
   <!-- EN: <x>{0} </x><x>{1} </x>want to hold the celebration as soon as possible. -->

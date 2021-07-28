@@ -16,9 +16,9 @@
   <!-- EN: Choose the symbolic structure of your ideoligion. This only affects symbols - it does not affect gameplay. -->
   <ChooseStructureMemesInfo>Выберите символическую структуру своей идеологии. Это влияет только на символы - это не влияет на игровой процесс.</ChooseStructureMemesInfo>
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
-  <ChooseNormalMemesInfo>Выберите {0}-{1} доктрин, формирующие основополагающие идеи этой идеологии. Некоторые из них оказывают гораздо большее влияние на игровой процесс, чем другие.</ChooseNormalMemesInfo>
+  <ChooseNormalMemesInfo>Выберите {0}-{1} доктрины, формирующие основополагающие идеи этой идеологии. Некоторые из них оказывают гораздо большее влияние на игровой процесс, чем другие.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
-  <NotEnoughMemes>Выберите хотя бы {0} доктрин.</NotEnoughMemes>
+  <NotEnoughMemes>Выберите хотя бы {0} доктрину.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
   <TooManyMemes>Выберите не более {0} доктрин.</TooManyMemes>
   <!-- EN: Choose structure. -->
@@ -111,7 +111,7 @@
   <!-- EN: Because of {PAWN_possessive} belief in {IDEO_name}, {PAWN_nameDef} will become unhappy if {PAWN_pronoun} goes more than {DURATION} days without eating human meat. -->
   <LastHumanMeatDesc>Из-за веры {PAWN_possessive} в {IDEO_name}, {PAWN_nameDef} станет несчастным, если {PAWN_pronoun} будет больше {DURATION} дней не есть человеческое мясо.</LastHumanMeatDesc>
   <!-- EN: Last large animal slaughter -->
-  <LastAnimalSlaughter>Последний забой крупного животного</LastAnimalSlaughter>
+  <LastAnimalSlaughter>Последнее убийство крупного животного</LastAnimalSlaughter>
 
   <!-- EN: Executing {PAWN_labelShort} will negatively affect relations with {FACTION_name}. -->
   <ExectueNeutralFactionSlave>Казнь {PAWN_labelShort} негативно повлияет на отношения с {FACTION_name}.</ExectueNeutralFactionSlave>
@@ -149,7 +149,7 @@
   <!-- EN: {IDEO_memberNamePlural} will be happy if they notice buildings, floors, and art matching this style. -->
   <StyleCategoryDescStyleDominance>{IDEO_memberNamePlural} будут рады, если они заметят здания, этажи и произведения искусства, соответствующие этому стилю.</StyleCategoryDescStyleDominance>
   <!-- EN: {0} style category affects -->
-  <StyleCategoryDetails>{0} категория стиля влияет</StyleCategoryDetails>
+  <StyleCategoryDetails>{0} стиль влияет на:</StyleCategoryDetails>
   <!-- EN: Overriden by {0} -->
   <OverriddenByStyle>Заменено {0}</OverriddenByStyle>
   <!-- EN: New buildables -->
@@ -249,19 +249,19 @@
   <!-- EN: Animal -->
   
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>TODO</AnimalMaleAdult>
+  <AnimalMaleAdult>Взрослый самец</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>TODO</AnimalMaleYoung>
+  <AnimalMaleYoung>Молодой самец</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>TODO</AnimalFemaleAdult>
+  <AnimalFemaleAdult>Взрослая самка</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>TODO</AnimalFemaleYoung>
+  <AnimalFemaleYoung>Молодая самка</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>TODO</AnimalPregnant>
+  <AnimalPregnant>Беременная</AnimalPregnant>
   <!-- EN: Bonded -->
-  <AnimalBonded>TODO</AnimalBonded>
+  <AnimalBonded>Связанное</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughter>TODO</AllowSlaughter>
+  <AllowSlaughter>Убийство</AllowSlaughter>
 
   <!-- EN: The current number of baby and juvenile males in the colony. -->
   <AutoSlaughterHeaderTooltipCurrentMalesYoung>Текущее количество детенышей и молодых самцов в колонии.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
@@ -274,10 +274,10 @@
   <!-- EN: The current number of pregnant animals in the colony. -->
   <AutoSlaughterHeaderTooltipCurrentPregnant>Текущее количество беременных животных в колонии.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Разрешить забивать беременных животных вместе с другими самками того же вида.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Разрешить убивать беременных животных вместе с другими самками того же вида.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
   <AutoSlaughterHeaderTooltipCurrentBonded>Текущее количество прирученных животных в колонии.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Разрешить забивать связанных животных.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Разрешить убивать связанных животных.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: blinding -->
   <BlindingCeremony.label>ослепление</BlindingCeremony.label>
   <!-- EN: A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care. -->
-  <BlindingCeremony.description>Резак ритуально ослепит цель. Аудитория будет наблюдать, как резак произносит речь, вырезает оба глаза жертвы и произносит несколько заключительных слов. Жертва останется истекать кровью и нуждается в немедленной медицинской помощи.</BlindingCeremony.description>
+  <BlindingCeremony.description>Резак ритуально ослепит цель. Аудитория будет наблюдать, как мясник произносит речь, вырезает оба глаза жертвы и произносит несколько заключительных слов. Жертва останется истекать кровью и нуждается в немедленной медицинской помощи.</BlindingCeremony.description>
   
   <!-- EN: conversion ritual -->
   <Conversion.label>ритуал обращения</Conversion.label>
@@ -55,12 +55,12 @@
   <!-- EN: scarification -->
   <ScarificationCeremony.label>шрамирование</ScarificationCeremony.label>
   <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
-  <ScarificationCeremony.description>Ритуальное шрамирование, когда резак вырезает идеологические символы на жертве. Аудитория будет наблюдать, как резчик произносит речь, выполняет резку, затем произносит несколько заключительных слов.</ScarificationCeremony.description>
+  <ScarificationCeremony.description>Ритуальное шрамирование, когда мясник вырезает идеологические символы на жертве. Аудитория будет наблюдать, как резчик произносит речь, выполняет резку, затем произносит несколько заключительных слов.</ScarificationCeremony.description>
   
   <!-- EN: tree connection ritual -->
-  <TreeConnection.label>ритуал соединения с деревом</TreeConnection.label>
+  <TreeConnection.label>ритуал связывания с деревом</TreeConnection.label>
   <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
-  <TreeConnection.description>Соединитель соединится с деревом Гауранлен. Соединитель коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие собираются в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
+  <TreeConnection.description>Соединитель свяжется с деревом Гауранлен. Соединитель коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие собираются в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
   
   <!-- EN: trial -->
   <Trial.label>суд</Trial.label>

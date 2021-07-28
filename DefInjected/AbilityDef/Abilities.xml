@@ -14,7 +14,7 @@
   <BerserkTrance.description>Заклинатель наполняет себя гневом из-за идеологических обид. Это укрепляет тело сверх нормальных пределов, но также означает потерю контроля и атаку на каждого врага поблизости в неудержимой ярости. Состояние берсерка продлится 3 часа.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>боевое командование</CombatCommand.label>
+  <CombatCommand.label>строевой приказ</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
   <CombatCommand.description>Создает ауру, которая повышает боевые навыки всех, кто находится поблизости. Эффект длится 24 часа и остается привязанным к лидеру в течение всего времени.</CombatCommand.description>
   
@@ -44,7 +44,7 @@
   <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} успешно посоветовал {RECIPIENT_labelShort}, повышая {RECIPIENT_possessive} настроение {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>аграрная команда</FarmingCommand.label>
+  <FarmingCommand.label>аграрный приказ</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <FarmingCommand.description>Предложите рекомендации по методам ведения сельского хозяйства, повышая возможности ведения сельского хозяйства для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</FarmingCommand.description>
   
@@ -59,12 +59,12 @@
   <LeaderSpeech.description>Начните выступление лидера. Если все пройдет хорошо, у слушателей улучшится настроение, появится уважение к оратору и, возможно, новое вдохновение. Если все пойдет плохо, произойдет социальный упадок.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>команда стрелка</MarksmanCommand.label>
+  <MarksmanCommand.label>стрелковый приказ</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MarksmanCommand.description>Командуйте и повышайте навыки стрельбы у всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>команда добычи</MiningCommand.label>
+  <MiningCommand.label>шахтерскый приказ</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MiningCommand.description>Предложите рекомендации по методам добычи полезных ископаемых, повысив скорость добычи для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</MiningCommand.description>
   
@@ -74,7 +74,7 @@
   <PreachHealth.description>Проповедуйте моральную силу больному или раненому человеку с помощью концепций вашей идеологии. Это улучшит их скорость заживления ран и укрепит иммунитет.</PreachHealth.description>
   
   <!-- EN: production command -->
-  <ProductionCommand.label>производственная команда</ProductionCommand.label>
+  <ProductionCommand.label>производственный приказ</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <ProductionCommand.description>Предложите рекомендации по методам строительства, повышая строительные и ремесленные способности для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</ProductionCommand.description>
   
@@ -86,7 +86,7 @@
   <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} успокоил {RECIPIENT_labelShort}, повысив {RECIPIENT_possessive} уверенность в {IDEO} с {BEFORECERTAINTY} до {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
-  <ResearchCommand.label>научная команда</ResearchCommand.label>
+  <ResearchCommand.label>научный приказ</ResearchCommand.label>
   <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <ResearchCommand.description>Вносите предложения и мысленную поддержку, повышая скорость исследований всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</ResearchCommand.description>
   

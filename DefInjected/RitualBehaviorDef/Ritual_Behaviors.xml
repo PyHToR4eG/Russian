@@ -6,7 +6,7 @@
   <!-- EN: the person to blind -->
   <BlindingCeremony.roles.0.missingDesc>ослеплять человека</BlindingCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <BlindingCeremony.roles.1.label>резак</BlindingCeremony.roles.1.label>
+  <BlindingCeremony.roles.1.label>мясник</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
   <BlindingCeremony.roles.1.missingDesc>человек, который выполняет ослепление</BlindingCeremony.roles.1.missingDesc>
   
@@ -52,7 +52,7 @@
   <!-- EN: Lightball is not powered. -->
   <DancePartyTech.stages.0.failTriggers.1.desc>Дискошар не работает.</DancePartyTech.stages.0.failTriggers.1.desc>
   <!-- EN: No powered loudspeakers. -->
-  <DancePartyTech.stages.0.failTriggers.2.desc>Громкоговорителей с питанием нет.</DancePartyTech.stages.0.failTriggers.2.desc>
+  <DancePartyTech.stages.0.failTriggers.2.desc>Нет работающих динамиков.</DancePartyTech.stages.0.failTriggers.2.desc>
   
   <!-- EN: speaker -->
   <DateRitual.roles.0.label>оратор</DateRitual.roles.0.label>
@@ -125,7 +125,7 @@
   <LeaderSpeech.roles.0.label>оратор</LeaderSpeech.roles.0.label>
   
   <!-- EN: cutter -->
-  <SacrificeAnimal.roles.0.label>резак</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.0.label>мясник</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->
   <SacrificeAnimal.roles.1.label>жертва</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
@@ -138,7 +138,7 @@
   <SacrificeAnimal.stages.0.failTriggers.0.desc>Животное недоступно.</SacrificeAnimal.stages.0.failTriggers.0.desc>
   
   <!-- EN: cutter -->
-  <SacrificePrisoner.roles.0.label>резак</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.0.label>мясник</SacrificePrisoner.roles.0.label>
   <!-- EN: sacrifice -->
   <SacrificePrisoner.roles.1.label>жертва</SacrificePrisoner.roles.1.label>
   <!-- EN: a prisoner -->
@@ -153,11 +153,11 @@
   <!-- EN: target -->
   <ScarificationCeremony.roles.0.label>цель</ScarificationCeremony.roles.0.label>
   <!-- EN: the person to scarify -->
-  <ScarificationCeremony.roles.0.missingDesc>человек, которого нужно раскритиковать</ScarificationCeremony.roles.0.missingDesc>
+  <ScarificationCeremony.roles.0.missingDesc>человек, которого нужно шрамировать</ScarificationCeremony.roles.0.missingDesc>
   <!-- EN: cutter -->
-  <ScarificationCeremony.roles.1.label>резак</ScarificationCeremony.roles.1.label>
+  <ScarificationCeremony.roles.1.label>мясник</ScarificationCeremony.roles.1.label>
   <!-- EN: the person who performs the scarification -->
-  <ScarificationCeremony.roles.1.missingDesc>лицо, которое выполняет критику</ScarificationCeremony.roles.1.missingDesc>
+  <ScarificationCeremony.roles.1.missingDesc>лицо, которое выполняет шрамирование</ScarificationCeremony.roles.1.missingDesc>
   
   <!-- EN: participate -->
   <SmokeCircle.spectatorGerund>участвовать</SmokeCircle.spectatorGerund>

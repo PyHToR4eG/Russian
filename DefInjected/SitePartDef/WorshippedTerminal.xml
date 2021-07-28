@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: worshipful village -->
-  <WorshippedTerminal.label>почитаемая деревня</WorshippedTerminal.label>
+  <WorshippedTerminal.label>почитающая деревня</WorshippedTerminal.label>
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
   <WorshippedTerminal.description>Деревня, в которой находится древний терминал, которому поклоняются местные жители.</WorshippedTerminal.description>
   <!-- EN: Attacking<x> {0}</x> -->

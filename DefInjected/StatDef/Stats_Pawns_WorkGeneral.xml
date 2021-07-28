@@ -7,7 +7,7 @@
   <HackingSpeed.description>Как быстро этот человек может взломать компьютерные терминалы.</HackingSpeed.description>
   
   <!-- EN: suppression power -->
-  <SuppressionPower.label>мощность подавления</SuppressionPower.label>
+  <SuppressionPower.label>сила подавления</SuppressionPower.label>
   <!-- EN: A multiplier on a warden's ability to suppress slaves. -->
   <SuppressionPower.description>Множитель способности надзирателя подавлять рабов.</SuppressionPower.description>
   

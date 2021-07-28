@@ -2,11 +2,11 @@
 <LanguageData>
   
   <!-- EN: venerated -->
-  <AnimalVenerated.label>почитаемо</AnimalVenerated.label>
+  <AnimalVenerated.label>священно</AnimalVenerated.label>
   <!-- EN: This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed. -->
   <AnimalVenerated.description>Верующие считают, что это животное обладает особым духовным или нравственным статусом, а это значит, что его следует почитать и ему никогда не может быть причинен вред.</AnimalVenerated.description>
   <!-- EN: Tame venerated animal died -->
-  <AnimalVenerated.comps.2.description>Ручное почитаемое животное умерло</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.2.description>Ручное священное животное умерло</AnimalVenerated.comps.2.description>
   <!-- EN: Scarce animals<x> {STAGE1}</x> -->
   <AnimalVenerated.comps.4.thoughtStageDescriptions.0>Редкие животные {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
   <!-- EN: Few animals<x> {STAGE2}</x> -->

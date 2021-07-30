@@ -5,28 +5,28 @@
     <li>sent->[RECIPIENT_nameDef] was not convinced.</li>
   -->
   <Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
-	<li>sent->[RECIPIENT_nameDef] не был обращен.</li>
+	<li>sent->[RECIPIENT_nameDef] не обращается.</li>
   </Sentence_ConvertIdeoAttemptFail.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was not convinced and resented the attempt.</li>
   -->
   <Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
-	<li>sent->[RECIPIENT_nameDef] не был обращен и возмутился этой попыткой.</li>
+	<li>sent->[RECIPIENT_nameDef] не обращается и возмущается этой попыткой.</li>
   </Sentence_ConvertIdeoAttemptFailResentment.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] reacted in anger and started a social fight.</li>
   -->
   <Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
-	<li>sent->[RECIPIENT_nameDef] гневно отреагировал и начал перепалку.</li>
+	<li>sent->[RECIPIENT_nameDef] гневается и начинает перепалку.</li>
   </Sentence_ConvertIdeoAttemptFailSocialFight.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was convinced and changed [RECIPIENT_possessive] ideoligion.</li>
   -->
   <Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
-	<li>sent->[RECIPIENT_nameDef] был обращен и изменил идеологию [RECIPIENT_possessive].</li>
+	<li>sent->[RECIPIENT_nameDef] обращается и меняет идеологию [RECIPIENT_possessive].</li>
   </Sentence_ConvertIdeoAttemptSuccess.rulePack.rulesStrings>
   
 </LanguageData>

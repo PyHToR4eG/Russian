@@ -19,9 +19,11 @@
   <!-- EN: Clicking this button toggles a lock the current ideoligion narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
   <LockButtonDesc>Нажатие этой кнопки переключает блокировку текущего повествования об идеологии. При блокировке текст повествования не будет автоматически обновляться при изменении идеологии.</LockButtonDesc>
   <!-- EN: Narrative lock is currently on. The narrative will not auto-regenerate. -->
-  <LockInOn>В настоящее время включена блокировка повествования. Повествование не будет автоматически обновляться.</LockInOn>
+  <LockInOn>Блокировка имени в настоящее время включена. Имя не будет автоматически обновляться.</LockInOn>
   <!-- EN: Narrative lock is currently off. The narrative text can auto-regenerate. -->
-  <LockInOff>Блокировка повествования в настоящее время отключена. Повествовательный текст может автоматически обновляться.</LockInOff>
+  <LockInOff>Блокировка имени в настоящее время отключена. Имя может автоматически обновляться.</LockInOff>
+  <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
+  <LockPreceptNameButtonDesc>Заблокировать или разблокировать имя. При блокировке имя не будет автоматически обновляться при изменении идеологии.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
   <Precepts>Заповеди</Precepts>
   <!-- EN: Rituals -->
@@ -119,7 +121,7 @@
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>Рабы не будут выполнять эту работу</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
-  <WorkDisabledRole>Отключен ролью {0} </WorkDisabledRole>
+  <WorkDisabledRole>Отключено ролью {0} </WorkDisabledRole>
   <!-- EN: Affected by traits -->
   <AffectedByTraits>Зависит от черт характера</AffectedByTraits>
   <!-- EN: This is a charity quest. People with charitable beliefs will be affected by its outcome. -->
@@ -184,6 +186,8 @@
   <IdeoImpactLabel_8>очень сильное</IdeoImpactLabel_8>
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>чрезвычайное</IdeoImpactLabel_9>
+  <!-- EN: This was your colony's starting ideoligion. -->
+  <InitialPlayerIdeo>Это была начальная идеология вашей колонии.</InitialPlayerIdeo>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
   <ResearchProjectHasDefsWithMissingMemes>{0} открывает вещи, которые вы не можете создать, потому что для них требуются доктрины, в которые никто из ваших людей не верит</ResearchProjectHasDefsWithMissingMemes>
@@ -195,7 +199,7 @@
   <!-- EN: Disabled by backstory: {0} -->
   <WorkDisabledByBackstory>Отключено предысторией: {0}</WorkDisabledByBackstory>
   <!-- EN: Disabled by trait: {0} -->
-  <WorkDisabledByTrait>Отключено признаком: {0}</WorkDisabledByTrait>
+  <WorkDisabledByTrait>Отключено чертой: {0}</WorkDisabledByTrait>
   <!-- EN: Disabled by quest: {0} -->
   <WorkDisabledByQuest>Отключено заданием: {0}</WorkDisabledByQuest>
   

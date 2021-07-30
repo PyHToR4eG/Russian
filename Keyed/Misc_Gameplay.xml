@@ -62,7 +62,7 @@
   <!-- EN: Disables -->
   <Disables>Отключить</Disables>
   <!-- EN: Requires one of precepts -->
-  <RequiresOnePrecept>Требуется одно из заповедей</RequiresOnePrecept>
+  <RequiresOnePrecept>Требуется одна из заповедей</RequiresOnePrecept>
   <!-- EN: Required precepts -->
   <RequiredPrecepts>Необходимы заповеди</RequiredPrecepts>
   <!-- EN: Required rituals -->
@@ -70,13 +70,13 @@
   <!-- EN: Disables precepts -->
   <DisablesPrecepts>Отключает заповеди</DisablesPrecepts>
   <!-- EN: Disables {0} precepts. -->
-  <DisablesPreceptsCount>Отключает {0} заповеди.</DisablesPreceptsCount>
+  <DisablesPreceptsCount>Отключает {0_numCase ? заповедь : заповеди : заповедей}.</DisablesPreceptsCount>
   <!-- EN: Styles -->
   <Styles>Стили</Styles>
   <!-- EN: Chance to have precept -->
   <ChanceToHavePrecept>Шанс получить наставление</ChanceToHavePrecept>
   <!-- EN: {PAWN_labelShort}'s favorite color. Having more than {PERCENTAGE} of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier.\n\nYou can alter apparel colors at the styling station using tinctoria dye. -->
-  <FavoriteColorTooltip>{PAWN_labelShort} любимый цвет. Наличие более {PERCENTAGE} одежды {PAWN_possessive} цвета или {PAWN_possessive} цвета идеологии сделает {PAWN_objective} немного счастливее.\n\nВы можете изменить цвета одежды на станции укладки, используя краситель тинктория.</FavoriteColorTooltip>
+  <FavoriteColorTooltip>{PAWN_labelShort} любимый цвет. Наличие более {PERCENTAGE} одежды {PAWN_possessive} цвета или {PAWN_possessive} цвета идеологии сделает {PAWN_objective} немного счастливее.\n\nВы можете изменить цвета одежды на туалетном столике, используя краситель тинктория.</FavoriteColorTooltip>
   <!-- EN: Set ideo color -->
   <SetIdeoColor>Установите цвет ideo</SetIdeoColor>
   <!-- EN: Set favorite color -->
@@ -132,8 +132,10 @@
   <RitualTargetUnconnectedGaruanlenTreeInfo>Несвязанное дерево Гауранлен.</RitualTargetUnconnectedGaruanlenTreeInfo>
   <!-- EN: Already connected to {PAWN_nameDef} -->
   <RitualTargetConnectedGauranlenTree>Уже подключен к {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
+  <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite} недавно разорвало связь. Оно сможет снова установить связь через {1}.</RitualTargetConnectionTornGauranlenTree>
   <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>Вам нужно {0} древесины для каждого участника (всего{2}). У вас есть {1} дерево.</RitualTargeWoodInfo>
+  <RitualTargeWoodInfo>Необходимо {0_numCase ? дерево : дерева : дерева} для каждого участника (всего {2}). Имеется {1_numCase ? дерево : дерева : дерева}.</RitualTargeWoodInfo>
   <!-- EN: Accuse -->
   <Accuse>Обвинять</Accuse>
   <!-- EN: {PAWN_labelShort} does not believe in ideoligious scarification and will not like being scarified. -->
@@ -154,12 +156,12 @@
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
   <RitualOutcomeExtraDesc_ConsumableInspiration>Благодаря удовлетворительному {RITUAL}, {PAWN_labelShort} обрел {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
-  <RitualOutcomeExtraDesc_SkylanternWanderers>Ваши фонари на крыше привлекли несколько дружелюбных путешественников. Они приедут и оставят подарок.</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>Ваши небесные фонарики в небе привлекли несколько дружелюбных путешественников. Они придут и оставят подарок.</RitualOutcomeExtraDesc_SkylanternWanderers>
   <!-- EN: All participating slaves were shaken by the sight of death. Their suppression has been raised to its maximum level. -->
   <RitualOutcomeExtraDesc_Execution>Все участвующие рабы были потрясены видом смерти. Их подавление было поднято до максимального уровня.</RitualOutcomeExtraDesc_Execution>
 
   <!-- EN: Additional reward -->
-  <RitualAttachedReward>Дополнительное вознаграждение</RitualAttachedReward>
+  <RitualAttachedReward>Дополнительное вознаграждение </RitualAttachedReward>
   <!-- EN: Choose -->
   <RitualAttachedRewardChoose>Выбирать</RitualAttachedRewardChoose>
   <!-- EN: Can't use {0} with {1}. -->
@@ -261,11 +263,11 @@
   <!-- EN: This role becomes active when your faction has {1} {0}. It becomes inactive when your faction has only {3} {2}. -->
   <RoleBelieverCountDesc>Эта роль становится активной, когда у вашей фракции есть {1} {0}. Он становится неактивным, когда у вашей фракции есть только {3} {2}.</RoleBelieverCountDesc>
   <!-- EN: Raised by {0} levels. -->
-  <RoleExpectationOffset>Повышен на уровни {0}.</RoleExpectationOffset>
+  <RoleExpectationOffset>Повышен на {0_numCase ? уровень : уровня : уровней}.</RoleExpectationOffset>
   <!-- EN: The {0} has higher expectations. -->
   <RoleRaisedExpectation>У {0} более высокие ожидания.</RoleRaisedExpectation>
   <!-- EN: Led by {0} -->
-  <IdeoLeaderDifferentIdeoThoughtLabel>Во главе с {0}</IdeoLeaderDifferentIdeoThoughtLabel>
+  <IdeoLeaderDifferentIdeoThoughtLabel>Под руководством {0}</IdeoLeaderDifferentIdeoThoughtLabel>
   <!-- EN: {PAWN_nameDef} will not do {1} work. -->
   <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} не будет выполнять {1} работу.</AbilityDisabled_IncapableOfWorkTag>
   <!-- EN: No reachable altar or ritual spot. -->
@@ -337,7 +339,7 @@
   <!-- EN: First, you need to find the {0}. Watch for opportunities to gather information about it. -->
   <RelicHuntFindRelicSite>Во-первых, вам нужно найти {0}. Следите за возможностями для сбора информации об этом.</RelicHuntFindRelicSite>
   <!-- EN: The relic is housed in an ancient structure protected by a multi-unit security system.\n\nYou can defeat the security forces one unit at a time, or grab the relic and try to flee before they get you. -->
-  <RelicHuntFoundRelicSite>Реликвия находится в древнем сооружении, защищенном многоблочной системой безопасности.\n\nВы можете победить силы безопасности по одному подразделению за раз или захватить реликвию и попытаться бежать, прежде чем они доберутся до вас.</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSite>Реликвия находится в древнем сооружении, защищенном многоуровневой системой безопасности.\n\nВы можете победить силы безопасности по одному подразделению за раз или захватить реликвию и попытаться бежать, прежде чем они доберутся до вас.</RelicHuntFoundRelicSite>
   <!-- EN: The relic rests in an ancient structure nearby. -->
   <RelicHuntFoundRelicSitePeaceful>Реликвия покоится в древнем сооружении неподалеку.</RelicHuntFoundRelicSitePeaceful>
 
@@ -376,16 +378,16 @@
   <!-- EN: Nobody -->
   <Nobody>Никто</Nobody>
   <!-- EN: The person this {TREE_label} is connected to. If the connected person dies, this {TREE_label} will be unable to connect to another for {DURATION}. -->
-  <ConnectedPawnDesc>Человек, с которым связана эта {TREE_label}. Если подключенный человек умрет, этот {TREE_label} не сможет подключиться к другому в течение {DURATION}.</ConnectedPawnDesc>
+  <ConnectedPawnDesc>Человек, с которым связана это {TREE_label}. Если связанный человек умрет, это {TREE_label} не сможет связаться с другим в течение {DURATION}.</ConnectedPawnDesc>
   <!-- EN: Connection torn. Can connect in {0}. -->
-  <ConnectionTorn>Связь разорвана. Можно подключиться {0}.</ConnectionTorn>
+  <ConnectionTorn>Связь разорвана. Можно связать через {0}.</ConnectionTorn>
   <!-- EN: {PAWN_nameDef} is too far away -->
   <ConnectedPawnAway>{PAWN_nameDef} слишком далеко</ConnectedPawnAway>
   <!-- EN: Planting {PLANT_definite} near artificial buildings will cause its connection strength to decay over time. Connection strength determines the maximum number of dryads {PLANT_definite} can support at once.\n\nAre you sure you wish to plant here? -->
   <TreeBlockedByNearbyBuildingsDesc>Посадка {PLANT_definite} вблизи искусственных зданий приведет к тому, что прочность его связи со временем ослабнет. Прочность связи определяет максимальное количество дриад, которое {PLANT_definite} может поддерживать одновременно.\n\nВы уверены, что хотите посадить здесь?</TreeBlockedByNearbyBuildingsDesc>
   <!-- EN: Changing {TREE_definite}'s dryad caste takes time and energy.\n\nAfter the connected person interacts with the tree, all dryads will spend {DURATION} days inside cocoons while they morph to the selected caste.\n\nExisting cocoons will cancel their transformation so they can morph to the current caste. -->
   <!-- ISSUE -->
-  <GauranlenModeChangeDescFull>Изменение касты дриад {TREE_definite} требует времени и энергии.\n\nПосле того, как подключенный человек взаимодействует с деревом, все дриады проведут {ПРОДОЛЖИТЕЛЬНОСТЬ} дней в коконах, пока они трансформируются в выбранную касту.\n\nСуществующие коконы отменят свою трансформацию, чтобы они могли превратиться в текущую касту.</GauranlenModeChangeDescFull>
+  <GauranlenModeChangeDescFull>Изменение касты дриад {TREE_definite} требует времени и энергии.\n\nПосле того, как подключенный человек взаимодействует с деревом, все дриады проведут {DURATION} дней в коконах, пока они трансформируются в выбранную касту.\n\nСуществующие коконы отменят свою трансформацию, чтобы они могли превратиться в текущую касту.</GauranlenModeChangeDescFull>
   <!-- EN: Change the type of dryads created by {TREE_definite}. -->
   <ChangeModeDesc>Измените тип дриад, созданных {TREE_definite}.</ChangeModeDesc>
   <!-- EN: Connection strength fall -->
@@ -407,9 +409,9 @@
   <!-- EN: Hours per day to maintain -->
   <PruningHoursToMaintain>Часов в день для поддерживания</PruningHoursToMaintain>
   <!-- EN: Desired -->
-  <DesiredConnectionStrength>Желанный</DesiredConnectionStrength>
+  <DesiredConnectionStrength>Желаемая</DesiredConnectionStrength>
   <!-- EN: {CONNECTEDPAWN_nameDef} will prune {TREE_definite} often enough to keep connection strength above this level.\n\nHigher connection strength allows supporting more dryads, but also falls faster and thus takes more frequent pruning to maintain.\n\nYou can click on the bar to adjust the desired target connection strength.\n\nConnection strength fall per day: {FALL}\n\nConnection strength is affected by nearby buildings. -->
-  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} будет обрезать {TREE_definite} достаточно часто, чтобы поддерживать силу связи выше этого уровня.\n\nБолее высокая прочность связи позволяет поддерживать больше дриад, но также падает быстрее и, следовательно, требует более частой обрезки для поддерживания.\n\nВы можете нажать на панель, чтобы настроить желаемую целевую силу связи.\n\nПадение прочности связи в день: {FALL}\n\nНа прочность связи влияют близлежащие здания.</DesiredConnectionStrengthDesc>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} будет обрезать {TREE_definite} достаточно часто, чтобы поддерживать силу связи выше этого уровня.\n\nБолее высокая прочность связи позволяет поддерживать больше дриад, но также падает быстрее и, следовательно, требует более частой обрезки для поддерживания.\n\nВы можете нажать на шкалу, чтобы настроить желаемую силу связи.\n\nПадение прочности связи в день: {FALL}\n\nНа прочность связи влияют близлежащие здания.</DesiredConnectionStrengthDesc>
   <!-- EN: Waiting for {CONNECTEDPAWN_nameDef} to change dryad caste. -->
   <WaitingForConnectorToChangeCaste>Ожидание {CONNECTEDPAWN_nameDef} для изменения касты дриад.</WaitingForConnectorToChangeCaste>
   <!-- EN: Dryad caste -->
@@ -432,7 +434,7 @@
   <!-- EN: {ANIMAL_nameDef} is connected to {MASTER_nameDef} through {ANIMAL_possessive} Gauranlen tree. {ANIMAL_possessive} master cannot be changed. -->
   <DryadCannotChangeMaster>{ANIMAL_nameDef} связан с {MASTER_nameDef} через {ANIMAL_possessive} дерево Гауранлен. {ANIMAL_possessive} хозяин не может быть изменен.</DryadCannotChangeMaster>
   <!-- EN: Connection strength too low to create Gauranlen pod. -->
-  <ConnectionStrengthTooWeakForGaumakerPod>Прочность связи слишком мала, чтобы создать модуль Гауранлена.</ConnectionStrengthTooWeakForGaumakerPod>
+  <ConnectionStrengthTooWeakForGaumakerPod>Прочность связи слишком мала, чтобы создать стручок Гауранлена.</ConnectionStrengthTooWeakForGaumakerPod>
   <!-- EN: Unconnected -->
   <Unconnected>Несвязанный</Unconnected>
   <!-- EN: Dryads -->
@@ -520,16 +522,16 @@
   <!-- EN: loading nutrition -->
   <BiosculpterPodCycleLabelLoading>загрузка питания</BiosculpterPodCycleLabelLoading>
   <!-- EN: ready -->
-  <BiosculpterPodCycleLabelReady>готовый</BiosculpterPodCycleLabelReady>
+  <BiosculpterPodCycleLabelReady>готов</BiosculpterPodCycleLabelReady>
   <!-- EN: Prepare {0} cycle -->
   <BiosculpterPodCycleCommand>Цикл подготовки {0} </BiosculpterPodCycleCommand>
   <!-- EN: Ends in -->
-  <BiosculpterCycleTimeRemaining>Заканчивается в</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleTimeRemaining>Заканчивается через</BiosculpterCycleTimeRemaining>
   <!-- EN: Biotuned to -->
   <!-- ISSUE -->
   <BiosculpterBiotunedTo>Настроена на</BiosculpterBiotunedTo>
   <!-- EN: Interrupt cycle -->
-  <BiosculpterInteruptCycle>Цикл прерывания</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycle>Прерывание цикла</BiosculpterInteruptCycle>
   <!-- EN: Interrupt the current cycle. The occupant will be ejected without benefiting from the effects of the cycle, and will suffer from short-term biosculpter sickness. -->
   <BiosculpterInteruptCycleDesc>Прервите текущий цикл. Пассажир будет выброшен, не воспользовавшись последствиями цикла, и будет страдать от кратковременной болезни биоскульптора.</BiosculpterInteruptCycleDesc>
   <!-- EN: Once the biosculpter pod is filled with {NUTRITION} nutrition, select a colonist and right-click on the biosculpter pod or a downed person to start the cycle. -->
@@ -541,7 +543,7 @@
   <!-- EN: {PAWN_labelShort} completed healing cycle, and their {HEDIFF_label} was cured. -->
   <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} завершил цикл исцеления, и их {HEDIFF_label} был вылечен.</BiosculpterHealCompletedWithCureMessage>
   <!-- EN: {PAWN_labelShort} completed {PAWN_possessive} age reversal cycle. {PAWN_pronoun} expects the next age reversal in {DEADLINE} days. -->
-  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} завершен цикл изменения возраста {PAWN_possessive}. {PAWN_pronoun} ожидает следующего изменения возраста через {DEADLINE} дней.</BiosculpterAgeReversalCompletedMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} завершен цикл омоложения {PAWN_possessive}. {PAWN_pronoun} ожидает следующего омоложения через {DEADLINE} дней.</BiosculpterAgeReversalCompletedMessage>
   <!-- EN: {PAWN_labelShort} completed pleasure cycle. -->
   <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} завершил цикл удовольствия.</BiosculpterPleasureCompletedMessage>
   <!-- EN: Cleanliness speed factor -->
@@ -578,7 +580,7 @@
   <!-- EN: Not participating -->
   <NotParticipating>Не участвует</NotParticipating>
   <!-- EN: Drag and drop or left/right click to move people. -->
-  <DragPawnsToRolesInfo>Перетащите или щелкните левой/правой кнопкой мыши, чтобы переместить людей.</DragPawnsToRolesInfo>
+  <DragPawnsToRolesInfo>Перетащите или кликните мышкой, для переноса.</DragPawnsToRolesInfo>
   <!-- EN: A slave. The human property of others. -->
   <RitualBeginSlaveDesc>Раб. Собственность других людей.</RitualBeginSlaveDesc>
   <!-- EN: {0_labelShort} is sleeping. If included in the ritual, {0_pronoun} will wake up to participate. -->
@@ -600,7 +602,7 @@
   <!-- EN: Performed recently -->
   <RitualOutcomePerformedRecently>Выполнена недавно</RitualOutcomePerformedRecently>
   <!-- EN: {0} expectations -->
-  <RitualQualityExpectations>{0} ожидается</RitualQualityExpectations>
+  <RitualQualityExpectations>{0} ожидания</RitualQualityExpectations>
   <!-- EN: Ritual ambience sound -->
   <RitualAmbienceSound>Звук ритуальной мелодии</RitualAmbienceSound>
   <!-- EN: Total {0} quality is below {1}. Proceeding will most likely negatively impact your colony.\n\nAre you sure? -->
@@ -610,7 +612,7 @@
   <!-- EN: {0_labelShort} is incapable of talking. -->
   <AbilitySpeechDisabledCantSpeak>{0_labelShort} не способен говорить.</AbilitySpeechDisabledCantSpeak>
   <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
-  <RitualOutcomeExtraDesc_Mood>Каждый, кто участвует в ритуале, получает {0} настроения в течение {1} дней.</RitualOutcomeExtraDesc_Mood>
+  <RitualOutcomeExtraDesc_Mood>Каждый, кто участвует в ритуале, получит {0} настроения в течение {1} дней.</RitualOutcomeExtraDesc_Mood>
   
   <!-- EN: Choose who should participate in {RITUAL_labelDef}. -->
   <ChooseParticipants>Выберите, кто должен участвовать в {RITUAL_labelDef}.</ChooseParticipants>
@@ -658,7 +660,7 @@
   <StartingRitualQuality>{0} начальное качество</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>поднял качество до {0}</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>поднимет до {0} качества</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
   <OutcomeBonusDesc_QualitySingleOffset>{0} качество</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
@@ -716,5 +718,49 @@
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>Удалите это, атакуя на него.</RemoveByAttackingTooltip>
   
+  <!-- Animal pens -->
+  <!-- EN: Unenclosed -->
+  <PenUnenclosedLabel>Незамкнутый</PenUnenclosedLabel>
+  <!-- EN: open door -->
+  <PenOpenDoorLabel>открыта дверь</PenOpenDoorLabel>
+  <!-- EN: Rename pen -->
+  <RenameAnimalPen>Сменить название</RenameAnimalPen>
+  <!-- EN: Pen marker {0} -->
+  <AnimalPenMarkerDefaultLabel>Метка загона {0}</AnimalPenMarkerDefaultLabel>
+  <!-- EN: In pen -->
+  <InPen>В загоне</InPen>
+  <!-- EN: not in a pen -->
+  <Unpenned>Не в загоне</Unpenned>
+  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
+  <UnpennedTooltip>Загоны для животных можно создать, создав маркер загона внутри закрытой области. Ваши животноводы приведут животных в соответствующий загон. Загоны могут быть ограждены заборами, баррикадами, стенами и дверями.</UnpennedTooltip>
+  <!-- EN: Roped by -->
+  <RopedByPawn>Привязан</RopedByPawn>
+  <!-- EN: Roped to -->
+  <RopedToThing>Привязан к</RopedToThing>
+  <!-- EN: Roped to spot. -->
+  <RopedToSpot>Привязан к месту.</RopedToSpot>
+  <!-- EN: Pen size -->
+  <PenSizeLabel>Размер загона</PenSizeLabel>
+  <!-- EN: Very small pen -->
+  <PenSizeDesc_VerySmall>Очень маленький загон</PenSizeDesc_VerySmall>
+  <!-- EN: Small pen -->
+  <PenSizeDesc_Small>Маленький загон</PenSizeDesc_Small>
+  <!-- EN: Medium-sized pen -->
+  <PenSizeDesc_Medium>Средний загон</PenSizeDesc_Medium>
+  <!-- EN: Large pen -->
+  <PenSizeDesc_Large>Большой загон</PenSizeDesc_Large>
+  <!-- EN: Not enclosed - build fences -->
+  <PenSizeDesc_Unenclosed>Не огорожен - постройте заборы</PenSizeDesc_Unenclosed>
+  <!-- EN: {ANIMALDEF_label} capacity -->
+  <PenCapacityDesc>Вместимость {ANIMALDEF_label}</PenCapacityDesc>
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Примеры животных</PenExampleAnimals>
+  
+  <!-- EN: Cut now -->
+  <AutoCutNow>Срезать сейчас</AutoCutNow>
+  <!-- EN: harvesting -->
+  <HarvestGerund>уборка</HarvestGerund>
+  <!-- EN: cutting -->
+  <CutGerund>вырубка</CutGerund>
 
 </LanguageData>

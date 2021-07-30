@@ -93,8 +93,8 @@
   <!-- Core -->
   
   <!-- EN: Pen is not enclosed -->
-  <AutocutUnenclosedPen>TODO</AutocutUnenclosedPen>
+  <AutocutUnenclosedPen>Загон не закрыт</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
-  <AutocutUnenclosedPenTip>TODO</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>Загон не закрыт, авторубка не работает.</AutocutUnenclosedPenTip>
 
 </LanguageData>

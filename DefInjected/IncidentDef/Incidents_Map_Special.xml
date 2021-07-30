@@ -6,7 +6,7 @@
   <!-- EN: Gauranlen pod sprout -->
   <GauranlenPodSpawn.letterLabel>Росток стручка Гауранлена</GauranlenPodSpawn.letterLabel>
   <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
-  <GauranlenPodSpawn.letterText>Поблизости пророс стручок Гауранлена!\n\nСоберите урожай, чтобы собрать семя Гауранлена. Это специальное семя может быть использовано для посадки величественного дерева Гауранлен.\n\nВаши колонисты могут соединиться с деревьями Гауранлен и заставить их порождать ресурсы и полезных дриад, чтобы работать или сражаться за вас.</GauranlenPodSpawn.letterText>
+  <GauranlenPodSpawn.letterText>Поблизости пророс стручок Гауранлена!\n\nСоберите урожай, чтобы собрать семя Гауранлена. Это специальное семя может быть использовано для посадки величественного дерева Гауранлен.\n\nВаши колонисты могут установить связь с деревьями Гауранлен и заставить их порождать ресурсы и полезных дриад, чтобы работать или сражаться за вас.</GauranlenPodSpawn.letterText>
   
   <!-- EN: beggars arrive -->
   <GiveQuest_Beggars.label>прибывают нищие</GiveQuest_Beggars.label>
@@ -30,6 +30,6 @@
   <!-- EN: Friendly visitors -->
   <WanderersSkylantern.letterLabel>Дружелюбные посетители</WanderersSkylantern.letterLabel>
   <!-- EN: Your skylanterns have attracted some friendly travelers. The travelers were amazed by the spectacle you created and hope they'll get to participate next time.\n\nThey will visit and leave a gift. -->
-  <WanderersSkylantern.letterText>Ваши фонари на крыше привлекли несколько дружелюбных путешественников. Путешественники были поражены зрелищем, которое вы создали, и надеются, что они смогут принять участие в следующий раз.\n\n Они придут и оставят подарок.</WanderersSkylantern.letterText>
+  <WanderersSkylantern.letterText>Ваши небесные фонарики в небе привлекли несколько дружелюбных путешественников. Путешественники были поражены зрелищем, которое вы создали, и надеются, что они смогут принять участие в следующий раз.\n\n Они придут и оставят подарок.</WanderersSkylantern.letterText>
   
 </LanguageData>

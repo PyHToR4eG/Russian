@@ -33,9 +33,9 @@
   <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} {INITIATOR_gender ? обратил : обратила} {RECIPIENT_labelShort} в {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: Counsel -->
-  <Counsel.label>Консультация</Counsel.label>
+  <Counsel.label>Психотерапия</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-  <Counsel.description>Предложите человеку консультацию, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
+  <Counsel.description>Предложите человеку психотерапию, чтобы отменить эффект печального воспоминания. Шансы на успех зависят от социальных навыков говорящего и его отношений со слушателем.</Counsel.description>
   <!-- EN: <x>{INITIATOR_labelShort} </x>botched the attempt to counsel<x> {RECIPIENT_labelShort}</x>.<x> {RECIPIENT_labelShort}</x> has become upset. -->
   <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} неудачно {INITIATOR_gender ? попытался : попыталась} проконсультировать {RECIPIENT_labelShort}. {RECIPIENT_labelShort} {RECIPIENT_gender ? расстроился : расстроилась}.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: <x>{INITIATOR_labelShort} </x>successfully counselled<x> {RECIPIENT_labelShort}</x>, canceling the mood impact of<x> {2}</x>. -->
@@ -64,7 +64,7 @@
   <MarksmanCommand.description>Командуйте и повышайте навыки стрельбы у всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>шахтерскый приказ</MiningCommand.label>
+  <MiningCommand.label>шахтерский приказ</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
   <MiningCommand.description>Предложите рекомендации по методам добычи полезных ископаемых, повысив скорость добычи для всех, кто находится поблизости. Эффект остается прикрепленным к заклинателю в течение 24 часов.</MiningCommand.description>
   

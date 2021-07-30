@@ -57,9 +57,9 @@
   <Dryad_Clawer.tools.head.label>голова</Dryad_Clawer.tools.head.label>
   
   <!-- EN: gaumaker dryad -->
-  <Dryad_Gaumaker.label>дриада гаумакера</Dryad_Gaumaker.label>
+  <Dryad_Gaumaker.label>дриада гаусада</Dryad_Gaumaker.label>
   <!-- EN: A dryad caste with the unique ability to produce new Gauranlen pods and reproduce the Gauranlen tree along with its symbiote, the dryad queen. To do this, three gaumaker dryads must slowly merge.\n\nIn general, dryads are mammal-like creatures that have a symbiotic relationship with the Gauranlen tree. They reproduce together with their tree, which contains a hidden dryad queen. Dryads can morph into various specialized castes. -->
-  <Dryad_Gaumaker.description>Каста дриад с уникальной способностью производить новые стручки Гауранлена и воспроизводить дерево Гауранлена вместе с его симбиотом, королевой дриад. Для этого три дриады гаумакера должны медленно слиться воедино.\n\nВ целом, дриады-это млекопитающие, похожие на существ, которые имеют симбиотические отношения с деревом Гауранлен. Они размножаются вместе со своим деревом, в котором содержится скрытая королева дриад. Дриады могут превращаться в различные специализированные касты.</Dryad_Gaumaker.description>
+  <Dryad_Gaumaker.description>Каста дриад с уникальной способностью производить новые стручки Гауранлена и воспроизводить дерево Гауранлена вместе с его симбиотом, королевой дриад. Для этого три дриады гаусада должны медленно слиться воедино.\n\nВ целом, дриады-это млекопитающие, похожие на существ, которые имеют симбиотические отношения с деревом Гауранлен. Они размножаются вместе со своим деревом, в котором содержится скрытая королева дриад. Дриады могут превращаться в различные специализированные касты.</Dryad_Gaumaker.description>
   <!-- EN: left claw -->
   <Dryad_Gaumaker.tools.left_claw.label>левый коготь</Dryad_Gaumaker.tools.left_claw.label>
   <!-- EN: right claw -->

@@ -18,20 +18,20 @@
     <li>praised->raved about</li>
   -->
   <SpeechUtility.rulePack.rulesStrings>
-	<li>spokeof->общался о</li>
-    <li>spokeof->говорил о</li>
-    <li>spokeof->высказал мысли о</li>
-    <li>spokeof->обсуждал</li>
-    <li>spokeof->объяснял</li>
-    <li>spokeof->описал</li>
-    <li>praised->выступил с речью о</li>
-    <li>praised->общался о</li>
-    <li>praised->говорил о</li>
-    <li>praised->хвалил</li>
-    <li>praised->превозносил достоинства</li>
-    <li>praised->приветствовал</li>
-    <li>praised->нахваливал</li>
-    <li>praised->бредил о</li>
+	<li>spokeof->рассказывает</li>
+    <li>spokeof->говорит</li>
+    <li>spokeof->высказывает мысли</li>
+    <li>spokeof->обсуждет</li>
+    <li>spokeof->объясняет</li>
+    <li>spokeof->описывает</li>
+    <li>praised->выступает с речью про</li>
+    <li>praised->рассказывает про</li>
+    <li>praised->говорит про</li>
+    <li>praised->хвалит</li>
+    <li>praised->превозносит достоинства</li>
+    <li>praised->приветствует</li>
+    <li>praised->нахваливает</li>
+    <li>praised->бредит про</li>
   </SpeechUtility.rulePack.rulesStrings>
   
 </LanguageData>

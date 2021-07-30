@@ -11,11 +11,11 @@
   <!-- EN: Grand slave rebellion -->
   <LetterLabelGrandSlaveRebellion>Великое восстание рабов</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>Началось великое восстание рабов! Все Ваши рабы восстают, чтобы дать Вам отпор. Они будут искать оружие и попытаются уничтожить Ваших колонистов.\n\nЭти рабы вовлечены:\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>Началось великое восстание рабов! Все Ваши рабы восстают, чтобы дать Вам отпор. Они будут искать оружие и попытаются уничтожить Ваших колонистов.\n\nВосставшие рабы:\n\n{0}</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
   <LetterLabelLocalSlaveRebellion>Местное восстание рабов</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveRebellion>Началось местное восстание рабов! {0_nameDef} и некоторые близлежащие рабы восстают, чтобы дать Вам отпор. Они будут искать оружие и попытаются уничтожить Ваших колонистов.\n\nЭти рабы вовлечены:\n\n{1}</LetterLocalSlaveRebellion> 
+  <LetterLocalSlaveRebellion>Началось местное восстание рабов! {0_nameDef} и некоторые близлежащие рабы восстают, чтобы дать Вам отпор. Они будут искать оружие и попытаются уничтожить Ваших колонистов.\n\nВосставшие рабы:\n\n{1}</LetterLocalSlaveRebellion> 
   <!-- EN: Slave rebellion -->
   <LetterLabelSingleSlaveRebellion>Восстание раба</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
@@ -25,11 +25,11 @@
   <!-- EN: Grand slave escape -->
   <LetterLabelGrandSlaveEscape>Великий побег рабов</LetterLabelGrandSlaveEscape>
   <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveEscape>Начался грандиозный побег рабов! Все Ваши рабы стремятся к этому.\n\nЭти рабы вовлечены:\n\n{0}</LetterGrandSlaveEscape>
+  <LetterGrandSlaveEscape>Начался грандиозный побег рабов! Все Ваши рабы стремятся к этому.\n\nБеглецы:\n\n{0}</LetterGrandSlaveEscape>
   <!-- EN: Local slave escape -->
   <LetterLabelLocalSlaveEscape>Побег местных рабов</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>Начался побег местных рабов! {0_nameDef} и некоторые близлежащие рабы совершают побег.\n\nЭти рабы вовлечены:\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>Начался побег местных рабов! {0_nameDef} и некоторые близлежащие рабы совершают побег.\n\nБеглецы:\n\n{1}</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
   <LetterLabelSingleSlaveEscape>Побег раба</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
@@ -40,12 +40,12 @@
   
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
-  <LetterLabelRoleActive>{0} роль активирована</LetterLabelRoleActive>
+  <LetterLabelRoleActive>Роль {0} активирована</LetterLabelRoleActive>
   <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, select a colonist, go to their 'Social' tab and press the 'Choose role' button. -->
   <LetterLabelRoleActiveDesc>Количество {0} в вашей колонии достигло {1}. Теперь вы можете назначить роль {ROLE_labelDef} одному из ваших колонистов.\n\nЧтобы назначить роль, выберите колониста, перейдите на вкладку "Социум" и нажмите кнопку "Выбрать роль".</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
-  <LetterLabelRoleInactive>{0} роль деактивирована</LetterLabelRoleInactive>
+  <LetterLabelRoleInactive>Роль {0} деактивирована</LetterLabelRoleInactive>
   <!-- EN: Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}. -->
   <LetterLabelRoleInactiveDesc>Количество {0} в вашей колонии сократилось до {1}. {ROLE_labelDef} роль больше не активна. Эта роль снова станет доступной, когда число {0} достигнет {2}.</LetterLabelRoleInactiveDesc>
 
@@ -60,7 +60,7 @@
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
   <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} потерял {PAWN_possessive} позицию {ROLE_labelDef} потому что {PAWN_pronoun} отказался от {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
   <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0} пропущено.</LetterObligationRoleInactive>
+  <LetterObligationRoleInactive>{0} пропущен.</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
   <LetterObligationRoleInactiveDateDesc>{0} - это дата {1}, но поскольку роль {ROLE_labelDef} неактивна, {2} пропустит {1}.</LetterObligationRoleInactiveDateDesc>
   
@@ -69,9 +69,9 @@
   <LetterSpeechConvertedListeners>Речь {PAWN_pronoun} обратила последователей в {IDEO}</LetterSpeechConvertedListeners>
 
   <!-- EN: {0} rituals activated -->
-  <LetterTitleObligationsActivated>{0} ритуалов активировано</LetterTitleObligationsActivated>
+  <LetterTitleObligationsActivated>{0} ритуалы активированы</LetterTitleObligationsActivated>
   <!-- EN: {0} rituals deactivated -->
-  <LetterTitleObligationsDeactivated>{0} ритуалов отключено</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivated>{0} ритуалы отключены</LetterTitleObligationsDeactivated>
   <!-- EN: There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction. -->
   <LetterTitleObligationsDeactivatedTooFewBelievers>Теперь в вашей фракции меньше {1} {IDEO_memberNamePlural}. Поэтому {IDEO_memberNamePlural} не будет требовать, чтобы ритуалы {IDEO} выполнялись до тех пор, пока в вашей фракции не будет по крайней мере {1} из них.</LetterTitleObligationsDeactivatedTooFewBelievers>
   <!-- EN: Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out. -->
@@ -130,11 +130,11 @@
   <!-- EN: Look change desired -->
   <LetterWantLookChange>Желаемое изменение внешнего вида</LetterWantLookChange>
   <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
-  <LetterWantLookChangeDesc>{PAWN_nameDef} желает изменить внешний вид {PAWN_possessive}, поскольку он больше не соответствует тому, во что верит {PAWN_pronoun}.\n\n{PAWN_pronoun} автоматически использует доступную станцию стайлинга и выберет внешний вид. Если вы хотите настроить внешний вид {PAWN_possessive}, выберите {PAWN_objective} и щелкните правой кнопкой мыши на станции стайлинга.</LetterWantLookChangeDesc>
+  <LetterWantLookChangeDesc>{PAWN_nameDef} желает изменить внешний вид {PAWN_possessive}, поскольку он больше не соответствует тому, во что верит {PAWN_pronoun}.\n\n{PAWN_pronoun} автоматически использует доступный туалетный столик и выберет внешний вид. Если вы хотите настроить внешний вид {PAWN_possessive}, выберите {PAWN_objective} и щелкните правой кнопкой мыши на туалетном столике.</LetterWantLookChangeDesc>
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->
-  <LetterLabelSpacedroneIncoming>Дрон приближается</LetterLabelSpacedroneIncoming>
+  <LetterLabelSpacedroneIncoming>Космический дрон приближается</LetterLabelSpacedroneIncoming>
   <!-- EN: A spacedrone is landing nearby. -->
   <LetterTextSpacedroneIncoming>Неподалеку приземляется дрон.</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
@@ -184,11 +184,11 @@
   <!-- EN: {TREE_label} connection -->
   <LetterLabelPawnConnected>{TREE_label} связь</LetterLabelPawnConnected>
   <!-- EN: {CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning. -->
-  <LetterTextPawnConnected>{CONNECTOR_nameDef} соединился с {TREE_definite}.\n\n{TREE_definite} будет производить маленьких животных, называемых дриадами, выращивая их в стручках у своего основания. Эти дриады могут специализироваться на разных кастах. Вы можете выбрать, какую касту дриад вы хотите, чтобы дерево произвело.\n\nЧем сильнее связь между деревом и человеком, тем больше дриад {TREE_definite} могут выдержать. {CONNECTOR_nameDef} может укрепить связь, обрезав {TREE_definite}. Для поддержания более высокой прочности связи требуется более частая обрезка.</LetterTextPawnConnected>
+  <LetterTextPawnConnected>{CONNECTOR_nameDef} установил связь с {TREE_definite}.\n\n{TREE_definite} будет производить маленьких животных, называемых дриадами, выращивая их в стручках у своего основания. Эти дриады могут специализироваться на разных кастах. Вы можете выбрать, какую касту дриад вы хотите, чтобы дерево произвело.\n\nЧем сильнее связь между деревом и человеком, тем больше дриад {TREE_definite} может выдержать. {CONNECTOR_nameDef} может укрепить связь, обрезая {TREE_definite}. Для поддержания более высокой прочности связи требуется более частая обрезка.</LetterTextPawnConnected>
   <!-- EN: Connected {TREE_label} destroyed -->
-  <LetterLabelConnectedTreeDestroyed>Подключенный {TREE_label} уничтожен</LetterLabelConnectedTreeDestroyed>
+  <LetterLabelConnectedTreeDestroyed>Связанное {TREE_label} уничтожено</LetterLabelConnectedTreeDestroyed>
   <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
-  <LetterTextConnectedTreeDestroyed>{TREE_label}, подключенная к {CONNECTEDPAWN_nameDef}, была уничтожена, убив королеву дриад, размещенную внутри.\n\nБез королевы разум выводка дриад рухнул. Все дриады от этого дерева умерли.</LetterTextConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>{TREE_label}, связанное с {CONNECTEDPAWN_nameDef}, было уничтожено, убив королеву дриад, размещенную внутри.\n\nБез королевы разум выводка дриад рухнул. Все дриады от этого дерева умерли.</LetterTextConnectedTreeDestroyed>
 
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->

@@ -18,13 +18,16 @@
   <!-- EN: Choose {0}-{1} memes to form the foundational ideas of this ideoligion. Some of these have much more gameplay impact than others. -->
   <ChooseNormalMemesInfo>Выберите {0}-{1} доктрины, формирующие основополагающие идеи этой идеологии. Некоторые из них оказывают гораздо большее влияние на игровой процесс, чем другие.</ChooseNormalMemesInfo>
   <!-- EN: Choose at least {0} meme. -->
-  <NotEnoughMemes>Выберите хотя бы {0} доктрину.</NotEnoughMemes>
+  <NotEnoughMemes>Выберите хотя бы {0_numCase ? доктрину : доктрины : доктрин}.</NotEnoughMemes>
   <!-- EN: Choose at most {0} memes. -->
-  <TooManyMemes>Выберите не более {0} доктрин.</TooManyMemes>
+  <TooManyMemes>Выберите не более {0_numCase ? доктрины : доктрин : доктрин}.</TooManyMemes>
   <!-- EN: Choose structure. -->
   <ChooseStructureMeme>Выберите структуру.</ChooseStructureMeme>
   <!-- EN: {0_label} and {1_label} are incompatible. -->
   <IncompatibleMemes>{0_label} и {1_label} несовместимы.</IncompatibleMemes>
+  
+  <!-- EN: {0} will re-randomize any precepts you have edited.\n\nDo you wish to continue? -->
+  <ChangesRandomizePrecepts>{0} повторно пересоздаст любые отредактированные вами заповеди.\n\nХотите продолжить?</ChangesRandomizePrecepts>
   
   <!-- EN: Room requirements -->
   <RoomRequirements>Требования к комнате</RoomRequirements>
@@ -67,6 +70,8 @@
   <YourLeaderTradeBonus>Бонус лидера</YourLeaderTradeBonus>
   <!-- EN: The meme {MEME} prevents adding apparel requirements to roles. -->
   <CannotNotAddRoleApparelDueToMeme>Доктрина {MEME} запрещает добавлять требований к одежде к ролям.</CannotNotAddRoleApparelDueToMeme>
+  <!-- EN: cannot be worn with {0_label} -->
+  <CannotBeWornWith>нельзя носить с {0_label}</CannotBeWornWith>
 
   <!-- EN: Certainty reduction -->
   <AbilityIdeoConvertBreakdownLabel>Снижение уверенности</AbilityIdeoConvertBreakdownLabel>
@@ -186,6 +191,8 @@
   <CollapseAllCategories>Свернуть все</CollapseAllCategories>
   <!-- EN: Resets all style items to their default values. -->
   <ResetButtonDesc>Сбрасывает все элементы стиля до значений по умолчанию.</ResetButtonDesc>
+  <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
+  <TooltipDyeExplanation>Краситель можно получать из тинктория или покупать у торговцев.</TooltipDyeExplanation>
 
   <!-- Ancient complex mission -->
   <!-- EN: Send shuttle anyway -->
@@ -199,7 +206,7 @@
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->
-  <ChangeMode>Выберите касту дриад</ChangeMode>
+  <ChangeMode>Выбрать касту дриад</ChangeMode>
   <!-- EN: Required memes -->
   <RequiredMemes>Необходимые доктрины</RequiredMemes>
   <!-- EN: Required caste -->
@@ -209,13 +216,13 @@
   <!-- EN: Missing required caste -->
   <MissingRequiredCaste>Отсутствует необходимая каста</MissingRequiredCaste>
   <!-- EN: Already selected -->
-  <AlreadySelected>Уже выбран</AlreadySelected>
+  <AlreadySelected>Уже выбрано</AlreadySelected>
   <!-- EN: Here you can choose which caste of dryads this {TREE_label} will create.\n\nDryads will emerge from pods that grow at the tree's base. The maximum number of dryads is based on the connection strength between {TREE_definite} and the connected person. -->
-  <ChooseProductionModeInitialDesc>Здесь вы можете выбрать, какую касту дриад создаст эта {TREE_label}.\n\nДриады появятся из стручков, которые растут у основания дерева. Максимальное количество дриад зависит от силы связи между {TREE_definite} и подключенным человеком.</ChooseProductionModeInitialDesc>
+  <ChooseProductionModeInitialDesc>Здесь вы можете выбрать, какую касту дриад создаст это {TREE_label}.\n\nДриады появятся из стручков, которые растут у основания дерева. Максимальное количество дриад зависит от силы связи между {TREE_definite} и связанным человеком.</ChooseProductionModeInitialDesc>
 
   <!-- Archonexus -->
   <!-- EN: Choose who to convert to your ideoligion -->
-  <ChooseColonistsForIdeoTitle>Выберите, кого обратить в свою идеологию</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoTitle>Выбрать, кого обратить в свою идеологию</ChooseColonistsForIdeoTitle>
   <!-- EN: You may convert people to your primary ideoligion when setting up a new colony. -->
   <ChooseColonistsForIdeoDesc>Вы можете обратить людей в свою основную идеологию при создании новой колонии.</ChooseColonistsForIdeoDesc>
   <!-- EN: New Colony -->
@@ -225,7 +232,7 @@
   <!-- EN: Choose up to {0} {1}. -->
   <ChooseThingsDesc>Выберите не более {0} {1}.</ChooseThingsDesc>
   <!-- EN: Choose up to {0} people. -->
-  <ChoosePeopleDesc>Выберите не более {0} людей.</ChoosePeopleDesc>
+  <ChoosePeopleDesc>Выберите не более {0_numCase ? человека : человек : людей}.</ChoosePeopleDesc>
   <!-- EN: If you only select slaves, you will play them as colonists in the next colony. -->
   <ChooseOnlySlavesInfo>Если вы выберете только рабов, вы будете играть ими как за колонистов в следующей колонии.</ChooseOnlySlavesInfo>
   <!-- EN: Convert -->

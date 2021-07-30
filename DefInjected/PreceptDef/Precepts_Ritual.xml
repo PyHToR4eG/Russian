@@ -58,9 +58,9 @@
   <ScarificationCeremony.description>Ритуальное шрамирование, когда мясник вырезает идеологические символы на жертве. Аудитория будет наблюдать, как резчик произносит речь, выполняет резку, затем произносит несколько заключительных слов.</ScarificationCeremony.description>
   
   <!-- EN: tree connection ritual -->
-  <TreeConnection.label>ритуал связывания с деревом</TreeConnection.label>
+  <TreeConnection.label>ритуал связи с деревом</TreeConnection.label>
   <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
-  <TreeConnection.description>Соединитель свяжется с деревом Гауранлен. Соединитель коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие собираются в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
+  <TreeConnection.description>Попечитель свяжется с деревом Гауранлен. Попечитель коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие соберутся в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
   
   <!-- EN: trial -->
   <Trial.label>суд</Trial.label>

@@ -155,7 +155,7 @@
   -->
   <IdeologicalLesson.rules.rulesStrings>
     <li>lesson(priority=-1)->всякое случается</li>
-    <li>r_pattern->"[r_lessonIntro][r_lesson].[r_lessonReinforcement]"\n\n  ——[lessonAttribution]</li>
+    <li>r_pattern->"[r_lessonIntro] [r_lesson].[r_lessonReinforcement]"\n\n  ——[lessonAttribution]</li>
     <li>lessonAttribution->[founder_nameFull]</li>
     <li>lessonAttribution(p=2)-><i>[attributionSource_titleCase]</i> от [founder_nameFull]</li>
     <li>lessonAttribution->[founder_nameFull] сообщение для [believer_nameFull]</li>
@@ -165,16 +165,16 @@
     <li>lessonAttribution->[founder_nameFull], [speech] на [TerrainFeature]</li>
     <li>lessonAttribution->[founder_nameFull], [speech] в [Community]</li>
     <li>attributionSource->[memeConcept]</li>
-    <li>attributionSource->[memeAdjective][memeConcept]</li>
+    <li>attributionSource->[memeAdjective] [memeConcept]</li>
     <li>attributionSource->[MemeAdjective] Жизнь</li>
     <li>attributionSource->Размышления [attributionJob]</li>
     <li>attributionSource->Воспоминания о [attributionJob]</li>
     <li>attributionSource->Мысли о [attributionJob]</li>
     <li>attributionSource->Жизнь [attributionJob]</li>
-    <li>attributionJob->[memeAdjective][place_job]</li>
+    <li>attributionJob->[memeAdjective] [place_job]</li>
     <li>attributionJob->[place_job]</li>
-    <li>memeConference(p=3)->[conferencePrefix][memeConcept][conferenceType]</li>
-    <li>memeConference(p=2)->[memeConcept][conferenceType]</li>
+    <li>memeConference(p=3)->[conferencePrefix] [memeConcept] [conferenceType]</li>
+    <li>memeConference(p=2)->[memeConcept] [conferenceType]</li>
     <li>memeConference->[memeHyphenPrefix_titleCase]-против</li>
     <li>conferencePrefix->Первый</li>
     <li>conferencePrefix->Второй</li>

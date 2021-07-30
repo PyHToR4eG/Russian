@@ -26,7 +26,7 @@
   <!-- EN: {0_label} and {1_label} are incompatible with each other. -->
   <MessageIncompatibleMemes>{0_label} и {1_label} несовместимы друг с другом.</MessageIncompatibleMemes>
   <!-- EN: You need {0} to start the {1}. -->
-  <MessageNoRequiredRolePawnToBeginRitual>Вам нужно {0}, чтобы начать {1}.</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNoRequiredRolePawnToBeginRitual>Вам необходим {0}, чтобы начать {1}.</MessageNoRequiredRolePawnToBeginRitual>
   <!-- EN: Before starting the {1}, you must assign someone to the role of {0}. -->
   <MessageNeedAssignedRoleToBeginRitual>Перед началом {1} вы должны назначить кого-то на роль {0}.</MessageNeedAssignedRoleToBeginRitual>
   <!-- EN: {DESIREDAPPAREL} apparel desire overlaps with {ROLE} apparel requirement. -->
@@ -43,7 +43,7 @@
   <!-- EN: Warning: {0} will be upset if mining occurs. -->
   <MessageWarningPlayerDesignatedMining>Предупреждение: {0} будет расстроен, если начнется добыча полезных ископаемых.</MessageWarningPlayerDesignatedMining>
   <!-- EN: The {TREE_label} has had its connection with {PAWN_nameDef} torn. It must recover for {DURATION} before it can reconnect again. -->
-  <MessageConnectedPawnDied>У {TREE_label} была разорвана связь с {PAWN_nameDef}. Он должен восстановиться в течение {ВРЕМЕНИ}, прежде чем сможет снова подключиться.</MessageConnectedPawnDied>
+  <MessageConnectedPawnDied>У {TREE_label} была разорвана связь с {PAWN_nameDef}. Оно должен восстановиться в течение {DURATION}, прежде чем сможет снова установить связь.</MessageConnectedPawnDied>
 
   <!-- Slave interactions -->
   <!-- EN: {0_nameDef} has been emancipated by {1_nameDef}. -->
@@ -186,7 +186,7 @@
   <!-- EN: You need a {0}. -->
   <MessageRitualNeedsAtLeastOneRolePawn>Вам нужен {0}.</MessageRitualNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageRitualNeedsAtLeastNumRolePawn>Вам нужно по крайней мере {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
+  <MessageRitualNeedsAtLeastNumRolePawn>Вам необходимо по крайней мере {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
   <!-- EN: {0_labelShort} is downed. -->
   <MessageRitualPawnDowned>{0_labelShort} упал.</MessageRitualPawnDowned>
   <!-- EN: {0_labelShort} is currently escaping. -->

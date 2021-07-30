@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal personhood -->
-  <AnimalPersonhood.label>индивидуальность животных</AnimalPersonhood.label>
+  <AnimalPersonhood.label>личность животных</AnimalPersonhood.label>
   <!-- EN: Animals have rights as humans do. -->
   <AnimalPersonhood.description>Животные имеют такие же права, как и люди.</AnimalPersonhood.description>
   <!-- EN:
@@ -109,7 +109,7 @@
   <AnimalPersonhood.symbolPacks.1.theme>звери</AnimalPersonhood.symbolPacks.1.theme>
   
   <!-- EN: blindsight -->
-  <Blindsight.label>слепое зрение</Blindsight.label>
+  <Blindsight.label>Слепозрение</Blindsight.label>
   <!-- EN: Only those who are blind can perceive the true reality. -->
   <Blindsight.description>Только те, кто слеп, могут воспринимать истинную реальность.</Blindsight.description>
   <!-- EN:
@@ -190,7 +190,7 @@
   </Blindsight.generalRules.rulesStrings>
   
   <!-- EN: cannibal -->
-  <Cannibal.label>каннибал</Cannibal.label>
+  <Cannibal.label>каннибализм</Cannibal.label>
   <!-- EN: We must consume human flesh. -->
   <Cannibal.description>Мы должны потреблять человеческую плоть.</Cannibal.description>
   <!-- EN:
@@ -440,11 +440,11 @@
   <!-- EN: purity -->
   <FleshPurity.symbolPacks.0.theme>безупречность</FleshPurity.symbolPacks.0.theme>
   <!-- EN: fleshist -->
-  <FleshPurity.symbolPacks.1.adjective>плотьизный</FleshPurity.symbolPacks.1.adjective>
+  <FleshPurity.symbolPacks.1.adjective>чистоплотный</FleshPurity.symbolPacks.1.adjective>
   <!-- EN: Fleshism -->
-  <FleshPurity.symbolPacks.1.ideoName>Плотьизм</FleshPurity.symbolPacks.1.ideoName>
+  <FleshPurity.symbolPacks.1.ideoName>Чистоплотность</FleshPurity.symbolPacks.1.ideoName>
   <!-- EN: fleshist -->
-  <FleshPurity.symbolPacks.1.member>плотьист</FleshPurity.symbolPacks.1.member>
+  <FleshPurity.symbolPacks.1.member>чистоплот</FleshPurity.symbolPacks.1.member>
   <!-- EN: flesh -->
   <FleshPurity.symbolPacks.1.theme>плоть</FleshPurity.symbolPacks.1.theme>
   <!-- EN: sanctic -->
@@ -784,7 +784,7 @@
   <!-- EN: proselytizer -->
   <Proselytizer.label>прозелитизм</Proselytizer.label>
   <!-- EN: It is our duty to spread our beliefs. -->
-  <Proselytizer.description>Наш долг-распространять наши убеждения.</Proselytizer.description>
+  <Proselytizer.description>Наш долг - распространять наши убеждения.</Proselytizer.description>
   <!-- EN:
     <li>creation(tag=meme_Proselytizer)        ->[deity0_name] anointed a few among mortals to carry [deity0_possessive] word.</li>
     <li>episode(uses=1,tag=meme_Proselytizer)  ->[deity0_name] said to all the [memberNamePlural], "Go forth and spread my word to all corners of the universe."</li>
@@ -850,7 +850,7 @@
   <!-- EN: Verity -->
   <Proselytizer.symbolPacks.1.ideoName>Истина</Proselytizer.symbolPacks.1.ideoName>
   <!-- EN: veritist -->
-  <Proselytizer.symbolPacks.1.member>веритист</Proselytizer.symbolPacks.1.member>
+  <Proselytizer.symbolPacks.1.member>истинаист</Proselytizer.symbolPacks.1.member>
   <!-- EN: verity -->
   <Proselytizer.symbolPacks.1.theme>истина</Proselytizer.symbolPacks.1.theme>
   <!-- EN: realitic -->
@@ -863,7 +863,7 @@
   <Proselytizer.symbolPacks.2.theme>реальность</Proselytizer.symbolPacks.2.theme>
   
   <!-- EN: raider -->
-  <Raider.label>рейдер</Raider.label>
+  <Raider.label>рейдерство</Raider.label>
   <!-- EN: The strong should take from the weak. -->
   <Raider.description>Сильный должен брать у слабого.</Raider.description>
   <!-- EN:
@@ -972,9 +972,9 @@
   <Raider.symbolPacks.3.theme>клептомания</Raider.symbolPacks.3.theme>
   
   <!-- EN: rancher -->
-  <Rancher.label>скотовод</Rancher.label>
+  <Rancher.label>скотоводство</Rancher.label>
   <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
-  <Rancher.description>Выращивание животных - это правильный путь; выращивание растений для еды-нет.</Rancher.description>
+  <Rancher.description>Выращивание животных - это правильный путь; выращивание растений для еды - нет.</Rancher.description>
   <!-- EN:
     <li>creation(tag=meme_Rancher)        ->[deity0_name] created the animals, and then man, and gave the animals to man to cherish and raise and slaughter as acts of veneration towards [deity0_objective].</li>
     <li>episode(uses=1,tag=meme_Rancher)  ->[deity0_name] created all the noble animals and beasts of the land, and said, "Take these noble beasts, and through them make yourselves fruitful in my honor."</li>
@@ -1171,7 +1171,7 @@
     <li>memeMoralist->технолог</li>
   </Transhumanist.generalRules.rulesStrings>
   <!-- EN: technologistic -->
-  <Transhumanist.symbolPacks.0.adjective>технологическая</Transhumanist.symbolPacks.0.adjective>
+  <Transhumanist.symbolPacks.0.adjective>технологичная</Transhumanist.symbolPacks.0.adjective>
   <!-- EN: Technologism -->
   <Transhumanist.symbolPacks.0.ideoName>Технологизм</Transhumanist.symbolPacks.0.ideoName>
   <!-- EN: technologist -->
@@ -1307,7 +1307,7 @@
   </TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
-  <Tunneler.label>копатель</Tunneler.label>
+  <Tunneler.label>подземная жизнь</Tunneler.label>
   <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
   <Tunneler.description>Люди должны жить под землей и наслаждаться сочными плодами глубин.</Tunneler.description>
   <!-- EN:

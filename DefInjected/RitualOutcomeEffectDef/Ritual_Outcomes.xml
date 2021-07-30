@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <AttendedFuneral.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</AttendedFuneral.description>
+  <AttendedFuneral.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</AttendedFuneral.description>
   <!-- EN: moral guide present -->
   <AttendedFuneral.comps.0.label>духовный лидер присутствует</AttendedFuneral.comps.0.label>
   <!-- EN: participant count -->
@@ -25,7 +25,7 @@
   <AttendedFuneral.outcomeChances.3.description> {0} прошло трогательно. Речь была увлекательной и проникновенной, и все ушли, сосредоточившись на хороших воспоминаниях.</AttendedFuneral.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <AttendedFuneralNoCorpse.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</AttendedFuneralNoCorpse.description>
   <!-- EN: moral guide present -->
   <AttendedFuneralNoCorpse.comps.0.label>духовный лидер присутствует</AttendedFuneralNoCorpse.comps.0.label>
   <!-- EN: participant count -->
@@ -48,7 +48,7 @@
   <AttendedFuneralNoCorpse.outcomeChances.3.description> {0} прошло трогательно. Речь была увлекательной и проникновенной, и все ушли, сосредоточившись на хороших воспоминаниях.</AttendedFuneralNoCorpse.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <BlindingCeremony.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</BlindingCeremony.description>
+  <BlindingCeremony.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</BlindingCeremony.description>
   <!-- EN: moral guide present -->
   <BlindingCeremony.comps.2.label>духовный лидер присутствует</BlindingCeremony.comps.2.label>
   <!-- EN: participant count -->
@@ -81,7 +81,7 @@
   <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Ослепленный человек получит обновление псилинк или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <CelebratedDate.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</CelebratedDate.description>
+  <CelebratedDate.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebratedDate.description>
   <!-- EN: leader present -->
   <CelebratedDate.comps.2.label>лидер присутствует</CelebratedDate.comps.2.label>
   <!-- EN: participant count -->
@@ -108,7 +108,7 @@
   <CelebratedDate.outcomeChances.3.description> {0} прошло незабываемо! Все узнали друг о друге и почувствовали себя семьей.</CelebratedDate.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <CelebratedDate_Consumable.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebratedDate_Consumable.description>
   <!-- EN: participant count -->
   <CelebratedDate_Consumable.comps.0.label>количество участников</CelebratedDate_Consumable.comps.0.label>
   <!-- EN: room impressiveness -->
@@ -137,7 +137,7 @@
   <CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</CelebratedDate_Consumable.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <CelebrationPartyDanceDrum.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationPartyDanceDrum.description>
   <!-- EN: participant count -->
   <CelebrationPartyDanceDrum.comps.0.label>количество участников</CelebrationPartyDanceDrum.comps.0.label>
   <!-- EN: room impressiveness -->
@@ -172,7 +172,7 @@
   <CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceDrum.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <CelebrationPartyDanceTech.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationPartyDanceTech.description>
   <!-- EN: participant count -->
   <CelebrationPartyDanceTech.comps.0.label>количество участников</CelebrationPartyDanceTech.comps.0.label>
   <!-- EN: room impressiveness -->
@@ -207,40 +207,42 @@
   <CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>Все чувствовали себя отдохнувшими после своих танцев, похожих на транс. Участники какое-то время будут работать быстрее.</CelebrationPartyDanceTech.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <CelebrationSkyLanterns.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebrationSkyLanterns.description>
   <!-- EN: participant count -->
   <CelebrationSkyLanterns.comps.0.label>количество участников</CelebrationSkyLanterns.comps.0.label>
   <!-- EN: Each participant will make a lantern out of 4 wood. -->
-  <CelebrationSkyLanterns.extraInfoLines.0>Каждый участник сделает фонарь из 4-х досок.</CelebrationSkyLanterns.extraInfoLines.0>
+  <CelebrationSkyLanterns.extraInfoLines.0>Каждый участник сделает фонарик из 4-х досок.</CelebrationSkyLanterns.extraInfoLines.0>
   <!-- EN: If the<x> {0} </x>is beautiful or unforgettable, the skylanterns might attract a group of friendly visitors. -->
-  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Если {0} красив или незабываем, фонари на крыше могут привлечь группу дружелюбных посетителей.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
+  <CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>Если {0} красив или незабываем, небесные фонарики в небе могут привлечь группу дружелюбных посетителей.</CelebrationSkyLanterns.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
   <CelebrationSkyLanterns.outcomeChances.0.label>Ужасно</CelebrationSkyLanterns.outcomeChances.0.label>
   <!-- EN: The<x> {0} </x>was terrible! People kept getting annoyed making the lanterns and they looked like garbage on the wind. -->
-  <CelebrationSkyLanterns.outcomeChances.0.description> {0} прошло ужасно! Люди продолжали раздражаться, делая фонари, и они выглядели как мусор на ветру.</CelebrationSkyLanterns.outcomeChances.0.description>
+  <CelebrationSkyLanterns.outcomeChances.0.description> {0} прошло ужасно! Люди продолжали раздражаться, делая небесные фонарики, и они выглядели как мусор на ветру.</CelebrationSkyLanterns.outcomeChances.0.description>
   <!-- EN: Unimpressive -->
   <CelebrationSkyLanterns.outcomeChances.1.label>Не впечатляет</CelebrationSkyLanterns.outcomeChances.1.label>
   <!-- EN: The<x> {0} </x>was unimpressive. Lantern-making took too long and it all felt rather pointless. -->
-  <CelebrationSkyLanterns.outcomeChances.1.description> {0} прошло невпечатляюще. Изготовление фонарей заняло слишком много времени, и все это казалось довольно бессмысленным.</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.1.description> {0} прошло не впечатляюще. Изготовление фонарей заняло слишком много времени, и все это казалось довольно бессмысленным.</CelebrationSkyLanterns.outcomeChances.1.description>
   <!-- EN: Beautiful -->
   <CelebrationSkyLanterns.outcomeChances.2.label>Красиво</CelebrationSkyLanterns.outcomeChances.2.label>
   <!-- EN: The<x> {0} </x>was beautiful. Watching the lanterns drift away made everyone feel at peace. -->
-  <CelebrationSkyLanterns.outcomeChances.2.description> {0} прошло прекрасно. Глядя, как удаляются фонари, все чувствовали себя умиротворенными.</CelebrationSkyLanterns.outcomeChances.2.description>
+  <CelebrationSkyLanterns.outcomeChances.2.description> {0} прошло прекрасно. Глядя, как удаляются небесные фонарики, все чувствовали себя умиротворенными.</CelebrationSkyLanterns.outcomeChances.2.description>
   <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
-  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Китайский фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
+  <CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>Небесные фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Unforgettable -->
   <CelebrationSkyLanterns.outcomeChances.3.label>Незабываемо</CelebrationSkyLanterns.outcomeChances.3.label>
   <!-- EN: The<x> {0} </x>was unforgettable! Making the lanterns was a time of laughter, and everyone's spirits rose with them. -->
-  <CelebrationSkyLanterns.outcomeChances.3.description> {0} прошло незабываемо! Изготовление фонарей было временем смеха, и настроение у всех поднялось вместе с ними.</CelebrationSkyLanterns.outcomeChances.3.description>
+  <CelebrationSkyLanterns.outcomeChances.3.description> {0} прошло незабываемо! Изготовление фонариков было временем смеха, и настроение у всех поднялось вместе с ними.</CelebrationSkyLanterns.outcomeChances.3.description>
   <!-- EN: The skylanterns lifted high and bright. Friendly visitors might see them and arrive with a gift. -->
-  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Китайский фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
+  <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Небесные фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: The connector will connect to the tree. -->
-  <ConnectToTree.description>Соединитель соединится с деревом.</ConnectToTree.description>
+  <ConnectToTree.description>Попечитель соединится с деревом.</ConnectToTree.description>
   <!-- EN: participant count -->
   <ConnectToTree.comps.0.label>количество участников</ConnectToTree.comps.0.label>
+  <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->
+  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Связь начнется с прочностью 25-45%, в зависимости от качества ритуала.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Every 2% increase in quality will grow a patch of Gauranlen moss around the tree, beautifying the area. -->
-  <ConnectToTree.extraPredictedOutcomeDescriptions.0>Каждые 2% повышения качества будет расти участок гауранленского мха вокруг дерева, украшая территорию.</ConnectToTree.extraPredictedOutcomeDescriptions.0>
+  <ConnectToTree.extraPredictedOutcomeDescriptions.1>Каждые 2% повышения качества будет расти участок Гауранленского мха вокруг дерева, украшая территорию.</ConnectToTree.extraPredictedOutcomeDescriptions.1>
   
   <!-- EN: If it goes well, target's ideoligion certainty will be reduced or they will convert. If it goes badly, they will gain certainty in their old beliefs. -->
   <Conversion.description>Если все пойдет хорошо, уверенность в идеологии цели снизится, или они обратятся. Если все пойдет плохо, они обретут уверенность в своих старых убеждениях.</Conversion.description>
@@ -409,7 +411,7 @@
   <DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</DestroyConsumableBuilding_Pyre.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Spectating slaves will be 100% suppressed. Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <Execution.description>Наблюдающие за рабами будут подавлены на 100%. В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</Execution.description>
+  <Execution.description>Наблюдающие за рабами будут подавлены на 100%. В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</Execution.description>
   <!-- EN: participant count -->
   <Execution.comps.0.label>количество участников</Execution.comps.0.label>
   <!-- EN: started at altar or ideogram -->
@@ -430,7 +432,7 @@
   <Execution.outcomeChances.2.description> {0} прошло впечатляюще! Одного плавного удара было достаточно, и все почувствовали прилив справедливости и силы.</Execution.outcomeChances.2.description>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <GladiatorDuel.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</GladiatorDuel.description>
+  <GladiatorDuel.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</GladiatorDuel.description>
   <!-- EN: participant count -->
   <GladiatorDuel.comps.0.label>количество участников</GladiatorDuel.comps.0.label>
   <!-- EN: leader present -->
@@ -461,7 +463,7 @@
   <GladiatorDuel.outcomeChances.3.description>Дуэль была незабываемой! Оба бойца отдали все, что у них было, и смерть показала их преданность.</GladiatorDuel.outcomeChances.3.description>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <Sacrifice.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</Sacrifice.description>
+  <Sacrifice.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</Sacrifice.description>
   <!-- EN: moral guide present -->
   <Sacrifice.comps.2.label>духовный лидер присутствует</Sacrifice.comps.2.label>
   <!-- EN: participant count -->
@@ -494,7 +496,7 @@
   <Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>Вероятность того, что случайный участник получит вдохновение, составляет 10%.</Sacrifice.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
-  <ScarificationCeremony.description>В зависимости от качества ритуала участники получат настроение от {MINMOOD} до {MAXMOOD} в течение {MOODDAYS} дней.</ScarificationCeremony.description>
+  <ScarificationCeremony.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</ScarificationCeremony.description>
   <!-- EN: moral guide present -->
   <ScarificationCeremony.comps.2.label>духовный лидер присутствует</ScarificationCeremony.comps.2.label>
   <!-- EN: participant count -->
@@ -557,5 +559,26 @@
   <TrialMentalState.outcomeChances.1.label>осужденный</TrialMentalState.outcomeChances.1.label>
   <!-- EN: The prosecution convinced everyone of<x> {PAWN_labelShort}</x>'s guilt.<x> {PAWN_labelShort}</x> was convicted and can now be punished. You may execute or banish<x> {PAWN_objective} </x>and nobody will mind. -->
   <TrialMentalState.outcomeChances.1.description>Обвинение убедило всех в виновности {PAWN_labelShort}. {PAWN_labelShort} был осужден и теперь может быть наказан. Вы можете казнить или изгнать {PAWN_objective}, и никто не будет возражать.</TrialMentalState.outcomeChances.1.description>
+  
+  <!-- Core fix -->
+  
+  <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
+  <AttendedSpeech.description>В зависимости от успешности ритуала, его участники получат бонус к настроению от {MINMOOD} до {MAXMOOD} на {MOODDAYS} дней.</AttendedSpeech.description>
+  <!-- EN: {PAWN_labelShort}'s social impact -->
+  <AttendedSpeech.comps.0.label>социальное влияние {PAWN_labelShort}</AttendedSpeech.comps.0.label>
+  <!-- EN: speaker's social impact -->
+  <AttendedSpeech.comps.0.labelAbstract>социальное влияние говорящего</AttendedSpeech.comps.0.labelAbstract>
+  <!-- EN: participant count -->
+  <AttendedSpeech.comps.1.label>количество участников</AttendedSpeech.comps.1.label>
+  <!-- EN: room impressiveness -->
+  <AttendedSpeech.comps.2.label>впечатление от комнаты</AttendedSpeech.comps.2.label>
+  <!-- EN: Terrible -->
+  <AttendedSpeech.outcomeChances.0.label>ужасно</AttendedSpeech.outcomeChances.0.label>
+  <!-- EN: Uninspiring -->
+  <AttendedSpeech.outcomeChances.1.label>скучно</AttendedSpeech.outcomeChances.1.label>
+  <!-- EN: Encouraging -->
+  <AttendedSpeech.outcomeChances.2.label>обнадёживающе</AttendedSpeech.outcomeChances.2.label>
+  <!-- EN: Inspirational -->
+  <AttendedSpeech.outcomeChances.3.label>вдохновляюще</AttendedSpeech.outcomeChances.3.label>
   
 </LanguageData>

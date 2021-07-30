@@ -58,7 +58,7 @@
     <li>memeLeaderNoun->женщина</li>
   </FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
-  <FemaleSupremacy.symbolPacks.0.adjective>гинист</FemaleSupremacy.symbolPacks.0.adjective>
+  <FemaleSupremacy.symbolPacks.0.adjective>гинистичный</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
   <FemaleSupremacy.symbolPacks.0.ideoName>Гинизм</FemaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: gynist -->
@@ -66,7 +66,7 @@
   <!-- EN: gynism -->
   <FemaleSupremacy.symbolPacks.0.theme>гинизм</FemaleSupremacy.symbolPacks.0.theme>
   <!-- EN: femist -->
-  <FemaleSupremacy.symbolPacks.1.adjective>фемист</FemaleSupremacy.symbolPacks.1.adjective>
+  <FemaleSupremacy.symbolPacks.1.adjective>фемистский</FemaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Femism -->
   <FemaleSupremacy.symbolPacks.1.ideoName>Фемизм</FemaleSupremacy.symbolPacks.1.ideoName>
   <!-- EN: femist -->
@@ -74,19 +74,19 @@
   <!-- EN: femininity -->
   <FemaleSupremacy.symbolPacks.1.theme>женственность</FemaleSupremacy.symbolPacks.1.theme>
   <!-- EN: womanist -->
-  <FemaleSupremacy.symbolPacks.2.adjective>бабник</FemaleSupremacy.symbolPacks.2.adjective>
+  <FemaleSupremacy.symbolPacks.2.adjective>женственный</FemaleSupremacy.symbolPacks.2.adjective>
   <!-- EN: Womanism -->
   <FemaleSupremacy.symbolPacks.2.ideoName>Женственность</FemaleSupremacy.symbolPacks.2.ideoName>
   <!-- EN: womanist -->
-  <FemaleSupremacy.symbolPacks.2.member>бабник</FemaleSupremacy.symbolPacks.2.member>
+  <FemaleSupremacy.symbolPacks.2.member>женщина</FemaleSupremacy.symbolPacks.2.member>
   <!-- EN: women -->
   <FemaleSupremacy.symbolPacks.2.theme>женщины</FemaleSupremacy.symbolPacks.2.theme>
   <!-- EN: fertilist -->
-  <FemaleSupremacy.symbolPacks.3.adjective>плодотворность</FemaleSupremacy.symbolPacks.3.adjective>
+  <FemaleSupremacy.symbolPacks.3.adjective>плодородный</FemaleSupremacy.symbolPacks.3.adjective>
   <!-- EN: Fertilism -->
-  <FemaleSupremacy.symbolPacks.3.ideoName>Оплодотворение</FemaleSupremacy.symbolPacks.3.ideoName>
+  <FemaleSupremacy.symbolPacks.3.ideoName>Плодородие</FemaleSupremacy.symbolPacks.3.ideoName>
   <!-- EN: fertilist -->
-  <FemaleSupremacy.symbolPacks.3.member>плодотворность</FemaleSupremacy.symbolPacks.3.member>
+  <FemaleSupremacy.symbolPacks.3.member>плодородист</FemaleSupremacy.symbolPacks.3.member>
   <!-- EN: fertility -->
   <FemaleSupremacy.symbolPacks.3.theme>плодовитость</FemaleSupremacy.symbolPacks.3.theme>
   
@@ -147,23 +147,23 @@
     <li>memeLeaderNoun->борода</li>
   </MaleSupremacy.generalRules.rulesStrings>
   <!-- EN: masculist -->
-  <MaleSupremacy.symbolPacks.0.adjective>маскулист</MaleSupremacy.symbolPacks.0.adjective>
+  <MaleSupremacy.symbolPacks.0.adjective>маскулинистский</MaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Masculinism -->
   <MaleSupremacy.symbolPacks.0.ideoName>Маскулинизм</MaleSupremacy.symbolPacks.0.ideoName>
   <!-- EN: masculinist -->
   <MaleSupremacy.symbolPacks.0.member>маскулинист</MaleSupremacy.symbolPacks.0.member>
   <!-- EN: masculinity -->
-  <MaleSupremacy.symbolPacks.0.theme>мужественность</MaleSupremacy.symbolPacks.0.theme>
+  <MaleSupremacy.symbolPacks.0.theme>маскулизм</MaleSupremacy.symbolPacks.0.theme>
   <!-- EN: manist -->
-  <MaleSupremacy.symbolPacks.1.adjective>манист</MaleSupremacy.symbolPacks.1.adjective>
+  <MaleSupremacy.symbolPacks.1.adjective>манистичный</MaleSupremacy.symbolPacks.1.adjective>
   <!-- EN: Manism -->
   <MaleSupremacy.symbolPacks.1.ideoName>Манизм</MaleSupremacy.symbolPacks.1.ideoName>
-  <!-- EN: Manism -->
-  <MaleSupremacy.symbolPacks.1.member>Манизм</MaleSupremacy.symbolPacks.1.member>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.member>манист</MaleSupremacy.symbolPacks.1.member>
   <!-- EN: man -->
   <MaleSupremacy.symbolPacks.1.theme>мужчина</MaleSupremacy.symbolPacks.1.theme>
   <!-- EN: virile -->
-  <MaleSupremacy.symbolPacks.2.adjective>мужественный</MaleSupremacy.symbolPacks.2.adjective>
+  <MaleSupremacy.symbolPacks.2.adjective>валирийный</MaleSupremacy.symbolPacks.2.adjective>
   <!-- EN: Virilism -->
   <MaleSupremacy.symbolPacks.2.ideoName>Вирилизм</MaleSupremacy.symbolPacks.2.ideoName>
   <!-- EN: virilor -->

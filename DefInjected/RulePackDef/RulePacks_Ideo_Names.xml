@@ -73,7 +73,7 @@
     <li>r_ideoName->[hyphenPrefix]-[keyDeity]изм</li>
     <li>r_ideoName->[keyDeity]й [creed]</li>
     <li>r_ideoName->[creed] [keyDeity]</li>
-    <li>r_ideoAdjective->[keyDeity]ic</li>
+    <li>r_ideoAdjective->[keyDeity]ий</li>
     <li>r_memberName->[keyDeity]ист</li>
     <li>r_memberName->[keyDeity]ит</li>
     <li>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</li>

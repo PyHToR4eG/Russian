@@ -261,7 +261,7 @@
     <li>speechtopic->о том, какая [AdjectiveBadass] колония</li>
     <li>speechtopic->о [AdjectiveNatural] [TerrainFeature]</li>
     <li>speechtopic->о [AdjectiveLarge] потенциале колонии</li>
-    <li>speechtopic->о [PersonalCharacteristic] каждого колониста</li>
+    <li>speechtopic->о [PersonalCharacteristic] каждого поселенца</li>
     <li>speechtopic->об ужасных [PersonalCharacteristic] врагов колонии</li>
     <li>speechtopic(p=0.25)->о том, чтобы держаться вместе как группа</li>
     <li>speechtopic(p=0.25)->о пути впереди через несчастье</li>

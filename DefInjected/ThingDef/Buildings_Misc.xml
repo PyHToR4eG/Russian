@@ -72,7 +72,7 @@
   <Skullspike.description>Шип, установленный вертикально с целью пронзения и демонстрации силы. Для некоторых выставленные черепа являются символом власти. Для других они олицетворяют варварское зло. Черепа на пиках - это особенно жестокий и эффективный способ терроризировать рабов.</Skullspike.description>
   
   <!-- EN: slab bed -->
-  <SlabBed.label>кровать плита</SlabBed.label>
+  <SlabBed.label>каменная кровать</SlabBed.label>
   <!-- EN: A slab of hard material made to sleep on. Slab beds are uncomfortable, but some see their use as a demonstration of moral good. -->
   <SlabBed.description>Плита из твердого материала, на которой можно спать. Кровати с плитами неудобны, но некоторые рассматривают их использование как демонстрацию морального блага.</SlabBed.description>
   
@@ -85,13 +85,5 @@
   <StylingStation.label>туалетный столик</StylingStation.label>
   <!-- EN: A table with a mirror and styling tools. People can use this to change their look. -->
   <StylingStation.description>Столик с зеркалом и инструментами для укладки. Люди могут использовать это, чтобы изменить свой внешний вид.</StylingStation.description>
-  
-  
-  <!-- Core --> 
-  
-  <!-- EN: egg box -->
-  <EggBox.label>коробка для яиц</EggBox.label>
-  <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>Коробка из мягкого материала, предназначенная для хранения яиц. Яйцекладущие животные будут откладывать яйца в ящики для яиц, если смогут. Ваши носильщики будут вынимать все яйца только тогда, когда коробка будет заполнена, чтобы сэкономить время. Коробка также защищает яйца от порчи на открытом воздухе, хотя и не защищает от температурных повреждений.</EggBox.description>
   
 </LanguageData>

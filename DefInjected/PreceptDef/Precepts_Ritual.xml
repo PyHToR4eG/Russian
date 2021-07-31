@@ -60,7 +60,7 @@
   <!-- EN: tree connection ritual -->
   <TreeConnection.label>ритуал связи с деревом</TreeConnection.label>
   <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
-  <TreeConnection.description>Попечитель свяжется с деревом Гауранлен. Попечитель коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие соберутся в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
+  <TreeConnection.description>Заботящийся установит связь с деревом Гауранлен. Заботящийся коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие соберутся в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
   
   <!-- EN: trial -->
   <Trial.label>суд</Trial.label>

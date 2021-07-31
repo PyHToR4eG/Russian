@@ -165,7 +165,7 @@
   <SmokeCircle.spectatorsLabel>Участники</SmokeCircle.spectatorsLabel>
   
   <!-- EN: connector -->
-  <TreeConnection.roles.0.label>попечитель</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.label>заботящийся</TreeConnection.roles.0.label>
   <!-- EN: spectate -->
   <TreeConnection.spectatorGerund>наблюдать</TreeConnection.spectatorGerund>
   <!-- EN: Spectators -->

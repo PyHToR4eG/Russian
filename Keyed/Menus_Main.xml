@@ -50,11 +50,11 @@
   <!-- EN: Low pop conversion boost -->
   <Difficulty_LowPopConversionBoost_Label>Низкий уровень усиления обращения</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>С одним колонистом стартовой идеологии игрока шанс перехода в его идеологию умножается на эту сумму. Попытки обращения против них имеют свой эффект, деленный на эту величину.\n\nС двумя колонистами стартовой идеологии игрока эффект уменьшается вдвое.\n\nС тремя или более колонистами начальной идеологии игрока это не имеет никакого эффекта.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>С одним поселенцем стартовой идеологии игрока шанс перехода в его идеологию умножается на эту сумму. Попытки обращения против них имеют свой эффект, деленный на эту величину.\n\nС двумя поселенцами стартовой идеологии игрока эффект уменьшается вдвое.\n\nС тремя или более поселенцами начальной идеологии игрока это не имеет никакого эффекта.</Difficulty_LowPopConversionBoost_Info>
   
   <!-- EN: Caused by role: {0} -->
   <IncapableOfTooltipRole>Вызвано ролью: {0}</IncapableOfTooltipRole>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>Этот колонист считается виновным. Вы можете беспрепятственно изгнать, казнить или арестовать его, и другие не будут беспокоиться.\n\nВина истекает через</GuiltyDesc>
+  <GuiltyDesc>Этот поселенец считается виновным. Вы можете беспрепятственно изгнать, казнить или арестовать его, и другие не будут беспокоиться.\n\nВина истекает через</GuiltyDesc>
 
 </LanguageData>

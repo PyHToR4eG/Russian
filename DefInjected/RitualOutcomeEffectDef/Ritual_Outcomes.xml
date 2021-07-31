@@ -58,7 +58,7 @@
   <!-- EN: an altar -->
   <BlindingCeremony.comps.4.expectedThingLabelTip>алтарь</BlindingCeremony.comps.4.expectedThingLabelTip>
   <!-- EN: If the<x> {0} </x>is satisfying, the blinded person might get a psylink upgrade or unlock new psychic powers. -->
-  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Если {0} удовлетворяет, слепой человек может получить обновление псилинк или разблокировать новые экстрасенсорные способности.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
+  <BlindingCeremony.extraPredictedOutcomeDescriptions.0>Если {0} удовлетворяет, слепой человек может получить обновление пси-усилителя или разблокировать новые экстрасенсорные способности.</BlindingCeremony.extraPredictedOutcomeDescriptions.0>
   <!-- EN: Terrible -->
   <BlindingCeremony.outcomeChances.0.label>Ужасно</BlindingCeremony.outcomeChances.0.label>
   <!-- EN: The<x> {0} </x>was terrible! The speech was stuttering and incoherent. The blinding technique was botched. Everyone was waiting for it to end. -->
@@ -72,13 +72,13 @@
   <!-- EN: The<x> {0} </x>was satisfying. The speech felt meaningful, and the blinding technique was precise and dignified. -->
   <BlindingCeremony.outcomeChances.2.description> {0} прошло удовлетворительно. Речь казалась осмысленной, а техника ослепления была точной и достойной.</BlindingCeremony.outcomeChances.2.description>
   <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
-  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Ослепленный человек получит обновление псилинк или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
+  <BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>Ослепленный человек получит обновление пси-усилителя или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.2.potentialExtraOutcomeDesc>
   <!-- EN: Spectacular -->
   <BlindingCeremony.outcomeChances.3.label>Впечатляюще</BlindingCeremony.outcomeChances.3.label>
   <!-- EN: The<x> {0} </x>was spectacular! The speech brought everyone to the edge of a frenzy just as the eye came out with a satisfying wet noise. -->
   <BlindingCeremony.outcomeChances.3.description> {0} прошло впечатляюще! Эта речь привела всех на грань безумия как раз в тот момент, когда глаз вышел с удовлетворительным влажным хлюпаньем.</BlindingCeremony.outcomeChances.3.description>
   <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
-  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Ослепленный человек получит обновление псилинк или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>Ослепленный человек получит обновление пси-усилителя или откроет новую экстрасенсорную силу.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between<x> {MINMOOD} </x>and<x> {MAXMOOD} </x>mood for<x> {MOODDAYS} </x>days. -->
   <CelebratedDate.description>В зависимости от качества ритуала участники получат от {MINMOOD} до {MAXMOOD} настроения на {MOODDAYS} дней.</CelebratedDate.description>
@@ -236,7 +236,7 @@
   <CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>Небесные фонарики поднялись высоко и ярко. Дружелюбные посетители могут увидеть их и прийти с подарком</CelebrationSkyLanterns.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: The connector will connect to the tree. -->
-  <ConnectToTree.description>Попечитель соединится с деревом.</ConnectToTree.description>
+  <ConnectToTree.description>Заботящийся установит связь с деревом.</ConnectToTree.description>
   <!-- EN: participant count -->
   <ConnectToTree.comps.0.label>количество участников</ConnectToTree.comps.0.label>
   <!-- EN: The connector will start with 25-45% connection strength, depending on ritual quality. -->

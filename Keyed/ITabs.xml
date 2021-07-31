@@ -95,6 +95,6 @@
   <!-- EN: Pen is not enclosed -->
   <AutocutUnenclosedPen>Загон не закрыт</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
-  <AutocutUnenclosedPenTip>Загон не закрыт, авторубка не работает.</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>Загон не закрыт, автоматическая рубка не работает.</AutocutUnenclosedPenTip>
 
 </LanguageData>

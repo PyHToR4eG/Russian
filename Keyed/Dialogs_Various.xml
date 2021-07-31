@@ -103,7 +103,7 @@
   <!-- EN: Slave -->
   <CannotAssignBedToSlave>Раб</CannotAssignBedToSlave>
   <!-- EN: Colonist -->
-  <CannotAssignBedToColonist>Колонист</CannotAssignBedToColonist>
+  <CannotAssignBedToColonist>Поселенец</CannotAssignBedToColonist>
   <!-- EN: Any slave -->
   <AnySlave>Любой раб</AnySlave>
   <!-- EN: Negotiator will not sell people into slavery. -->
@@ -202,7 +202,7 @@
 
   <!-- Medical settings -->
   <!-- EN: Enslaved colonist -->
-  <MedGroupEnslavedColonist>Порабощенный колонист</MedGroupEnslavedColonist>
+  <MedGroupEnslavedColonist>Порабощенный поселенец</MedGroupEnslavedColonist>
 
   <!-- Dryad upgrades -->
   <!-- EN: Choose dryad caste -->

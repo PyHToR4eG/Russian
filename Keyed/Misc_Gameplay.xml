@@ -86,9 +86,9 @@
   <!-- EN: Not enough dye. -->
   <NotEnoughDye>Не хватает краски.</NotEnoughDye>
   <!-- EN: The colonist will recolor the apparel when dye becomes available. -->
-  <NotEnoughDyeWillRecolorApparel>Колонист перекрасит одежду, когда появится краситель.</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorApparel>Поселенец перекрасит одежду, когда появится краситель.</NotEnoughDyeWillRecolorApparel>
   <!-- EN: The colonist will recolor their hair when dye becomes available. -->
-  <NotEnoughDyeWillRecolorHair>Колонист перекрасит свои волосы, когда краска станет доступной.</NotEnoughDyeWillRecolorHair>
+  <NotEnoughDyeWillRecolorHair>Поселенец перекрасит свои волосы, когда краска станет доступной.</NotEnoughDyeWillRecolorHair>
   <!-- EN: {PAWN_labelShort}'s certainty in {IDEO} is at {PERCENTAGE} -->
   <IdeoCertaintyTooltip>{PAWN_labelShort} уверенность в {IDEO} составляет {PERCENTAGE}</IdeoCertaintyTooltip>
   <!-- EN: Disabled by precept {0} -->
@@ -150,9 +150,9 @@
   <!-- EN: Everyone participating in the ritual gained a one-day work focus buff ({PERCENTAGE} global work speed)! -->
   <RitualOutcomeExtraDesc_DancePartyWorkFocus>Все, кто участвовал в ритуале, получили однодневный бафф фокусировки на работе ({PERCENTAGE} глобальная скорость работы)!</RitualOutcomeExtraDesc_DancePartyWorkFocus>
   <!-- EN: Thanks to a satisfying blinding ritual, {PAWN_labelShort} gained a psylink level! -->
-  <RitualOutcomeExtraDesc_BlindingPsylink>Благодаря удовлетворительному ритуалу ослепления, {PAWN_labelShort} получил уровень psylink!</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylink>Благодаря удовлетворительному ритуалу ослепления, {PAWN_labelShort} получил уровень пси-усилителя!</RitualOutcomeExtraDesc_BlindingPsylink>
   <!-- EN: With a new pyslink level {PAWN_pronoun} gained a {0} psycast. -->
-  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>С новым уровнем pyslink {PAWN_pronoun} получил {0} psycast.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>С новым уровнем пси-усилителя {PAWN_pronoun} получил {0} псионики.</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
   <!-- EN: Thanks to a satisfying {RITUAL}, {PAWN_labelShort} gained {INSPIRATION}! -->
   <RitualOutcomeExtraDesc_ConsumableInspiration>Благодаря удовлетворительному {RITUAL}, {PAWN_labelShort} обрел {INSPIRATION}!</RitualOutcomeExtraDesc_ConsumableInspiration>
   <!-- EN: Your skylanterns have attracted some friendly travelers. They will visit and leave a gift. -->
@@ -507,7 +507,7 @@
 
   <!-- ISSUE -->
   <!-- EN: Colonist is not willing to extract skull from corpse (missing pro-skullspike precept) -->
-  <CannotExtractSkull>Колонист не желает извлекать череп из трупа (отсутствует предписание о проскальзывании черепа)</CannotExtractSkull>
+  <CannotExtractSkull>Поселенец не желает извлекать череп из трупа (отсутствует заповеди о черепах на пиках)</CannotExtractSkull>
   <!-- EN: Preview the ritual ambience sound -->
   <TipPreviewRitualAmbienceSound>Предварительный просмотр звука ритуальной атмосферы</TipPreviewRitualAmbienceSound>
 
@@ -670,97 +670,9 @@
   
   <!-- Core -->
   
-  <!-- Various -->
-  <!-- EN: Execute -->
-  <Execute>Казнить</Execute>
-  <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>Казнить виновного колониста\n\nЕсли вы включите это, надзиратель приступит к казни этого человека.</ExecuteColonist> <!-- text_doto -->
-  <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} теперь помечен для выполнения. Следующий доступный надзиратель отправится выполнять {0_objective}.</MessageColonistMarkedForExecution>
-  
-  <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>Ездовые животные/люди</RideableAnimalsPerPeople>
-  <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>Множитель от ездовых животных</MultiplierFromRiddenAnimals>
-  <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>На этом животном можно ездить верхом. Люди в караване будут ездить на самых быстрых доступных животных, повышая скорость каравана в целом.</RideableAnimalTip>
-  <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>Этот караван не может двигаться, потому что он перегружен.</EncumberedCaravanTilesPerDayTip>
-  
-  <!-- EN: Requires {0} trait -->
-  <TraitRequired>Требуется {0} признак</TraitRequired>
-  <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>Обычная репутация</NaturalGoodwill>
-  <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>Диапазон обычной репутации</NaturalGoodwillRange>
-  <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>Обычная репутация основана на идентичности и убеждениях фракций. Если текущая репутация далека от обычной, со временем она будет постепенно смещаться в сторону обычной.\n\nВсе эффекты репутации умножаются на {0} при переходе к обычной репутации.</NaturalGoodwillDescription>
-  <!-- EN: Too large -->
-  <TooLargeForBed>Слишком большой</TooLargeForBed>
-  <!-- EN: Warning -->
-  <Warning>Внимание</Warning>
-  <!-- EN: Has subquest -->
-  <HasSubquest>Есть подзадача</HasSubquest>
-  <!-- EN: Subquest of -->
-  <SubquestOf>Подзадача</SubquestOf>
-  <!-- EN: Raid -->
-  <Raid>Рейд</Raid>
-  <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>Отключено</ApparelRequirementDisabledLabel>
-  <!-- EN: Nudism -->
-  <Nudism>Нудизм</Nudism>
-  <!-- EN: Study progress -->
-  <StudyProgress>Ход обучения</StudyProgress>
-  <!-- EN: completed -->
-  <StudyCompleted>завершен</StudyCompleted>
   <!-- EN: Attack this to destroy it. -->
   <AttackToDestroy>Атакуйте это, чтобы уничтожить.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
   <RemoveByAttackingTooltip>Удалите это, атакуя на него.</RemoveByAttackingTooltip>
-  
-  <!-- Animal pens -->
-  <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>Незамкнутый</PenUnenclosedLabel>
-  <!-- EN: open door -->
-  <PenOpenDoorLabel>открыта дверь</PenOpenDoorLabel>
-  <!-- EN: Rename pen -->
-  <RenameAnimalPen>Сменить название</RenameAnimalPen>
-  <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>Метка загона {0}</AnimalPenMarkerDefaultLabel>
-  <!-- EN: In pen -->
-  <InPen>В загоне</InPen>
-  <!-- EN: not in a pen -->
-  <Unpenned>Не в загоне</Unpenned>
-  <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>Загоны для животных можно создать, создав маркер загона внутри закрытой области. Ваши животноводы приведут животных в соответствующий загон. Загоны могут быть ограждены заборами, баррикадами, стенами и дверями.</UnpennedTooltip>
-  <!-- EN: Roped by -->
-  <RopedByPawn>Привязан</RopedByPawn>
-  <!-- EN: Roped to -->
-  <RopedToThing>Привязан к</RopedToThing>
-  <!-- EN: Roped to spot. -->
-  <RopedToSpot>Привязан к месту.</RopedToSpot>
-  <!-- EN: Pen size -->
-  <PenSizeLabel>Размер загона</PenSizeLabel>
-  <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>Очень маленький загон</PenSizeDesc_VerySmall>
-  <!-- EN: Small pen -->
-  <PenSizeDesc_Small>Маленький загон</PenSizeDesc_Small>
-  <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>Средний загон</PenSizeDesc_Medium>
-  <!-- EN: Large pen -->
-  <PenSizeDesc_Large>Большой загон</PenSizeDesc_Large>
-  <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>Не огорожен - постройте заборы</PenSizeDesc_Unenclosed>
-  <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>Вместимость {ANIMALDEF_label}</PenCapacityDesc>
-  <!-- EN: Example animals -->
-  <PenExampleAnimals>Примеры животных</PenExampleAnimals>
-  
-  <!-- EN: Cut now -->
-  <AutoCutNow>Срезать сейчас</AutoCutNow>
-  <!-- EN: harvesting -->
-  <HarvestGerund>уборка</HarvestGerund>
-  <!-- EN: cutting -->
-  <CutGerund>вырубка</CutGerund>
 
 </LanguageData>

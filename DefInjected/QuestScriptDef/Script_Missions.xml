@@ -45,9 +45,9 @@
     <li>colonistsSingularOrPlural(colonistCount>=2)->colonists</li>
   -->
   <AncientComplex_Mission.questDescriptionRules.rulesStrings>
-	<li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name], обнаружил древний комплекс на большом расстоянии. [asker_pronoun] считает, что он содержит информацию о реликвии, известной как [relic_name].\n\n[asker_nameDef] не может выделить людей, чтобы разобраться в этом, но надеется, что вы сможете помочь, предоставив ровно [colonistCount] [colonistsSingularOrPlural] для проведения расследования.\n\nКомплекс содержит неизвестные угрозы, и его также ищут враги [asker_nameDef], [enemyFaction_name].\n\n[asker_pronoun] отправит шаттл, чтобы забрать ваших колонистов, доставить их в комплекс, а затем отвезти домой. Их будут кормить и ухаживать за ними в пути.\n\nКак только вы приземлились, вы должны взломать все терминалы в комплексе в течение [timeoutTicks_duration].</li>
-    <li>colonistsSingularOrPlural(colonistCount==1)->колонист</li>
-    <li>colonistsSingularOrPlural(colonistCount>=2)->колонисты</li>
+	<li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name], обнаружил древний комплекс на большом расстоянии. [asker_pronoun] считает, что он содержит информацию о реликвии, известной как [relic_name].\n\n[asker_nameDef] не может выделить людей, чтобы разобраться в этом, но надеется, что вы сможете помочь, предоставив ровно [colonistCount] [colonistsSingularOrPlural] для проведения расследования.\n\nКомплекс содержит неизвестные угрозы, и его также ищут враги [asker_nameDef], [enemyFaction_name].\n\n[asker_pronoun] отправит шаттл, чтобы забрать ваших поселенцев, доставить их в комплекс, а затем отвезти домой. Их будут кормить и ухаживать за ними в пути.\n\nКак только вы приземлились, вы должны взломать все терминалы в комплексе в течение [timeoutTicks_duration].</li>
+    <li>colonistsSingularOrPlural(colonistCount==1)->поселенца</li>
+    <li>colonistsSingularOrPlural(colonistCount>=2)->поселенцев</li>
   </AncientComplex_Mission.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[missionAdj] [complex] [investigation]</li>

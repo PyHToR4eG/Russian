@@ -155,9 +155,9 @@
   <MessageReleaseBondedAnimal>Поскольку они связаны, освобождение {DESIGNATED_labelShort} сделает {BONDED_labelShort} несчастным.</MessageReleaseBondedAnimal>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>Area is now safe. You can reform the caravan on the world map.</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>Район теперь безопасен. Вы можете отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Район теперь безопасен, но некоторые комнаты остаются неисследованными. Вы можете исследовать дальше или изменить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Район теперь безопасен, но некоторые помещения остаются неисследованными. Вы можете исследовать дальше или отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
   
   <!-- EN: {1_labelShort} has been returned to the wild. -->
   <MessageAnimalReturnedWildReleased>{1_labelShort} был возвращен в дикую природу.</MessageAnimalReturnedWildReleased>

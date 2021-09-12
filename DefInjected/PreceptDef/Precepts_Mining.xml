@@ -7,8 +7,9 @@
   <Mining_Disapproved.description>Копание в земле - это уродливый поступок.</Mining_Disapproved.description>
   <!-- EN: Someone mined a block -->
   <Mining_Disapproved.comps.0.description>Кто-то копал блок</Mining_Disapproved.comps.0.description>
-  <!-- EN: Someone mined a block -->
   <Mining_Disapproved.comps.2.description>Кто-то копал блок</Mining_Disapproved.comps.2.description>
+  <!-- EN: Someone mined a block -->
+  <Mining_Disapproved.comps.3.description>Кто-то копал блок</Mining_Disapproved.comps.3.description>
   
   <!-- EN: horrible -->
   <Mining_Horrible.label>ужасно</Mining_Horrible.label>
@@ -16,17 +17,19 @@
   <Mining_Horrible.description>Осквернение земли с помощью горных инструментов - это ужасный акт.</Mining_Horrible.description>
   <!-- EN: Someone mined a block -->
   <Mining_Horrible.comps.0.description>Кто-то копал блок</Mining_Horrible.comps.0.description>
-  <!-- EN: Someone mined a block -->
   <Mining_Horrible.comps.2.description>Кто-то копал блок</Mining_Horrible.comps.2.description>
+  <!-- EN: Someone mined a block -->
+  <Mining_Horrible.comps.3.description>Кто-то копал блок</Mining_Horrible.comps.3.description>
   
   <!-- EN: prohibited -->
   <Mining_Prohibited.label>под запретом</Mining_Prohibited.label>
   <!-- EN: Raping the natural earth with mining tools is a horrifically evil act. -->
-  <Mining_Prohibited.description>Изнасилование земли горными орудиями - это ужасающее злодеяние.</Mining_Prohibited.description>
+  <Mining_Prohibited.description>Насилие над землей горными орудиями - это ужасающее злодеяние.</Mining_Prohibited.description>
   <!-- EN: Mining -->
   <Mining_Prohibited.comps.0.description>Копание</Mining_Prohibited.comps.0.description>
-  <!-- EN: Someone mined a block -->
   <Mining_Prohibited.comps.2.description>Кто-то копал блок</Mining_Prohibited.comps.2.description>
+  <!-- EN: Someone mined a block -->
+  <Mining_Prohibited.comps.3.description>Кто-то копал блок</Mining_Prohibited.comps.3.description>
   
   <!-- EN: high -->
   <MiningYield_High.label>высоко</MiningYield_High.label>

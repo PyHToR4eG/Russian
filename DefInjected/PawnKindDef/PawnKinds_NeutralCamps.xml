@@ -8,18 +8,18 @@
   <Hunter.label>охотник</Hunter.label>
   
   <!-- EN: logger -->
-  <Logger.label>лесоруб</Logger.label>
+  <Logger.label>дровосек</Logger.label>
   
   <!-- EN: miner -->
-  <Miner.label>шахтер</Miner.label>
+  <Miner.label>шахтёр</Miner.label>
   
   <!-- EN: farmer -->
   <Tribal_Farmer.label>фермер</Tribal_Farmer.label>
   
   <!-- EN: logger -->
-  <Tribal_Logger.label>лесоруб</Tribal_Logger.label>
+  <Tribal_Logger.label>дровосек</Tribal_Logger.label>
   
   <!-- EN: miner -->
-  <Tribal_Miner.label>шахтер</Tribal_Miner.label>
+  <Tribal_Miner.label>шахтёр</Tribal_Miner.label>
   
 </LanguageData>

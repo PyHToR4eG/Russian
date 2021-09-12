@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Core fix -->
+  <!-- Hediffs_BodyParts_Bionic -->
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>бионический язык</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>Вживлённый бионический язык.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>бионический язык</BionicTongue.labelNoun>
+    
+</LanguageData>

@@ -4,17 +4,17 @@
   <!-- EN: ate meat -->
   <AteMeat_Abhorrent.stages.ate_meat.label>ел мясо</AteMeat_Abhorrent.stages.ate_meat.label>
   <!-- EN: I had to eat meat. It was an abhorrent violation of everything I believe. -->
-  <AteMeat_Abhorrent.stages.ate_meat.description>Я должен был есть мясо. Это было отвратительное нарушение всего, во что я верю.</AteMeat_Abhorrent.stages.ate_meat.description>
+  <AteMeat_Abhorrent.stages.ate_meat.description>Мне пришлось есть мясо. Это было отвратительное нарушение всего, во что я верю.</AteMeat_Abhorrent.stages.ate_meat.description>
   
   <!-- EN: ate meat -->
   <AteMeat_Disapproved.stages.ate_meat.label>ел мясо</AteMeat_Disapproved.stages.ate_meat.label>
   <!-- EN: I had to eat meat. It's not something I approve of. -->
-  <AteMeat_Disapproved.stages.ate_meat.description>Я должен был есть мясо. Это не то, что я одобряю.</AteMeat_Disapproved.stages.ate_meat.description>
+  <AteMeat_Disapproved.stages.ate_meat.description>Мне пришлось есть мясо. Это не то, что я одобряю.</AteMeat_Disapproved.stages.ate_meat.description>
   
   <!-- EN: ate meat -->
   <AteMeat_Horrible.stages.ate_meat.label>ел мясо</AteMeat_Horrible.stages.ate_meat.label>
   <!-- EN: I had to eat meat. It was a horrible violation of my beliefs. -->
-  <AteMeat_Horrible.stages.ate_meat.description>Я должен был есть мясо. Это было ужасное нарушение моих убеждений.</AteMeat_Horrible.stages.ate_meat.description>
+  <AteMeat_Horrible.stages.ate_meat.description>Мне пришлось есть мясо. Это было ужасное нарушение моих убеждений.</AteMeat_Horrible.stages.ate_meat.description>
   
   <!-- EN: ate meat -->
   <AteMeat_Know_Abhorrent.stages.ate_meat.label>ел мясо</AteMeat_Know_Abhorrent.stages.ate_meat.label>

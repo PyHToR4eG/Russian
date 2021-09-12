@@ -14,7 +14,7 @@
     <li>end->dio</li>
   -->
   <GodContent_Byzantine.rulePack.rulesStrings>
-	<li>name->[syl][end]</li>
+    <li>name->[syl][end]</li>
     <li>name->[syl][syl][end]</li>
     <li>name->[syl]-[syl][end]</li>
     <li>syl->[SylB]</li>
@@ -135,7 +135,7 @@
     <li>end->tar</li>
   -->
   <GodContent_English.rulePack.rulesStrings>
-	<li>name->[start][middle][end]</li>
+    <li>name->[start][middle][end]</li>
     <li>start->а</li>
     <li>start->ал</li>
     <li>start->ан</li>
@@ -147,7 +147,7 @@
     <li>start->бан</li>
     <li>start->бин</li>
     <li>start->бон</li>
-    <li>start->ц</li>
+    <li>start->тс</li>
     <li>start->ца</li>
     <li>start->цо</li>
     <li>start->д</li>
@@ -256,7 +256,7 @@
     <li>end->bust</li>
   -->
   <NamerDeityCorunan.rulePack.rulesStrings>
-	<li>name->[syl][end]</li>
+    <li>name->[syl][end]</li>
     <li>name->[syl][syl][end]</li>
     <li>name->[syl]'[syl][end]</li>
     <li>syl->[SylG]</li>
@@ -272,7 +272,7 @@
     <li>r_deityName->[name]</li>
   -->
   <NamerDeityGlobal.rulePack.rulesStrings>
-	<li>r_deityName->[name]</li>
+    <li>r_deityName->[name]</li>
   </NamerDeityGlobal.rulePack.rulesStrings>
   
 </LanguageData>

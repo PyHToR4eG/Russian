@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Core fix -->
+  
+  <!-- Alerts -->
+  
+  <!-- EN: {ANIMAL_labelShort} in animal pen -->
+  <AlertPredatorInAnimalPen>{ANIMAL_labelShort} в загоне для животных</AlertPredatorInAnimalPen>
+  <!-- EN: A predatory {ANIMAL_labelShort} has wandered into an animal pen.\n\nIt may decide to hunt your animals.\n\nYou can kill it, or wait and hope it leaves. -->
+  <AlertPredatorInAnimalPenDesc>Хищный {ANIMAL_labelShort} забрел в загон для животных.\n\nОн может решить поохотиться на ваших животных.\n\nВы можете убить его или подождать и надеяться, что он уйдет.</AlertPredatorInAnimalPenDesc>  
+  <!-- Dialogs_Various -->
+  <!-- EN: Building damage factor -->
+  <BuildingDamageFactor>Коэффициент повреждения здания </BuildingDamageFactor>
+  <!-- EN: Damage to all buildings is multiplied by this value. -->
+  <BuildingDamageFactorExplanation>Урон всем зданиям умножается на это значение.</BuildingDamageFactorExplanation>
+  <!-- EN: Building damage factor (impassable) -->
+  <BuildingDamageFactorImpassable>Коэффициент повреждения здания (непроходимого)</BuildingDamageFactorImpassable>
+  <!-- EN: Damage to all impassable buildings is multiplied by this value. -->
+  <BuildingDamageFactorImpassableExplanation>Урон всем непроходимым зданиям умножается на это значение.</BuildingDamageFactorImpassableExplanation>
+  <!-- EN: Building damage factor (passable) -->
+  <BuildingDamageFactorPassable>Коэффициент повреждения здания (проходимого)</BuildingDamageFactorPassable>
+  <!-- EN: Damage to all passable buildings is multiplied by this value. -->
+  <BuildingDamageFactorPassableExplanation>Урон всем проходимым зданиям умножается на это значение.</BuildingDamageFactorPassableExplanation>  
+  <!-- EN: Some peoples' diets don't allow most of the food in your caravan. If they're forced to eat it due to hunger, they will become unhappy. -->
+  <DaysWorthOfFoodDietWarningDialog>Диета некоторых народов не позволяет использовать большую часть пищи в вашем караване. Если их заставят есть это из-за голода, они станут несчастными.</DaysWorthOfFoodDietWarningDialog>  
+  <!-- EN: Male adult -->
+  <AnimalMaleAdult>Взрослые самцы</AnimalMaleAdult>
+  <!-- EN: Male young -->
+  <AnimalMaleYoung>Молодые самцы</AnimalMaleYoung>
+  <!-- EN: Female adult -->
+  <AnimalFemaleAdult>Взрослые самки</AnimalFemaleAdult>
+  <!-- EN: Female young -->
+  <AnimalFemaleYoung>Молодые самки</AnimalFemaleYoung>
+  <!-- EN: Pregnant -->
+  <AnimalPregnant>Беременные</AnimalPregnant>
+  <!-- EN: Bonded -->
+  <AnimalBonded>Связанные</AnimalBonded>
+  <!-- EN: Slaughter -->
+  <AllowSlaughter>Убой</AllowSlaughter>  
+  <!-- EN: The current number of baby and juvenile males in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Текущее количество детенышей и неполовозрелых самцов в колонии.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>Максимальное количество детенышей и неполовозрелых самцов в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <!-- EN: The current number of baby and juvenile females in the colony. -->
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Текущее количество детенышей и неполовозрелых самок в колонии.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Максимальное количество детенышей и неполовозрелых самок в колонии.\n\nЖивотноводы автоматически убьют всех дополнительных.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <!-- EN: The current number of pregnant animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Текущее количество беременных животных в колонии.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Разрешить забивать беременных животных вместе с другими самками того же вида.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <!-- EN: The current number of bonded animals in the colony. -->
+  <AutoSlaughterHeaderTooltipCurrentBonded>Текущее количество подневольных животных в колонии.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <!-- EN: Allow bonded animals to be slaughtered. -->
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Разрешить забивать связанных животных.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  
+  <!-- Dialog_StatsReports -->
+  
+  <!-- EN: Source -->
+  <Stat_Source_Label>Источник</Stat_Source_Label>
+  <!-- EN: This content came from the official expansion -->
+  <Stat_Source_OfficialExpansionReport>Этот контент из официального расширения</Stat_Source_OfficialExpansionReport>
+  <!-- EN: This content came from the mod -->
+  <Stat_Source_ModReport>Этот контент из мода</Stat_Source_ModReport>
+  
+  <!-- FloatMenu -->
+  
+  <!-- EN: {0_labelShort} is in {1} state -->
+  <CantRopeAnimalMentalState>{0_labelShort} находится в состоянии {1} </CantRopeAnimalMentalState>  
+  <!-- EN: Invoke {0} -->
+  <Invoke>Вызов {0}</Invoke>
+  <!-- EN: Cannot invoke {0} -->
+  <CannotInvoke>Не удается вызвать {0}</CannotInvoke>
+  <!-- EN: power -->
+  <Power>сила</Power>
+  <!-- EN: already invoked -->
+  <AlreadyInvoked>уже вызван</AlreadyInvoked>
+  <!-- EN: No {0_label} -->
+  <NoIngredient>Нет {0_label}</NoIngredient>
+  
+  <!-- MainTabs -->
+  
+  <!-- EN: Disabled by backstory: {0} -->
+  <WorkDisabledByBackstory>Отключено предысторией: {0}</WorkDisabledByBackstory>
+  <!-- EN: Disabled by trait: {0} -->
+  <WorkDisabledByTrait>Отключен чертой: {0}</WorkDisabledByTrait>
+  <!-- EN: Disabled by quest: {0} -->
+  <WorkDisabledByQuest>Отключено заданием: {0}</WorkDisabledByQuest>  
+  <!-- EN: hostile -->
+  <HostileLower>неприятели</HostileLower>
+  <!-- EN: ally -->
+  <AllyLower>товарищи</AllyLower>  
+  <!-- EN: Recent events -->
+  <RecentEvents>Последние события</RecentEvents>
+  <!-- EN: Ongoing events -->
+  <OngoingEvents>Текущие события</OngoingEvents>  
+  <!-- EN: Study -->
+  <Study>Изучение</Study>  
+  <!-- EN: Factions -->
+  <FactionsTab>Фракции</FactionsTab>
+  <!-- EN: No known factions -->
+  <NoFactions>Нет известных фракций</NoFactions>  
+  <!-- EN: a colony wealth of at least {0} -->
+  <QuestRequiredPlayerWealth>богатство колонии не менее {0}</QuestRequiredPlayerWealth>
+  <!-- EN: alliance with {0} -->
+  <QuestAlliedTo>союз с {0}</QuestAlliedTo>
+  <!-- EN: hostile to {0} -->
+  <QuestHostileTo>враждебно к {0}</QuestHostileTo>
+  <!-- EN: neutral to {0} -->
+  <QuestNeutralTo>нейтрально к {0}</QuestNeutralTo>
+  <!-- EN: studied {0_labelShort} -->
+  <QuestRequiredThingStudied>изучено {0_labelShort}</QuestRequiredThingStudied>
+  
+  <!-- Menus_Main -->
+  
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Не удается переместить {0}: он должен быть загружен после {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Не удается переместить {0}: он должен быть загружен до {1}.</ModReorderConflict_MustLoadBefore>  
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Классические минометы</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Минометы не требуют для изготовления или перезарядки усиленных стволов и сбалансированы для удобства доступа.</Difficulty_ClassicMortars_Info>  
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Идеология</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>Низкий прирост обращения</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>С одним колонистом начальной идеолигии игрока шанс перехода в его идеолигию умножается на эту сумму. Попытки конверсии против них имеют свое влияние, разделенное на эту сумму.\n\nС двумя колонистами начальной идеологии игрока эффект уменьшается вдвое.\n\nС тремя или более колонистами начальной идеолигии игрока это не имеет никакого эффекта.</Difficulty_LowPopConversionBoost_Info>  
+  <!-- EN: Caused by role: {0} -->
+  <IncapableOfTooltipRole>Вызвано ролью: {0}</IncapableOfTooltipRole>  
+  <!-- EN: male and female -->
+  <MaleAndFemale>мужчина и женщина</MaleAndFemale>  
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>Этот колонист считается виновным. Вы можете свободно изгнать, казнить или арестовать их, и другие не будут обеспокоены.\n\nВина истекает через</GuiltyDesc>  
+  <!-- EN: Factions -->
+  <Factions>Фракции</Factions>
+  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
+  <RecommendedFactionCount>Проблемы с игровым процессом могут возникать с более чем {0} фракциями.</RecommendedFactionCount>
+  <!-- EN: Maximum {0} visible factions allowed. -->
+  <TotalFactionsAllowed>Максимальное количество {0} разрешенных видимых фракций.</TotalFactionsAllowed>
+  <!-- EN: There can be no more than {0} {1}. -->
+  <MaxFactionsForType>Не может быть больше {0} {1}.</MaxFactionsForType>
+  <!-- EN: Restore defaults -->
+  <ResetFactionsToDefault>Восстановить по умолчанию</ResetFactionsToDefault>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Выберите фракции в мире. Вы можете выбрать в общей сложности до {0} фракций.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>Отключение {0} означает меньшее разнообразие заданий и другое сокращение контента.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>Отключение {0} означает уменьшение количества неожиданных угроз.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>Отключение {0} означает меньшее разнообразие заданий и неожиданных угроз.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Без других фракций рейды, торговля и задания не будут происходить как обычно.</FactionsDisabledWarning>
+  
+  <!-- Messages -->
+  
+  <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
+  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} не нашел поблизости {FUEL} для {GUN_label}.</MessageOutOfNearbyFuelFor>
+  <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
+  <MessageTameNoSuitablePens>Для {ANIMAL_labelShort} нет подходящего загона для животных. В конце концов он уйдет.</MessageTameNoSuitablePens>  
+  <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
+  <MessageInsectTameDesignated>Только те, у кого есть черта симпатии к насекомым, могут приручить {INSECT_indefinite}.</MessageInsectTameDesignated>
+  <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
+  <MessageInsectsHostileOnTaming>Предупреждение: {PAWN_labelShort} враждебен и будет атаковать, пока ваш колонист пытается его приручить.</MessageInsectsHostileOnTaming>  
+  <!-- EN: {PAWN_nameDef} is pregnant! -->
+  <MessageAnimalIsPregnant>{PAWN_nameDef} беременна!</MessageAnimalIsPregnant>  
+  <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
+  <MessageRoamerLeaving>{PAWN_labelShort} уходит! {PAWN_pronoun} покинет карту, если животновод не вернет {PAWN_objective} обратно в загон.</MessageRoamerLeaving>  
+  <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
+  <MessageCantEquipIncapableOfShooting>Не может вооружиться: {1_labelShort} не способен стрелять.</MessageCantEquipIncapableOfShooting>  
+  <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
+  <MessageReleaseBondedAnimal>Поскольку они связаны, освобождение {DESIGNATED_labelShort} сделает {BONDED_labelShort} несчастным.</MessageReleaseBondedAnimal>  
+  <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemies>Район теперь безопасен. Вы можете отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemies>
+  <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Район теперь безопасен, но некоторые помещения остаются неизведанными. Вы можете исследовать дальше или отправить караван на карте мира.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>  
+  <!-- EN: {1_labelShort} has been returned to the wild. -->
+  <MessageAnimalReturnedWildReleased>{1_labelShort} был возвращен в дикую природу.</MessageAnimalReturnedWildReleased>  
+  <!-- EN: An extracted tree just died. -->
+  <MessageMinifiedTreeDied>Извлеченное дерево только что погибло.</MessageMinifiedTreeDied>  
+  <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
+  <MessageIdeoOpposedWorkTypeSelected>ВНИМАНИЕ: убеждения {0_nameDef} противоречат работе {1}. {0_pronoun} может стать несчастным.</MessageIdeoOpposedWorkTypeSelected>
+  <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
+  <MessageBedLostAssignment>{0} больше не назначена {1_nameDef}.</MessageBedLostAssignment>
+  <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
+  <MessageBedDestroyed>{0}, назначенная {1_nameDef}, была уничтожен.</MessageBedDestroyed>  
+  <!-- EN: spectate -->
+  <Spectate>наблюдатель</Spectate>
+  <!-- EN: Assign to {0} -->
+  <AssignToRole>Назначить {0}</AssignToRole>
+  <!-- EN: {0} has begun. -->
+  <RitualBegun>{0} началось.</RitualBegun>
+  <!-- EN: The maximum number of {0}s is {1}. -->
+  <MaxPawnsPerRole>Максимальное кол-во {0} равно {1}.</MaxPawnsPerRole>
+  <!-- EN: You need at least one participant. -->
+  <MessageRitualNeedsAtLeastOnePerson>Вам нужен хотя бы один участник.</MessageRitualNeedsAtLeastOnePerson>
+  <!-- EN: You need at least one spectator. -->
+  <MessageRitualNeedsAtLeastOneSpectator>Вам нужен хотя бы один зритель.</MessageRitualNeedsAtLeastOneSpectator>
+  <!-- EN: You need a {0}. -->
+  <MessageRitualNeedsAtLeastOneRolePawn>Вам нужен {0}.</MessageRitualNeedsAtLeastOneRolePawn>
+  <!-- EN: You need at least {1} {0}. -->
+  <MessageRitualNeedsAtLeastNumRolePawn>Вам нужно по крайней мере {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
+  <!-- EN: {0_labelShort} is downed. -->
+  <MessageRitualPawnDowned>{0_labelShort} пал.</MessageRitualPawnDowned>
+  <!-- EN: {0_labelShort} is currently escaping. -->
+  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} в настоящее время убегает.</MessageRitualPawnPrisonerNotSecured>
+  <!-- EN: {0_labelShort} is currently rebelling. -->
+  <MessageRitualPawnSlaveNotSecured>{0_labelShort} в настоящее время восстает.</MessageRitualPawnSlaveNotSecured>
+  <!-- EN: {0_labelShort} is being released. -->
+  <MessageRitualPawnReleased>{0_labelShort} освобождается.</MessageRitualPawnReleased>
+  <!-- EN: {0_labelShort} is injured. -->
+  <MessageRitualPawnInjured>{0_labelShort} ранен.</MessageRitualPawnInjured>
+  <!-- EN: {0_labelShort} must hold one of these roles -->
+  <MessageRitualRoleRequired>{0_labelShort} должен занимать одну из этих ролей</MessageRitualRoleRequired>
+  <!-- EN: {0} must be a prisoner. -->
+  <MessageRitualRoleMustBePrisoner>{0} должен быть заключенным.</MessageRitualRoleMustBePrisoner>
+  <!-- EN: {0} must be an animal. -->
+  <MessageRitualRoleMustBeAnimal>{0} должен быть животным.</MessageRitualRoleMustBeAnimal>
+  <!-- EN: {0} must be a human. -->
+  <MessageRitualRoleMustBeHumanlike>{0} должен быть человеком.</MessageRitualRoleMustBeHumanlike>
+  <!-- EN: {0} must have eyes -->
+  <MessageRitualRoleMustHaveEyes>{0} должен быть зрячим.</MessageRitualRoleMustHaveEyes>
+  <!-- EN: {0_labelShort} does not require further scarification. -->
+  <MessageRitualRoleMustRequireScarification>{0_labelShort} не требует дополнительного шрамирования.</MessageRitualRoleMustRequireScarification>
+  <!-- EN: {0} must be a prisoner or slave. -->
+  <MessageRitualRoleMustBePrisonerOrSlave>{0} должен быть заключенным или рабом.</MessageRitualRoleMustBePrisonerOrSlave>
+  <!-- EN: {0_labelShort} must be capable of fighting. -->
+  <MessageRitualRoleMustBeCapableOfFighting>{0_labelShort} должен быть способным сражаться.</MessageRitualRoleMustBeCapableOfFighting>
+  <!-- EN: this role cannot be played by someone else. -->
+  <MessageRitualRoleCannotReplaceRequiredPawn>эту роль не может играть кто-то другой.</MessageRitualRoleCannotReplaceRequiredPawn>
+  <!-- EN: {0_labelShort} cannot connect to a Gauranlen tree because {0_possessive} connection was recently torn. -->
+  <MessageRitualRolePawnRecentlyTornConnection>{0_labelShort} не удается связаться с деревом Гауранлена, так как недавно было разорвано соединение {0_possessive}.</MessageRitualRolePawnRecentlyTornConnection>
+  <!-- EN: {0_labelShort} has the same ideoligion as the converter. -->
+  <MessageRitualRolePawnHasSameIdeo>{0_labelShort} имеет ту же идеолигию, что и обращающий.</MessageRitualRolePawnHasSameIdeo>
+  <!-- EN: {0_labelShort} must be capable of wardening. -->
+  <MessageRitualRoleMustBeCapableOfWardening>{0_labelShort} должен быть способен охранять.</MessageRitualRoleMustBeCapableOfWardening>
+  <!-- EN: {0} must be capable of {1}. -->
+  <MessageRitualRoleMustBeCapableOfGeneric>{0} должен быть способен к {1}.</MessageRitualRoleMustBeCapableOfGeneric>
+  <!-- EN: prisoners cannot {0}. -->
+  <MessageRitualRoleMustNotBePrisonerToSpectate>заключенные не могут {0}.</MessageRitualRoleMustNotBePrisonerToSpectate>
+  <!-- EN: only {0} can {1}. -->
+  <MessageRitualRoleMustHaveIdeoToSpectate>только {0} может {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
+  <!-- EN: only {0} can fill the role of {1}. -->
+  <MessageRitualRoleMustHaveIdeoToDoRole>только {0} может выполнять роль {1}.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <!-- EN: must be colonist for the {0} role. -->
+  <MessageRitualRoleMustBeColonist>должен быть поселенцем для роли {0}.</MessageRitualRoleMustBeColonist>
+  <!-- EN: {0} must have an animal with min body size of {1}. -->
+  <MessageRitualRoleMustHaveLargerBodySize>{0} должно быть животное с минимальным размером тела {1}.</MessageRitualRoleMustHaveLargerBodySize>
+  <!-- EN: {0_labelShort} is in a mental state. -->
+  <MessageRitualPawnMentalState>{0_labelShort} находится в психическом состоянии.</MessageRitualPawnMentalState>
+  <!-- EN: {0_labelShort} is already {1}. -->
+  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} уже {1}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
+  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} не может играть никакой другой роли, кроме зрителя.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
+  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} не может быть заключенным в тюрьму диким мужчиной/женщиной.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <!-- EN: {0} must be free. -->
+  <MessageRitualRoleMustNotBeImprisoned>{0} должен быть свободным.</MessageRitualRoleMustNotBeImprisoned>
+  <!-- EN: You must select a site to continue. -->
+  <MessagePlayerMustSelectTile>Вы должны выбрать место, чтобы продолжить.</MessagePlayerMustSelectTile>
+  <!-- EN: Cannot plant {0_labelShort} -->
+  <CannotPlantThing>Не удается посадить {0_labelShort}</CannotPlantThing>
+  <!-- EN: Need more fertile terrain. -->
+  <MessageWarningNotEnoughFertility>Нужна более плодородная почва.</MessageWarningNotEnoughFertility>
+  <!-- EN: blocked by {0_label}. -->
+  <BlockedBy>заблокирован {0_label}.</BlockedBy>
+  <!-- EN: Cannot be planted next to {0_label}. -->
+  <AdjacentSowBlocker>Не может быть установлен рядом с {0_label}.</AdjacentSowBlocker>
+  <!-- EN: Too close to {0_label}. -->
+  <TooCloseToOtherPlant>Слишком близко к {0_label}.</TooCloseToOtherPlant>
+  <!-- EN: Too close to {0}'s planting location. -->
+  <TooCloseToOtherSeedPlantCell>Слишком близко к месту посадки {0}.</TooCloseToOtherSeedPlantCell>
+  <!-- EN: Role of {0} is locked. -->
+  <RoleIsLocked>Роль {0} заблокирована.</RoleIsLocked>
+  <!-- EN: No roles available for {0_labelShort}. -->
+  <MessageRitualNoRolesAvailable>Для {0_labelShort} нет доступных ролей.</MessageRitualNoRolesAvailable>
+  <!-- EN: {0_labelShort} is not a member of any colony ideoligion. -->
+  <MessageRitualNotOfPlayerIdeo>{0_labelShort} не является членом какой-либо идеолигии поселения.</MessageRitualNotOfPlayerIdeo>
+  <!-- EN: Warning: {0} has been marked for cutting. -->
+  <MessageWarningCutImportantPlant>Внимание: {0} помечено для резки.</MessageWarningCutImportantPlant>
+  
+  <!-- Misc_Gameplay -->
+  
+  <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
+  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} потеряет {POINTS} неизрасходованных очков разрешений с {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+  <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
+  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} сохранит все свои уровни пси-связи и psycasts.</RenounceTitleWillKeepPsylinkLevels>  
+  <!-- EN: items -->
+  <ItemsLower>предметы</ItemsLower> 
+  <!-- EN: Attack this to destroy it. -->
+  <AttackToDestroy>Атакуйте объект, чтобы уничтожить.</AttackToDestroy>
+  <!-- EN: Remove this by attacking it. -->
+  <RemoveByAttackingTooltip>Удалите объект, атакуя его.</RemoveByAttackingTooltip>  
+  <!-- EN: Example animals -->
+  <PenExampleAnimals>Пример животных</PenExampleAnimals>  
+  <!-- EN: Extracted tree will die in {time} unless replanted. -->
+  <MinifiedTreeWillDieIn>Извлеченное дерево умрет через {time}, если его не пересадить.</MinifiedTreeWillDieIn>  
+  <!-- EN: {0_labelShort} is incapable of {1}. -->
+  <AbilityDisabledNoCapacity>{0_labelShort} не способен к {1}.</AbilityDisabledNoCapacity>
+  <!-- EN: Everyone participating in the ritual gains {0} mood for {1} days. -->
+  <RitualOutcomeExtraDesc_Mood>Каждый, кто участвует в ритуале, получает {0} настроения в течение {1} дней.</RitualOutcomeExtraDesc_Mood>
+  
+</LanguageData>

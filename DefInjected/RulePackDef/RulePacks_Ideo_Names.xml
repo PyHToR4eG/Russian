@@ -10,10 +10,10 @@
     <li>globalHyphenPrefix->stello</li>
   -->
   <CultureSpacer.rulePack.rulesStrings>
-	<li>globalAdjective->Космическая</li>
-    <li>globalAdjective->Великолепная</li>
-    <li>globalAdjective->Звездная</li>
-    <li>globalAdjective->Межзвездная</li>
+    <li>globalAdjective->Пространственн</li>
+    <li>globalAdjective->Великолепн</li>
+    <li>globalAdjective->Звездн</li>
+    <li>globalAdjective->Межзвездн</li>
     <li>globalHyphenPrefix->астро</li>
     <li>globalHyphenPrefix->стелло</li>
   </CultureSpacer.rulePack.rulesStrings>
@@ -22,7 +22,7 @@
     <li>globalAdjective(p=15)->Tribal</li>
   -->
   <NamerIdeoCorunan.rulePack.rulesStrings>
-	<li>globalAdjective(p=15)->Племенной</li>
+    <li>globalAdjective(p=15)->туземн</li>
   </NamerIdeoCorunan.rulePack.rulesStrings>
   
   <!-- EN:
@@ -69,39 +69,44 @@
     <li>globalHyphenPrefix->hyper</li>
   -->
   <NamerIdeoGlobal.rulePack.rulesStrings>
-	<li>r_ideoName->[keyDeity]изм</li>
+    <li>r_ideoName->[keyDeity]изм</li>
     <li>r_ideoName->[hyphenPrefix]-[keyDeity]изм</li>
-    <li>r_ideoName->[keyDeity]й [creed]</li>
+    <li>r_ideoName->[keyDeity] [creed]</li>
     <li>r_ideoName->[creed] [keyDeity]</li>
     <li>r_ideoAdjective->[keyDeity]ий</li>
     <li>r_memberName->[keyDeity]ист</li>
     <li>r_memberName->[keyDeity]ит</li>
-    <li>r_ideoName(p=2)->[globalAdjective] [packIdeoName]</li>
+    <li>r_ideoName(p=2)->[globalAdjective][localIdeoNameAdj]</li>
     <li>r_ideoName(p=1.5,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
-    <li>r_ideoName->[memeAdjective] [packIdeoName]</li>
-    <li>r_ideoName(p=0.5)->[memeAdjective] [creed]</li>
-    <li>r_ideoName(p=0.2)->[creed] [packTheme]</li>
+    <li>r_ideoName->[localMemeAdjective][localIdeoNameAdj]</li>
+    <li>r_ideoName(p=0.5)->[localMemeAdjective][localGenericCreed]</li>
+    <li>r_ideoName(p=0.2)->[creed] [localTheme]</li>
     <li>r_ideoAdjective(priority=1)->[packAdjective]</li>
     <li>r_memberName->[packMember]</li>
     <li>creed(priority=1)->[memeCreed]</li>
     <li>creed->[genericCreed]</li>
+    <li>localGenericCreed->[genericCreedAdj]</li>
     <li>genericCreed->вероучение</li>
     <li>genericCreed->доктрина</li>
     <li>genericCreed->путь</li>
     <li>genericCreed->дорога</li>
-    <li>globalAdjective->[Color]</li>
-    <li>globalAdjective->Новый</li>
-    <li>globalAdjective->Полный</li>
-    <li>globalAdjective->Старый</li>
-    <li>globalAdjective->Древний</li>
-    <li>globalAdjective->Исторический</li>
-    <li>globalAdjective->Исправленный</li>
-    <li>globalAdjective->Реформированный</li>
-    <li>globalAdjective->Суровый</li>
-    <li>globalAdjective->Основополагающий</li>
-    <li>globalAdjective->Истинный</li>
-    <li>globalAdjective->Народный</li>
-    <li>globalAdjective->Исправленный</li>
+    <li>genericCreedAdj->ое вероучение</li>
+    <li>genericCreedAdj->ая доктрина</li>
+    <li>genericCreedAdj->ый путь</li>
+    <li>genericCreedAdj->ая дорога</li>
+    <!-- <li>globalAdjective->[Color]</li> -->
+    <li>globalAdjective->Нов</li>
+    <li>globalAdjective->Полн</li>
+    <li>globalAdjective->Стар</li>
+    <li>globalAdjective->Старинн</li>
+    <li>globalAdjective->Античн</li>
+    <li>globalAdjective->Исправленн</li>
+    <li>globalAdjective->Реформированн</li>
+    <li>globalAdjective->Суров</li>
+    <li>globalAdjective->Фундоментальн</li>
+    <li>globalAdjective->Истинн</li>
+    <li>globalAdjective->Народн</li>
+    <li>globalAdjective->Исправленн</li>
     <li>globalAdjective->[place_adjective]</li>
     <li>hyphenPrefix->[globalHyphenPrefix]</li>
     <li>hyphenPrefix->[memeHyphenPrefix]</li>

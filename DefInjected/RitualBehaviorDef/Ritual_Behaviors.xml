@@ -9,6 +9,8 @@
   <BlindingCeremony.roles.1.label>мясник</BlindingCeremony.roles.1.label>
   <!-- EN: the person who performs the blinding -->
   <BlindingCeremony.roles.1.missingDesc>человек, который выполняет ослепление</BlindingCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <BlindingCeremony.stages.0.failTriggers.0.desc>Цель недостижима.</BlindingCeremony.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <BurnCircle.spectatorGerund>участвовать</BurnCircle.spectatorGerund>
@@ -24,7 +26,7 @@
   <!-- EN: Campfire is not lit. -->
   <CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>Костер не горит.</CelebrationPartyDanceDrum.stages.0.failTriggers.1.desc>
   <!-- EN: No drums. -->
-  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Никаких барабанов.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
+  <CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>Нет барабанов.</CelebrationPartyDanceDrum.stages.0.failTriggers.2.desc>
   
   <!-- EN: participate -->
   <CelebrationSkyLanterns.spectatorGerund>участвовать</CelebrationSkyLanterns.spectatorGerund>
@@ -60,7 +62,7 @@
   <DateRitual.spectatorGerund>участвовать</DateRitual.spectatorGerund>
   <!-- EN: Participants -->
   <DateRitual.spectatorsLabel>Участники</DateRitual.spectatorsLabel>
-  <!-- EN: <x>{0}</x>: The speech is over, and the party is beginning. -->
+  <!-- EN: {0}: The speech is over, and the party is beginning. -->
   <DateRitual.stages.0.postAction.text>{0} ：Речь окончена, и вечеринка начинается.</DateRitual.stages.0.postAction.text>
   
   <!-- EN: executioner -->
@@ -103,13 +105,13 @@
   <!-- EN: duelist escorts -->
   <GladiatorDuel.roles.3.categoryLabel>сопровождение дуэлянта</GladiatorDuel.roles.3.categoryLabel>
   <!-- EN: non-downed colonists capable of hauling -->
-  <GladiatorDuel.roles.3.missingDesc>непобитые колонисты, способные тащить</GladiatorDuel.roles.3.missingDesc>
+  <GladiatorDuel.roles.3.missingDesc>непобитые поселенцы, способные тащить</GladiatorDuel.roles.3.missingDesc>
   <!-- EN: duelist escort -->
   <GladiatorDuel.roles.4.label>сопровождение дуэлянта</GladiatorDuel.roles.4.label>
   <!-- EN: duelist escorts -->
   <GladiatorDuel.roles.4.categoryLabel>сопровождение дуэлянта</GladiatorDuel.roles.4.categoryLabel>
   <!-- EN: non-downed colonists capable of hauling -->
-  <GladiatorDuel.roles.4.missingDesc>непобитые колонисты, способные тащить</GladiatorDuel.roles.4.missingDesc>
+  <GladiatorDuel.roles.4.missingDesc>непобитые поселенцы, способные тащить</GladiatorDuel.roles.4.missingDesc>
   <!-- EN: participate -->
   <GladiatorDuel.spectatorGerund>участвовать</GladiatorDuel.spectatorGerund>
   <!-- EN: Spectators -->
@@ -117,19 +119,28 @@
   <!-- EN: Duelist is not reachable. -->
   <GladiatorDuel.stages.2.failTriggers.0.desc>Дуэлянт недоступен.</GladiatorDuel.stages.2.failTriggers.0.desc>
   
-  <!-- EN: <x>{SPEAKER_labelShort} </x>is giving a<x> {RITUAL_labelIndef}</x>.\n      \nIf all goes well, listeners will feel inspired, and gain respect for<x> {SPEAKER_labelShort}</x>. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-<x>{IDEOMEMBERS}</x>. -->
+  <!-- EN: {SPEAKER_labelShort} is giving a {RITUAL_labelIndef}.\n      \nIf all goes well, listeners will feel inspired, and gain respect for {SPEAKER_labelShort}. If it goes poorly, the speech will do social damage. Positive effects are reduced for non-{IDEOMEMBERS}. -->
   <LeaderSpeech.letterText>{SPEAKER_labelShort} дает {RITUAL_labelIndef}.\n\nЕсли все пойдет хорошо, слушатели почувствуют вдохновение и проникнутся уважением к {SPEAKER_labelShort}. Если все пойдет плохо, речь нанесет социальный ущерб. Положительные эффекты уменьшаются для не{IDEOMEMBERS}.</LeaderSpeech.letterText>
-  <!-- EN: <x>{RITUAL_labelCap}</x> -->
+  <!-- EN: {RITUAL_labelCap} -->
   <LeaderSpeech.letterTitle>{RITUAL_labelCap}</LeaderSpeech.letterTitle>
   <!-- EN: speaker -->
   <LeaderSpeech.roles.0.label>оратор</LeaderSpeech.roles.0.label>
+  
+  <!-- EN: role changer -->
+  <RoleChange.roles.0.label>меняющий роль</RoleChange.roles.0.label>
+  <!-- EN: a role changer -->
+  <RoleChange.roles.0.missingDesc>изменение роли</RoleChange.roles.0.missingDesc>
+  <!-- EN: spectate -->
+  <RoleChange.spectatorGerund>наблюдать</RoleChange.spectatorGerund>
+  <!-- EN: Spectators -->
+  <RoleChange.spectatorsLabel>Зрители</RoleChange.spectatorsLabel>
   
   <!-- EN: cutter -->
   <SacrificeAnimal.roles.0.label>мясник</SacrificeAnimal.roles.0.label>
   <!-- EN: sacrifice -->
   <SacrificeAnimal.roles.1.label>жертва</SacrificeAnimal.roles.1.label>
   <!-- EN: an animal with body size of at least 0.8 -->
-  <SacrificeAnimal.roles.1.missingDesc>животное с размером тела не менее 0,8</SacrificeAnimal.roles.1.missingDesc>
+  <SacrificeAnimal.roles.1.missingDesc>животное с размером тела не менее 0.8</SacrificeAnimal.roles.1.missingDesc>
   <!-- EN: participate -->
   <SacrificeAnimal.spectatorGerund>участвовать</SacrificeAnimal.spectatorGerund>
   <!-- EN: Participants -->
@@ -158,6 +169,8 @@
   <ScarificationCeremony.roles.1.label>мясник</ScarificationCeremony.roles.1.label>
   <!-- EN: the person who performs the scarification -->
   <ScarificationCeremony.roles.1.missingDesc>лицо, которое выполняет шрамирование</ScarificationCeremony.roles.1.missingDesc>
+  <!-- EN: Target is not reachable. -->
+  <ScarificationCeremony.stages.0.failTriggers.0.desc>Цель недостижима.</ScarificationCeremony.stages.0.failTriggers.0.desc>
   
   <!-- EN: participate -->
   <SmokeCircle.spectatorGerund>участвовать</SmokeCircle.spectatorGerund>
@@ -165,7 +178,7 @@
   <SmokeCircle.spectatorsLabel>Участники</SmokeCircle.spectatorsLabel>
   
   <!-- EN: connector -->
-  <TreeConnection.roles.0.label>заботящийся</TreeConnection.roles.0.label>
+  <TreeConnection.roles.0.label>арборист</TreeConnection.roles.0.label>
   <!-- EN: spectate -->
   <TreeConnection.spectatorGerund>наблюдать</TreeConnection.spectatorGerund>
   <!-- EN: Spectators -->

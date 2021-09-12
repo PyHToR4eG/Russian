@@ -11,7 +11,7 @@
   <!-- EN: What a terrible sight. -->
   <ObservedSkullspike.stages.observed_skullspike.description>Какое ужасное зрелище.</ObservedSkullspike.stages.observed_skullspike.description>
   
-  <!-- EN: <x>{THING_label}</x> -->
+  <!-- EN: {THING_label} -->
   <ObservedTerror.stages.0.label>{THING_label}</ObservedTerror.stages.0.label>
   
 </LanguageData>

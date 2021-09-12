@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Core fix -->
+  <!-- Hediffs_BodyParts_Bionic -->
+  <!-- EN: install bionic tongue -->
+  <InstallBionicTongue.label>вживить бионический язык</InstallBionicTongue.label>
+  <!-- EN: Install a bionic tongue. -->
+  <InstallBionicTongue.description>Вживить бионический язык</InstallBionicTongue.description>
+  <!-- EN: Installing bionic tongue. -->
+  <InstallBionicTongue.jobString>Вживляет бионический язык</InstallBionicTongue.jobString>
+  
+</LanguageData>

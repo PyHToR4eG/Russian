@@ -11,9 +11,9 @@
   <DrugUse_MedicalOnly.comps.5.description>Вводить рекреационный препарат</DrugUse_MedicalOnly.comps.5.description>
   
   <!-- EN: medical or social only -->
-  <DrugUse_MedicalOrSocial.label>только лекарственные или социальные</DrugUse_MedicalOrSocial.label>
+  <DrugUse_MedicalOrSocial.label>только лекарственные или расслабляющий</DrugUse_MedicalOrSocial.label>
   <!-- EN: A drink with a smoke is fine, especially with friends, but poisoning the body with powerful chemicals is wrong. -->
-  <DrugUse_MedicalOrSocial.description>Выпить с куревом - это прекрасно, особенно с друзьями, но отравлять организм сильными химическими веществами неправильно.</DrugUse_MedicalOrSocial.description>
+  <DrugUse_MedicalOrSocial.description>Выпить и затянуться - это прекрасно, особенно с друзьями, но отравлять организм сильными химическими веществами неправильно.</DrugUse_MedicalOrSocial.description>
   <!-- EN: Ingest hard drug -->
   <DrugUse_MedicalOrSocial.comps.2.description>Принимать тяжелый наркотик</DrugUse_MedicalOrSocial.comps.2.description>
   <!-- EN: Administer hard drug -->

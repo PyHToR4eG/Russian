@@ -18,7 +18,7 @@
   <!-- EN: prohibited -->
   <Lovin_Prohibited.label>под запретом</Lovin_Prohibited.label>
   <!-- EN: The physical act of lust is always vile, disgusting, and wrong. -->
-  <Lovin_Prohibited.description>Физический акт вожделения всегда мерзок, отвратителен и неправильен.</Lovin_Prohibited.description>
+  <Lovin_Prohibited.description>Физический акт вожделения всегда мерзок, отвратителен и неправилен.</Lovin_Prohibited.description>
   <!-- EN: Lustful act -->
   <Lovin_Prohibited.comps.1.description>Похотливый поступок</Lovin_Prohibited.comps.1.description>
   
@@ -42,10 +42,5 @@
   <Lovin_SpouseOnly_Strict.description>Заниматься любовью с другим человеком вне брака глубоко аморально.</Lovin_SpouseOnly_Strict.description>
   <!-- EN: Lustful act with non-spouse -->
   <Lovin_SpouseOnly_Strict.comps.1.description>Похотливый акт с не-супругом</Lovin_SpouseOnly_Strict.comps.1.description>
-  
-  <!-- EN: free -->
-  <Lovin_Free.label>свободно</Lovin_Free.label>
-  <!-- EN: Physical intimacy is a natural part of life, with any partner, married or not. -->
-  <Lovin_Free.description>Физическая близость - естественная часть жизни с любым партнером, женатым или нет.</Lovin_Free.description>
   
 </LanguageData>

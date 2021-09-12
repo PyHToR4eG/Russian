@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: change dryad types -->
-  <ChangeTreeMode.label>изменение типов дриад</ChangeTreeMode.label>
+  <ChangeTreeMode.label>изменение типа дриад</ChangeTreeMode.label>
   <!-- EN: changing dryad caste for -->
   <ChangeTreeMode.gerund>смена касты дриад на</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
@@ -77,12 +77,5 @@
   <SuppressSlave.gerund>подавление</SuppressSlave.gerund>
   <!-- EN: suppress -->
   <SuppressSlave.verb>подавлять</SuppressSlave.verb>
-  
-  <!-- EN: empty egg box -->
-  <EmptyEggBox.label>пустая коробка для яиц</EmptyEggBox.label>
-  <!-- EN: emptying -->
-  <EmptyEggBox.gerund>пустая</EmptyEggBox.gerund>
-  <!-- EN: empty -->
-  <EmptyEggBox.verb>опустошить</EmptyEggBox.verb>
   
 </LanguageData>

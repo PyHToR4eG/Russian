@@ -4,7 +4,7 @@
   <!-- EN: slaughtered animal -->
   <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>убил животное</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.label>
   <!-- EN: I had to slaughter and animal. It was an ugly thing to do. -->
-  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>Пришлось забить и животное. Это было ужасно.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
+  <SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>Пришлось забить животное. Это было ужасно.</SlaughteredAnimal_Disapproved.stages.slaughtered_animal.description>
   
   <!-- EN: slaughtered animal -->
   <SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>убил животное</SlaughteredAnimal_Horrible.stages.slaughtered_animal.label>
@@ -25,7 +25,7 @@
   <!-- EN: animal slaughtered -->
   <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>убито животное</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.label>
   <!-- EN: Someone slaughtered an animal! What a horrible thing, to snuff out a mind like that. -->
-  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>Кто-то убил животное! Что за ужас - уничтожить такой разум.</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
+  <SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>Кто-то убил животное! Что за ужас - погубить такую душу.</SlaughteredAnimal_Know_Horrible_Mood.stages.animal_slaughtered.description>
   
   <!-- EN: slaughtered animal -->
   <SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>убито животное</SlaughteredAnimal_Know_Prohibited.stages.slaughtered_animal.label>

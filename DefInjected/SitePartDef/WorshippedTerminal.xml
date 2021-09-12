@@ -5,11 +5,11 @@
   <WorshippedTerminal.label>почитающая деревня</WorshippedTerminal.label>
   <!-- EN: A village containing an ancient terminal which the locals worship. -->
   <WorshippedTerminal.description>Деревня, в которой находится древний терминал, которому поклоняются местные жители.</WorshippedTerminal.description>
-  <!-- EN: Attacking<x> {0}</x> -->
+  <!-- EN: Attacking {0} -->
   <WorshippedTerminal.approachingReportString>Атаковать {0}</WorshippedTerminal.approachingReportString>
-  <!-- EN: Investigate<x> {0}</x> -->
+  <!-- EN: Investigate {0} -->
   <WorshippedTerminal.approachOrderString>Исследовать {0}</WorshippedTerminal.approachOrderString>
-  <!-- EN: You may stay here for<x> {TIMER} </x>as long as you do not violate their rules. -->
+  <!-- EN: You may stay here for {TIMER} as long as you do not violate their rules. -->
   <WorshippedTerminal.arrivedLetter>Вы можете оставаться здесь на {TIMER} до тех пор, пока вы не нарушите их правила.</WorshippedTerminal.arrivedLetter>
   
 </LanguageData>

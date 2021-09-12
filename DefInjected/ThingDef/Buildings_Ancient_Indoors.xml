@@ -7,7 +7,7 @@
   <AncientBarrel.description>Древняя, разбитая бочка, которая выглядит так, как будто в ней когда-то содержались какие-то отходы. Единственное, что в нем сейчас есть, - это мазок высохшего ила.</AncientBarrel.description>
   
   <!-- EN: ancient bed -->
-  <AncientBed.label>старинная кровать</AncientBed.label>
+  <AncientBed.label>древняя кровать</AncientBed.label>
   <!-- EN: An old, rotted mattress on a rusty frame. Though uncomfortable, it can still be used, but it's too dilapidated to restore. -->
   <AncientBed.description>Старый, прогнивший матрас на ржавой раме. Хотя он неудобен, им все еще можно пользоваться, но он слишком обветшал, чтобы его можно было восстановить.</AncientBed.description>
   
@@ -19,7 +19,7 @@
   <!-- EN: ancient display bank -->
   <AncientDisplayBank.label>банк древних экспонатов</AncientDisplayBank.label>
   <!-- EN: An ancient computer interface. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientDisplayBank.description>Древний компьютерный интерфейс. Ценные части отсутствуют, а все остальное деградирует до бесполезности.</AncientDisplayBank.description>
+  <AncientDisplayBank.description>Древний компьютерный интерфейс. Ценные части отсутствуют, а все остальное деградировало до бесполезности.</AncientDisplayBank.description>
   
   <!-- EN: ancient equipment blocks -->
   <AncientEquipmentBlocks.label>блоки древнего оборудования</AncientEquipmentBlocks.label>
@@ -32,7 +32,7 @@
   <AncientGenerator.description>Древний электрический генератор. Его полезные части были разбиты или разграблены давным-давно, а остальное проржавело и стало бесполезным.</AncientGenerator.description>
   
   <!-- EN: ancient lamp -->
-  <AncientLamp.label>старинная лампа</AncientLamp.label>
+  <AncientLamp.label>древняя лампа</AncientLamp.label>
   <!-- EN: An ancient self-powered lamp. Its internal power supply is badly depleted, but it still emits a weak glow. -->
   <AncientLamp.description>Древняя лампа с автономным питанием. Его внутренний источник питания сильно истощен, но он все еще излучает слабое свечение.</AncientLamp.description>
   
@@ -46,10 +46,20 @@
   <!-- EN: A large ancient machine case filled with unknown machinery. Valuable parts are missing, and everything else is degraded to uselessness. -->
   <AncientMachine.description>Большой древний корпус машины, заполненный неизвестным оборудованием. Ценные части отсутствуют, а все остальное деградировало до бесполезности.</AncientMachine.description>
   
+  <!-- EN: ancient military crate -->
+  <AncientMilitaryCrate.label>древний военный ящик</AncientMilitaryCrate.label>
+  <!-- EN: An ancient, military-looking crate. It was broken long ago and any valuables it once contained were looted. -->
+  <AncientMilitaryCrate.description>Древний, военный ящик. Он был сломан давным-давно, и все ценности, которые в нем когда-то хранились, были разграблены.</AncientMilitaryCrate.description>
+  
   <!-- EN: ancient operating table -->
   <AncientOperatingTable.label>древний операционный стол</AncientOperatingTable.label>
   <!-- EN: A table once used for surgical operations. It has long since deteriorated into uselessness. -->
-  <AncientOperatingTable.description>Стол, когда-то использовавшийся для хирургических операций. Она уже давно пришла в негодность.</AncientOperatingTable.description>
+  <AncientOperatingTable.description>Стол, когда-то использовавшийся для хирургических операций. Он уже давно пришел в негодность.</AncientOperatingTable.description>
+  
+  <!-- EN: ancient spacer crate -->
+  <AncientSpacerCrate.label>древний космический ящик</AncientSpacerCrate.label>
+  <!-- EN: An ancient, broken crate. Any valuables it once contained were taken long ago. -->
+  <AncientSpacerCrate.description>Древний, сломанный ящик. Все ценности, которые в нем когда-то хранились, были изъяты давным-давно.</AncientSpacerCrate.description>
   
   <!-- EN: ancient storage cylinder -->
   <AncientStorageCylinder.label>древний цилиндр для хранения</AncientStorageCylinder.label>

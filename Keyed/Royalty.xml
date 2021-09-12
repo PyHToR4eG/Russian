@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- GameplayCommands -->
+  
+  <!-- EN: Slaves cannot use their permits. -->
+  <CommandCallRoyalAidSlave>Рабы не могут пользоваться своей привилегией.</CommandCallRoyalAidSlave>
+  <!-- EN: Leave bestowing ceremony -->
+  <CommandLeaveBestowingCeremony>Покинуть церемонию присвоения</CommandLeaveBestowingCeremony>
+  <!-- EN: Stop participating in the bestowing ceremony. -->
+  <CommandLeaveBestowingCeremonyDesc>Прекратить участие в церемонии присвоения.</CommandLeaveBestowingCeremonyDesc>
+  <!-- EN: Cancel bestowing ceremony -->
+  <CommandCancelBestowingCeremony>Отменить церемонию присвоения</CommandCancelBestowingCeremony>
+  <!-- EN: End the bestowing ceremony immediately. The bestower will leave, but another opportunity to perform the ceremony will arise soon. -->
+  <CommandCancelBestowingCeremonyDesc>Немедленно завершить церемонию присвоения. Эмиссар уйдет, но скоро появится другая возможность провести церемонию.</CommandCancelBestowingCeremonyDesc>
+  <!-- EN: Are you sure you want to cancel bestowing ceremony? -->
+  <CommandCancelBestowingCeremonyConfirm>Вы уверены, что хотите отменить церемонию присвоения?</CommandCancelBestowingCeremonyConfirm>
+  
+  <!-- Letters -->
+  
+  <!-- EN: {TARGET_definite}'s title changed -->
+  <LetterLabelBestowingCeremonyTitleUpdated>Титул {TARGET_definite} изменен</LetterLabelBestowingCeremonyTitleUpdated>
+  <!-- EN: {TARGET_definite} has gained new title since the bestowing ceremony was scheduled. In order for bestowing to match the new title, another ceremony will be scheduled soon.\n\nThe new bestowing ceremony will include the psylink rewards for all titles which were not yet awarded. -->
+  <LetterTextBestowingCeremonyTitleUpdated>{TARGET_definite} {TARGET_gender ? получил : получила} новый титул с тех пор, как была запланирована церемония награждения. Для того, чтобы присвоение соответствовало новому титулу, в ближайшее время будет назначена еще одна церемония.\n\nНовая церемония награждения будет включать награды пси=связи за все титулы, которые еще не были присуждены.</LetterTextBestowingCeremonyTitleUpdated>  
+  <!-- EN: {PAWN_labelShort} received {1} honor as a sign of respect from {FACTION_name}, for gathering {3} spectators. -->
+  <LetterPartBestowingExtraHonor>{PAWN_labelShort} {PAWN_gender ? получил : получила} {1} чести в знак уважения от {FACTION_name} за то, что {PAWN_gender ? собрал : собрала} {3} зрителей.</LetterPartBestowingExtraHonor>
+  <!-- EN: {PAWN_labelShort} received no extra honor since there weren't many spectators. -->
+  <LetterPartNoExtraHonor>{PAWN_labelShort} не {PAWN_gender ? получил : получила} дополнительной чести, так как зрителей было немного.</LetterPartNoExtraHonor>
+  <!-- EN: All viewers of the ceremony received a mood bonus. -->
+  <LetterPartMoodBonus>Все зрители церемонии получили бонус настроения.</LetterPartMoodBonus>
+  <!-- EN: Transport pod crash: {0_nameDef} -->
+  <LetterLabelWandererJoinsAbasia>Крушение транспортной капсулы: {0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <!-- EN: A {0_title} named {0_nameDef} is crashing in a transport pod nearby.\n\n{0_nameDef} is suffering from {1_label} and will be unable to walk.\n\n{0_pronoun} will recover naturally after many days. There is also a chance of a lucky quick recovery. {1_label} can also be cured by a special operation which requires a large amount of glitterworld medicine.\n\n{0_pronoun} is willing to contribute once {0_pronoun} has recovered, but will not leave voluntarily. If you don't want {0_nameDef}, you can banish {0_objective}, sell {0_objective} into slavery or leave {0_objective} to die. However, your other colonists may find this disturbing. -->
+  <LetterTextWandererJoinsAbasia>{0_title} по имени {0_nameDef} терпит крушение в транспортной капсуле поблизости.\n\n{0_nameDef} страдает от {1_label} и не сможет ходить.\n\n{0_pronoun} восстановится естественным образом через много дней. Есть также шанс на удачное быстрое выздоровление. {1_label} также можно вылечить с помощью специальной операции, которая требует большого количества передовых медикаментов.\n\n{0_pronoun} готов внести свой вклад, как только {0_pronoun} восстановится, но добровольно не уйдет. Если вы не хотите {0_nameDef}, вы можете изгнать {0_objective}, продать {0_objective} в рабство или оставить {0_objective} умирать. Однако другие ваши поселенцы могут счесть это возмутительным.</LetterTextWandererJoinsAbasia>
+  
+  <!-- MainTabs -->
+  
+  <!-- EN: Disabled by royal title {0} -->
+  <WorkDisabledByRoyalTitle>Отключено королевским титулом {0}</WorkDisabledByRoyalTitle>
+  <!-- EN: Spacedrone self-destructs in {0} -->
+  <SpacedroneSelfDestructsIn>Космический дрон самоуничтожится через {0}</SpacedroneSelfDestructsIn>
+  
+  <!-- Messages -->
+  
+  <!-- EN: {0} is busy. -->
+  <MessageBestowingTargetIsBusy>{0} занят.</MessageBestowingTargetIsBusy>
+  <!-- EN: The bestower is leaving due to life-threatening danger. -->
+  <MessageBestowingDanger>Эмиссар уходит из-за угрожающей жизни опасности.</MessageBestowingDanger>
+  <!-- EN: The bestower is leaving due to life-threatening temperature. -->
+  <MessageBestowingDangerTemperature>Даритель уходит из-за опасной для жизни температуры.</MessageBestowingDangerTemperature>
+  <!-- EN: The bestowing ceremony has been interrupted. -->
+  <MessageBestowingInterrupted>Церемония присвоения была прервана.</MessageBestowingInterrupted>
+  <!-- EN: No orbiting mechanoids found. -->
+  <MessageNoFactionForVerbMechCluster>Орбитальных механоидов не обнаружено.</MessageNoFactionForVerbMechCluster>
+  
+  <!-- Misc_Gameplay -->
+  
+  <!-- EN: Initiated at -->
+  <AbilitySpeechTargetsLabel>Инициировано в</AbilitySpeechTargetsLabel>
+  <!-- EN: Dignified throne -->
+  <AbilitySpeechTargetDescThrone>Достойный трон</AbilitySpeechTargetDescThrone>
+  <!-- EN: no accessible altar. -->
+  <RitualDisabledNoAltar>нет доступного алтаря.</RitualDisabledNoAltar>
+  <!-- EN: Bestowing Ceremony -->
+  <RitualBestowingCeremony>Церемония Присвоения</RitualBestowingCeremony>
+  <!-- EN: Max psylink level -->
+  <BeginLinkingRitualMaxPsylinkLevel>Максимальный уровень пси-связи</BeginLinkingRitualMaxPsylinkLevel>
+  <!-- EN: Additionally, {0} anima grass has been restored. -->
+  <LetterTextLinkingRitualCompletedAnimaGrass>Кроме того, {0} трава души была восстановлена.</LetterTextLinkingRitualCompletedAnimaGrass>
+  <!-- EN: {PAWN_definite}'s throneroom does not satisfy the requirements of the title of {TITLE}. -->
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>Тронный зал {PAWN_definite} не удовлетворяет требованиям титула {TITLE}.</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <!-- EN: bestowing ceremony -->
+  <BestowingCeremonyLabel>церемония присвоения</BestowingCeremonyLabel>
+  <!-- EN: Bestowing ceremony total quality was {0}, determined by these factors -->
+  <BestowingOutcomeQualitySpecific>Общее качество церемонии награждения было {0}, определяемое этими факторами</BestowingOutcomeQualitySpecific>
+  <!-- EN: No colonists that can link with anima tree right now. -->
+  <RitualTargetAnimaTreeNoPawnsToLink>Сейчас нет поселенцев, которые могли бы связаться с древом души.</RitualTargetAnimaTreeNoPawnsToLink>
+  <!-- EN: No colonists with the natural meditation focus type. -->
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>Нет поселенцев с природным объектом для медитации.</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <!-- EN: Need at least {0} anima grass. -->
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>Нужно как минимум {0} травы души.</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <!-- EN: An anima tree. -->
+  <RitualTargetAnimaTreeInfo>Древо души.</RitualTargetAnimaTreeInfo>
+  <!-- EN: Must be a colonist with the natural meditation focus type who is below maximum psylink level. -->
+  <RitualTargetAnimaTreeMustBeCapableOfNature>Необходим поселенец с природным объектом для медитации, уровень пси-связи которого ниже максимального.</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <!-- EN: Must not be psychically deaf. -->
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>Не должен быть психически невосприимчивым.</RitualTargetAnimaTreeMustBePsychicallySensitive>
+  <!-- EN: The anima linking ceremony is more powerful with more participants. The more people participate, the less time the ceremony takes, and the more anima grass will grow.\n\nWith {0} additional participants, {1} anima grass will be restored at the end of the ceremony. -->
+  <AnimaLinkingExplanationBase>Церемония соединения с Древом Души более мощная с большим количеством участников. Чем больше людей примет участие, тем меньше времени займет церемония, и тем больше вырастет травы души.\n\nС {0} дополнительными участниками {1} трава души будет восстановлена в конце церемонии.</AnimaLinkingExplanationBase>
+  
+</LanguageData>

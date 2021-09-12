@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Stats_Basics_General -->
+  
+  <!-- EN: outdoor beauty -->
+  <BeautyOutdoors.label>наружная привлекательность</BeautyOutdoors.label>
+  <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
+  <BeautyOutdoors.description>Как приятно на что-то смотреть, если это снаружи.\n\nКрасивые предметы удовлетворяют потребность людей в красоте.</BeautyOutdoors.description>
+  
+</LanguageData>

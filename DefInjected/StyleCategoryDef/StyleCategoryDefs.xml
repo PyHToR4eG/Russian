@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animalist -->
-  <Animalist.label>анималист</Animalist.label>
+  <Animalist.label>животный</Animalist.label>
   
   <!-- EN: Buddhist -->
   <Buddhist.label>Буддийский</Buddhist.label>
@@ -23,12 +23,12 @@
   <Rustic.label>простой</Rustic.label>
   
   <!-- EN: spikecore -->
-  <Spikecore.label>колючий</Spikecore.label>
+  <Spikecore.label>пиратский</Spikecore.label>
   
   <!-- EN: techist -->
   <Techist.label>техно</Techist.label>
   
   <!-- EN: totemic -->
-  <Totemic.label>тотемный</Totemic.label>
+  <Totemic.label>тотемичный</Totemic.label>
   
 </LanguageData>

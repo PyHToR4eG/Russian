@@ -44,7 +44,7 @@
   <!-- EN: scarified -->
   <Scarification_Minor.stages.scarified.label>шрамирован</Scarification_Minor.stages.scarified.label>
   <!-- EN: I bear the mark, as one ought to. -->
-  <Scarification_Minor.stages.scarified.description>Я ношу метку, как и положено.</Scarification_Minor.stages.scarified.description>
+  <Scarification_Minor.stages.scarified.description>Я ношу шрам, как и положено.</Scarification_Minor.stages.scarified.description>
   <!-- EN: not scarified -->
   <Scarification_Minor.stages.not_scarified.label>не шрамирован</Scarification_Minor.stages.not_scarified.label>
   <!-- EN: I lack the appropriate ritual scar. -->
@@ -64,21 +64,21 @@
   <!-- EN: Scarification ceremony -->
   <ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>Церемония шрамирования</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.label>
   <!-- EN: We mutilated a fellow colonist over ideological beliefs! This is wrong! -->
-  <ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>Мы изувечили товарища-колониста из-за идеологических убеждений! Это неправильно!</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>
+  <ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>Мы изувечили товарища-поселенца из-за идеологических убеждений! Это неправильно!</ScarificationCeremony_Know_Horrible.stages.Scarification_ceremony.description>
   
   <!-- EN: got scarified -->
   <ScarificationCeremony_Self_Extreme.stages.got_scarified.label>шрамирован</ScarificationCeremony_Self_Extreme.stages.got_scarified.label>
   <!-- EN: I bear a new ritual mark to bind me to our truth. -->
-  <ScarificationCeremony_Self_Extreme.stages.got_scarified.description>Я ношу новый ритуальную метку, которая связывает меня с нашей истоной.</ScarificationCeremony_Self_Extreme.stages.got_scarified.description>
+  <ScarificationCeremony_Self_Extreme.stages.got_scarified.description>Я ношу новый ритуальный шрам, которая связывает меня с нашей истиной.</ScarificationCeremony_Self_Extreme.stages.got_scarified.description>
   
   <!-- EN: got scarified -->
   <ScarificationCeremony_Self_Heavy.stages.got_scarified.label>шрамирован</ScarificationCeremony_Self_Heavy.stages.got_scarified.label>
   <!-- EN: I bear a new ritual mark to connected me to our truth. -->
-  <ScarificationCeremony_Self_Heavy.stages.got_scarified.description>Я ношу новый ритуальную метку, соединяющая меня с нашей истиной.</ScarificationCeremony_Self_Heavy.stages.got_scarified.description>
+  <ScarificationCeremony_Self_Heavy.stages.got_scarified.description>Я ношу новый ритуальный шрам, соединяющая меня с нашей истиной.</ScarificationCeremony_Self_Heavy.stages.got_scarified.description>
   
   <!-- EN: got scarified -->
   <ScarificationCeremony_Self_Minor.stages.got_scarified.label>шрамирован</ScarificationCeremony_Self_Minor.stages.got_scarified.label>
   <!-- EN: I bear a new ritual mark to remind me of our truth. -->
-  <ScarificationCeremony_Self_Minor.stages.got_scarified.description>Я ношу новый ритуальную метку, напоминающая мне о нашей истине.</ScarificationCeremony_Self_Minor.stages.got_scarified.description>
+  <ScarificationCeremony_Self_Minor.stages.got_scarified.description>Я ношу новый ритуальный шрам, напоминающая мне о нашей истине.</ScarificationCeremony_Self_Minor.stages.got_scarified.description>
   
 </LanguageData>

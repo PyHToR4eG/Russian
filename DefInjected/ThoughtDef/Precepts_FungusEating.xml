@@ -19,7 +19,7 @@
   <!-- EN: ate cooked fungus -->
   <AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.label>съел вареный гриб</AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.label>
   <!-- EN: I ate a meal with fungus. Is there any dish it doesn't complement? -->
-  <AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.description>Я поел с грибами. Есть ли какое-нибудь блюдо, которое оно не дополняет?</AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.description>
+  <AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.description>Я съел блюдо с грибами. Есть ли какое-нибудь блюдо, которое оно не дополняет?</AteFungusAsIngredient_Prefered.stages.ate_cooked_fungus.description>
   
   <!-- EN: ate non-fungus plant cooked -->
   <AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>съел блюдо без грибов</AteNonFungusMealWithPlants_Despised.stages.ate_nonfungus_plant_cooked.label>

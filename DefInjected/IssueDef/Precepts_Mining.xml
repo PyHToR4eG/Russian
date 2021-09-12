@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: mining -->
-  <Mining.label>горное дело</Mining.label>
+  <Mining.label>добыча</Mining.label>
   
   <!-- EN: mining yield -->
-  <MiningYield.label>горное дело</MiningYield.label>
+  <MiningYield.label>объёмы добычи</MiningYield.label>
   
 </LanguageData>

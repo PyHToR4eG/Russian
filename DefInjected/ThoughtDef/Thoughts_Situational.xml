@@ -7,7 +7,7 @@
   <LookChangeDesired.stages.look_change_desired.description>То, как я выгляжу, не соответствует тому, кто я сегодня. Я хочу это изменить.</LookChangeDesired.stages.look_change_desired.description>
   
   <!-- EN: masochist body strapped -->
-  <MasochistWearingBodyStrap.stages.masochist_body_strapped.label>мазохист пристегнут ремнями</MasochistWearingBodyStrap.stages.masochist_body_strapped.label>
+  <MasochistWearingBodyStrap.stages.masochist_body_strapped.label>мазохист обтянут ремнями</MasochistWearingBodyStrap.stages.masochist_body_strapped.label>
   <!-- EN: The straps press in and calm my soul. -->
   <MasochistWearingBodyStrap.stages.masochist_body_strapped.description>Ремни давят и успокаивают мою душу.</MasochistWearingBodyStrap.stages.masochist_body_strapped.description>
   
@@ -22,7 +22,7 @@
   <WearingColor_Favorite.stages.wearing_favorite_color.description>Мне просто нравится этот цвет.</WearingColor_Favorite.stages.wearing_favorite_color.description>
   
   <!-- EN: wearing ideoligion color -->
-  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>ношение цвета идеологии</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
+  <WearingColor_Ideo.stages.wearing_ideoligion_color.label>ношение цвета идеолигии</WearingColor_Ideo.stages.wearing_ideoligion_color.label>
   <!-- EN: My apparel coloring is properly expressing my beliefs. -->
   <WearingColor_Ideo.stages.wearing_ideoligion_color.description>Цвет моей одежды правильно выражает мои убеждения.</WearingColor_Ideo.stages.wearing_ideoligion_color.description>
   

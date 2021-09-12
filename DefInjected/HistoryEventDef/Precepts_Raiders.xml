@@ -1,7 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <!-- EN: raided someone -->
+  <PlayerRaidedSomeone.label>на кого-то организован налёт</PlayerRaidedSomeone.label>
+  
   <!-- EN: raided -->
-  <Raided.label>налетели</Raided.label>
+  <Raided.label>организован налёт</Raided.label>
+  
+  <!-- EN: raided bandit camp -->
+  <Raided_BanditCamp.label>налет на бандитский лагерь</Raided_BanditCamp.label>
+  
+  <!-- EN: raided work site -->
+  <Raided_WorkSite.label>налет на рабочий лагерь</Raided_WorkSite.label>
   
 </LanguageData>

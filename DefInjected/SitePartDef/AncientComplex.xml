@@ -3,11 +3,11 @@
   
   <!-- EN: ancient complex -->
   <AncientComplex.label>древний комплекс</AncientComplex.label>
-  <!-- EN: An ancient complex containg treasure. -->
+  <!-- EN: An ancient complex containing treasure. -->
   <AncientComplex.description>Древний комплекс, хранящий сокровище.</AncientComplex.description>
-  <!-- EN: Investigate<x> {0}</x> -->
+  <!-- EN: Investigate {0} -->
   <AncientComplex.approachingReportString>Исследовать {0}</AncientComplex.approachingReportString>
-  <!-- EN: Investigate<x> {0}</x> -->
+  <!-- EN: Investigate {0} -->
   <AncientComplex.approachOrderString>Исследовать {0}</AncientComplex.approachOrderString>
   
 </LanguageData>

@@ -16,12 +16,12 @@
     <li>secondPart(p=4)->touch</li>
   -->
   <NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
-	<li>r_roleName->создатель</li>
+    <li>r_roleName->создатель</li>
     <li>r_roleName->животное</li>
     <li>firstPart->мехо</li>
     <li>firstPart->лапа</li>
     <li>firstPart->копыто</li>
-    <li>firstPart->хвост</li>
+    <li>firstPart->хвосто</li>
     <li>firstPart->усико</li>
     <li>firstPart->клыко</li>
     <li>firstPart->дико</li>
@@ -47,7 +47,7 @@
     <li>firstPart->crush</li>
   -->
   <NamerRoleBrawler.rulePack.rulesStrings>
-	<li>r_roleName->берсеркер</li>
+    <li>r_roleName->берсеркер</li>
     <li>firstPart->порез</li>
     <li>firstPart->кулак</li>
     <li>firstPart->синяк</li>
@@ -74,7 +74,7 @@
     <li>firstPart->clinic</li>
   -->
   <NamerRoleMedicalSpecialist.rulePack.rulesStrings>
-	<li>firstPart->медик</li>
+    <li>firstPart->медик</li>
     <li>firstPart->лекарь</li>
     <li>firstPart->кардиолог</li>
     <li>firstPart->врач</li>
@@ -101,7 +101,7 @@
     <li>firstPart->crack</li>
   -->
   <NamerRoleMiner.rulePack.rulesStrings>
-	<li>r_roleName->спелеолог</li>
+    <li>r_roleName->спелеолог</li>
     <li>firstPart->шахтер</li>
     <li>firstPart->бездна</li>
     <li>firstPart->пучина</li>
@@ -128,14 +128,14 @@
     <li>r_roleName->[keyDeity]'s [memeMoralist]</li>
   -->
   <NamerRoleMoralist.rulePack.rulesStrings>
-	<li>r_roleName(p=4)->[memeMoralist]</li>
-    <li>r_roleName(p=2)->[memeAdjective] [memeMoralist]</li>
-    <li>r_roleName->[memeMoralist] [chosenTheme]</li>
+    <li>r_roleName(p=4)->[memeMoralist]</li>
+    <li>r_roleName(p=2)->[localMemeAdjective][localMemeMoralistAdj]</li>
+    <li>r_roleName->[memeMoralist] [localTheme]</li>
     <li>r_roleName->[memeMoralist] [keyDeity]</li>
-    <li>r_roleName->[memeMoralist] [memeConcept]</li>
+    <li>r_roleName->[memeMoralist] [localMemeConcept]</li>
     <li>r_roleName->[memeMoralist] [chosenIdeoName]</li>
-    <li>r_roleName->[chosenAdjective] [memeMoralist]</li>
-    <li>r_roleName->[memeMoralist] [keyDeity]</li>
+    <li>r_roleName->[localMemeAdjective][localMemeMoralistAdj]</li>
+    <!-- <li>r_roleName->[memeMoralist] [keyDeity]</li> -->
   </NamerRoleMoralist.rulePack.rulesStrings>
   
   <!-- EN:
@@ -149,7 +149,7 @@
     <li>firstPart->make</li>
   -->
   <NamerRoleProductionSpecialist.rulePack.rulesStrings>
-	<li>r_roleName->производитель</li>
+    <li>r_roleName->производитель</li>
     <li>r_roleName->мастер</li>
     <li>r_roleName->разработчик</li>
     <li>firstPart->работа</li>
@@ -172,7 +172,7 @@
     <li>firstPart->idea</li>
   -->
   <NamerRoleResearcher.rulePack.rulesStrings>
-	<li>r_roleName->высокий разум</li>
+    <li>r_roleName->высокий разум</li>
     <li>r_roleName->мыслитель</li>
     <li>r_roleName->философ</li>
     <li>r_roleName->ученик</li>
@@ -197,7 +197,7 @@
     <li>secondPart(p=4)->slinger</li>
   -->
   <NamerRoleShooter.rulePack.rulesStrings>
-	<li>firstPart->пушка</li>
+    <li>firstPart->пушка</li>
     <li>firstPart->выстрел</li>
     <li>firstPart->триггер</li>
     <li>firstPart->пуля</li>
@@ -227,7 +227,7 @@
     <li>firstPart->root</li>
   -->
   <NamerRoleSower.rulePack.rulesStrings>
-	<li>r_roleName->удобрение</li>
+    <li>r_roleName->удобрение</li>
     <li>firstPart->лист</li>
     <li>firstPart->растение</li>
     <li>firstPart->зелень</li>
@@ -272,7 +272,7 @@
     <li>secondPart->iner</li>
   -->
   <NamerRoleSpecialistUtility.rulePack.rulesStrings>
-	<li>r_roleName(p=7)->[firstPart][secondPart]</li>
+    <li>r_roleName(p=7)->[firstPart][secondPart]</li>
     <li>secondPart->мастер</li>
     <li>secondPart->кратер</li>
     <li>secondPart->пламя</li>

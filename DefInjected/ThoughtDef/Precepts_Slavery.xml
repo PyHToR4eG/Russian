@@ -71,7 +71,7 @@
   <!-- EN: sold slave -->
   <SoldSlave_Disapproved.stages.sold_slave.label>продал раба</SoldSlave_Disapproved.stages.sold_slave.label>
   <!-- EN: I sold a person into slavery. I hope nothing terrible happens to them. -->
-  <SoldSlave_Disapproved.stages.sold_slave.description>Я продал человека в рабство. Я надеюсь, что с ними не случится ничего ужасного.</SoldSlave_Disapproved.stages.sold_slave.description>
+  <SoldSlave_Disapproved.stages.sold_slave.description>Я продал человека в рабство. Я надеюсь, что с ним не случится ничего ужасного.</SoldSlave_Disapproved.stages.sold_slave.description>
   
   <!-- EN: sold slave -->
   <SoldSlave_Honorable.stages.sold_slave.label>продал раба</SoldSlave_Honorable.stages.sold_slave.label>

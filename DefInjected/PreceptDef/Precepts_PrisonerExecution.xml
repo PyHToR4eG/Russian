@@ -10,7 +10,7 @@
   <!-- EN: Responsible for prisoner death -->
   <Execution_Abhorrent.comps.3.description>Ответственный за смерть заключенного</Execution_Abhorrent.comps.3.description>
   <!-- EN: Someone executed a colonist -->
-  <Execution_Abhorrent.comps.4.description>Кто-то казнил колониста</Execution_Abhorrent.comps.4.description>
+  <Execution_Abhorrent.comps.4.description>Кто-то казнил поселенца</Execution_Abhorrent.comps.4.description>
   <!-- EN: Someone executed a guest -->
   <Execution_Abhorrent.comps.5.description>Кто-то казнил гостя</Execution_Abhorrent.comps.5.description>
   <!-- EN: Someone executed a prisoner -->
@@ -30,7 +30,7 @@
   <!-- EN: Responsible for prisoner death -->
   <Execution_Horrible.comps.3.description>Ответственный за смерть заключенного</Execution_Horrible.comps.3.description>
   <!-- EN: Someone executed a colonist -->
-  <Execution_Horrible.comps.5.description>Кто-то казнил колониста</Execution_Horrible.comps.5.description>
+  <Execution_Horrible.comps.5.description>Кто-то казнил поселенца</Execution_Horrible.comps.5.description>
   <!-- EN: Someone executed a guest -->
   <Execution_Horrible.comps.6.description>Кто-то казнил гостя</Execution_Horrible.comps.6.description>
   <!-- EN: Someone executed a prisoner -->
@@ -45,7 +45,7 @@
   <!-- EN: Responsible for innocent prisoner death -->
   <Execution_HorribleIfInnocent.comps.3.description>Ответственен за смерть невинного заключенного</Execution_HorribleIfInnocent.comps.3.description>
   <!-- EN: Someone executed a colonist -->
-  <Execution_HorribleIfInnocent.comps.5.description>Кто-то казнил колониста</Execution_HorribleIfInnocent.comps.5.description>
+  <Execution_HorribleIfInnocent.comps.5.description>Кто-то казнил поселенца</Execution_HorribleIfInnocent.comps.5.description>
   <!-- EN: Someone executed a guest -->
   <Execution_HorribleIfInnocent.comps.6.description>Кто-то казнил гостя</Execution_HorribleIfInnocent.comps.6.description>
   <!-- EN: Someone executed a prisoner -->
@@ -63,12 +63,16 @@
   <Execution_Required.comps.4.description>Кто-то казнил заключенного</Execution_Required.comps.4.description>
   <!-- EN: Someone executed a guest -->
   <Execution_Required.comps.5.description>Кто-то казнил гостя</Execution_Required.comps.5.description>
-  <!-- EN: No execution for<x> {MINDAYSLASTEXECUTION} </x>days -->
-  <Execution_Required.comps.6.description> Нет казни за {MINDAYSLASTEXECUTION}.</Execution_Required.comps.6.description>
+  <!-- EN: No execution for {MINDAYSLASTEXECUTION} days -->
+  <Execution_Required.comps.6.description> Нет казней {MINDAYSLASTEXECUTION} дней.</Execution_Required.comps.6.description>
+  <!-- EN: executed someone -->
+  <Execution_Required.comps.7.eventLabel>кого-то казнили</Execution_Required.comps.7.eventLabel>
   
   <!-- EN: respected if guilty -->
   <Execution_RespectedIfGuilty.label>уважается, если виновен</Execution_RespectedIfGuilty.label>
   <!-- EN: Executing prisoners is acceptable. If the prisoner is guilty, it is cause for great happiness. -->
   <Execution_RespectedIfGuilty.description>Казнь заключенных приемлема. Если заключенный виновен, это повод для большого счастья.</Execution_RespectedIfGuilty.description>
+  <!-- EN: executed someone -->
+  <Execution_RespectedIfGuilty.comps.3.eventLabel>кого-то казнили</Execution_RespectedIfGuilty.comps.3.eventLabel>
   
 </LanguageData>

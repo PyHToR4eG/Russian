@@ -9,11 +9,11 @@
     <li>passengersSingularOrPlural(colonistCount>=2)->passengers</li>
   -->
   <AncientComplex_Mission.questContentRules.rulesStrings>
-	<li>terminalHackedMessage->Терминал взломан. {COUNT} / [terminalCount] завершено.</li>
-    <li>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural] неспособен к взлому.</li>
-    <li>passengersIncapableOfHackingDialogText->В шаттле для задания «[resolvedQuestName]» нет пассажира, способного к взлому. Вы должны послать по крайней мере одного человека, способного взламывать, для исследования древнего комплекса.</li>
-    <li>passengersSingularOrPlural(colonistCount==1)->пассажир</li>
-    <li>passengersSingularOrPlural(colonistCount>=2)->пассажиры</li>
+    <li>terminalHackedMessage->Терминал взломан. {COUNT} / [terminalCount] завершено.</li>
+    <li>passengersIncapableOfHackingDialogLabel->[passengersSingularOrPlural] к взлому.</li>
+    <li>passengersIncapableOfHackingDialogText->В челноке для задания «[resolvedQuestName]» нет пассажира, способного к взлому. Вы должны послать по крайней мере одного человека, способного взламывать, для исследования древнего комплекса.</li>
+    <li>passengersSingularOrPlural(colonistCount==1)->пассажир неспособен</li>
+    <li>passengersSingularOrPlural(colonistCount>=2)->пассажиры неспособны</li>
   </AncientComplex_Mission.questContentRules.rulesStrings>
   <!-- EN:
     <li>complex->complex</li>
@@ -28,12 +28,12 @@
     <li>investigation->hacking</li>
   -->
   <AncientComplex_Mission.questDescriptionAndNameRules.rulesStrings>
-	<li>complex->комплекса</li>
-    <li>complex->состава</li>
+    <li>complex->комплекса</li>
+    <li>complex->компаунда</li>
     <li>complex->объекта</li>
-    <li>complex->структуры</li>
-    <li>complex->строения</li>
-    <li>investigation->расследование</li>
+    <li>complexFem->структуры</li>
+    <li>complexFem->конструкции</li>
+    <li>investigation->исследование</li>
     <li>investigation->проверка</li>
     <li>investigation->миссия</li>
     <li>investigation->раскопка</li>
@@ -45,7 +45,7 @@
     <li>colonistsSingularOrPlural(colonistCount>=2)->colonists</li>
   -->
   <AncientComplex_Mission.questDescriptionRules.rulesStrings>
-	<li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name], обнаружил древний комплекс на большом расстоянии. [asker_pronoun] считает, что он содержит информацию о реликвии, известной как [relic_name].\n\n[asker_nameDef] не может выделить людей, чтобы разобраться в этом, но надеется, что вы сможете помочь, предоставив ровно [colonistCount] [colonistsSingularOrPlural] для проведения расследования.\n\nКомплекс содержит неизвестные угрозы, и его также ищут враги [asker_nameDef], [enemyFaction_name].\n\n[asker_pronoun] отправит шаттл, чтобы забрать ваших поселенцев, доставить их в комплекс, а затем отвезти домой. Их будут кормить и ухаживать за ними в пути.\n\nКак только вы приземлились, вы должны взломать все терминалы в комплексе в течение [timeoutTicks_duration].</li>
+    <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] из [asker_faction_name], обнаружил древний комплекс далеко отсюда. [asker_pronoun] считает, что он содержит информацию о реликвии, известной как [relic_name].\n\n[asker_nameDef] не может выделить людей, чтобы изучить его, но надеется, что вы сможете помочь, предоставив [colonistCount] [colonistsSingularOrPlural] для проведения исследования.\n\nКомплекс содержит неизвестные угрозы, и его также ищут враги [asker_nameDef], [enemyFaction_name].\n\n[asker_pronoun] отправит челнок, чтобы забрать ваших поселенцев, доставить их в комплекс, а затем отвезти домой. Их будут кормить и ухаживать за ними в пути.\n\nКак только вы приземлились, вы должны взломать все терминалы в комплексе в течение [timeoutTicks_duration].</li>
     <li>colonistsSingularOrPlural(colonistCount==1)->поселенца</li>
     <li>colonistsSingularOrPlural(colonistCount>=2)->поселенцев</li>
   </AncientComplex_Mission.questDescriptionRules.rulesStrings>
@@ -56,10 +56,14 @@
     <li>missionAdj->secret</li>
   -->
   <AncientComplex_Mission.questNameRules.rulesStrings>
-	<li>questName->[investigation] [missionAdj] [complex]</li>
+    <li>questName->[investigation] [missionAdj] [complex]</li>
+	<li>questName->[investigation] [missionAdjFem] [complexFem]</li>
     <li>missionAdj->сокрытого</li>
     <li>missionAdj->тайного</li>
     <li>missionAdj->секретного</li>
+	<li>missionAdjFem->сокрытой</li>
+    <li>missionAdjFem->тайной</li>
+    <li>missionAdjFem->секретной</li>
   </AncientComplex_Mission.questNameRules.rulesStrings>
   
 </LanguageData>

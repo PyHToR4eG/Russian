@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: killed innocent<x> {0}</x> -->
+  <!-- EN: killed innocent {0} -->
   <KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>убито невинное {0}</KilledInnocentAnimal_Disapproved.stages.killed_innocent.label>
   <!-- EN: I had to kill an innocent animal. It was not something I approve of. -->
   <KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>Мне пришлось убить невинное животное. Это было не то, что я одобряю.</KilledInnocentAnimal_Disapproved.stages.killed_innocent.description>
   
-  <!-- EN: killed innocent<x> {0}</x> -->
+  <!-- EN: killed innocent {0} -->
   <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>убито невинное {0}</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
   <!-- EN: I had to kill an innocent animal. It was almost like being forced to murder. -->
   <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>Мне пришлось убить невинное животное. Это было почти то же самое, что быть принужденным к убийству.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>

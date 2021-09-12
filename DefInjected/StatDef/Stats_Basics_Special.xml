@@ -10,7 +10,7 @@
   <TerrorSource.label>устрашение</TerrorSource.label>
   <!-- EN: The intensity of terror this object induces when viewed. -->
   <TerrorSource.description>Интенсивность устрашения, который вызывает этот объект при взгляде.</TerrorSource.description>
-  <!-- EN: <x>{0}</x>% -->
+  <!-- EN: {0}% -->
   <TerrorSource.formatString>{0}%</TerrorSource.formatString>
   
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: victory with despised weapon -->
-  <KillWithDespisedWeapon.label>победа презренным оружием</KillWithDespisedWeapon.label>
+  <KillWithDespisedWeapon.label>победа одержана презираемым оружием</KillWithDespisedWeapon.label>
   
   <!-- EN: victory with noble weapon -->
-  <KillWithNobleWeapon.label>победа благородным оружием</KillWithNobleWeapon.label>
+  <KillWithNobleWeapon.label>победа одержана благородным оружием</KillWithNobleWeapon.label>
   
   <!-- EN: used despised weapon -->
-  <UsedDespisedWeapon.label>использовано презренное оружие</UsedDespisedWeapon.label>
+  <UsedDespisedWeapon.label>использовано презираемое оружие</UsedDespisedWeapon.label>
   
   <!-- EN: used noble weapon -->
   <UsedNobleWeapon.label>использовано благородное оружие</UsedNobleWeapon.label>

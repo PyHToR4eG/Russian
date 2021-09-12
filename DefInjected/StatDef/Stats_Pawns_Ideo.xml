@@ -9,12 +9,12 @@
   <!-- EN: global certainty loss factor -->
   <CertaintyLossFactor.label>фактор потери уверенности</CertaintyLossFactor.label>
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
-  <CertaintyLossFactor.description>Множитель того, сколько уверенности теряет этот человек, когда кто-то другой пытается отвратить его от их идеологии.</CertaintyLossFactor.description>
+  <CertaintyLossFactor.description>Множитель того, сколько уверенности теряет этот человек, когда кто-то другой пытается отвратить его от их идеолигии.</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
   <ConversionPower.label>сила обращения</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>Насколько эффективен этот человек в обращении других к своей собственной идеологии. Когда этот человек пытается обратить кого-то другого, это значение умножает степень уверенности, которую теряет другой человек.</ConversionPower.description>
+  <ConversionPower.description>Насколько эффективен этот человек в обращении других к своей собственной идеолигии. Когда этот человек пытается обратить кого-то другого, это значение умножает степень уверенности, которую теряет другой человек.</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
   <MeleeDodgeChanceIndoorsDarkOffset.label>шанс уклонения в темном помещении</MeleeDodgeChanceIndoorsDarkOffset.label>
@@ -77,8 +77,8 @@
   <ShootingAccuracyOutdoorsLitOffset.description>Погрешность точности стрельбы, если цель находится при свете на улице.</ShootingAccuracyOutdoorsLitOffset.description>
   
   <!-- EN: ideoligion spread chance -->
-  <SocialIdeoSpreadFrequencyFactor.label>шанс распространения идеологии</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.label>шанс распространения идеолигии</SocialIdeoSpreadFrequencyFactor.label>
   <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
-  <SocialIdeoSpreadFrequencyFactor.description>Множитель вероятности того, что этот человек попытается обратить других людей в свою собственную идеологию.</SocialIdeoSpreadFrequencyFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.description>Множитель вероятности того, что этот человек попытается обратить других людей в свою собственную идеолигию.</SocialIdeoSpreadFrequencyFactor.description>
   
 </LanguageData>

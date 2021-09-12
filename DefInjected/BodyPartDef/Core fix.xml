@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   
+   <!-- Core fix -->
+   <!-- BodyParts_General -->
+  <!-- EN: tongue -->
+  <Tongue.label>язык</Tongue.label>
+  <!-- EN: remove -->
+  <Tongue.removeRecipeLabelOverride>удалить</Tongue.removeRecipeLabelOverride>
+  
+</LanguageData>

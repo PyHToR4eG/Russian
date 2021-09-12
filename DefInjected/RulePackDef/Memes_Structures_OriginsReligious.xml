@@ -12,7 +12,7 @@
     <li>adj->universal</li>
   -->
   <DietyTypeMakerAbrahamic.rulePack.rulesStrings>
-	<li>r_deityType->Создатель [all]</li>
+    <li>r_deityType->Создатель [all]</li>
     <li>r_deityType->[adj] бог</li>
     <li>all->всего</li>
     <li>all->всех</li>
@@ -30,7 +30,7 @@
     <li>r_deityName->[color] Christ</li>
   -->
   <NamerDeityChristian.rulePack.rulesStrings>
-	<li>r_deityName(p=3)->Бог</li>
+    <li>r_deityName(p=3)->Бог</li>
     <li>r_deityName->Христос-Господь</li>
     <li>r_deityName->Христос</li>
     <li>r_deityName->[color] Иисус</li>
@@ -56,7 +56,7 @@
     <li>r_deityName->Al-Hakam</li>
   -->
   <NamerDeityIslamic.rulePack.rulesStrings>
-	<li>r_deityName(p=8)->Аллах</li>
+    <li>r_deityName(p=8)->Аллах</li>
     <li>r_deityName->Аль-Илах</li>
     <li>r_deityName->Ар-Рахман</li>
     <li>r_deityName->Аль-Малик</li>

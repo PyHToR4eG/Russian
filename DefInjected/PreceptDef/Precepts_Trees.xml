@@ -17,6 +17,8 @@
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>Требуется связь с Гауранленом (минимальное ожидание: Высокое)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.4>
   <!-- EN: Want Gauranlen connection (min expectation: Sky high) -->
   <GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>Требуется связь с Гауранленом (минимальное ожидание: Заоблачное)</GauranlenConnection_Strong.comps.0.thoughtStageDescriptions.5>
+  <!-- EN: planted Gauranlen tree -->
+  <GauranlenConnection_Strong.comps.1.eventLabel>посажено дерево Гауранлен</GauranlenConnection_Strong.comps.1.eventLabel>
   
   <!-- EN: desired -->
   <Trees_Desired.label>желательно</Trees_Desired.label>
@@ -26,9 +28,17 @@
   <Trees_Desired.comps.1.thoughtStageDescriptions.0>Здоровые деревья</Trees_Desired.comps.1.thoughtStageDescriptions.0>
   <!-- EN: Trees disturbed -->
   <Trees_Desired.comps.1.thoughtStageDescriptions.1>Деревья потревожены</Trees_Desired.comps.1.thoughtStageDescriptions.1>
-  <!-- EN: Trees harmed -->
+  <!-- EN: Trees defaced -->
   <Trees_Desired.comps.1.thoughtStageDescriptions.2>Деревья пострадали</Trees_Desired.comps.1.thoughtStageDescriptions.2>
-  <!-- EN: Trees ravaged -->
+  <!-- EN: Trees damaged -->
   <Trees_Desired.comps.1.thoughtStageDescriptions.3>Деревья уничтожены</Trees_Desired.comps.1.thoughtStageDescriptions.3>
+  <!-- EN: Trees harmed -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.4>Деревья пострадали</Trees_Desired.comps.1.thoughtStageDescriptions.4>
+  <!-- EN: Trees defiled -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.5>Деревья осквернены</Trees_Desired.comps.1.thoughtStageDescriptions.5>
+  <!-- EN: Trees wrecked -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.6>Деревья срублены</Trees_Desired.comps.1.thoughtStageDescriptions.6>
+  <!-- EN: Trees ravaged -->
+  <Trees_Desired.comps.1.thoughtStageDescriptions.7>Деревья уничтожены</Trees_Desired.comps.1.thoughtStageDescriptions.7>
   
 </LanguageData>

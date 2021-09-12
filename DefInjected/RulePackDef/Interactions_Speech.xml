@@ -18,10 +18,10 @@
     <li>praised->raved about</li>
   -->
   <SpeechUtility.rulePack.rulesStrings>
-	<li>spokeof->рассказывает</li>
+    <li>spokeof->рассказывает</li>
     <li>spokeof->говорит</li>
     <li>spokeof->высказывает мысли</li>
-    <li>spokeof->обсуждет</li>
+    <li>spokeof->обсуждает</li>
     <li>spokeof->объясняет</li>
     <li>spokeof->описывает</li>
     <li>praised->выступает с речью про</li>

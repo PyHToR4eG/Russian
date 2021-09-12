@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: ate fungus -->
-  <AteFungus.label>съел гриб</AteFungus.label>
+  <AteFungus.label>съеден гриб</AteFungus.label>
   
   <!-- EN: ate meal with fungus -->
-  <AteFungusAsIngredient.label>съел блюдо с грибами</AteFungusAsIngredient.label>
+  <AteFungusAsIngredient.label>съедено блюдо с грибами</AteFungusAsIngredient.label>
   
   <!-- EN: ate non-fungus plant meal -->
-  <AteNonFungusMealWithPlants.label>съел блюдо без грибов</AteNonFungusMealWithPlants.label>
+  <AteNonFungusMealWithPlants.label>съедено блюдо без грибов</AteNonFungusMealWithPlants.label>
   
   <!-- EN: ate non-fungus crop -->
-  <AteNonFungusPlant.label>съел негрибковую культуру</AteNonFungusPlant.label>
+  <AteNonFungusPlant.label>съедено растение (не гриб)</AteNonFungusPlant.label>
   
 </LanguageData>

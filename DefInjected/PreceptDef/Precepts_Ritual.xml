@@ -4,35 +4,35 @@
   <!-- EN: blinding -->
   <BlindingCeremony.label>ослепление</BlindingCeremony.label>
   <!-- EN: A cutter will ritualistically blind a target. The audience will watch as the cutter gives a speech, cuts out both of the target's eyes, and says some closing words. The target will be left bleeding and need immediate medical care. -->
-  <BlindingCeremony.description>Резак ритуально ослепит цель. Аудитория будет наблюдать, как мясник произносит речь, вырезает оба глаза жертвы и произносит несколько заключительных слов. Жертва останется истекать кровью и нуждается в немедленной медицинской помощи.</BlindingCeremony.description>
+  <BlindingCeremony.description>Мясник ритуально ослепит цель. Аудитория будет наблюдать, как мясник произносит речь, вырезает оба глаза жертвы и произносит несколько заключительных слов. Жертва останется истекать кровью и нуждается в немедленной медицинской помощи.</BlindingCeremony.description>
   
   <!-- EN: conversion ritual -->
   <Conversion.label>ритуал обращения</Conversion.label>
   <!-- EN: Try to persuade someone into joining your ideoligion. -->
-  <Conversion.description>Попробуйте убедить кого-нибудь присоединиться к вашей идеологии.</Conversion.description>
+  <Conversion.description>Попробуйте убедить кого-нибудь присоединиться к вашей идеолигии.</Conversion.description>
   
   <!-- EN: christmas tree party -->
   <DateRitualConsumable.label>вечеринка с рождественской елкой</DateRitualConsumable.label>
   <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
-  <DateRitualConsumable.description>Праздничное собрание для ваших колонистов, чтобы повеселиться. Лидер произнесет ободряющую речь, после чего все некоторое время будут общаться.</DateRitualConsumable.description>
+  <DateRitualConsumable.description>Праздничное собрание для ваших поселенцев, чтобы повеселиться. Лидер произнесет ободряющую речь, после чего все некоторое время будут общаться.</DateRitualConsumable.description>
   
   <!-- EN: public execution -->
   <Execution.label>публичная казнь</Execution.label>
   <!-- EN: An executioner will publicly execute a prisoner. The executioner will give a short speech, execute the prisoner by cutting, and say some closing words. Spectating slaves will become afraid and intimidated, and colonists will feel exhilarated or disgusted depending on their beliefs. -->
-  <Execution.description>Палач публично казнит заключенного. Палач произнесет короткую речь, казнит заключенного, разрезав его, и скажет несколько заключительных слов. Наблюдающие за рабами будут бояться и запуганы, а колонисты будут чувствовать радость или отвращение в зависимости от своих убеждений.</Execution.description>
+  <Execution.description>Палач публично казнит заключенного. Палач произнесет короткую речь, казнит заключенного, разрезав его, и скажет несколько заключительных слов. Наблюдающие за рабами будут бояться и запуганы, а поселенцы будут чувствовать радость или отвращение в зависимости от своих убеждений.</Execution.description>
   <!-- EN: Public execution -->
-  <Execution.tipLabelOverride>публичная казнь</Execution.tipLabelOverride>
+  <Execution.tipLabelOverride>Публичная казнь</Execution.tipLabelOverride>
   
   <!-- EN: social festival -->
   <Festival.label>культурный фестиваль</Festival.label>
   <!-- EN: A celebratory gathering for your colonists to have fun. A leader will give an encouraging speech, then everyone will socialize for a while. -->
-  <Festival.description>Праздничное собрание для ваших колонистов, чтобы повеселиться. Лидер произнесет ободряющую речь, после чего все некоторое время будут общаться.</Festival.description>
+  <Festival.description>Праздничное собрание для ваших поселенцев, чтобы повеселиться. Лидер произнесет ободряющую речь, после чего все некоторое время будут общаться.</Festival.description>
   
   <!-- EN: funeral -->
   <Funeral.label>похороны</Funeral.label>
   <!-- EN: A gathering that occurs around a believer's grave after they die and are buried. If the body is destroyed, an empty grave can be used. Slaves don't get funerals. -->
   <Funeral.description>Собрание, которое происходит вокруг могилы верующего после его смерти и погребения. Если тело уничтожено, можно использовать пустую могилу. Рабов не хоронят.</Funeral.description>
-  <!-- EN: <x>{PAWN_nameDef} </x>should be buried and given a funeral so<x> {PAWN_possessive} </x>friends and family can say farewell. -->
+  <!-- EN: {PAWN_nameDef} should be buried and given a funeral so {PAWN_possessive} friends and family can say farewell. -->
   <Funeral.extraTextPawnDeathLetter>{PAWN_nameDef} должен быть похоронен и отпет, чтобы {PAWN_possessive} друзья и семья могли попрощаться.</Funeral.extraTextPawnDeathLetter>
   
   <!-- EN: funeral (no corpse) -->
@@ -50,17 +50,22 @@
   <!-- EN: leader speech -->
   <LeaderSpeech.label>выступление лидера</LeaderSpeech.label>
   <!-- EN: A rousing speech intended to improve morale. Colonists will gather, and the leader will speak for a few hours. If all goes well, listeners will feel inspired, and gain respect for the leader. If it goes poorly, the speech will do social damage. -->
-  <LeaderSpeech.description>Воодушевляющая речь, призванная поднять моральный дух. Колонисты соберутся, и лидер будет говорить в течение нескольких часов. Если все пойдет хорошо, слушатели почувствуют вдохновение и проникнутся уважением к лидеру. Если все пойдет плохо, речь нанесет социальный ущерб.</LeaderSpeech.description>
+  <LeaderSpeech.description>Воодушевляющая речь, призванная поднять моральный дух. Поселенцы соберутся, и лидер будет говорить в течение нескольких часов. Если все пойдет хорошо, слушатели почувствуют вдохновение и проникнутся уважением к лидеру. Если все пойдет плохо, речь нанесет социальный ущерб.</LeaderSpeech.description>
+  
+  <!-- EN: role change -->
+  <RoleChange.label>изменение роли</RoleChange.label>
+  <!-- EN: A ceremony for changing social roles. The person changing roles will give a speech while others gather around. The required number of spectators must attend. -->
+  <RoleChange.description>Церемония смены социальных ролей. Человек, меняющий роль, произнесет речь, в то время как другие соберутся вокруг. Должно присутствовать необходимое количество зрителей.</RoleChange.description>
   
   <!-- EN: scarification -->
   <ScarificationCeremony.label>шрамирование</ScarificationCeremony.label>
   <!-- EN: A ritualistic scarring where a cutter carves ideoligious symbols into a target. The audience will watch as the cutter gives a speech, performs the cutting, then says some finishing words. -->
-  <ScarificationCeremony.description>Ритуальное шрамирование, когда мясник вырезает идеологические символы на жертве. Аудитория будет наблюдать, как резчик произносит речь, выполняет резку, затем произносит несколько заключительных слов.</ScarificationCeremony.description>
+  <ScarificationCeremony.description>Ритуальное шрамирование, когда мясник вырезает идеолигические символы на жертве. Аудитория будет наблюдать, как мясник произносит речь, выполняет резку, затем произносит несколько заключительных слов.</ScarificationCeremony.description>
   
   <!-- EN: tree connection ritual -->
   <TreeConnection.label>ритуал связи с деревом</TreeConnection.label>
   <!-- EN: A connector will connect with a Gauranlen tree. The connector will touch the Gauranlen tree and speak to it, forming a permanent link. Others gather in a circle to watch and add force to the ritual. -->
-  <TreeConnection.description>Заботящийся установит связь с деревом Гауранлен. Заботящийся коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие соберутся в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
+  <TreeConnection.description>Арборист установит связь с деревом Гауранлен. Арборист коснется дерева Гауранлен и поговорит с ним, образуя постоянную связь. Другие соберутся в круг, чтобы понаблюдать и придать силы ритуалу.</TreeConnection.description>
   
   <!-- EN: trial -->
   <Trial.label>суд</Trial.label>

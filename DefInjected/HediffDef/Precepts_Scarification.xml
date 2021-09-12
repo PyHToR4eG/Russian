@@ -4,10 +4,12 @@
   <!-- EN: scarification -->
   <Scarification.label>шрамирование</Scarification.label>
   <!-- EN: An artistic scar carefully carved into the flesh for ritual or artistic purposes. -->
-  <Scarification.description>Художественный шрам, тщательно вырезанный на плоти в ритуальных или художественных целях.</Scarification.description>
+  <Scarification.description>Вычурный шрам, аккуратно нанесённый на кожу в ритуальных целях.</Scarification.description>
+  <!-- EN: scarification -->
+  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>шрамирование</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a scarification -->
   <Scarification.labelNoun>шрамирование</Scarification.labelNoun>
-  <!-- EN: <x>{0} </x>in the<x> {1}</x> -->
+  <!-- EN: {0} in the {1} -->
   <Scarification.labelNounPretty>{0} в {1}</Scarification.labelNounPretty>
   
 </LanguageData>

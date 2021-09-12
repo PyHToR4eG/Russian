@@ -27,7 +27,7 @@
   <Slavery_Disapproved.comps.6.description>Кто-то поработил пленника</Slavery_Disapproved.comps.6.description>
   
   <!-- EN: honorable -->
-  <Slavery_Honorable.label>почетно</Slavery_Honorable.label>
+  <Slavery_Honorable.label>достойно</Slavery_Honorable.label>
   <!-- EN: One who owns and trades slaves should be honored and respected. -->
   <Slavery_Honorable.description>Того, кто владеет рабами и торгует ими, следует почитать и уважать.</Slavery_Honorable.description>
   <!-- EN: Each slave in colony -->
@@ -36,11 +36,13 @@
   <Slavery_Honorable.comps.6.description>Кто-то продал раба</Slavery_Honorable.comps.6.description>
   <!-- EN: Someone enslaved a prisoner -->
   <Slavery_Honorable.comps.7.description>Кто-то поработил пленника</Slavery_Honorable.comps.7.description>
+  <!-- EN: enslaved a prisoner -->
+  <Slavery_Honorable.comps.8.eventLabel>пленник порабощен</Slavery_Honorable.comps.8.eventLabel>
   
   <!-- EN: horrible -->
   <Slavery_Horrible.label>ужасно</Slavery_Horrible.label>
   <!-- EN: Owning or trading human beings is a horrible thing. -->
-  <Slavery_Horrible.description>Владеть людьми или торговать ими - чудовищная явление.</Slavery_Horrible.description>
+  <Slavery_Horrible.description>Владеть людьми или торговать ими - чудовищная вещь.</Slavery_Horrible.description>
   <!-- EN: Each slave in colony -->
   <Slavery_Horrible.comps.0.description>Каждый раб в колонии</Slavery_Horrible.comps.0.description>
   <!-- EN: Someone sold a slave -->

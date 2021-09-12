@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: editing memes -->
-  <EditingMemes.label>редактирование доктрин</EditingMemes.label>
+  <EditingMemes.label>изменение черт</EditingMemes.label>
   <!-- EN: You can edit memes by clicking on them. -->
-  <EditingMemes.helpText>Вы можете редактировать доктрины, нажимая на них.</EditingMemes.helpText>
+  <EditingMemes.helpText>Вы можете изменить черты, нажимая на них.</EditingMemes.helpText>
   
   <!-- EN: editing precepts -->
-  <EditingPrecepts.label>редактирование заповедей</EditingPrecepts.label>
+  <EditingPrecepts.label>изменение принципов</EditingPrecepts.label>
   <!-- EN: You can edit precepts by clicking on them. -->
-  <EditingPrecepts.helpText>Вы можете редактировать заповеди, нажимая на них.</EditingPrecepts.helpText>
+  <EditingPrecepts.helpText>Вы можете изменить принципы, нажимая на них.</EditingPrecepts.helpText>
   
 </LanguageData>

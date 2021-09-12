@@ -2,7 +2,10 @@
 <LanguageData>
   
   <!-- EN: combat in darkness -->
-  <DarknessCombat.label>сражение в темноте</DarknessCombat.label>
+  <DarknessCombat.label>бой в темноте</DarknessCombat.label>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>затмение</Eclipse.label>
   
   <!-- EN: lighting -->
   <Lighting.label>освещение</Lighting.label>

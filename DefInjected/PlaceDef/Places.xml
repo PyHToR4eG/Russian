@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- bug fix for Core -->
-  
   <!-- EN:
     <li>place_name->Atura Station</li>
     <li>place_adjective->Aturan</li>
@@ -25,23 +23,46 @@
   -->
   <AturaStation.placeRules.rulesStrings>
     <li>place_name->Станция Атура</li>
+    <li>place_nameGC->Станции Атура</li>
     <li>place_adjective->атуранин</li>
     <li>place_summary->космическая верфь</li>
+    <li>place_summaryIn->на космической верфи</li>
+    <li>place_summaryGC->космической верфи</li>
     <li>place_community->док челноков</li>
     <li>place_community->промышленное кольцо</li>
     <li>place_community->жилое кольцо</li>
-    <li>place_powerCenter->центральная рубка</li>
+    <li>place_communityIn->в доке челноков</li>
+    <li>place_communityIn->в промышленном кольце</li>
+    <li>place_communityIn->в жилом кольце</li>
+    <li>place_powerCenterIC->центральной рубкой</li>
+    <li>place_powerCenterIn->в центральной рубке</li>
+    <li>place_powerCenter->центральную рубку</li>
     <li>place_job->оператор строительного дрона</li>
     <li>place_job->менеджер</li>
     <li>place_job->пилот-испытатель</li>
     <li>place_job->специалист по продажам</li>
     <li>place_job->оператор 3D-принтера</li>
+    <li>place_jobGC->оператора строительного дрона</li>
+    <li>place_jobGC->менеджера</li>
+    <li>place_jobGC->пилота-испытателя</li>
+    <li>place_jobGC->специалиста по продажам</li>
+    <li>place_jobGC->оператора 3D-принтера</li>
     <li>place_personalWeapon->тазер</li>
     <li>place_personalWeapon->плазменный сварочный аппарат</li>
+    <li>place_personalWeaponGC->тазера</li>
+    <li>place_personalWeaponGC->плазменного сварочного аппарата</li>
+    <li>place_personalWeaponIC->тазером</li>
+    <li>place_personalWeaponIC->плазменным сварочным аппаратом</li>
     <li>place_massWeapon->[anEMPAttack]</li>
-    <li>place_massWeapon->дистанционные сварочные дроны</li>
+    <li>place_massWeapon->дистанционных сварочных дронов</li>
+    <li>place_massWeaponGC->[anEMPAttackGC]</li>
+    <li>place_massWeaponGC->дистанционных сварочных дронов</li>
     <li>place_foeLeader->криминальный авторитет</li>
     <li>place_foeSoldiers->бандиты</li>
+    <li>place_foeLeaderGC->криминального авторитета</li>
+    <li>place_foeSoldiersGC->бандитов</li>
+    <li>place_foeLeaderAC->криминального авторитета</li>
+    <li>place_foeSoldiersAC->бандитов</li>
   </AturaStation.placeRules.rulesStrings>
   
   <!-- EN:
@@ -66,23 +87,46 @@
   -->
   <Bagua5.placeRules.rulesStrings>
     <li>place_name->Багуа 5</li>
+    <li>place_nameGC->Багуа 5</li>
     <li>place_adjective->багуанец</li>
     <li>place_summary->планета-свалка</li>
+    <li>place_summaryIn->на планете-свалке</li>
+    <li>place_summaryGC->планеты-свалки</li>
     <li>place_community->укреплённый аванпост мусорщиков</li>
-    <li>place_community->станция по переработке дождевой воды</li>
+    <li>place_community->станцию по переработке дождевой воды</li>
     <li>place_community->город мусорщиков</li>
+    <li>place_communityIn->в укреплённом аванпосте мусорщиков</li>
+    <li>place_communityIn->на станции по переработке дождевой воды</li>
+    <li>place_communityIn->в городе мусорщиков</li>
+    <li>place_powerCenterIC->торговым космопортом</li>
+    <li>place_powerCenterIn->в торговом космопорте</li>
     <li>place_powerCenter->торговый космопорт</li>
     <li>place_job->мусорщик</li>
     <li>place_job->торговец</li>
     <li>place_job->умелец</li>
     <li>place_job->охранник</li>
     <li>place_job->разборщик</li>
+    <li>place_jobGC->мусорщика</li>
+    <li>place_jobGC->торговца</li>
+    <li>place_jobGC->умельца</li>
+    <li>place_jobGC->охранника</li>
+    <li>place_jobGC->разборщика</li>
     <li>place_personalWeapon->ружьё-самопал</li>
     <li>place_personalWeapon->импровизированный меч</li>
-    <li>place_massWeapon->импровизированная ядерная бомба</li>
+    <li>place_personalWeaponGC->ружья-самопала</li>
+    <li>place_personalWeaponGC->импровизированного меча</li>
+    <li>place_personalWeaponIC->ружьём-самопалом</li>
+    <li>place_personalWeaponIC->импровизированным мечом</li>
+    <li>place_massWeapon->импровизированную ядерную бомбу</li>
     <li>place_massWeapon->вирус ржавчины</li>
+    <li>place_massWeaponGC->импровизированной ядерной бомбы</li>
+    <li>place_massWeaponGC->вируса ржавчины</li>
     <li>place_foeLeader->мусорный владыка</li>
     <li>place_foeSoldiers->клёпкоголовые</li>
+    <li>place_foeLeaderGC->мусорного владыки</li>
+    <li>place_foeSoldiersGC->клёпкоголовых</li>
+    <li>place_foeLeaderAC->мусорного владыку</li>
+    <li>place_foeSoldiersAC->клёпкоголовых</li>
   </Bagua5.placeRules.rulesStrings>
   
   <!-- EN:
@@ -107,23 +151,46 @@
   -->
   <Boccocarro.placeRules.rulesStrings>
     <li>place_name->Боккокаро</li>
+    <li>place_nameGC->Боккокары</li>
     <li>place_adjective->боккокарец</li>
     <li>place_summary->пещерный мир</li>
+    <li>place_summaryIn->в пещерном мире</li>
+    <li>place_summaryGC->пещерного мира</li>
     <li>place_community->туннель на поверхность</li>
-    <li>place_community->грибная пещера</li>
+    <li>place_community->грибную пещеру</li>
     <li>place_community->коллектор конденсата</li>
+    <li>place_communityIn->в туннеле на поверхность</li>
+    <li>place_communityIn->в грибной пещере</li>
+    <li>place_communityIn->в коллекторе конденсата</li>
+    <li>place_powerCenterIC->залом речей</li>
+    <li>place_powerCenterIn->в зале речей</li>
     <li>place_powerCenter->зал речей</li>
     <li>place_job->шахтёр</li>
     <li>place_job->грибной фермер</li>
     <li>place_job->мусорщик</li>
     <li>place_job->повар</li>
     <li>place_job->охотник на лягушек</li>
+    <li>place_jobGC->шахтёра</li>
+    <li>place_jobGC->грибного фермера</li>
+    <li>place_jobGC->мусорщика</li>
+    <li>place_jobGC->повара</li>
+    <li>place_jobGC->охотника на лягушек</li>
     <li>place_personalWeapon->кирка</li>
     <li>place_personalWeapon->гидравлический арбалет</li>
+    <li>place_personalWeaponGC->кирки</li>
+    <li>place_personalWeaponGC->гидравлического арбалета</li>
+    <li>place_personalWeaponIC->киркой</li>
+    <li>place_personalWeaponIC->гидравлическим арбалетом</li>
     <li>place_massWeapon->[seismicDevice]</li>
-    <li>place_massWeapon->бомба из чёрного пороха</li>
+    <li>place_massWeapon->бомбу из чёрного пороха</li>
+    <li>place_massWeaponGC->[seismicDeviceGC]</li>
+    <li>place_massWeaponGC->бомбы из чёрного пороха</li>
     <li>place_foeLeader->управляющий шахтами</li>
     <li>place_foeSoldiers->солдаты бездны</li>
+    <li>place_foeLeaderGC->управляющего шахтами</li>
+    <li>place_foeSoldiersGC->солдат бездны</li>
+    <li>place_foeLeaderAC->управляющего шахтами</li>
+    <li>place_foeSoldiersAC->солдат бездны</li>
   </Boccocarro.placeRules.rulesStrings>
   
   <!-- EN:
@@ -148,23 +215,46 @@
   -->
   <Chelis.placeRules.rulesStrings>
     <li>place_name->Челис</li>
+    <li>place_nameGC->Челиса</li>
     <li>place_adjective->челисианец</li>
     <li>place_summary->засушливый мир</li>
+    <li>place_summaryIn->в засушливом мире</li>
+    <li>place_summaryGC->засушливого мира</li>
     <li>place_community->коллектор влаги</li>
     <li>place_community->иссушенный город</li>
     <li>place_community->оазис</li>
+    <li>place_communityIn->в коллекторе влаги</li>
+    <li>place_communityIn->в иссушенном городе</li>
+    <li>place_communityIn->в оазисе</li>
+    <li>place_powerCenterIC->залом жизни</li>
+    <li>place_powerCenterIn->в зале жизни</li>
     <li>place_powerCenter->зал жизни</li>
     <li>place_job->собиратель воды</li>
     <li>place_job->ящерный кожевенник</li>
     <li>place_job->искатель оазисов</li>
     <li>place_job->собиратель кактусов</li>
     <li>place_job->пастух</li>
+    <li>place_jobGC->собирателя воды</li>
+    <li>place_jobGC->ящерного кожевенника</li>
+    <li>place_jobGC->искателя оазисов</li>
+    <li>place_jobGC->собирателя кактусов</li>
+    <li>place_jobGC->пастуха</li>
     <li>place_personalWeapon->песчаная стрела</li>
     <li>place_personalWeapon->дубина-кактус</li>
-    <li>place_massWeapon->вызванная ИИ-архотеком песчаная буря</li>
+    <li>place_personalWeaponGC->песчаной стрелы</li>
+    <li>place_personalWeaponGC->дубины-кактуса</li>
+    <li>place_personalWeaponIC->песчаной стрелой</li>
+    <li>place_personalWeaponIC->дубиной-кактусом</li>
+    <li>place_massWeapon->вызванную ИИ-архотеком песчаную буру</li>
     <li>place_massWeapon->нашествие шипастых ящериц</li>
+    <li>place_massWeaponGC->вызванной ИИ-архотеком песчаной бури</li>
+    <li>place_massWeaponGC->нашествия шипастых ящериц</li>
     <li>place_foeLeader->вождь</li>
     <li>place_foeSoldiers->песчаные воины</li>
+    <li>place_foeLeaderGC->вождя</li>
+    <li>place_foeSoldiersGC->песчаных воинов</li>
+    <li>place_foeLeaderAC->вождя</li>
+    <li>place_foeSoldiersAC->песчаных воинов</li>
   </Chelis.placeRules.rulesStrings>
   
   <!-- EN:
@@ -192,11 +282,19 @@
   -->
   <Creticon.placeRules.rulesStrings>
     <li>place_name->Кретикон</li>
-    <li>place_adjective->кретиконец</li>
+    <li>place_nameGC->Кретикона</li>
+    <li>place_adjective->кретиконечн</li>
     <li>place_summary->мёртвый пост-апокалиптический мир</li>
+    <li>place_summaryIn->в мёртвом пост-апокалиптическом мире</li>
+    <li>place_summaryGC->мёртвого пост-апокалиптического мира</li>
     <li>place_community->бункер</li>
-    <li>place_community->пещера</li>
+    <li>place_community->пещеру</li>
     <li>place_community->убежище во льдах</li>
+    <li>place_communityIn->в бункере</li>
+    <li>place_communityIn->в пещере</li>
+    <li>place_communityIn->в убежище во льдах</li>
+    <li>place_powerCenterIC->бункером управляющего</li>
+    <li>place_powerCenterIn->в бункере управляющего</li>
     <li>place_powerCenter->бункер управляющего</li>
     <li>place_job->техник водоочистного агрегата</li>
     <li>place_job->марикультуролог</li>
@@ -204,14 +302,32 @@
     <li>place_job->учитель</li>
     <li>place_job->командир ополчения</li>
     <li>place_job->пилот челнока</li>
+    <li>place_jobGC->техника водоочистного агрегата</li>
+    <li>place_jobGC->марикультуролога</li>
+    <li>place_jobGC->врача</li>
+    <li>place_jobGC->учителя</li>
+    <li>place_jobGC->командира ополчения</li>
+    <li>place_jobGC->пилота челнока</li>
     <li>place_personalWeapon->автоматический пистолет</li>
     <li>place_personalWeapon->пулемёт</li>
+    <li>place_personalWeaponGC->автоматического пистолета</li>
+    <li>place_personalWeaponGC->пулемёта</li>
+    <li>place_personalWeaponIC->автоматическим пистолетом</li>
+    <li>place_personalWeaponIC->пулемётом</li>
     <li>place_massWeapon->ядерный гранатомёт</li>
-    <li>place_massWeapon->орбитальная бомбардировка</li>
+    <li>place_massWeapon->орбитальную бомбардировку</li>
     <li>place_massWeapon->химические бомбы</li>
-    <li>place_massWeapon->взломанные механоиды</li>
+    <li>place_massWeapon->взломанных механоидов</li>
+    <li>place_massWeaponGC->ядерного гранатомёта</li>
+    <li>place_massWeaponGC->орбитальной бомбардировки</li>
+    <li>place_massWeaponGC->химической бомбы</li>
+    <li>place_massWeaponGC->взломанных механоидов</li>
     <li>place_foeLeader->командир</li>
     <li>place_foeSoldiers->наёмники</li>
+    <li>place_foeLeaderGC->командира</li>
+    <li>place_foeSoldiersGC->наёмников</li>
+    <li>place_foeLeaderAC->командира</li>
+    <li>place_foeSoldiersAC->наёмников</li>
   </Creticon.placeRules.rulesStrings>
   
   <!-- EN:
@@ -238,25 +354,50 @@
   -->
   <Filson.placeRules.rulesStrings>
     <li>place_name->Филсон</li>
+    <li>place_nameGC->Филсона</li>
     <li>place_adjective->филсонец</li>
     <li>place_summary->тихий аграрный мир</li>
-    <li>place_community->ратуша</li>
+    <li>place_summaryIn->в тихом аграрном мире</li>
+    <li>place_summaryGC->тихого аграрного мира</li>
+    <li>place_community->ратушу</li>
     <li>place_community->завод удобрений</li>
     <li>place_community->мегаэлеватор</li>
-    <li>place_community->водопроводная колонка</li>
-    <li>place_powerCenter->ратуша</li>
+    <li>place_community->водопроводную колонку</li>
+    <li>place_communityIn->в ратуше</li>
+    <li>place_communityIn->на заводе удобрений</li>
+    <li>place_communityIn->на мегаэлеваторе</li>
+    <li>place_communityIn->на водопроводной колонке</li>
+    <li>place_powerCenterIC->ратушей</li>
+    <li>place_powerCenterIn->в ратуше</li>
+    <li>place_powerCenter->ратуш</li>
     <li>place_job->помощник на ферме</li>
     <li>place_job->сборщик фруктов</li>
     <li>place_job->водитель транспорта</li>
     <li>place_job->школьный учитель</li>
     <li>place_job->инженер-эколог</li>
+    <li>place_jobGC->помощника на ферме</li>
+    <li>place_jobGC->сборщика фруктов</li>
+    <li>place_jobGC->водителя транспорта</li>
+    <li>place_jobGC->школьного учителя</li>
+    <li>place_jobGC->инженера-эколога</li>
     <li>place_personalWeapon->винтовка</li>
     <li>place_personalWeapon->коса</li>
+    <li>place_personalWeaponGC->винтовки</li>
+    <li>place_personalWeaponGC->косы</li>
+    <li>place_personalWeaponIC->винтовкой</li>
+    <li>place_personalWeaponIC->косой</li>
     <li>place_massWeapon->бомбы из удобрений</li>
     <li>place_massWeapon->боевые пестициды</li>
-    <li>place_massWeapon->космическая линза</li>
+    <li>place_massWeapon->космическую линзу</li>
+    <li>place_massWeaponGC->бомбы из удобрений</li>
+    <li>place_massWeaponGC->боевых пестицид</li>
+    <li>place_massWeaponGC->космической линзы</li>
     <li>place_foeLeader->землевладелец</li>
     <li>place_foeSoldiers->ополчение</li>
+    <li>place_foeLeaderGC->землевладельца</li>
+    <li>place_foeSoldiersGC->ополчения</li>
+    <li>place_foeLeaderAC->землевладельца</li>
+    <li>place_foeSoldiersAC->ополчение</li>
   </Filson.placeRules.rulesStrings>
   
   <!-- EN:
@@ -281,23 +422,46 @@
   -->
   <Ilwaba.placeRules.rulesStrings>
     <li>place_name->Ильваба</li>
+    <li>place_nameGC->Ильвабы</li>
     <li>place_adjective->ильвабец</li>
     <li>place_summary->оживший пост-апокалиптический мир</li>
-    <li>place_community->деревня на небоскрёбе</li>
+    <li>place_summaryIn->в ожившем пост-апокалиптическом мире</li>
+    <li>place_summaryGC->ожившего пост-апокалиптического мира</li>
+    <li>place_community->деревню на небоскрёбе</li>
     <li>place_community->торговый пост на шоссе</li>
     <li>place_community->оазис в пустоши</li>
+    <li>place_communityIn->в деревне на небоскрёбе</li>
+    <li>place_communityIn->в торговом посту на шоссе</li>
+    <li>place_communityIn->в оазисе в пустоши</li>
+    <li>place_powerCenterIC->домом жизни</li>
+    <li>place_powerCenterIn->в доме жизни</li>
     <li>place_powerCenter->дом жизни</li>
     <li>place_job->фермер</li>
     <li>place_job->проводник</li>
     <li>place_job->охотник за артефактами</li>
     <li>place_job->знающий туннели</li>
-    <li>place_job->восстановитель артефактов</li>
+    <li>place_job->реставратор артефактов</li>
+    <li>place_jobGC->фермера</li>
+    <li>place_jobGC->проводника</li>
+    <li>place_jobGC->охотника за артефактами</li>
+    <li>place_jobGC->знающего туннели</li>
+    <li>place_jobGC->реставратора артефактов</li>
     <li>place_personalWeapon->импровизированный меч</li>
     <li>place_personalWeapon->импровизированный кинжал</li>
-    <li>place_massWeapon->давно забытая ядерная бомба</li>
-    <li>place_massWeapon->древняя токсичная бомба</li>
+    <li>place_personalWeaponGC->импровизированного меча</li>
+    <li>place_personalWeaponGC->импровизированного кинжала</li>
+    <li>place_personalWeaponIC->импровизированным мечом</li>
+    <li>place_personalWeaponIC->импровизированным кинжалом</li>
+    <li>place_massWeapon->давно забытую ядерную бомбу</li>
+    <li>place_massWeapon->древнюю токсичную бомбу</li>
+    <li>place_massWeaponGC->давно забытой ядерной бомбы</li>
+    <li>place_massWeaponGC->древней токсичной бомбы</li>
     <li>place_foeLeader->криптовождь</li>
     <li>place_foeSoldiers->криптосолдаты</li>
+    <li>place_foeLeaderGC->криптовождя</li>
+    <li>place_foeSoldiersGC->криптосолдат</li>
+    <li>place_foeLeaderAC->криптовождя</li>
+    <li>place_foeSoldiersAC->криптосолдат</li>
   </Ilwaba.placeRules.rulesStrings>
   
   <!-- EN:
@@ -323,24 +487,48 @@
   -->
   <Iwamura.placeRules.rulesStrings>
     <li>place_name->Ивамура</li>
+    <li>place_nameGC->Ивамуры</li>
     <li>place_adjective->ивамурец</li>
     <li>place_summary->астероид</li>
-    <li>place_community->капсула-рынок</li>
-    <li>place_community->капсула-склад</li>
+    <li>place_summaryIn->на астероиде</li>
+    <li>place_summaryGC->астероида</li>
+    <li>place_community->капсулу-рынок</li>
+    <li>place_community->капсулу-склад</li>
     <li>place_community->стыковочный шлюз</li>
+    <li>place_communityIn->в капсуле-рынке</li>
+    <li>place_communityIn->в капсуле-складе</li>
+    <li>place_communityIn->в стыковочном шлюзе</li>
+    <li>place_powerCenterIC->станционным мостиком</li>
+    <li>place_powerCenterIn->на станционном мостике</li>
     <li>place_powerCenter->станционный мостик</li>
     <li>place_job->инженер системы жизнеобеспечения</li>
     <li>place_job->торговец</li>
     <li>place_job->диспетчер управления полётов</li>
     <li>place_job->спортсмен нулевой гравитации</li>
     <li>place_job->ведущий радио</li>
+    <li>place_jobGC->инженера системы жизнеобеспечения</li>
+    <li>place_jobGC->торговца</li>
+    <li>place_jobGC->диспетчера управления полётов</li>
+    <li>place_jobGC->спортсмена нулевой гравитации</li>
+    <li>place_jobGC->ведущего радио</li>
     <li>place_personalWeapon->энергетическая винтовка</li>
     <li>place_personalWeapon->сварочный аппарат</li>
+    <li>place_personalWeaponGC->энергетической винтовки</li>
+    <li>place_personalWeaponGC->сварочного аппарата</li>
+    <li>place_personalWeaponIC->энергетической винтовкой</li>
+    <li>place_personalWeaponIC->сварочным аппаратом</li>
     <li>place_massWeapon->токсичный аэрозоль</li>
     <li>place_massWeapon->[anEMPAttack]</li>
     <li>place_massWeapon->вирус системы жизнеобеспечения</li>
+    <li>place_massWeaponGC->токсичного аэрозоля</li>
+    <li>place_massWeaponGC->[anEMPAttackGC]</li>
+    <li>place_massWeaponGC->вируса системы жизнеобеспечения</li>
     <li>place_foeLeader->генеральный директор мегакорпорации</li>
     <li>place_foeSoldiers->корпоративная полиция</li>
+    <li>place_foeLeaderGC->генерального директора мегакорпорации</li>
+    <li>place_foeSoldiersGC->корпоративной полиции</li>
+    <li>place_foeLeaderAC->генерального директора мегакорпорации</li>
+    <li>place_foeSoldiersAC->корпоративную полицию</li>
   </Iwamura.placeRules.rulesStrings>
   
   <!-- EN:
@@ -366,24 +554,48 @@
   -->
   <Kemia.placeRules.rulesStrings>
     <li>place_name->Кемия</li>
+    <li>place_nameGC->Кемии</li>
     <li>place_adjective->кемиец</li>
     <li>place_summary->погружённый в войну токсичный мир</li>
+    <li>place_summaryIn->в погружённом в войну токсичном мире</li>
+    <li>place_summaryGC->погружённого в войну токсичного мира</li>
     <li>place_community->трущобы</li>
-    <li>place_community->туннельная колония</li>
+    <li>place_community->туннельную колонию</li>
     <li>place_community->подземный город</li>
+    <li>place_communityIn->в трущобах</li>
+    <li>place_communityIn->в туннельной колонии</li>
+    <li>place_communityIn->в подземном город</li>
+    <li>place_powerCenterIC->дворцом городского владыки</li>
+    <li>place_powerCenterIn->во дворце городского владыки</li>
     <li>place_powerCenter->дворец городского владыки</li>
     <li>place_job->уборщик улиц</li>
     <li>place_job->инженер очистки</li>
     <li>place_job->работник протеиновой фермы</li>
     <li>place_job->таксист</li>
     <li>place_job->оружейник</li>
+    <li>place_jobGC->уборщика улиц</li>
+    <li>place_jobGC->инженера очистки</li>
+    <li>place_jobGC->работника протеиновой фермы</li>
+    <li>place_jobGC->таксиста</li>
+    <li>place_jobGC->оружейника</li>
     <li>place_personalWeapon->газовая бомба</li>
     <li>place_personalWeapon->токсичный огнемёт</li>
+    <li>place_personalWeaponGC->газовой бомбы</li>
+    <li>place_personalWeaponGC->токсичного огнемёта</li>
+    <li>place_personalWeaponIC->газовой бомбой</li>
+    <li>place_personalWeaponIC->токсичным огнемётом</li>
     <li>place_massWeapon->«грязные» ядерные бомбы</li>
-    <li>place_massWeapon->биоинженерная чума</li>
-    <li>place_massWeapon->пробивные токсичные бомбы</li> 
+    <li>place_massWeapon->военизированный штамм чумы</li>
+    <li>place_massWeapon->пробивные токсичные бомбы</li>
+    <li>place_massWeaponGC->«грязной» ядерной бомбы</li>
+    <li>place_massWeaponGC->военизированного штамма чумы</li>
+    <li>place_massWeaponGC->пробивной токсичной бомбы</li>
     <li>place_foeLeader->владыка яда</li>
     <li>place_foeSoldiers->ядовитые солдаты</li>
+    <li>place_foeLeaderGC->владыки яда</li>
+    <li>place_foeSoldiersGC->ядовитых солдат</li>
+    <li>place_foeLeaderAC->владыку яда</li>
+    <li>place_foeSoldiersAC->ядовитых солдат</li>
   </Kemia.placeRules.rulesStrings>
   
   <!-- EN:
@@ -408,23 +620,46 @@
   -->
   <Lutuni.placeRules.rulesStrings>
     <li>place_name->Лутини</li>
+    <li>place_nameGC->Лутинии</li>
     <li>place_adjective->лутинец</li>
     <li>place_summary->рай в джунглях</li>
-    <li>place_community->клиника аугментации</li>
-    <li>place_community->гипер-яхта</li>
+    <li>place_summaryIn->в рае джунглей</li>
+    <li>place_summaryGC->рая в джунглях</li>
+    <li>place_community->клинику аугментации</li>
+    <li>place_community->гипер-яхту</li>
     <li>place_community->стадион в нулевой гравитации</li>
+    <li>place_communityIn->в клинике аугментации</li>
+    <li>place_communityIn->на гипер-яхте</li>
+    <li>place_communityIn->на стадионе в нулевой гравитации</li>
+    <li>place_powerCenterIC->космическим лифтом</li>
+    <li>place_powerCenterIn->в космическом лифте</li>
     <li>place_powerCenter->космический лифт</li>
     <li>place_job->гид</li>
     <li>place_job->исполнитель в нулевой гравитации</li>
     <li>place_job->торговец люциферием</li>
     <li>place_job->виртуальная звезда</li>
     <li>place_job->пилот челнока</li>
+    <li>place_jobGC->гида</li>
+    <li>place_jobGC->исполнителя в нулевой гравитации</li>
+    <li>place_jobGC->торговца люциферием</li>
+    <li>place_jobGC->виртуальную звезда</li>
+    <li>place_jobGC->пилота челнока</li>
     <li>place_personalWeapon->вибронож</li>
     <li>place_personalWeapon->энергетический пистолет</li>
-    <li>place_massWeapon->дезинтегрирующая бактерия</li>
+    <li>place_personalWeaponGC->виброножа</li>
+    <li>place_personalWeaponGC->энергетического пистолета</li>
+    <li>place_personalWeaponIC->виброножом</li>
+    <li>place_personalWeaponIC->энергетическим пистолетом</li>
+    <li>place_massWeapon->дезинтегрирующую бактерию</li>
     <li>place_massWeapon->контрабандный указатель орбитальной бомбардировки</li>
+    <li>place_massWeaponGC->дезинтегрирующей бактерии</li>
+    <li>place_massWeaponGC->контрабандного указателя орбитальной бомбардировки</li>
     <li>place_foeLeader->магнат сферы развлечений</li>
     <li>place_foeSoldiers->головорезы</li>
+    <li>place_foeLeaderGC->магната сферы развлечений</li>
+    <li>place_foeSoldiersGC->головорезов</li>
+    <li>place_foeLeaderAC->магната сферы развлечений</li>
+    <li>place_foeSoldiersAC->головорезов</li>
   </Lutuni.placeRules.rulesStrings>
   
   <!-- EN:
@@ -451,25 +686,50 @@
   -->
   <Novaroma.placeRules.rulesStrings>
     <li>place_name->Новарома</li>
+    <li>place_nameGC->Новаромы</li>
     <li>place_adjective->новаромец</li>
     <li>place_summary->планетоид</li>
+    <li>place_summaryIn->на планетоиде</li>
+    <li>place_summaryGC->планетоида</li>
     <li>place_community->министерство дозволений</li>
     <li>place_community->огороженный пригородный район</li>
     <li>place_community->верхний город</li>
     <li>place_community->нижний город</li>
+    <li>place_communityIn->в министерстве дозволений</li>
+    <li>place_communityIn->в огороженном пригородном районе</li>
+    <li>place_communityIn->в верхнем городе</li>
+    <li>place_communityIn->в нижнем городе</li>
+    <li>place_powerCenterIC->главным залом мегагорода</li>
+    <li>place_powerCenterIn->в главном зале мегагорода</li>
     <li>place_powerCenter->главный зал мегагорода</li>
     <li>place_job->клерк</li>
     <li>place_job->чиновник</li>
     <li>place_job->доставщик еды</li>
     <li>place_job->таксист</li>
     <li>place_job->работник сферы продаж</li>
+    <li>place_jobGC->клерка</li>
+    <li>place_jobGC->чиновника</li>
+    <li>place_jobGC->доставщика еды</li>
+    <li>place_jobGC->таксиста</li>
+    <li>place_jobGC->работника сферы продаж</li>
     <li>place_personalWeapon->револьвер</li>
     <li>place_personalWeapon->нож</li>
+    <li>place_personalWeaponGC->револьвера</li>
+    <li>place_personalWeaponGC->ножа</li>
+    <li>place_personalWeaponIC->револьвером</li>
+    <li>place_personalWeaponIC->ножом</li>
     <li>place_massWeapon->[seismicDevice]</li>
     <li>place_massWeapon->кассетные бомбы</li>
     <li>place_massWeapon->чемоданчик с ядерной бомбой</li>
+    <li>place_massWeaponGC->[seismicDeviceGC]</li>
+    <li>place_massWeaponGC->кассетных бомб</li>
+    <li>place_massWeaponGC->чемоданчика с ядерной бомбой</li>
     <li>place_foeLeader->владыка нижнего города</li>
     <li>place_foeSoldiers->бойцы нижнего города</li>
+    <li>place_foeLeaderGC->владыки нижнего города</li>
+    <li>place_foeSoldiersGC->бойцов нижнего города</li>
+    <li>place_foeLeaderAC->владыку нижнего города</li>
+    <li>place_foeSoldiersAC->бойцов нижнего города</li>
   </Novaroma.placeRules.rulesStrings>
   
   <!-- EN:
@@ -493,22 +753,44 @@
   -->
   <Nuchadus.placeRules.rulesStrings>
     <li>place_name->Нухад</li>
+    <li>place_nameGC->Нухады</li>
     <li>place_adjective->нухадец</li>
-    <li>place_summary->тусклый вулканический мир</li> 
+    <li>place_summary->тусклый вулканический мир</li>
+    <li>place_summaryIn->в тусклом вулканическом мире</li>
+    <li>place_summaryGC->тусклого вулканического мира</li>
     <li>place_community->базальтовый остров</li>
     <li>place_community->город у озера в кальдере</li>
-    <li>place_community->деревня на дирижабле</li>
-    <li>place_powerCenter->геотермальная крепость</li>
+    <li>place_community->деревню на дирижабле</li>
+    <li>place_communityIn->на базальтовом острове</li>
+    <li>place_communityIn->в городе у озера в кальдере</li>
+    <li>place_communityIn->в деревне на дирижабле</li>
+    <li>place_powerCenterIC->геотермальной крепостью</li>
+    <li>place_powerCenterIn->в геотермальной крепости</li>
+    <li>place_powerCenter->геотермальную крепость</li>
     <li>place_job->сейсмолог</li>
     <li>place_job->работник фермы лавовых улиток</li>
     <li>place_job->ремонтник танковых гусениц</li>
     <li>place_job->десантник-разведчик</li>
+    <li>place_jobGC->сейсмолога</li>
+    <li>place_jobGC->работника фермы лавовых улиток</li>
+    <li>place_jobGC->ремонтника танковых гусениц</li>
+    <li>place_jobGC->десантника-разведчика</li>
     <li>place_personalWeapon->обсидиановый кинжал</li>
     <li>place_personalWeapon->гарпунное ружьё</li>
+    <li>place_personalWeaponGC->обсидианового кинжала</li>
+    <li>place_personalWeaponGC->гарпунного ружья</li>
+    <li>place_personalWeaponIC->обсидиановым кинжалом</li>
+    <li>place_personalWeaponIC->гарпунного ружья</li>
     <li>place_massWeapon->вызванное ИИ-архотеком извержение вулкана</li>
-    <li>place_massWeapon->химическая бомба</li>
+    <li>place_massWeapon->химическую бомбу</li>
+    <li>place_massWeaponGC->вызванного ИИ-архотеком извержения вулкана</li>
+    <li>place_massWeaponGC->химической бомбы</li>
     <li>place_foeLeader->владыка лавы</li>
     <li>place_foeSoldiers->адские пехотинцы</li>
+    <li>place_foeLeaderGC->владыки лавы</li>
+    <li>place_foeSoldiersGC->адских пехотинцев</li>
+    <li>place_foeLeaderAC->владыку лавы</li>
+    <li>place_foeSoldiersAC->адских пехотинцев</li>
   </Nuchadus.placeRules.rulesStrings>
   
   <!-- EN:
@@ -533,23 +815,46 @@
   -->
   <Oubanyen.placeRules.rulesStrings>
     <li>place_name->Убаньен</li>
+    <li>place_nameGC->Убаньена</li>
     <li>place_adjective->убаньенец</li>
     <li>place_summary->влажный мир покрытый джунглями</li>
+    <li>place_summaryIn->во влажном, покрытом джунглями мире</li>
+    <li>place_summaryGC->влажного, покрытого джунглями мира</li>
     <li>place_community->поселение на вершине дерева</li>
-    <li>place_community->пещера шамана</li>
+    <li>place_community->пещеру шамана</li>
     <li>place_community->зиккурат</li>
+    <li>place_communityIn->в поселении на вершине дерева</li>
+    <li>place_communityIn->в пещере шамана</li>
+    <li>place_communityIn->в зиккурате</li>
+    <li>place_powerCenterIC->городским храмом</li>
+    <li>place_powerCenterIn->в городском храме</li>
     <li>place_powerCenter->городской храм</li>
     <li>place_job->шаман</li>
     <li>place_job->охотник</li>
     <li>place_job->рыбак</li>
     <li>place_job->собиратель</li>
     <li>place_job->козий пастух</li>
+    <li>place_jobGC->шамана</li>
+    <li>place_jobGC->охотника</li>
+    <li>place_jobGC->рыбака</li>
+    <li>place_jobGC->собирателя</li>
+    <li>place_jobGC->козьего пастуха</li>
     <li>place_personalWeapon->пилум</li>
     <li>place_personalWeapon->иклва</li>
+    <li>place_personalWeaponGC->пилумы</li>
+    <li>place_personalWeaponGC->иклвы</li>
+    <li>place_personalWeaponIC->пилумой</li>
+    <li>place_personalWeaponIC->иклвой</li>
     <li>place_massWeapon->смертельный гул</li>
-    <li>place_massWeapon->нейротоксичная бомба</li>
+    <li>place_massWeapon->нейротоксичную бомбу</li>
+    <li>place_massWeaponGC->смертельного гулу</li>
+    <li>place_massWeaponGC->нейротоксичной бомбы</li>
     <li>place_foeLeader->лесоруб</li>
     <li>place_foeSoldiers->подельники</li>
+    <li>place_foeLeaderGC->лесоруба</li>
+    <li>place_foeSoldiersGC->подельников</li>
+    <li>place_foeLeaderAC->лесоруба</li>
+    <li>place_foeSoldiersAC->подельников</li>
   </Oubanyen.placeRules.rulesStrings>
   
   <!-- EN:
@@ -574,23 +879,46 @@
   -->
   <Rhydell.placeRules.rulesStrings>
     <li>place_name->Райдел</li>
+    <li>place_nameGC->Райдела</li>
     <li>place_adjective->райделец</li>
     <li>place_summary->дикая лесная луна</li>
+    <li>place_summaryIn->на дикой лесной луне</li>
+    <li>place_summaryGC->дикой лесной луны</li>
     <li>place_community->переоборудованный десантный корабль</li>
     <li>place_community->лагерь с энергетическим барьером</li>
     <li>place_community->центр связи</li>
+    <li>place_communityIn->в переоборудованном десантном корабле</li>
+    <li>place_communityIn->в лагере с энергетическим барьером</li>
+    <li>place_communityIn->в центре связи</li>
+    <li>place_powerCenterIC->крепостью</li>
+    <li>place_powerCenterIn->в крепости</li>
     <li>place_powerCenter->крепость</li>
     <li>place_job->пограничный ботаник</li>
     <li>place_job->охотник за трофеями</li>
     <li>place_job->врач</li>
     <li>place_job->повар лагеря</li>
     <li>place_job->инженер биолаборатории</li>
+    <li>place_jobGC->пограничного ботаника</li>
+    <li>place_jobGC->охотника за трофеями</li>
+    <li>place_jobGC->врача</li>
+    <li>place_jobGC->повара лагеря</li>
+    <li>place_jobGC->инженера биолаборатории</li>
     <li>place_personalWeapon->снайперская винтовка</li>
     <li>place_personalWeapon->мачете</li>
+    <li>place_personalWeaponGC->снайперской винтовки</li>
+    <li>place_personalWeaponGC->мачете</li>
+    <li>place_personalWeaponIC->снайперской винтовкой</li>
+    <li>place_personalWeaponIC->мачете</li>
     <li>place_massWeapon->газ с растительным нейротоксином</li>
-    <li>place_massWeapon->удар орибтального лазера</li>
+    <li>place_massWeapon->удар орбитального лазера</li>
+    <li>place_massWeaponGC->газа с растительным нейротоксином</li>
+    <li>place_massWeaponGC->удара орбитального лазера</li>
     <li>place_foeLeader->генеральный директор глубинной корпорации</li>
     <li>place_foeSoldiers->оперативники глубинной корпорации</li>
+    <li>place_foeLeaderGC->генерального директора глубинной корпорации</li>
+    <li>place_foeSoldiersGC->оперативников глубинной корпорации</li>
+    <li>place_foeLeaderAC->генерального директора глубинной корпорации</li>
+    <li>place_foeSoldiersAC->оперативников глубинной корпорации</li>
   </Rhydell.placeRules.rulesStrings>
   
   <!-- EN:
@@ -616,24 +944,48 @@
   -->
   <Rogia.placeRules.rulesStrings>
     <li>place_name->Рогия</li>
+    <li>place_nameGC->Рогии</li>
     <li>place_adjective->рогиец</li>
     <li>place_summary->утопический мир</li>
+    <li>place_summaryIn->в утопическом мире</li>
+    <li>place_summaryGC->утопического мира</li>
     <li>place_community->медицинский институт</li>
     <li>place_community->космический лифт</li>
     <li>place_community->завод робототехники</li>
+    <li>place_communityIn->в медицинском институте</li>
+    <li>place_communityIn->в космическом лифте</li>
+    <li>place_communityIn->на заводе робототехники</li>
+    <li>place_powerCenterIC->планетарным капитолием</li>
+    <li>place_powerCenterIn->в планетарном капитолии</li>
     <li>place_powerCenter->планетарный капитолий</li>
     <li>place_job->кадет военно-космических сил</li>
     <li>place_job->фермер ремесленник</li>
     <li>place_job->гений социальных медиа</li>
     <li>place_job->спортсмен нулевой гравитации</li>
     <li>place_job->контрабандист утопических технологий</li>
+    <li>place_jobGC->кадета военно-космических сил</li>
+    <li>place_jobGC->фермера ремесленника</li>
+    <li>place_jobGC->гения социальных медиа</li>
+    <li>place_jobGC->спортсмена нулевой гравитации</li>
+    <li>place_jobGC->контрабандиста утопических технологий</li>
     <li>place_personalWeapon->энергокопьё</li>
     <li>place_personalWeapon->синхромономеч</li>
+    <li>place_personalWeaponGC->энергокопья</li>
+    <li>place_personalWeaponGC->синхромономеча</li>
+    <li>place_personalWeaponIC->энергокопьём</li>
+    <li>place_personalWeaponIC->синхромономечом</li>
     <li>place_massWeapon->антиматериальные боеголовки</li>
     <li>place_massWeapon->боевой компьютерный вирус</li>
-    <li>place_massWeapon->дистанционно управляемые рабочие-механоиды</li>
+    <li>place_massWeapon->дистанционно управляемых рабочих-механоидов</li>
+    <li>place_massWeaponGC->антиматериальной боеголовки</li>
+    <li>place_massWeaponGC->боевого компьютерного вируса</li>
+    <li>place_massWeaponGC->дистанционно управляемых рабочих-механоидов</li>
     <li>place_foeLeader->коррумпированный бюрократ</li>
     <li>place_foeSoldiers->бионические стражи</li>
+    <li>place_foeLeaderGC->коррумпированного бюрократа</li>
+    <li>place_foeSoldiersGC->бионических стражей</li>
+    <li>place_foeLeaderAC->коррумпированного бюрократа</li>
+    <li>place_foeSoldiersAC->бионических стражей</li>
   </Rogia.placeRules.rulesStrings>
   
   <!-- EN:
@@ -660,25 +1012,48 @@
   -->
   <Wavia.placeRules.rulesStrings>
     <li>place_name->Вавия</li>
+    <li>place_nameGC->Вавии</li>
     <li>place_adjective->вавиец</li>
-    <li>place_summary->oкеанический мир</li>
+    <li>place_summary->океанический мир</li>
+    <li>place_summaryIn->в океаническом мире</li>
+    <li>place_summaryGC->океанического мира</li>
     <li>place_community->торговый атолл</li>
-    <li>place_community->деревня на воде</li>
+    <li>place_community->деревню на воде</li>
     <li>place_community->завод ламинарии</li>
+    <li>place_communityIn->в торговом атолле</li>
+    <li>place_communityIn->в деревне на воде</li>
+    <li>place_communityIn->на заводе ламинарии</li>
+    <li>place_powerCenterIC->мостом-капитолием</li>
+    <li>place_powerCenterIn->на мосту-капитолии</li>
     <li>place_powerCenter->мост-капитолий</li>
     <li>place_job->рыбак</li>
     <li>place_job->ныряльщик за жемчугом</li>
     <li>place_job->парусный мастер</li>
     <li>place_job->капитан</li>
     <li>place_job->сборщик водорослей</li>
+    <li>place_jobGC->рыбака</li>
+    <li>place_jobGC->ныряльщика за жемчугом</li>
+    <li>place_jobGC->парусного мастера</li>
+    <li>place_jobGC->капитана</li>
+    <li>place_jobGC->сборщика водорослей</li>
     <li>place_personalWeapon->гарпун</li>
     <li>place_personalWeapon->колючая сеть</li>
-    <li>place_massWeapon->сверхмощная торпеда</li>
-    <li>place_massWeapon->приманенный [seaBeast]</li>
+    <li>place_personalWeaponGC->гарпуна</li>
+    <li>place_personalWeaponGC->колючей сети</li>
+    <li>place_personalWeaponIC->гарпуном</li>
+    <li>place_personalWeaponIC->колючей сетью</li>
+    <li>place_massWeapon->сверхмощную торпеду</li>
+    <li>place_massWeapon->приманенного [seaBeast]</li>
+    <li>place_massWeaponGC->сверхмощной торпеды</li>
+    <li>place_massWeaponGC->приманенного [seaBeast]</li>
     <li>place_foeLeader->китобойный адмирал</li>
     <li>place_foeSoldiers->морпехи-китобои</li>
-    <li>seaBeast->глубинный кракен</li>
-    <li>seaBeast->вавийский левиафан</li>
+    <li>place_foeLeaderGC->китобойного адмирала</li>
+    <li>place_foeSoldiersGC->морпехов-китобоев</li>
+    <li>place_foeLeaderAC->китобойного адмирала</li>
+    <li>place_foeSoldiersAC->морпехов-китобоев</li>
+    <li>seaBeast->глубинного кракена</li>
+    <li>seaBeast->вавийского левиафана</li>
   </Wavia.placeRules.rulesStrings>
   
   <!-- EN:
@@ -703,23 +1078,46 @@
   -->
   <Xanides.placeRules.rulesStrings>
     <li>place_name->Ксанид</li>
+    <li>place_nameGC->Ксанида</li>
     <li>place_adjective->ксанидец</li>
     <li>place_summary->богатая минералами иссякшая планета</li>
-    <li>place_community->опустошённая шахта</li>
+    <li>place_summaryIn->на богатой минералами иссякшей планете</li>
+    <li>place_summaryGC->богатой минералами иссякшей планеты</li>
+    <li>place_community->опустошённую шахту</li>
     <li>place_community->завод по переработке руды</li>
-    <li>place_community->столовая с питательной пастой</li>
+    <li>place_community->столовую с питательной пастой</li>
+    <li>place_communityIn->в опустошённой шахте</li>
+    <li>place_communityIn->на заводе по переработке руды</li>
+    <li>place_communityIn->в столовой с питательной пастой</li>
+    <li>place_powerCenterIC->центром атмосферного контроля</li>
+    <li>place_powerCenterIn->в центре атмосферного контроля</li>
     <li>place_powerCenter->центр атмосферного контроля</li>
     <li>place_job->шахтёр</li>
     <li>place_job->прораб</li>
     <li>place_job->техник</li>
     <li>place_job->механик</li>
     <li>place_job->инженер системы жизнеобеспечения</li>
+    <li>place_jobGC->шахтёра</li>
+    <li>place_jobGC->прораба</li>
+    <li>place_jobGC->техника</li>
+    <li>place_jobGC->механика</li>
+    <li>place_jobGC->инженера системы жизнеобеспечения</li>
     <li>place_personalWeapon->шоковая дубинка</li>
     <li>place_personalWeapon->автоматический пистолет</li>
-    <li>place_massWeapon->шахтёрская взрывчатка</li>
+    <li>place_personalWeaponGC->шоковой дубинки</li>
+    <li>place_personalWeaponGC->автоматического пистолета</li>
+    <li>place_personalWeaponIC->шоковой дубинкой</li>
+    <li>place_personalWeaponIC->автоматическим пистолетом</li>
+    <li>place_massWeapon->шахтёрскую взрывчатку</li>
     <li>place_massWeapon->[anEMPAttack]</li>
+    <li>place_massWeaponGC->шахтёрской взрывчатки</li>
+    <li>place_massWeaponGC->[anEMPAttackGC]</li>
     <li>place_foeLeader->босс шахтёрской корпорации</li>
     <li>place_foeSoldiers->солдаты шахтёрской корпорации</li>
+    <li>place_foeLeaderGC->босса шахтёрской корпорации</li>
+    <li>place_foeSoldiersGC->солдат шахтёрской корпорации</li>
+    <li>place_foeLeaderAC->босса шахтёрской корпорации</li>
+    <li>place_foeSoldiersAC->солдат шахтёрской корпорации</li>
   </Xanides.placeRules.rulesStrings>
   
   <!-- EN:
@@ -744,23 +1142,46 @@
   -->
   <Yttak.placeRules.rulesStrings>
     <li>place_name->Иттак</li>
+    <li>place_nameGC->Иттаки</li>
     <li>place_adjective->иттакец</li>
-    <li>place_summary->ледяная луна-спутник</li>
-    <li>place_community->столовая</li>
+    <li>place_summary->ледяная луна-тюрьма</li>
+    <li>place_summaryIn->на ледяной луне-тюрьме</li>
+    <li>place_summaryGC->ледяной луны-тюрьмы</li>
+    <li>place_community->столовую</li>
     <li>place_community->бараки охраны</li>
     <li>place_community->тюремный блок</li>
+    <li>place_communityIn->в столовой</li>
+    <li>place_communityIn->в бараках охраны</li>
+    <li>place_communityIn->в тюремном блоке</li>
+    <li>place_powerCenterIC->административным комплексом</li>
+    <li>place_powerCenterIn->в административном комплексе</li>
     <li>place_powerCenter->административный комплекс</li>
     <li>place_job->заключённый</li>
     <li>place_job->охранник</li>
     <li>place_job->беглец</li>
     <li>place_job->обслуживающий работник</li>
     <li>place_job->водитель транспорта</li>
+    <li>place_jobGC->заключённого</li>
+    <li>place_jobGC->охранника</li>
+    <li>place_jobGC->беглеца</li>
+    <li>place_jobGC->обслуживающего работника</li>
+    <li>place_jobGC->водителя транспорта</li>
     <li>place_personalWeapon->заточка</li>
     <li>place_personalWeapon->пистолет-пулемёт</li>
-    <li>place_massWeapon->самодельная химическая бомба</li>
+    <li>place_personalWeaponGC->заточки</li>
+    <li>place_personalWeaponGC->пистолета-пулемёта</li>
+    <li>place_personalWeaponIC->заточкой</li>
+    <li>place_personalWeaponIC->пистолетом-пулемётом</li>
+    <li>place_massWeapon->самодельную химическую бомбу</li>
     <li>place_massWeapon->орбитальный лазерный удар</li>
+    <li>place_massWeaponGC->самодельной химической бомбы</li>
+    <li>place_massWeaponGC->орбитального лазерного удара</li>
     <li>place_foeLeader->управляющий тюрьмы</li>
     <li>place_foeSoldiers->коррумпированные охранники</li>
+    <li>place_foeLeaderGC->управляющего тюрьмы</li>
+    <li>place_foeSoldiersGC->коррумпированных охранников</li>
+    <li>place_foeLeaderAC->управляющего тюрьмы</li>
+    <li>place_foeSoldiersAC->коррумпированных охранников</li>
   </Yttak.placeRules.rulesStrings>
   
   <!-- EN:
@@ -787,22 +1208,44 @@
   -->
   <Zoutera.placeRules.rulesStrings>
     <li>place_name->Зоутера</li>
+    <li>place_nameGC->Зоутеры</li>
     <li>place_adjective->зоутерец</li>
     <li>place_summary->степной мир динозавров</li>
+    <li>place_summaryIn->в степном мире динозавров</li>
+    <li>place_summaryGC->степного мира динозавров</li>
     <li>place_community->торговый аванпост</li>
-    <li>place_community->деревня</li>
+    <li>place_community->деревню</li>
     <li>place_community->курган мамонтов</li>
+    <li>place_communityIn->в торговом аванпосте</li>
+    <li>place_communityIn->в деревне</li>
+    <li>place_communityIn->в кургане мамонтов</li>
+    <li>place_powerCenterIC->фортом на вершине холма</li>
+    <li>place_powerCenterIn->в форте на вершине холма</li>
     <li>place_powerCenter->форт на вершине холма</li>
     <li>place_job->наездник на динозаврах</li>
     <li>place_job->пастух муффало</li>
     <li>place_job->охотник</li>
     <li>place_job->кожевенник по плотным шкурам</li>
+    <li>place_jobGC->наездника на динозаврах</li>
+    <li>place_jobGC->пастуха муффало</li>
+    <li>place_jobGC->охотника</li>
+    <li>place_jobGC->кожевенника по плотным шкурам</li>
     <li>place_personalWeapon->бамбуковый посох</li>
     <li>place_personalWeapon->стрелы со взрывчаткой</li>
+    <li>place_personalWeaponGC->бамбукового посоха</li>
+    <li>place_personalWeaponGC->стрелы со взрывчаткой</li>
+    <li>place_personalWeaponIC->бамбуковым посохом</li>
+    <li>place_personalWeaponIC->стрелами со взрывчаткой</li>
     <li>place_massWeapon->нашествие стада [megaFauna]</li>
-    <li>place_massWeapon->бомба из удобрений</li>
+    <li>place_massWeapon->бомбу из удобрений</li>
+    <li>place_massWeaponGC->нашествия стада [megaFauna]</li>
+    <li>place_massWeaponGC->бомбы из удобрений</li>
     <li>place_foeLeader->король клыков</li>
     <li>place_foeSoldiers->воины клыков</li>
+    <li>place_foeLeaderGC->короля клыков</li>
+    <li>place_foeSoldiersGC->воинов клыков</li>
+    <li>place_foeLeaderAC->короля клыков</li>
+    <li>place_foeSoldiersAC->воинов клыков</li>
     <li>megaFauna->анкилозавров</li>
     <li>megaFauna->голубых мамонтов</li>
     <li>megaFauna->новорапторов</li>

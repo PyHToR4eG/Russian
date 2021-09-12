@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Core fix -->
+  <!-- HistoryEventDefs -->
+  <!-- EN: destroyed natural wall -->
+  <DestroyedMineable.label>разрушена естественная стена</DestroyedMineable.label>
+  
+</LanguageData>

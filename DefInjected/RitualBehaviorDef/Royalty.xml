@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Ritual_Behaviors -->
+  
+  <!-- EN: Need a colonist with the natural meditation focus type who is below maximum psylink level and not psychically deaf. -->
+  <AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>Нужен поселенец с природным объектом для медитации, уровень пси-связи которого ниже максимального и не является психически невосприимчивым.</AnimaTreeLinking.roles.0.noCandidatesGizmoDesc>
+  
+</LanguageData>

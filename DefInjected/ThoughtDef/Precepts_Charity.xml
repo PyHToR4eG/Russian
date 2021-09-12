@@ -22,9 +22,9 @@
   <CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>Мы помогли выжить потерпевшему крушение беженцу. Я действительно хороший человек!</CharityFulfilled_Essential_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении шаттла</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении челнока</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. I really am a good person! -->
-  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении шаттла. Я действительно хороший человек!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  <CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении челнока. Я действительно хороший человек!</CharityFulfilled_Essential_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   
   <!-- EN: accepted someone in danger -->
   <CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>приняли кого-то в опасности</CharityFulfilled_Essential_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
@@ -57,9 +57,9 @@
   <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>Мы помогли выжить потерпевшему крушение беженцу. Помощь другим очень важна.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении шаттла</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении челнока</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was clearly the right thing to do. -->
-  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении шаттла. Это было явно правильное решение.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении челнока. Это было явно правильное решение.</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   
   <!-- EN: accepted someone in danger -->
   <CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>приняли кого-то в опасности</CharityFulfilled_Important_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>
@@ -92,9 +92,9 @@
   <CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>Мы помогли выжить потерпевшему крушение беженцу. Это было очень мило с моей стороны.</CharityFulfilled_Worthwhile_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
-  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении шаттла</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>помогли выжившим в крушении челнока</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
   <!-- EN: We helped shuttle crash survivors. It was a good thing. -->
-  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении шаттла. Это было хорошо.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
+  <CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>Мы помогли выжившим в крушении челнока. Это было хорошо.</CharityFulfilled_Worthwhile_ShuttleCrashRescue.stages.shuttle_survivors_helped.description>
   
   <!-- EN: accepted someone in danger -->
   <CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>приняли кого-то в опасности</CharityFulfilled_Worthwhile_ThreatReward_Joiner.stages.accepted_someone_in_danger.label>

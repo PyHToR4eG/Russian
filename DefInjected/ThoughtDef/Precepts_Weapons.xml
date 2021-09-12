@@ -11,13 +11,13 @@
   <!-- EN: I used a filthy weapon which ought never to be used. How humiliating. -->
   <UsedDespisedWeapon.stages.used_despised_weapon.description>Я использовал грязное оружие, которое никогда не следовало использовать. Как унизительно.</UsedDespisedWeapon.stages.used_despised_weapon.description>
   
-  <!-- EN: wielding<x> {WEAPON_label}</x> -->
+  <!-- EN: wielding {WEAPON_label} -->
   <WieldingNobleOrDespisedWeapon.stages.wielding-0.label>орудует {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-0.label>
-  <!-- EN: I am wielding a<x> {WEAPON_label}</x>. Such a noble weapon! -->
+  <!-- EN: I am wielding a {WEAPON_label}. Such a noble weapon! -->
   <WieldingNobleOrDespisedWeapon.stages.wielding-0.description>Я владею {WEAPON_label}. Такое благородное оружие!</WieldingNobleOrDespisedWeapon.stages.wielding-0.description>
-  <!-- EN: wielding<x> {WEAPON_label}</x> -->
+  <!-- EN: wielding {WEAPON_label} -->
   <WieldingNobleOrDespisedWeapon.stages.wielding-1.label>орудует {WEAPON_label}</WieldingNobleOrDespisedWeapon.stages.wielding-1.label>
-  <!-- EN: I am wielding a<x> {WEAPON_label}</x>. Such a detestable weapon! -->
+  <!-- EN: I am wielding a {WEAPON_label}. Such a detestable weapon! -->
   <WieldingNobleOrDespisedWeapon.stages.wielding-1.description>Я владею {WEAPON_label}. Такое отвратительное оружие!</WieldingNobleOrDespisedWeapon.stages.wielding-1.description>
   
 </LanguageData>

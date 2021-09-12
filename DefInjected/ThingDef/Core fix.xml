@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Core fix -->
+  <!-- Hediffs_BodyParts_Bionic -->
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>бионический язык</BionicTongue.label>
+  <!-- EN: An artificial tongue replacement. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
+  <BionicTongue.description>Искусственный язык. Изготовлен из синтетических волокон и соединен через нейрогелевый интерфейс, он соответствует характеристикам естественного языка при разговоре, еде и дегустации.</BionicTongue.description>
+  
+</LanguageData>

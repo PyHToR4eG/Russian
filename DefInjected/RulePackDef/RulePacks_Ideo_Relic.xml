@@ -66,31 +66,41 @@
     <li>second->krome</li>
   -->
   <NamerIdeoRelic.rulePack.rulesStrings>
-	<li>r_ideoRelicName(p=2)->[first]-[second]</li>
-    <li>r_ideoRelicName->[thingLabel] [memeConcept]</li>
-    <li>r_ideoRelicName->[memeAdjective] [thingLabel]</li>
+    <li>r_ideoRelicName(p=2)->[first]-[second]</li>
+    <li>r_ideoRelicName(p=2)->[firstAdj]ый [secondMan]</li>
+    <li>r_ideoRelicName(p=2)->[firstAdj]ая [secondFem]</li>
+    <li>r_ideoRelicName(p=0.5)->[firstAdj]ое [secondNeu]</li>
+    <li>r_ideoRelicName->[thingLabel] [localMemeConcept]</li>
+    <!-- <li>r_ideoRelicName->[memeAdjective] [thingLabel]</li> -->
     <li>r_ideoRelicName->[memeHyphenPrefix]-[thingLabel]</li>
-    <li>r_ideoRelicName->[memeAdjective] [relic]</li>
-    <li>r_ideoRelicName->[relic] [memeConcept]</li>
+    <li>r_ideoRelicName->[localMemeAdjective][localRelicAdj]</li>
+    <li>r_ideoRelicName->[relic] [localMemeConcept]</li>
     <li>r_ideoRelicName->[memeHyphenPrefix]-[relic]</li>
     <li>relic->реликвия</li>
     <li>relic->артефакт</li>
     <li>relic->сувенир</li>
-    <li>relic->мементо</li>
+    <li>relic->трофей</li>
     <li>relic->останки</li>
     <li>relic->наследие</li>
     <li>relic->напоминание</li>
+    <li>localRelicAdj->ая реликвия</li>
+    <li>localRelicAdj->ый артефакт</li>
+    <li>localRelicAdj->ый сувенир</li>
+    <li>localRelicAdj->ый трофей</li>
+    <li>localRelicAdj->ые останки</li>
+    <li>localRelicAdj->ое наследие</li>
+    <li>localRelicAdj->ое напоминание</li>
     <li>first(p=5)->[memeHyphenPrefix]</li>
-    <li>first->длинный</li>
-    <li>first->небесный</li>
-    <li>first->звездный</li>
-    <li>first->глубинный</li>
-    <li>first->далекий</li>
-    <li>first->мертвый</li>
-    <li>first->живой</li>
-    <li>first->светлый</li>
-    <li>first->темный</li>
-    <li>first->конечный</li>
+    <li>firstAdj->длинн</li>
+    <li>firstAdj->небесн</li>
+    <li>firstAdj->звездн</li>
+    <li>firstAdj->глубинн</li>
+    <li>firstAdj->отдаленн</li>
+    <li>firstAdj->мертв</li>
+    <li>firstAdj->жизненн</li>
+    <li>firstAdj->светл</li>
+    <li>firstAdj->темн</li>
+    <li>firstAdj->конечн</li>
     <li>first->хор</li>
     <li>first->ан</li>
     <li>first->экс</li>
@@ -106,28 +116,28 @@
     <li>first->лок</li>
     <li>first->поле</li>
     <li>first->лоде</li>
-    <li>second->посетитель</li>
-    <li>second->нисущий</li>
-    <li>second->динамик</li>
-    <li>second->лжец</li>
-    <li>second->звено</li>
-    <li>second->узы</li>
-    <li>second->петля</li>
-    <li>second->nexus</li>
-    <li>second->ядро</li>
-    <li>second->крест</li>
-    <li>second->массив</li>
-    <li>second->сборник</li>
-    <li>second->очаг</li>
-    <li>second->лупа</li>
-    <li>second->фонарь</li>
-    <li>second->призрак</li>
-    <li>second->сур</li>
-    <li>second->локус</li>
-    <li>second->форма</li>
-    <li>second->перстень</li>
-    <li>second->плеть</li>
-    <li>second->кроум</li>
+    <li>secondMas->визитер</li>
+    <li>secondMas->вестник</li>
+    <li>secondMas->динамик</li>
+    <li>secondMas->лжец</li>
+    <li>secondNeu->звено</li>
+    <li>secondFem->цепь</li>
+    <li>secondFem->петля</li>
+    <li>secondMas->нексус</li>
+    <li>secondNeu->ядро</li>
+    <li>secondMas->крест</li>
+    <li>secondMas->массив</li>
+    <li>secondMas->сборник</li>
+    <li>secondMas->очаг</li>
+    <li>secondFem->лупа</li>
+    <li>secondMas->фонарь</li>
+    <li>secondMas->призрак</li>
+    <li>secondMas->сур</li>
+    <li>secondMas->локус</li>
+    <li>secondFem->форма</li>
+    <li>secondMas->перстень</li>
+    <li>secondFem->плеть</li>
+    <li>secondMas->кроум</li>
   </NamerIdeoRelic.rulePack.rulesStrings>
   
 </LanguageData>

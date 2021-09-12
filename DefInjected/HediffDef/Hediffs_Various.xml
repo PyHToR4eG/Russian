@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: Biosculpting sickness -->
-  <BiosculptingSickness.label>Биоскульптурная болезнь</BiosculptingSickness.label>
+  <BiosculptingSickness.label>биоскульптурное заболевание</BiosculptingSickness.label>
   <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
-  <BiosculptingSickness.description>Последствия неполного цикла биоскульптуры. Это вызывает тошноту, головокружение и спутанность сознания.</BiosculptingSickness.description>
+  <BiosculptingSickness.description>Последствия незавершённого цикла биоскульптинга, проявляющиеся в тошноте, головокружении и спутанном сознании.</BiosculptingSickness.description>
   
   <!-- EN: blindfolded -->
-  <Blindfold.label>ослепленный</Blindfold.label>
+  <Blindfold.label>повязка на глазах</Blindfold.label>
   <!-- EN: A blindfold is blocking this person's vision. -->
-  <Blindfold.description>Повязка на глазах блокирует зрение этого человека.</Blindfold.description>
+  <Blindfold.description>Этот человек ничего не видит из-за повязки.</Blindfold.description>
   
   <!-- EN: neural supercharge -->
-  <NeuralSupercharge.label>разгон нейронов</NeuralSupercharge.label>
+  <NeuralSupercharge.label>нейронный сверхзаряд</NeuralSupercharge.label>
   <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
-  <NeuralSupercharge.description>Внешне индуцированное повышение чувствительности и синхронности нейронов. Это повышает сознательность и скорость обучения за счет увеличения голода.</NeuralSupercharge.description>
+  <NeuralSupercharge.description>Искусственно вызванный скачок мозговой активности. Улучшены сознание и скорость обучения, повышен аппетит.</NeuralSupercharge.description>
   
   <!-- EN: torture crown -->
-  <TortureCrown.label>терновый венец</TortureCrown.label>
+  <TortureCrown.label>пыточная корона</TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby spikes that poke the head uncomfortably. It is used to put the wearer in pain. -->
-  <TortureCrown.description>Головной убор в виде венца с короткими шипами, которые неприятно впиваются в голову. Он используется для того, чтобы причинить владельцу боль.</TortureCrown.description>
+  <TortureCrown.description>Похожий на корону головной убор, который неприятно утыкается шипами в голову. Предназначен для того, чтобы причинять носящему боль.</TortureCrown.description>
   
   <!-- EN: work focus -->
-  <WorkFocus.label>сосредоточенность на работе</WorkFocus.label>
+  <WorkFocus.label>рабочий запал</WorkFocus.label>
   <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
-  <WorkFocus.description>Этот человек был заряжен энергией от ритуала или события, в котором он участвовал. Энергия означает, что теперь они могут работать усерднее.</WorkFocus.description>
+  <WorkFocus.description>Этот человек получил заряд энтузиазма в ходе ритуала или другого события, в котором принимал участие. Какое-то время он будет работать усерднее.</WorkFocus.description>
   
 </LanguageData>

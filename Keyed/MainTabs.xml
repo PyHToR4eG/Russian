@@ -1,37 +1,37 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Ideoligions -->
   <!-- EN: Deities -->
   <Deities>Божества</Deities>
   <!-- EN: Show all ideoligions -->
-  <ButtonShowAllIdeoligions>Показать все идеологии</ButtonShowAllIdeoligions>
+  <ButtonShowAllIdeoligions>Показать все идеолигии</ButtonShowAllIdeoligions>
   <!-- EN: Ideoligion of -->
-  <IdeoligionOf>Идеология</IdeoligionOf>
+  <IdeoligionOf>Идеолигия</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>Доктрины</Memes>
+  <Memes>Черты</Memes>
   <!-- EN: Narrative -->
   <CoreNarrative>Повествование</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
-  <CoreNarrativeDesc>Основное повествование вашей идеологии. Это никак не влияет на игровой процесс.</CoreNarrativeDesc>
+  <CoreNarrativeDesc>Основное повествование вашей идеолигии. Это никак не влияет на игровой процесс.</CoreNarrativeDesc>
   <!-- EN: Edit narrative -->
   <EditNarrative>Изменить повествование</EditNarrative>
-  <!-- EN: Clicking this button toggles a lock the current ideoligion narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
-  <LockButtonDesc>Нажатие этой кнопки переключает блокировку текущего повествования об идеологии. При блокировке текст повествования не будет автоматически обновляться при изменении идеологии.</LockButtonDesc>
-  <!-- EN: Narrative lock is currently on. The narrative will not auto-regenerate. -->
-  <LockInOn>Блокировка имени в настоящее время включена. Имя не будет автоматически обновляться.</LockInOn>
-  <!-- EN: Narrative lock is currently off. The narrative text can auto-regenerate. -->
-  <LockInOff>Блокировка имени в настоящее время отключена. Имя может автоматически обновляться.</LockInOff>
+  <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
+  <LockButtonDesc>Нажатие этой кнопки переключает блокировку текущего повествования об идеолигии. При блокировке текст повествования не будет автоматически обновляться при изменении идеолигии.</LockButtonDesc>
+  <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
+  <LockInOn>Блокировка имени в настоящее время включена. Повествование не будет автоматически обновляться.</LockInOn>
+  <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
+  <LockInOff>Блокировка имени в настоящее время отключена. Повествование может автоматически обновляться.</LockInOff>
   <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
-  <LockPreceptNameButtonDesc>Заблокировать или разблокировать имя. При блокировке имя не будет автоматически обновляться при изменении идеологии.</LockPreceptNameButtonDesc>
+  <LockPreceptNameButtonDesc>Заблокировать или разблокировать имя. При блокировке имя не будет автоматически обновляться при изменении идеолигии.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
-  <Precepts>Заповеди</Precepts>
+  <Precepts>Принципы</Precepts>
   <!-- EN: Rituals -->
   <Rituals>Ритуалы</Rituals>
   <!-- EN: Roles -->
   <IdeoRoles>Роли</IdeoRoles>
   <!-- EN: Buildings -->
-  <IdeoBuildings>Здания</IdeoBuildings>
+  <IdeoBuildings>Сооружения</IdeoBuildings>
   <!-- EN: Relics -->
   <IdeoRelics>Реликвии</IdeoRelics>
   <!-- EN: Preferred apparel -->
@@ -49,15 +49,17 @@
   <!-- EN: Randomize name -->
   <RandomizeName>Случайное имя</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>Случайные заповеди</RandomizePrecepts>
+  <RandomizePrecepts>Случайные принципы</RandomizePrecepts>
   <!-- EN: Add precept -->
-  <AddPrecept>Добавить заповедь</AddPrecept>
+  <AddPrecept>добавить {0}</AddPrecept>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>Случаные божества</RandomizeDeities>
+  <RandomizeDeities>Случайные божества</RandomizeDeities>
   <!-- EN: Add deity -->
   <AddDeity>Добавить божество</AddDeity>
   <!-- EN: Choose memes -->
-  <ChooseMemes>Выбрать доктрины</ChooseMemes>
+  <ChooseMemes>Выбрать черты</ChooseMemes>
+  <!-- EN: Choose starting meme -->
+  <ChooseStartingMeme>Выберите начальную черту</ChooseStartingMeme>
   <!-- EN: Choose structure -->
   <ChooseStructure>Выбрать структуру</ChooseStructure>
   <!-- EN: Choose culture -->
@@ -69,7 +71,7 @@
   <!-- EN: Structure -->
   <StructureMeme>Структура</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
-  <StructureMemeTip>Структура идеологии определяет, какие сущности и силы она считает важными для моральной структуры Вселенной. Он не имеет прямых игровых эффектов.</StructureMemeTip>
+  <StructureMemeTip>Структура идеолигии определяет, какие сущности и силы она считает важными для моральной структуры Вселенной. Он не имеет прямых игровых эффектов.</StructureMemeTip>
   <!-- EN: Adjective -->
   <Adjective>Прилагательное</Adjective>
   <!-- EN: Ritual room -->
@@ -95,9 +97,9 @@
   <!-- EN: Edit -->
   <Edit>Изменить</Edit>
   <!-- EN: Randomize symbols -->
-  <RandomizeSymbols>Случайные символы</RandomizeSymbols>
+  <RandomizeSymbols>Случайные атрибуты</RandomizeSymbols>
   <!-- EN: Randomize ideoligion name, icon, narrative, leader title and any other texts like ritual names or role names. This does not affect gameplay elements like memes or precepts. -->
-  <RandomizeSymbolsTooltip>Случайным образом выбрать имя идеологии, иконку, повествование, титул лидера и любые другие тексты, такие как ритуальные имена или названия ролей. Это не влияет на элементы геймплея, такие как доктрины или заповеди.</RandomizeSymbolsTooltip>
+  <RandomizeSymbolsTooltip>Случайным образом выбрать имя идеолигии, иконку, повествование, титул лидера и любые другие тексты, такие как ритуальные имена или названия ролей. Это не влияет на элементы геймплея, такие как черты или принципы.</RandomizeSymbolsTooltip>
   <!-- EN: Click any element to edit it -->
   <ClickAnyElementToEditIt>Нажмите любой элемент, чтобы отредактировать его</ClickAnyElementToEditIt>
   <!-- EN: Click to edit -->
@@ -113,11 +115,11 @@
   <!-- EN: Name -->
   <Name>Имя</Name>
   <!-- EN: Icon -->
-  <Icon>Икона</Icon>
+  <Icon>Эмблема</Icon>
   <!-- EN: Related to meme -->
-  <RelatedToMeme>Связь с доктриной</RelatedToMeme>
+  <RelatedToMeme>Связь с чертой</RelatedToMeme>
   <!-- EN: This is a charity quest. If you don't fulfill it, believers in {0} will be unhappy due to their charitable beliefs. If you do, believers in {0} will be happy ({1}). -->
-  <IdeoCharityQuestInfo>Это благотворительный квест. Если вы не выполните его, верующие в {0} будут несчастны из-за своих благотворительных убеждений. Если вы это сделаете, верующие в {0} будут счастливы ({1}).</IdeoCharityQuestInfo>
+  <IdeoCharityQuestInfo>Это благотворительный квест. Если вы не выполните его, верующие в {0} будут несчастны из-за своих милосердных убеждений. Если вы это сделаете, верующие в {0} будут счастливы ({1}).</IdeoCharityQuestInfo>
   <!-- EN: Slaves will not do this work -->
   <WorkDisabledSlave>Рабы не будут выполнять эту работу</WorkDisabledSlave>
   <!-- EN: Disabled by {0} role -->
@@ -131,7 +133,7 @@
   <!-- EN: all -->
   <All>все</All>
   <!-- EN: Relics are objects of spiritual or ideological significance. They can be discovered by completing long and dangerous quests. A relic can be installed in a reliquary to attract pilgrims, enhance rituals, and strengthen an ideoligion's ability to convert outsiders. -->
-  <RelicTip>Реликвии - это предметы духовного или идеологического значения. Их можно обнаружить, выполняя длительные и опасные задания. Реликвия может быть установлена в реликварий для привлечения паломников, усиления ритуалов и усиления способности идеологии обращать посторонних.</RelicTip>
+  <RelicTip>Реликвии - это предметы духовного или идеологического значения. Их можно обнаружить, выполняя длительные и опасные задания. Реликвия может быть установлена в реликварий для привлечения паломников, усиления ритуалов и усиления способности идеолигии обращать посторонних.</RelicTip>
   <!-- EN: animal -->
   <Animal>животное</Animal>
   <!-- EN: Venerated animals -->
@@ -143,9 +145,9 @@
   <!-- EN: Swap noble and despised -->
   <SwapNobleAndDespised>Поменять благородное и презираемое</SwapNobleAndDespised>
   <!-- EN: noble -->
-  <Noble>благородный</Noble>
+  <Noble>благородное</Noble>
   <!-- EN: despised -->
-  <Despised>презираемый</Despised>
+  <Despised>презираемое</Despised>
   <!-- EN: Unlocked craftables -->
   <UnlockedRecipes>Разблокированные ремесленные предметы</UnlockedRecipes>
   <!-- EN: Start with research -->
@@ -161,7 +163,7 @@
   <!-- EN: Overall impact -->
   <IdeoImpactOverall>Общее влияние</IdeoImpactOverall>
   <!-- EN: Some memes impact gameplay more than others. The meme's impact score gives a sense of how big of a gameplay impact it has. -->
-  <IdeoImpactOverallDesc>Некоторые доктрины влияют на игровой процесс больше, чем другие. Оценка воздействия доктрины дает представление о том, насколько большое влияние он оказывает на игровой процесс.</IdeoImpactOverallDesc>
+  <IdeoImpactOverallDesc>Некоторые черты влияют на игровой процесс больше, чем другие. Оценка воздействия черты дает представление о том, насколько большое влияние он оказывает на игровой процесс.</IdeoImpactOverallDesc>
   <!-- EN: low -->
   <IdeoMemeImpactLabel_1>низкое</IdeoMemeImpactLabel_1>
   <!-- EN: medium -->
@@ -187,51 +189,22 @@
   <!-- EN: extreme -->
   <IdeoImpactLabel_9>чрезвычайное</IdeoImpactLabel_9>
   <!-- EN: This was your colony's starting ideoligion. -->
-  <InitialPlayerIdeo>Это была начальная идеология вашей колонии.</InitialPlayerIdeo>
+  <InitialPlayerIdeo>Это была начальная идеолигия вашей колонии.</InitialPlayerIdeo>
+  
+  
+  <!-- EN: Since this ideoligion is so new and has so few followers on this planet, it is fluid. This means that it can develop over time.\n\nDeveloping the ideoligion costs development points. You can earn development points by completing rituals and quests related to this ideoligion.\n\nWith enough development points, you can reform the ideoligion with new memes, precepts, styles, and more. -->
+  <FluidIdeoTip>Поскольку эта идеолигия настолько нова и имеет так мало последователей на этой планете, она изменчива. Это означает, что она может развиваться с течением времени.\n\nРазвитие идеолигии стоит очков развития. Вы можете заработать очки развития, выполняя ритуалы и задания, связанные с этой идеолигией.\n\nИмея достаточно очков развития, вы можете реформировать идеолигию с помощью новых черт, принципов, стилей и многого другого.</FluidIdeoTip>
+  <!-- EN: How to get development points -->
+  <FluidIdeoTipGetPoints>Как получить очки развития</FluidIdeoTipGetPoints>
+  <!-- EN: Convert someone to your ideoligion -->
+  <FluidIdeoTipGetPoinsByConversion>Обращайте кого-то в свою идеолигию</FluidIdeoTipGetPoinsByConversion>
 
   <!-- EN: {0} unlocks things which you cannot build because they require memes that none of your people believe -->
-  <ResearchProjectHasDefsWithMissingMemes>{0} открывает вещи, которые вы не можете создать, потому что для них требуются доктрины, в которые никто из ваших людей не верит</ResearchProjectHasDefsWithMissingMemes>
+  <ResearchProjectHasDefsWithMissingMemes>{0} открывает вещи, которые вы не можете создать, потому что для них требуются черты, в которые никто из ваших людей не верит</ResearchProjectHasDefsWithMissingMemes>
   <!-- EN: Warning: This kind of work is opposed by {0_possessive} ideoligion, so it may make this person unhappy. -->
-  <SelectedWorkTypeOpposedByIdeo>Предупреждение: Этому виду работы противостоит идеология {0_possessive}, поэтому это может сделать этого человека несчастным.</SelectedWorkTypeOpposedByIdeo>
-  
-  <!-- Core -->
-  
-  <!-- EN: Disabled by backstory: {0} -->
-  <WorkDisabledByBackstory>Отключено предысторией: {0}</WorkDisabledByBackstory>
-  <!-- EN: Disabled by trait: {0} -->
-  <WorkDisabledByTrait>Отключено чертой: {0}</WorkDisabledByTrait>
-  <!-- EN: Disabled by quest: {0} -->
-  <WorkDisabledByQuest>Отключено заданием: {0}</WorkDisabledByQuest>
-  
-  <!-- Factions tab -->
-  <!-- EN: hostile -->
-  <HostileLower>недружественный</HostileLower>
-  <!-- EN: ally -->
-  <AllyLower>союзник</AllyLower>
-  <!-- EN: defeated -->
-  <RecentEvents>Последние события</RecentEvents>
-  <!-- EN: Ongoing events -->
-  <OngoingEvents>Текущие события</OngoingEvents>
-  
-    <!-- EN: Factions -->
-  <FactionsTab>Фракции</FactionsTab>
-  <!-- EN: No known factions -->
-  <NoFactions>Нет известных фракций</NoFactions>
-  
-  <!-- Research tab -->
-  <!-- EN: Study -->
-  <Study>Изучить</Study>
-  
-  <!-- Quests tab -->
-  <!-- EN: a colony wealth of at least {0} -->
-  <QuestRequiredPlayerWealth>богатства колонии не менее {0}</QuestRequiredPlayerWealth>
-  <!-- EN: alliance with {0} -->
-  <QuestAlliedTo>союз с {0}</QuestAlliedTo>
-  <!-- EN: hostile to {0} -->
-  <QuestHostileTo>враждебно к {0}</QuestHostileTo>
-  <!-- EN: neutral to {0} -->
-  <QuestNeutralTo>нейтрально к {0}</QuestNeutralTo>
-  <!-- EN: studied {0_labelShort} -->
-  <QuestRequiredThingStudied>изучено {0_labelShort}</QuestRequiredThingStudied>
+  <SelectedWorkTypeOpposedByIdeo>Предупреждение: Этому виду работы противостоит {0_possessive} идеолигии, поэтому это может сделать этого человека несчастным.</SelectedWorkTypeOpposedByIdeo>
+
+  <!-- EN: Development points -->
+  <DevelopmentPoints>Очки развития</DevelopmentPoints>
 
 </LanguageData>

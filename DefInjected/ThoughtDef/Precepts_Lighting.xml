@@ -16,4 +16,9 @@
   <!-- EN: This indoor light is too bright. I would prefer something dimmer. -->
   <Darklight_Preferred_IndoorLight.stages.indoor_light.description>Этот внутренний свет слишком яркий. Я бы предпочел что-нибудь более тусклое.</Darklight_Preferred_IndoorLight.stages.indoor_light.description>
   
+  <!-- EN: beautiful eclipse -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.label>прекрасное затмение</Eclipse_Beautiful.stages.beautiful_eclipse.label>
+  <!-- EN: I have a moment's respite from the blinding sunlight. -->
+  <Eclipse_Beautiful.stages.beautiful_eclipse.description>У меня есть минутная передышка от слепящего солнечного света.</Eclipse_Beautiful.stages.beautiful_eclipse.description>
+  
 </LanguageData>

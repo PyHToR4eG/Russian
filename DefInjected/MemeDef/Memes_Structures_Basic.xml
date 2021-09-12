@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animist -->
-  <Structure_Animist.label>анимист</Structure_Animist.label>
+  <Structure_Animist.label>спиритуалист</Structure_Animist.label>
   <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
   <Structure_Animist.description>Духи живут во всем, что нас окружает. В растениях и животных, реках и деревьях, небе и звездах. Моральная структура вселенной проистекает из необходимости уважать их.</Structure_Animist.description>
   <!-- EN:
@@ -17,15 +17,25 @@
     <li>memeMoralist->elder</li>
   -->
   <Structure_Animist.generalRules.rulesStrings>
-	<li>memeLeaderNoun->викарий</li>
+    <li>memeLeaderNoun->викарий</li>
     <li>memeLeaderNoun->оратор</li>
+    <li>localMemeLeaderNounAdj->ый викарий</li>
+    <li>localMemeLeaderNounAdj->ый оратор</li>
     <li>memeLeaderAdjective->бесконечный</li>
     <li>memeLeaderAdjective->духовный</li>
-    <li>memeLeaderAdjective->животный</li>
+    <li>memeLeaderAdjective->душевный</li>
+    <li>localMemeLeaderAdjective->бесконечн</li>
+    <li>localMemeLeaderAdjective->духовн</li>
+    <li>localMemeLeaderAdjective->душев</li>
     <li>memeHyphenPrefix->ани</li>
     <li>memeMoralist->шаман</li>
     <li>memeMoralist->священник</li>
     <li>memeMoralist->старейшина</li>
+    <li>localMemeMoralistAdj->ый шаман</li>
+    <li>localMemeMoralistAdj->ый священник</li>
+    <li>localMemeMoralistAdj->ый старейшина</li>
+    <li>localTheme->анимизма</li>
+    <li>localTheme->спиритизма</li>
   </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.adjective>анимистичный</Structure_Animist.symbolPacks.0.adjective>
@@ -62,19 +72,34 @@
     <li>memeMoralist->abbot</li>
   -->
   <Structure_Archist.generalRules.rulesStrings>
-	<li>memeAdjective->архичный</li>
+    <li>memeAdjective->архичный</li>
     <li>memeAdjective->архотехнический</li>
     <li>memeAdjective->архонический</li>
+    <li>localMemeAdjective->архичн</li>
+    <li>localMemeAdjective->архотехн</li>
+    <!-- <li>localMemeAdjective->архон</li> -->
     <li>memeHyphenPrefix->архо</li>
     <li>memeHyphenPrefix->арка</li>
     <li>memeLeaderNoun->архивист</li>
     <li>memeLeaderNoun->архотехник</li>
+    <li>localMemeLeaderNounAdj->ый архивист</li>
+    <li>localMemeLeaderNounAdj->ый архотехник</li>
     <li>memeLeaderAdjective->архик</li>
     <li>memeLeaderAdjective->экзохром</li>
+    <li>localMemeLeaderAdjective->архикн</li>
+    <li>localMemeLeaderAdjective->экзохромн</li>
     <li>memeMoralist->священник</li>
     <li>memeMoralist->клерик</li>
     <li>memeMoralist->ректор</li>
     <li>memeMoralist->аббат</li>
+    <li>localMemeMoralistAdj->ый священник</li>
+    <li>localMemeMoralistAdj->ый клерик</li>
+    <li>localMemeMoralistAdj->ый ректор</li>
+    <li>localMemeMoralistAdj->ый аббат</li>
+    <li>localIdeoNameAdj->ая Архотехника</li>
+    <li>localIdeoNameAdj->ый Архизм</li>
+    <li>localTheme->архотехнологии</li>
+    <li>localTheme->архизма</li>
   </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
   <Structure_Archist.symbolPacks.0.adjective>архотехничный</Structure_Archist.symbolPacks.0.adjective>
@@ -96,7 +121,7 @@
   <Structure_Archist.worshipRoomLabel>святыня</Structure_Archist.worshipRoomLabel>
   
   <!-- EN: ideological -->
-  <Structure_Ideological.label>атеизм</Structure_Ideological.label>
+  <Structure_Ideological.label>идейность</Structure_Ideological.label>
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
   <Structure_Ideological.description>Нет никаких богов. Моральная структура вселенной содержится в нашем великом повествовании о социальных силах.</Structure_Ideological.description>
   <!-- EN:
@@ -129,9 +154,12 @@
     <li>memeMoralist->sophist</li>
   -->
   <Structure_Ideological.generalRules.rulesStrings>
-	<li>memeAdjective->этический</li>
+    <li>memeAdjective->этический</li>
     <li>memeAdjective->моральный</li>
     <li>memeAdjective->пробужденный</li>
+    <li>localMemeAdjective->этичн</li>
+    <li>localMemeAdjective->моральн</li>
+    <li>localMemeAdjective->пробужденн</li>
     <li>memeCreed->вера</li>
     <li>memeCreed->идеология</li>
     <li>memeCreed->кредо</li>
@@ -142,13 +170,29 @@
     <li>memeCreed->мораль</li>
     <li>memeCreed->этика</li>
     <li>memeCreed->справедливость</li>
+    <li>localMemeCreedAdj->ая вера</li>
+    <li>localMemeCreedAdj->ая идеология</li>
+    <li>localMemeCreedAdj->ое кредо</li>
+    <li>localMemeCreedAdj->ая философия</li>
+    <li>localMemeCreedAdj->ая теория</li>
+    <li>localMemeCreedAdj->ый кругозор</li>
+    <li>localMemeCreedAdj->ие принципы</li>
+    <li>localMemeCreedAdj->ая мораль</li>
+    <li>localMemeCreedAdj->ая этика</li>
+    <li>localMemeCreedAdj->ая справедливость</li>
     <li>memeHyphenPrefix->идео</li>
     <li>memeLeaderNoun->разум</li>
-    <li>memeLeaderNoun->решающий</li>
+    <li>memeLeaderNoun->решитель</li>
     <li>memeLeaderNoun->лидер</li>
+    <li>localMemeLeaderNounAdj->ый разум</li>
+    <li>localMemeLeaderNounAdj->ый решитель</li>
+    <li>localMemeLeaderNounAdj->ый лидер</li>
     <li>memeLeaderAdjective->этический</li>
     <li>memeLeaderAdjective->моральный</li>
     <li>memeLeaderAdjective->пробужденный</li>
+    <li>localMemeLeaderAdjective->этичн</li>
+    <li>localMemeLeaderAdjective->моральн</li>
+    <li>localMemeLeaderAdjective->пробужденн</li>
     <li>memeMoralist->советник</li>
     <li>memeMoralist->спец по этике</li>
     <li>memeMoralist->моралист</li>
@@ -156,6 +200,19 @@
     <li>memeMoralist->мыслитель</li>
     <li>memeMoralist->ученый</li>
     <li>memeMoralist->софист</li>
+    <li>localMemeMoralistAdj->ый советник</li>
+    <li>localMemeMoralistAdj->ый спец по этике</li>
+    <li>localMemeMoralistAdj->ый моралист</li>
+    <li>localMemeMoralistAdj->ый философ</li>
+    <li>localMemeMoralistAdj->ый мыслитель</li>
+    <li>localMemeMoralistAdj->ый ученый</li>
+    <li>localMemeMoralistAdj->ый софист</li>
+    <li>localIdeoNameAdj->ая Этика</li>
+    <li>localIdeoNameAdj->ая Идеология</li>
+    <li>localIdeoNameAdj->ая Справедливость</li>
+    <li>localTheme->Этики</li>
+    <li>localTheme->Идеологии</li>
+    <li>localTheme->Справедливости</li>
   </Structure_Ideological.generalRules.rulesStrings>
   <!-- EN: ethical -->
   <Structure_Ideological.symbolPacks.0.adjective>этический</Structure_Ideological.symbolPacks.0.adjective>
@@ -215,30 +272,61 @@
     <li>memeMoralist->abbot</li>
   -->
   <Structure_TheistAbstract.generalRules.rulesStrings>
-	<li>memeAdjective->благочестивый</li>
+    <li>memeAdjective->благочестивый</li>
     <li>memeAdjective->святой</li>
     <li>memeAdjective->священный</li>
     <li>memeAdjective->божественный</li>
     <li>memeAdjective->верный</li>
+    <li>localMemeAdjective->благочестив</li>
+    <li>localMemeAdjective->страстн</li>
+    <li>localMemeAdjective->священн</li>
+    <li>localMemeAdjective->божественн</li>
+    <li>localMemeAdjective->верн</li>
     <li>memeCreed->храм</li>
     <li>memeCreed->секта</li>
     <li>memeCreed->культ</li>
     <li>memeCreed->вера</li>
+    <li>localMemeCreedAdj->ый храм</li>
+    <li>localMemeCreedAdj->ая секта</li>
+    <li>localMemeCreedAdj->ый культ</li>
+    <li>localMemeCreedAdj->ая вера</li>
     <li>memeHyphenPrefix->тео</li>
     <li>memeConcept->созидание</li>
     <li>memeConcept->жизнь</li>
+    <li>localMemeConcept->созидания</li>
+    <li>localMemeConcept->жизни</li>
     <li>memeLeaderNoun->епископ</li>
     <li>memeLeaderNoun->кардинал</li>
     <li>memeLeaderNoun->папа</li>
     <li>memeLeaderNoun->дивус</li>
+    <li>localMemeLeaderNounAdj->ый еписков</li>
+    <li>localMemeLeaderNounAdj->ый кардинал</li>
+    <li>localMemeLeaderNounAdj->ый папа</li>
+    <li>localMemeLeaderNounAdj->ый дивус</li>
     <li>memeLeaderAdjective->святой</li>
     <li>memeLeaderAdjective->божественный</li>
+    <li>localMemeLeaderAdjective->священн</li>
+    <li>localMemeLeaderAdjective->божественн</li>
     <li>memeMoralist->священник</li>
     <li>memeMoralist->пастор</li>
     <li>memeMoralist->клерик</li>
     <li>memeMoralist->проповедник</li>
     <li>memeMoralist->ректор</li>
     <li>memeMoralist->настоятель</li>
+    <li>localMemeMoralistAdj->ый священник</li>
+    <li>localMemeMoralistAdj->ый пастор</li>
+    <li>localMemeMoralistAdj->ый клерик</li>
+    <li>localMemeMoralistAdj->ый проповедник</li>
+    <li>localMemeMoralistAdj->ый ректор</li>
+    <li>localMemeMoralistAdj->ый настоятель</li>
+    <li>localIdeoNameAdj->ый Спиритизм</li>
+    <li>localIdeoNameAdj->ая Вера</li>
+    <li>localIdeoNameAdj->ое Богословие</li>
+    <li>localIdeoNameAdj->ый Святоизм</li>
+    <li>localTheme->спиритуализма</li>
+    <li>localTheme->веры</li>
+    <li>localTheme->божественности</li>
+    <li>localTheme->святости</li>
   </Structure_TheistAbstract.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistAbstract.symbolPacks.0.adjective>духовный</Structure_TheistAbstract.symbolPacks.0.adjective>
@@ -293,17 +381,31 @@
     <li>memeMoralist->cleric</li>
   -->
   <Structure_TheistEmbodied.generalRules.rulesStrings>
-	<li>memeCreed->секта</li>
+    <li>memeCreed->секта</li>
     <li>memeCreed->культ</li>
     <li>memeCreed->храм</li>
     <li>memeCreed->вера</li>
+    <li>localMemeCreedAdj->ая секта</li>
+    <li>localMemeCreedAdj->ый культ</li>
+    <li>localMemeCreedAdj->ый храм</li>
+    <li>localMemeCreedAdj->ая вера</li>
     <li>memeHyphenPrefix->тео</li>
     <li>memeConcept->созидание</li>
     <li>memeConcept->жизнь</li>
+    <li>localMemeConcept->созидания</li>
+    <li>localMemeConcept->жизни</li>
     <li>memeLeaderNoun->тамплиер</li>
+    <li>localMemeLeaderNounAdj->ый тамплиер</li>
     <li>memeLeaderAdjective->божественный</li>
+    <li>localMemeLeaderAdjective->божественн</li>
     <li>memeMoralist->священник</li>
     <li>memeMoralist->клерик</li>
+    <li>localMemeMoralistAdj->ый священник</li>
+    <li>localMemeMoralistAdj->ый клерик</li>
+    <li>localIdeoNameAdj->ый Спиритизм</li>
+    <li>localIdeoNameAdj->ая Вера</li>
+    <li>localTheme->спиритуализма</li>
+    <li>localTheme->веры</li>
   </Structure_TheistEmbodied.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistEmbodied.symbolPacks.0.adjective>спиритичный</Structure_TheistEmbodied.symbolPacks.0.adjective>

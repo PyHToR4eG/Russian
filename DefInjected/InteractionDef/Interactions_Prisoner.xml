@@ -10,14 +10,16 @@
     <li>r_logentry->[INITIATOR_nameDef] explained to [RECIPIENT_nameDef] that [RECIPIENT_pronoun] must work or face punishment.</li>
   -->
   <EnslaveAttempt.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказал : сказала} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} работать на колонию.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сообщил : сообщила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} подчиняться приказам и работать.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? приказал : призвала} [RECIPIENT_nameDef] подготовиться к жизни на принудительных работах.</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? объяснил : объяснила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] {RECIPIENT_gender ? должен : должна} работать, иначе ему грозит наказание.</li>
+    <li>r_logentry->[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [must] работать на благо колонию.</li>
+    <li>r_logentry->[INITIATOR_nameDef] сообщает [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [must] подчиняться приказам и работать.</li>
+    <li>r_logentry->[INITIATOR_nameDef] призывает [RECIPIENT_nameDef] подготовиться к жизни на принудительных работах.</li>
+    <li>r_logentry->[INITIATOR_nameDef] объясняет [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [must] работать или [RECIPIENT_possessive] ждет наказание.</li>
+	<li>must(RECIPIENT_gender==male)->обязан</li>
+	<li>must(RECIPIENT_gender==female)->обязана</li>
   </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
-  <ReduceWill.label>постарайтесь уменьшить волю</ReduceWill.label>
+  <ReduceWill.label>попытка ослабить волю</ReduceWill.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
     <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
@@ -62,18 +64,18 @@
     <li>givein->yield [RECIPIENT_objective]self</li>
   -->
   <ReduceWill.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сказал : сказала} [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? объяснил : объяснила}, [RECIPIENT_nameDef] что [negative].</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? пригрозил : пригрозила} [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? сообщил : сообщила} [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [disillusionment].</li>
-    <li>r_logentry->[INITIATOR_nameDef] {INITIATOR_gender ? потребовал : потребовала} [RECIPIENT_nameDef] [givein] колонии.</li>
-    <li>negative->у него не было будущего</li>
-    <li>negative->не было никакой возможности сбежать</li>
-    <li>negative->у него не было будущего за пределами колонии</li>
-    <li>negative->у него не было шансов сбежать</li>
-    <li>negative->следует немедленно подчиниться</li>
-    <li>negative->следует забыть [RECIPIENT_possessive] стремления</li>
-    <li>negative->следует подчиниться колонии</li>
+    <li>r_logentry->[INITIATOR_nameDef] говорит [RECIPIENT_nameDef], что [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] объясняет [RECIPIENT_nameDef], что [negative].</li>
+    <li>r_logentry->[INITIATOR_nameDef] угрожает [RECIPIENT_nameDef] [threat], если [RECIPIENT_pronoun] [refused].</li>
+    <li>r_logentry->[INITIATOR_nameDef] сообщает [RECIPIENT_nameDef], что [disillusionment].</li>
+    <li>r_logentry->[INITIATOR_nameDef] требует [RECIPIENT_nameDef] [givein] колонии.</li>
+    <li>negative->у н[RECIPIENT_possessive] нет будущего</li>
+    <li>negative->у н[RECIPIENT_possessive] нет никакой возможности сбежать</li>
+    <li>negative->у н[RECIPIENT_possessive] нет будущего за пределами колонии</li>
+    <li>negative->у н[RECIPIENT_possessive] нет шансов сбежать</li>
+    <li>negative->[localPronoun] следует немедленно подчиниться</li>
+    <li>negative->[localPronoun] следует забыть свои стремления</li>
+    <li>negative->[localPronoun] следует подчиниться колонии</li>
     <li>threat->пыткой</li>
     <li>threat->наказанием</li>
     <li>threat->увечьем</li>
@@ -81,7 +83,7 @@
     <li>threat->пожизненным заключением</li>
     <li>threat->смертью</li>
     <li>threat->изоляцией</li>
-    <li>threat->расчлененим</li>
+    <li>threat->расчленением</li>
     <li>threat->тупой травмой</li>
     <li>threat->рваной раной</li>
     <li>threat->каннибализмом</li>
@@ -91,18 +93,20 @@
     <li>refused->оскорбит колонию</li>
     <li>refused->не будет работать</li>
     <li>refused->откажется выполнять</li>
-    <li>refused->сопротивляться подчинению</li>
+    <li>refused->будет сопротивляться подчинению</li>
     <li>refused->откажется повиноваться</li>
-    <li>refused->поведет себя мерзко</li>
-    <li>disillusionment->следует принять ситуацию [RECIPIENT_possessive]</li>
-    <li>disillusionment->не было никакой надежды на другое будущее</li>
-    <li>disillusionment->было бы лучше всего подчиниться</li>
-    <li>disillusionment->не выживет на [RECIPIENT_possessive] сам по себе</li>
-    <li>disillusionment->не было другого выбора, кроме как подчиниться</li>
+    <li>refused->будет плохо себя вести</li>
+    <li>disillusionment->[localPronoun] следует смириться с ситуацией</li>
+    <li>disillusionment->у н[RECIPIENT_possessive] нет никакой надежды на другое будущее</li>
+    <li>disillusionment->[localPronoun] было бы лучше всего подчиниться</li>
+    <li>disillusionment->[RECIPIENT_pronoun] не выживет в одиночку</li>
+    <li>disillusionment->у н[RECIPIENT_possessive] нет другого выбора, кроме как подчиниться</li>
     <li>givein->сдаваться</li>
-    <li>givein->отправить [RECIPIENT_objective]</li>
-    <li>givein->сдать [RECIPIENT_objective]</li>
-    <li>givein->урожай [RECIPIENT_objective]</li>
+    <li>givein->подчиниться</li>
+    <li>givein->покориться</li>
+    <li>givein->сдаться</li>
+	<li>localPronoun(RECIPIENT_gender==Male)->ему</li>
+	<li>localPronoun(RECIPIENT_gender==Female)->ей</li>
   </ReduceWill.logRulesInitiator.rulesStrings>
   
 </LanguageData>

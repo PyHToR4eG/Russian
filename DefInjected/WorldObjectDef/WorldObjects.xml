@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: archotech structure -->
-  <AbandonedArchotechStructures.label>структура архотеха</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.label>строение архотеха</AbandonedArchotechStructures.label>
   <!-- EN: An archotech structure that you can study. -->
-  <AbandonedArchotechStructures.description>Архотехническая структура, которую вы можете изучить.</AbandonedArchotechStructures.description>
+  <AbandonedArchotechStructures.description>Архотехническое строение, которое вы можете изучить.</AbandonedArchotechStructures.description>
   
   <!-- EN: settlement -->
   <Settlement_SecondArchonexusCycle.label>поселение</Settlement_SecondArchonexusCycle.label>

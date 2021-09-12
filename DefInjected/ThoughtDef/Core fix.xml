@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Thoughts_Situation_Special -->
+  
+  <!-- EN: missing tongue -->
+  <MissingTongue.stages.missing_tongue.label>отсутствует язык</MissingTongue.stages.missing_tongue.label>
+  <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
+  <MissingTongue.stages.missing_tongue.description>Я скучаю по языку. Это так неприятно, что ты не можешь говорить!</MissingTongue.stages.missing_tongue.description>
+  
+</LanguageData>

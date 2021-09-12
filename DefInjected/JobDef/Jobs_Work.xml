@@ -2,42 +2,45 @@
 <LanguageData>
   
   <!-- EN: changing dryad caste of TargetA. -->
-  <ChangeTreeMode.reportString>изменение касты дриад TargetA.</ChangeTreeMode.reportString>
+  <ChangeTreeMode.reportString>меняет касту дриад TargetA.</ChangeTreeMode.reportString>
   
   <!-- EN: creating cocoon. -->
-  <CreateAndEnterCocoon.reportString>создание кокона.</CreateAndEnterCocoon.reportString>
+  <CreateAndEnterCocoon.reportString>создаёт кокон.</CreateAndEnterCocoon.reportString>
+  
+  <!-- EN: creating healing pod. -->
+  <CreateAndEnterHealingPod.reportString>создаёт кокон исцеления.</CreateAndEnterHealingPod.reportString>
   
   <!-- EN: extracting skull from TargetA. -->
-  <ExtractSkull.reportString>извлечение черепа из TargetA.</ExtractSkull.reportString>
+  <ExtractSkull.reportString>извлекает череп TargetA.</ExtractSkull.reportString>
   
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>взлом TargetA.</Hack.reportString>
+  <Hack.reportString>взламывает TargetA.</Hack.reportString>
   
   <!-- EN: merging into TargetB. -->
-  <MergeIntoGaumakerPod.reportString>слияние в TargetB.</MergeIntoGaumakerPod.reportString>
+  <MergeIntoGaumakerPod.reportString>сливается с TargetB.</MergeIntoGaumakerPod.reportString>
   
   <!-- EN: planting TargetA. -->
-  <PlantSeed.reportString>посадка TargetA.</PlantSeed.reportString>
+  <PlantSeed.reportString>сажает TargetA.</PlantSeed.reportString>
   
   <!-- EN: converting TargetA. -->
-  <PrisonerConvert.reportString>обращение TargetA.</PrisonerConvert.reportString>
+  <PrisonerConvert.reportString>обращает TargetA.</PrisonerConvert.reportString>
   
   <!-- EN: enslaving TargetA. -->
-  <PrisonerEnslave.reportString>порабощение TargetA.</PrisonerEnslave.reportString>
+  <PrisonerEnslave.reportString>обращает TargetA в рабство.</PrisonerEnslave.reportString>
   
   <!-- EN: pruning TargetA. -->
-  <PruneGauranlenTree.reportString>обрезка TargetA.</PruneGauranlenTree.reportString>
+  <PruneGauranlenTree.reportString>остригает TargetA.</PruneGauranlenTree.reportString>
   
   <!-- EN: returning to TargetA. -->
-  <ReturnToGauranlenTree.reportString>возвращаемся к TargetA.</ReturnToGauranlenTree.reportString>
+  <ReturnToGauranlenTree.reportString>возвращается к TargetA.</ReturnToGauranlenTree.reportString>
   
   <!-- EN: emancipating TargetA. -->
-  <SlaveEmancipation.reportString>освобождение TargetA.</SlaveEmancipation.reportString>
+  <SlaveEmancipation.reportString>освобождает TargetA.</SlaveEmancipation.reportString>
   
   <!-- EN: executing TargetA. -->
-  <SlaveExecution.reportString>выполнение TargetA.</SlaveExecution.reportString>
+  <SlaveExecution.reportString>казнит TargetA.</SlaveExecution.reportString>
   
   <!-- EN: suppressing TargetA. -->
-  <SlaveSuppress.reportString>подавление TargetA.</SlaveSuppress.reportString>
+  <SlaveSuppress.reportString>подавляет TargetA.</SlaveSuppress.reportString>
   
 </LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- Buildings_Furniture -->
+  
+  <!-- EN: darklight brazier -->
+  <DarklightBrazier.label>тусклая жаровня</DarklightBrazier.label>
+  <!-- EN: A specially treated brazier that illuminates its surroundings with darklight and creates heat. These satisfy royal brazier requirements. -->
+  <DarklightBrazier.description>Специально обработанная жаровня, освещающая окружающее пространство тусклым светом и выделяющая тепло. Она удовлетворяет требованиям королевской жаровни.</DarklightBrazier.description>
+  
+</LanguageData>

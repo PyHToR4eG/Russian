@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: discover ancient complex -->
-  <DiscoverAncientComplex.label>откройте для себя древний комплекс</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.label>открыть древний комплекс</DiscoverAncientComplex.label>
   <!-- EN: you will discover the location of an ancient complex nearby. -->
   <DiscoverAncientComplex.effectDesc>вы откроете для себя расположение древнего комплекса неподалеку.</DiscoverAncientComplex.effectDesc>
   <!-- EN: You've discovered the location of an ancient complex. -->
@@ -11,16 +11,16 @@
   <!-- EN: farm animals wander in -->
   <FarmAnimalsWanderIn.label>сельскохозяйственные животные бродят по</FarmAnimalsWanderIn.label>
   <!-- EN: a group of farm animals will be attracted and join the colony. -->
-  <FarmAnimalsWanderIn.effectDesc>группа сельскохозяйственных животных будет приглашена и присоединится к колонии.</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.effectDesc>группа сельскохозяйственных животных будет привлечена и присоединится к колонии.</FarmAnimalsWanderIn.effectDesc>
   <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
   <FarmAnimalsWanderIn.letterInfoText>Любопытные сельскохозяйственные животные забрели сюда, привлеченные суматохой.</FarmAnimalsWanderIn.letterInfoText>
   
   <!-- EN: gauranlen pod sprout -->
-  <GauranlenTreePod.label>росток стручка гауранлена</GauranlenTreePod.label>
+  <GauranlenTreePod.label>росток кокона гауранлена</GauranlenTreePod.label>
   <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
-  <GauranlenTreePod.effectDesc>стручок Гауранлена прорастет в случайном месте на карте, если сможет.</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.effectDesc>кокон Гауранлена прорастет в случайном месте на карте, если сможет.</GauranlenTreePod.effectDesc>
   <!-- EN: A Gauranlen pod sprouted nearby. -->
-  <GauranlenTreePod.letterInfoText>Неподалеку вырос стручок Гауранлена.</GauranlenTreePod.letterInfoText>
+  <GauranlenTreePod.letterInfoText>Неподалеку вырос кокон Гауранлена.</GauranlenTreePod.letterInfoText>
   
   <!-- EN: insect jelly -->
   <InsectJellyTunnels.label>желе из насекомых</InsectJellyTunnels.label>
@@ -30,16 +30,16 @@
   <InsectJellyTunnels.letterInfoText>Гигантская колония насекомых под землей отложила немного желе из насекомых.</InsectJellyTunnels.letterInfoText>
   
   <!-- EN: nearby faction goodwill -->
-  <NearbyFactionGoodwill.label>доброжелательность соседней фракции</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.label>репутация соседней фракции</NearbyFactionGoodwill.label>
   <!-- EN: you will gain goodwill from the nearest faction base. -->
   <NearbyFactionGoodwill.effectDesc>вы получите хорошую репутацию от ближайшей базы фракций.</NearbyFactionGoodwill.effectDesc>
-  <!-- EN: You gained<x> {AMOUNT} </x>goodwill with<x> {FACTION_name}</x>. -->
-  <NearbyFactionGoodwill.letterInfoText>Вы получили {AMOUNT} хорошую репутацию с {FACTION_name}</NearbyFactionGoodwill.letterInfoText>
+  <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->
+  <NearbyFactionGoodwill.letterInfoText>Вы получили {AMOUNT} хорошей репутации с {FACTION_name}</NearbyFactionGoodwill.letterInfoText>
   
   <!-- EN: random recruit -->
   <RandomRecruit.label>случайный рекрут</RandomRecruit.label>
   <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
-  <RandomRecruit.effectDesc>вероятность того, что случайный рекрут той же идеологии присоединится к вашей колонии, составляет 50%.</RandomRecruit.effectDesc>
+  <RandomRecruit.effectDesc>вероятность того, что случайный рекрут той же идеолигии присоединится к вашей колонии, составляет 50%.</RandomRecruit.effectDesc>
   <!-- EN: A wanderer has arrived and wants to join your colony. -->
   <RandomRecruit.letterInfoText>Прибыл кочевник и хочет присоединиться к вашей колонии.</RandomRecruit.letterInfoText>
   

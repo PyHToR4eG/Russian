@@ -14,16 +14,16 @@
   <!-- EN: burka -->
   <Apparel_Burka.label>паранджа</Apparel_Burka.label>
   <!-- EN: A large garment that conceals the wearer's entire head and body. -->
-  <Apparel_Burka.description>Большая одежда, которая скрывает всю голову и тело владельца.</Apparel_Burka.description>
+  <Apparel_Burka.description>Большой наряд, которая скрывает всю голову и тело владельца.</Apparel_Burka.description>
   
   <!-- EN: robe -->
-  <Apparel_Robe.label>халат</Apparel_Robe.label>
+  <Apparel_Robe.label>ряса</Apparel_Robe.label>
   <!-- EN: A long, flowing robe without a hood. -->
   <Apparel_Robe.description>Длинная, струящаяся мантия без капюшона.</Apparel_Robe.description>
   
   <!-- EN: torture crown -->
-  <Apparel_TortureCrown.label>терновый венец</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.label>пыточная корона</Apparel_TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby inward-facing spikes that poke the head. It is used to induce pain in the wearer. -->
-  <Apparel_TortureCrown.description>Головной убор в виде венца с короткими шипами, обращенными внутрь, которые пронзают голову. Он используется для того, чтобы вызвать боль у владельца.</Apparel_TortureCrown.description>
+  <Apparel_TortureCrown.description>Похожий на корону головной убор, который неприятно утыкается шипами в голову. Предназначен для того, чтобы причинять носящему боль.</Apparel_TortureCrown.description>
   
 </LanguageData>

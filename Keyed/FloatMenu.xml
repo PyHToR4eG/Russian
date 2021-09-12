@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Ideoligion forbids -->
-  <IdeoligionForbids>Запрещено идеологией</IdeoligionForbids>
+  <IdeoligionForbids>Идеолигия запрещает</IdeoligionForbids>
   <!-- EN: Only {0}s can build -->
-  <OnlyMembersCanBuild>Только {0} может построить</OnlyMembersCanBuild>
+  <OnlyMembersCanBuild>Строить могут только {0}</OnlyMembersCanBuild>
   <!-- EN: {0} is already in progress. -->
-  <CantStartRitualAlreadyInProgress>{0} уже выполняется.</CantStartRitualAlreadyInProgress>
+  <CantStartRitualAlreadyInProgress>{0} уже в процессе.</CantStartRitualAlreadyInProgress>
   <!-- EN: {0} is already participating in a ritual. -->
   <CantStartRitualTargetIsAlreadyInRitual>{0} уже участвует в ритуале.</CantStartRitualTargetIsAlreadyInRitual>
   <!-- EN: You must assign the role of {0} in order to start this ritual. -->
-  <CantStartRitualRoleNotAssigned>Вы должны назначить роль {0}, чтобы начать этот ритуал.</CantStartRitualRoleNotAssigned>
+  <CantStartRitualRoleNotAssigned>Вы должны назначить кого-нибудь на роль {0}, чтобы начать ритуал.</CantStartRitualRoleNotAssigned>
   <!-- EN: There is nobody to convert to {0}. You need a colonist, prisoner, or slave of a different ideoligion. -->
-  <CantStartRitualNoConvertee>Нет никого, кого можно было бы преобразовать в {0}. Вам нужен поселенец, заключенный или раб другой идеологии.</CantStartRitualNoConvertee>
+  <CantStartRitualNoConvertee>Некого обращать в {0}. Для этого необходим поселенец, заключённый или раб, принадлежащие другой идеолигии.</CantStartRitualNoConvertee>
   <!-- EN: {PAWN_nameDef} cannot be {ROLE}. -->
-  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} не может быть {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} не может занимать роль {ROLE}.</CantStartRitualSelectedPawnCannotBeRole>
   <!-- EN: {PAWN_nameDef} must be a {IDEO_memberName}. -->
   <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} должен быть {IDEO_memberName}.</CantStartRitualSelectedPawnMustBeMember>
   <!-- EN: {PAWN_nameDef} is psychically deaf. -->
   <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} является психически невосприимчивым.</CantStartRitualSelectedPawnPsychicallyDeaf>
   <!-- EN: Not enough space. There must be a clear circle of radius {MINRADIUS}. -->
-  <CantStartNotEnoughSpaceDuel>Не хватает места. Должен быть четкий круг радиуса {MINRADIUS}.</CantStartNotEnoughSpaceDuel>
+  <CantStartNotEnoughSpaceDuel>Не хватает места. Необходима круглая область с минимальным радиусом {MINRADIUS}</CantStartNotEnoughSpaceDuel>
+  <!-- EN: {0_labelShort} is a slave. Slaves don't get funerals. -->
+  <CantStartFuneralForSlave>{0_labelShort} — {0_gender ? раб : рабыня}. Рабам не полагаются похороны.</CantStartFuneralForSlave>
   <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
-  <CantStartFuneralForSlave>{0_labelShort} это раб. Рабов не хоронят.</CantStartFuneralForSlave>
-  <!-- EN: Need a slave bed that is reachable, not reserved, and in safe temperature. -->
-  <NoSlaveBed>Нужна кровать для рабов, доступная, не зарезервированная и с безопасной температурой.</NoSlaveBed>
+  <NoSlaveBed>Необходима доступная кровать для рабов, не занятая и находящаяся в месте с безопасной температурой.</NoSlaveBed>
   <!-- EN: Return to slave bed -->
-  <ReturnToSlaveBed>Вернуть в рабскую кровать</ReturnToSlaveBed>
+  <ReturnToSlaveBed>Вернуть к кровати для рабов</ReturnToSlaveBed>
   <!-- EN: not allowed for faction -->
-  <NotAllowedForFaction>не допускается для фракции</NotAllowedForFaction>
+  <NotAllowedForFaction>не разрешено для фракции</NotAllowedForFaction>
 
   <!-- EN: Remove -->
-  <Remove>Удалить</Remove>
+  <Remove>Убрать</Remove>
   <!-- EN: Remove precept -->
-  <RemovePrecept>Удалить заповедь</RemovePrecept>
+  <RemovePrecept>Убрать принцип</RemovePrecept>
   <!-- EN: Regenerate -->
-  <Regenerate>Пересоздать</Regenerate>
+  <Regenerate>Сгенерировать заново</Regenerate>
   <!-- EN: Cannot edit -->
-  <CannotEdit>Не удается отредактировать</CannotEdit>
+  <CannotEdit>Невозможно редактировать</CannotEdit>
   <!-- EN: No choices available -->
-  <NoChoicesAvailable>Нет доступных вариантов</NoChoicesAvailable>
+  <NoChoicesAvailable>Не из чего выбирать</NoChoicesAvailable>
   <!-- EN: Required by meme {0} -->
-  <RequiredByMeme>Требуется для доктрины {0}</RequiredByMeme>
+  <RequiredByMeme>Требуется чертой {0}</RequiredByMeme>
   <!-- EN: Required -->
   <Required>Требуется</Required>
   <!-- EN: Style category -->
@@ -49,15 +49,15 @@
   <!-- EN: Add style category -->
   <AddStyleCategory>Добавить категорию стиля</AddStyleCategory>
   <!-- EN: Can't add more than {0} rituals. -->
-  <MaxRitualCount>Нельзя добавить больше {0_numCase ? ритуала : ритуалов : ритуалов}.</MaxRitualCount>
+  <MaxRitualCount>Невозможно добавить больше {0} ритуалов.</MaxRitualCount>
   <!-- EN: Can't add more than {0} relics. -->
-  <MaxRelicCount>Нельзя добавить больше {0_numCase ? реликвии : реликвий : реликвий}.</MaxRelicCount>
+  <MaxRelicCount>Невозможно добавить больше {0} реликвий.</MaxRelicCount>
   <!-- EN: can't have more than {0} specialists. -->
-  <MaxMultiRolesCount>не может быть больше {0_numCase ? специалиста : специалистов : специалистов}.</MaxMultiRolesCount>
+  <MaxMultiRolesCount>нельзя иметь больше {0} специалистов.</MaxMultiRolesCount>
   <!-- EN: max {0} -->
   <MaxPreceptCount>максимум {0}</MaxPreceptCount>
   <!-- EN: Set gender -->
-  <SetTargetGender>Установить пол</SetTargetGender>
+  <SetTargetGender>Задать пол</SetTargetGender>
   <!-- EN: must be {0} faction -->
   <RoleApparelRequirementIncompatibleFaction>должны быть {0} фракция</RoleApparelRequirementIncompatibleFaction>
   <!-- EN: tribal -->
@@ -65,51 +65,49 @@
   <!-- EN: non-tribal -->
   <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>не племенной</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
   <!-- EN: requires any of these memes -->
-  <RoleApparelRequirementIncompatibleAnyMemeRequired>требуется любая из этих доктрин</RoleApparelRequirementIncompatibleAnyMemeRequired>
-  <!-- EN: incompatible -->
-  <FactionOrIdeoIncompatible>несовместимый</FactionOrIdeoIncompatible>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>требуется любая из этих черт</RoleApparelRequirementIncompatibleAnyMemeRequired>
   <!-- EN: cannot be worn with assigned apparel -->
-  <BodyPartAlreadyCovered>нельзя носить с назначенной одеждой</BodyPartAlreadyCovered>
+  <BodyPartAlreadyCovered>невозможно носить с назначенной одеждой</BodyPartAlreadyCovered>
   <!-- EN: already assigned -->
   <AlreadyAssigned>уже назначен</AlreadyAssigned>
   <!-- EN: People are pleased when their apparel requirements are fulfilled, and unhappy when they are violated. -->
-  <NoteRoleApparelRequirementEffects>Люди довольны, когда их требования к одежде выполняются, и недовольны, когда их нарушают.</NoteRoleApparelRequirementEffects>
+  <NoteRoleApparelRequirementEffects>Поселенцы радуются, когда их потребности в одежде исполняются и расстраиваются, когда нет.</NoteRoleApparelRequirementEffects>
   <!-- EN: supercharge not ready -->
-  <NeuralSuperchargeNotReady>суперзаряд не готов</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeNotReady>сверхзаряд не готов</NeuralSuperchargeNotReady>
   <!-- EN: already getting -->
-  <NeuralSuperchargeAlreadyGetting>уже получает</NeuralSuperchargeAlreadyGetting>
+  <NeuralSuperchargeAlreadyGetting>в процессе</NeuralSuperchargeAlreadyGetting>
   <!-- EN: Set type -->
-  <SetApparelType>Установить тип</SetApparelType>
+  <SetApparelType>Задать тип</SetApparelType>
 
   <!-- EN: change style -->
   <ChangeStyle>изменить стиль</ChangeStyle>
   <!-- EN: {0} {DEITYNOUN} required -->
-  <DeitiesRequired>{0} {DEITYNOUN} обязательный</DeitiesRequired>
+  <DeitiesRequired>требуется {0} {DEITYNOUN}</DeitiesRequired>
   <!-- EN: deity -->
   <Deity>божество</Deity>
   <!-- EN: requires meme -->
-  <RequiresMeme>требуется доктрина</RequiresMeme>
+  <RequiresMeme>необходимая черта</RequiresMeme>
   <!-- EN: requires one of -->
-  <RequiresOneOfMemes>требуется одина из</RequiresOneOfMemes>
+  <RequiresOneOfMemes>необходима одна из</RequiresOneOfMemes>
   <!-- EN: conflicts with meme -->
-  <ConflictsWithMeme>конфликты с доктриной</ConflictsWithMeme>
+  <ConflictsWithMeme>несовместим с чертой</ConflictsWithMeme>
   <!-- EN: conflicts with memes -->
-  <ConflictsWithMemes>конфликты с доктринами</ConflictsWithMemes>
+  <ConflictsWithMemes>несовместим с чертами:</ConflictsWithMemes>
   <!-- EN: can only have one altar/ideogram -->
-  <IdeoAlreadyHasAltar>может быть только один алтарь/идеограмма</IdeoAlreadyHasAltar>
+  <IdeoAlreadyHasAltar>допускается только один алтарь/идеограмма</IdeoAlreadyHasAltar>
   <!-- EN: recolor apparel -->
   <RecolorApparel>перекрасить одежду</RecolorApparel>
 
   <!-- EN: Hack {0} -->
   <Hack>Взломать {0}</Hack>
   <!-- EN: Cannot hack {0} -->
-  <CannotHack>Не удается взломать {0}</CannotHack>
+  <CannotHack>Невозможно взломать {0}</CannotHack>
   <!-- EN: Already hacked -->
-  <AlreadyHacked>Уже взломан</AlreadyHacked>
+  <AlreadyHacked>Уже взломано</AlreadyHacked>
   <!-- EN: Incapable of hacking -->
-  <IncapableOfHacking>Неспособен к взлому</IncapableOfHacking>
+  <IncapableOfHacking>Не может взламывать</IncapableOfHacking>
   <!-- EN: to drop supplies -->
-  <ToDropSupplies>сбросить припасы</ToDropSupplies>
+  <ToDropSupplies>для сброса припасов</ToDropSupplies>
 
   <!-- EN: Install {0} -->
   <InstallRelic>Установить {0}</InstallRelic>
@@ -118,42 +116,37 @@
   <!-- EN: Extract {0} to inventory ({1}) -->
   <ExtractRelicToInventory>Извлечь {0} в инвентарь ({1})</ExtractRelicToInventory>
   <!-- EN: No relic to install -->
-  <NoRelicToInstall>Нет реликвии для установки</NoRelicToInstall>
+  <NoRelicToInstall>Нет реликвий для установки</NoRelicToInstall>
   <!-- EN: Install in reliquary -->
-  <InstallInReliquary>Установить в реликварии</InstallInReliquary>
+  <InstallInReliquary>Установить в реликварий</InstallInReliquary>
   <!-- EN: no empty accessible reliquary -->
-  <NoEmptyReliquary>нет пустого доступного реликвария</NoEmptyReliquary>
+  <NoEmptyReliquary>нет доступного пустого реликвария</NoEmptyReliquary>
 
   <!-- EN: No {MEMBERNAME} warden -->
-  <NoWardenOfIdeo>Нет {MEMBERNAME} надзирателя</NoWardenOfIdeo>
+  <NoWardenOfIdeo>Нет надзирателя {MEMBERNAME}</NoWardenOfIdeo>
 
   <!-- EN: Remove current role -->
-  <RemoveCurrentRole>Удалить текущую роль</RemoveCurrentRole>
+  <RemoveCurrentRole>Убрать текущую роль</RemoveCurrentRole>
 
   <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>Войдите в капсулу биоскульптора</EnterBiosculpterPod>
+  <EnterBiosculpterPod>Войти в биоскульптор</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>Настроена на кого-то другого.</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>Откалибровано для кого-то другого</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
-  <UnderMinBiosculpterAgeReversalAge>Должно быть {0_numCase ? года : лет : лет} для омоложения.</UnderMinBiosculpterAgeReversalAge>
+  <UnderMinBiosculpterAgeReversalAge>Должно быть {0_numCase ? год : лет : лет} для омоложения.</UnderMinBiosculpterAgeReversalAge>
   <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
-  <CarryToBiosculpterPod>Перенесите {PAWN_label} в модуль биоскульптуры ({CYCLE})</CarryToBiosculpterPod>
+  <CarryToBiosculpterPod>Нести {PAWN_label} в биоскульптор ({CYCLE})</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
-  <CannotCarryToBiosculpterPod>Не может быть перенесен в капсулу биоскульптора</CannotCarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>Невозможно нести в биоскульптор</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
-  <NoBiosculpterPod>Нет доступного модуля биоскульптуры.</NoBiosculpterPod>
-  
-  <!-- Core -->
-  
-  <!-- CommsConsole -->
-
-  <!-- EN: Invoke {0} -->
-  <Invoke>Вызвать</Invoke>
-  <!-- EN: Cannot invoke {0} -->
-  <CannotInvoke>Не удается вызвать {0}</CannotInvoke>
-  <!-- EN: power -->
-  <Power>сила</Power>
-  <!-- EN: already invoked -->
-  <AlreadyInvoked>уже вызван</AlreadyInvoked>
+  <NoBiosculpterPod>Нет доступного биоскульптора.</NoBiosculpterPod>
+  <!-- EN: No cycle active -->
+  <BiosculpterNoCycleActive>Цикл не активен</BiosculpterNoCycleActive>
+  <!-- EN: Nutrition being loaded -->
+  <BiosculpterLoadingNutrition>Питание загружается</BiosculpterLoadingNutrition>
+  <!-- EN: Occupied -->
+  <BiosculpterOccupied>Занят</BiosculpterOccupied>
+  <!-- EN: Cannot enter -->
+  <CannotEnter>Не удается войти</CannotEnter>
 
 </LanguageData>

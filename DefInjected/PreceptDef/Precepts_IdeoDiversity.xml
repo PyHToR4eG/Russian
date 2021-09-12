@@ -6,7 +6,7 @@
   <!-- EN: Other beliefs are evil deceptions ruining the world. It's totally unacceptable to let them exist in the community. -->
   <IdeoDiversity_Abhorrent.description>Другие верования - это злые обманы, разрушающие мир. Совершенно неприемлемо позволять им существовать в сообществе.</IdeoDiversity_Abhorrent.description>
   <!-- EN: All colonists have same ideoligion -->
-  <IdeoDiversity_Abhorrent.comps.2.description>У всех колонистов одна и та же идеология</IdeoDiversity_Abhorrent.comps.2.description>
+  <IdeoDiversity_Abhorrent.comps.2.description>У всех поселенцев одна и та же идеолигия</IdeoDiversity_Abhorrent.comps.2.description>
   <!-- EN: Uniform surroundings -->
   <IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>Единообразное окружение</IdeoDiversity_Abhorrent.comps.5.thoughtStageDescriptions.0>
   <!-- EN: Diverse surroundings -->
@@ -31,7 +31,7 @@
   <IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>Разнообразное окружение</IdeoDiversity_Disapproved.comps.5.thoughtStageDescriptions.1>
   
   <!-- EN: exalted -->
-  <IdeoDiversity_Exalted.label>возвышенные</IdeoDiversity_Exalted.label>
+  <IdeoDiversity_Exalted.label>благородно</IdeoDiversity_Exalted.label>
   <!-- EN: Working through disagreement is the height of morality. It's very moral to live with others who think differently. -->
   <IdeoDiversity_Exalted.description>Преодоление разногласий - это верх морали. Это очень нравственно - жить с другими, которые думают иначе.</IdeoDiversity_Exalted.description>
   <!-- EN: Uniform surroundings -->

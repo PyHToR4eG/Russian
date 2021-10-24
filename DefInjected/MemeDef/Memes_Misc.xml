@@ -230,17 +230,17 @@
     <li>founder_went(founder_gender==Female) ->отправилась</li>
     <li>founder_cut_it_out(founder_gender==Male) ->вырезал</li>
     <li>founder_cut_it_out(founder_gender==Female) ->вырезала</li>
-	<li>founder_mog(founder_gender==Male) ->мог</li>
+    <li>founder_mog(founder_gender==Male) ->мог</li>
     <li>founder_mog(founder_gender==Female) ->могла</li>
-	<li>founder_bil(founder_gender==Male) ->был</li>
+    <li>founder_bil(founder_gender==Male) ->был</li>
     <li>founder_bil(founder_gender==Female) ->была</li>
-	<li>founder_bil2(founder_gender==Male) ->был слеп и черпал</li>
+    <li>founder_bil2(founder_gender==Male) ->был слеп и черпал</li>
     <li>founder_bil2(founder_gender==Female) ->была слепа и черпала</li>
-	<li>founder_delete(founder_gender==Male) ->удалил</li>
+    <li>founder_delete(founder_gender==Male) ->удалил</li>
     <li>founder_delete(founder_gender==Female) ->удалила</li>
-	<li>founder_prishel(founder_gender==Male) ->шел</li>
+    <li>founder_prishel(founder_gender==Male) ->шел</li>
     <li>founder_prishel(founder_gender==Female) ->шла</li>
-	<li>founder_vikolol(founder_gender==Male) ->выколол свои глаза лезвием и обрел</li>
+    <li>founder_vikolol(founder_gender==Male) ->выколол свои глаза лезвием и обрел</li>
     <li>founder_vikolol(founder_gender==Female) ->выколола свои глаза лезвием и обрела</li>
   </Blindsight.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -356,7 +356,7 @@
     <li>founder_killed(founder_gender==Female) ->убила</li>
     <li>founder_ate(founder_gender==Male) ->съел</li>
     <li>founder_ate(founder_gender==Female) ->съела</li>
-	<li>founder_ate2(founder_gender==Male) ->отведал плоть его и обрел</li>
+    <li>founder_ate2(founder_gender==Male) ->отведал плоть его и обрел</li>
     <li>founder_ate2(founder_gender==Female) ->отведала плоть его и обрела</li>
     <li>founder_failed(founder_gender==Male) ->потерпел</li>
     <li>founder_failed(founder_gender==Female) ->потерпела</li>
@@ -366,7 +366,7 @@
     <li>founder_demanded(founder_gender==Female) ->потребовала</li>
     <li>founder_could(founder_gender==Male) ->мог</li>
     <li>founder_could(founder_gender==Female) ->могла</li>
-	<li>founder_privel(founder_gender==Male) ->привел</li>
+    <li>founder_privel(founder_gender==Male) ->привел</li>
     <li>founder_privel(founder_gender==Female) ->привела</li>
   </Cannibal.descriptionMaker.rules.rulesStrings>
   <!-- EN:
@@ -1038,7 +1038,7 @@
     <li>founder_brought(founder_gender==Female) ->привела</li>
     <li>founder_starved_and_suffered(founder_gender==Male) ->голодал и страдал, прикованным</li>
     <li>founder_starved_and_suffered(founder_gender==Female) ->голодала и страдала, прикованная</li>
-	<li>founder_starved_and_suffered2(founder_gender==Male) ->голодал и страдал</li>
+    <li>founder_starved_and_suffered2(founder_gender==Male) ->голодал и страдал</li>
     <li>founder_starved_and_suffered2(founder_gender==Female) ->голодала и страдала</li>
     <li>founder_purchased(founder_gender==Male) ->приобрел</li>
     <li>founder_purchased(founder_gender==Female) ->приобрела</li>
@@ -1331,7 +1331,7 @@
     <li>deity_rules(deity0_gender==None) ->правило там и прогнало</li>
     <li>deity_rules(deity0_gender==Male) ->правил там и прогнал</li>
     <li>deity_rules(deity0_gender==Female) ->правила там и прогнала</li>
-	<li>founder_history(founder_gender==Male) ->Преследуемый и заключенный</li>
+    <li>founder_history(founder_gender==Male) ->Преследуемый и заключенный</li>
     <li>founder_history(founder_gender==Female) ->Преследуемая и заключенная</li>
     <li>founder_boiling(founder_gender==Male) ->кипел</li>
     <li>founder_boiling(founder_gender==Female) ->кипела</li>

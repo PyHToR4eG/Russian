@@ -23,8 +23,8 @@
   
   <!-- EN: biosculpter pod -->
   <BiosculpterPod.label>модуль биоскульптора</BiosculpterPod.label>
-  <!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system. It can perform a variety of biological alterations including age reversal and pleasure-giving. Each pod becomes biotuned to its user, and cannot be used by anyone else. Biotuning resets after 60 days. Believers in transhumanism believe biosculpter pods are of critical importance in their quest to transcend normal human physical limitations. -->
-  <BiosculpterPod.description>Многоцелевой модуль, оснащенный инжектором биоскульптурной жидкости и подключенной системой управления. Он может выполнять различные биологические изменения, включая омоложение и доставление удовольствия. Каждый модуль становится бионастроенным для своего пользователя и не может быть использован кем-либо другим. Бионастройка сбрасывается через 60 дней. Сторонники трансгуманизма считают, что биоскульптурные капсулы имеют решающее значение в их стремлении преодолеть обычные физические ограничения человека.</BiosculpterPod.description>
+  <!-- EN: An immersion pod full of bioactive gel. It can perform a variety of biological alterations including age reversal and pleasure-giving.\n\nThe pod biotunes to its user at the end of a cycle. While biotuned, it cannot be used by anyone else, but cycles will complete 25% more quickly. Biotuning resets if the pod is unused for 80 days.\n\nThe pod consumess 200W of power while working, but only 50W on standby. -->
+  <BiosculpterPod.description>Капсула для погружения, наполненная биоактивным гелем. Он может выполнять различные биологические изменения, включая изменение возраста и доставление удовольствия.\n\nМодуль настраивается на своего пользователя в конце цикла. В то время как био-откалиброван, он не может быть использован кем-либо другим, но циклы завершатся на 25% быстрее. Био-калибровка сбрасывается, если модуль не используется в течение 80 дней.\n\nМодуль потребляет 200 Вт энергии во время работы, но только 50 Вт в режиме ожидания.</BiosculpterPod.description>
   <!-- EN: medic -->
   <BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>излечения</BiosculpterPod.comps.CompBiosculpterPod_MedicCycle.label>
   <!-- EN: Heal all fresh wounds, blood loss, and one random infectious disease. -->
@@ -70,7 +70,7 @@
   <!-- EN: fungus darktorch -->
   <DarktorchFungus.label>тусклый грибфакел</DarktorchFungus.label>
   <!-- EN: A specially-treated fungus torch that produces a dim light over a large area. People who prefer darklight work best with this light source. Can be automatically refueled with raw fungus. Produces a small amount of heat. -->
-  <DarktorchFungus.description>Специально обработанный грибной факел, который дает тусклый свет на большой площади. Люди, которые предпочитают тусклый свет, лучше всего работают с этим источником света. Может автоматически заправляться дровами. Выделяет небольшое количество тепла.</DarktorchFungus.description>
+  <DarktorchFungus.description>Специально обработанный грибной факел, который дает тусклый свет на большой площади. Люди, которые предпочитают тусклый свет, лучше всего работают с этим источником света. Может автоматически заправляться сырыми грибами. Выделяет небольшое количество тепла.</DarktorchFungus.description>
   
   <!-- EN: effigy -->
   <Effigy.label>чучело</Effigy.label>

@@ -9,7 +9,7 @@
     <li>droneDetectionMethod(enemyFactionNeolithic==false)->detect the drone's energy signature</li>
   -->
   <Hack_Spacedrone.questDescriptionRules.rulesStrings>
-    <li>questDescription->Вы обнаружили орбитального космического дрона, который может содержать информацию о [relic_name]. У вас есть код, который заставит его приземлиться на [map_definite].\n\nЧтобы получить информацию, взломайте компьютер космического дрона. Взлом требует времени, но те, кто силен в интеллектуальных навыках, могут ускорить этот процесс.[raidsDescription]\n\nДрон самоуничтожится через [destroyDelayTicks_duration].</li>
+    <li>questDescription->Вы обнаружили орбитального космического дрона, который может содержать информацию о [relic_name]. У вас есть код, который заставит его приземлиться на [map_definite].\n\nЧтобы получить информацию, взломайте компьютер космического дрона. Взлом требует времени, но те, кто силен в интеллектуальных навыках, могут ускорить этот процесс.[raidsDescription]\n\nДрон самоуничтожится через [destroyDelayTicks_duration] после приземления.</li>
     <li>raidsDescription(allowViolence==true)->\n\n[enemyFaction_pawnsPlural] из [enemyFaction_name] будет [droneDetectionMethod]. Пока он здесь, они будут посылать налетчиков примерно каждые [raidIntervalAvg_duration], чтобы уничтожить его и украсть сокровища, которое, по их мнению, в нем содержится. У вас будет некоторое время, чтобы подготовить оборону вокруг него, прежде чем они прибудут.</li>
     <li>raidsDescription(allowViolence==false)-></li>
     <li>droneDetectionMethod(enemyFactionNeolithic==true)->следить за дроном во время его спуска</li>

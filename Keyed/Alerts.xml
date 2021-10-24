@@ -15,7 +15,7 @@
   <!-- EN: Slaves unattended -->
   <SlaveUnattendedMultipleLabel>Рабы без надзора</SlaveUnattendedMultipleLabel>
   <!-- EN: Some slaves are alone on a map with no able-bodied colonists around.\n\nSlaves left unattended like this are very likely to rebel within days or hours. -->
-  <SlavesUnattendedDesc>За некоторыми рабами не следит ни один трудоспособный поселенец. Рабы, оставленные без надзора, скорее всего взбунтуются в ближайшие дни или часы.</SlavesUnattendedDesc>
+  <SlavesUnattendedDesc>За некоторыми рабами не следит ни один трудоспособный поселенец.\n\nРабы, оставленные без надзора, скорее всего поднимут восстание в ближайшие дни или часы.</SlavesUnattendedDesc>
 
   <!-- EN: {0} expected -->
   <RitualExpected>Ожидается {0}</RitualExpected>
@@ -65,8 +65,8 @@
   <IdeoRoleEmpty>Роль {0} не назначена</IdeoRoleEmpty>
   <!-- EN: {0} roles unfilled -->
   <IdeoRolesEmpty>Роли {0} не назначены</IdeoRolesEmpty>
-  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab.\n\nIf these roles remain empty, the following people will be unhappy -->
-  <IdeoRolesEmptyDesc>Роли не назначены:\n{0}\n\nВы можете назначить роль поселенцу во вкладке «Социум».\n\nЕсли на роли никто не будет назначен, эти люди расстроятся</IdeoRolesEmptyDesc>
+  <!-- EN: These roles are not filled:\n{0}\n\nYou can assign someone a role on their Social tab. You can also select a ritual spot or an altar and click 'Begin role change'. \n\nIf these roles remain empty, the following people will be unhappy -->
+  <IdeoRolesEmptyDesc>Роли не назначены:\n{0}\n\nВы можете назначить роль поселенцу во вкладке «Социум».Вы также можете выбрать ритуальное место или алтарь и нажать «Начать изменение роли».\n\nЕсли на роли никто не будет назначен, эти люди расстроятся</IdeoRolesEmptyDesc>
 
   <!-- EN: Security threats activated in {0} -->
   <AncientAltarThreatsWaking>Система безопасности активируется через {0}</AncientAltarThreatsWaking>
@@ -142,5 +142,5 @@
   <AlertSlaveRebellionLikelyRebelliousCount>Есть {REBELLIOUSCOUNT} рабов, которые, скорее всего, поднимут восстание.</AlertSlaveRebellionLikelyRebelliousCount>
   <!-- EN: A slave rebellion is expected to happen roughly once every {COMBINEDTIME}. Note that each slave's rebellion chance is independent, so if any one of them rebels they can take others with them.\n\n{REBEL_labelShort} is the most rebellious slave and is expected to initiate a rebellion roughly once every {INDIVIDUALTIME}. The following factors are affecting how often they will rebel: -->
   <AlertSlaveRebellionLikelyMostRebellious>Ожидается, что восстание рабов произойдет примерно раз в {REBELLIOUSCOUNT}. Обратите внимание, что шанс восстания каждого раба независим, поэтому, если кто-то из них взбунтуется, они могут забрать с собой других.\n\n{REBEL_labelShort} - самый непокорный раб, и ожидается, что он будет поднимать восстание примерно раз в {INDIVIDUALTIME}. На то, как часто они будут бунтовать, влияют следующие факторы:</AlertSlaveRebellionLikelyMostRebellious>
-    
+  
 </LanguageData>

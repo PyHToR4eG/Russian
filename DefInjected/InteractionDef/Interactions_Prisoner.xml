@@ -14,8 +14,8 @@
     <li>r_logentry->[INITIATOR_nameDef] сообщает [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [must] подчиняться приказам и работать.</li>
     <li>r_logentry->[INITIATOR_nameDef] призывает [RECIPIENT_nameDef] подготовиться к жизни на принудительных работах.</li>
     <li>r_logentry->[INITIATOR_nameDef] объясняет [RECIPIENT_nameDef], что [RECIPIENT_pronoun] [must] работать или [RECIPIENT_possessive] ждет наказание.</li>
-	<li>must(RECIPIENT_gender==male)->обязан</li>
-	<li>must(RECIPIENT_gender==female)->обязана</li>
+    <li>must(RECIPIENT_gender==male)->обязан</li>
+    <li>must(RECIPIENT_gender==female)->обязана</li>
   </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
@@ -105,8 +105,8 @@
     <li>givein->подчиниться</li>
     <li>givein->покориться</li>
     <li>givein->сдаться</li>
-	<li>localPronoun(RECIPIENT_gender==Male)->ему</li>
-	<li>localPronoun(RECIPIENT_gender==Female)->ей</li>
+    <li>localPronoun(RECIPIENT_gender==Male)->ему</li>
+    <li>localPronoun(RECIPIENT_gender==Female)->ей</li>
   </ReduceWill.logRulesInitiator.rulesStrings>
   
 </LanguageData>

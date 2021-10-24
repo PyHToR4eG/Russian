@@ -20,7 +20,7 @@
   <CharityFulfilled_ThreatReward_Joiner.label>отчаянный странник принят</CharityFulfilled_ThreatReward_Joiner.label>
   
   <!-- EN: wanderer helped -->
-  <CharityFulfilled_WandererJoins.label>странник принят</CharityFulfilled_WandererJoins.label>
+  <CharityFulfilled_WandererJoins.label>страннику оказана помощь</CharityFulfilled_WandererJoins.label>
   
   <!-- EN: beggars refused -->
   <CharityRefused_Beggars.label>попрошайки не получили помощь</CharityRefused_Beggars.label>
@@ -33,6 +33,12 @@
   
   <!-- EN: wimp refused -->
   <CharityRefused_IntroWimp.label>хлюпик не получил помощь</CharityRefused_IntroWimp.label>
+  
+  <!-- EN: pilgrims refused -->
+  <CharityRefused_Pilgrims.label>пилигримы не получили помощь</CharityRefused_Pilgrims.label>
+  
+  <!-- EN: pilgrims betrayed -->
+  <CharityRefused_Pilgrims_Betrayed.label>пилигримы были преданы</CharityRefused_Pilgrims_Betrayed.label>
   
   <!-- EN: refugee pod crash refused -->
   <CharityRefused_RefugeePodCrash.label>беженец из капсулы не получил помощь</CharityRefused_RefugeePodCrash.label>

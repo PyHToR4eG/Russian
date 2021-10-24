@@ -57,11 +57,11 @@
   -->
   <AncientComplex_Mission.questNameRules.rulesStrings>
     <li>questName->[investigation] [missionAdj] [complex]</li>
-	<li>questName->[investigation] [missionAdjFem] [complexFem]</li>
+    <li>questName->[investigation] [missionAdjFem] [complexFem]</li>
     <li>missionAdj->сокрытого</li>
     <li>missionAdj->тайного</li>
     <li>missionAdj->секретного</li>
-	<li>missionAdjFem->сокрытой</li>
+    <li>missionAdjFem->сокрытой</li>
     <li>missionAdjFem->тайной</li>
     <li>missionAdjFem->секретной</li>
   </AncientComplex_Mission.questNameRules.rulesStrings>

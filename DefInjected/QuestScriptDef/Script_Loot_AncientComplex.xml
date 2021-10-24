@@ -34,7 +34,7 @@
   -->
   <OpportunitySite_AncientComplex.questNameRules.rulesStrings>
     <li>questName(p=3)->[complexAdj] [complex] [finalWord]</li>
-	<li>questName(p=6)->[complexAdjem] [complexFem] [finalWord]</li>
+    <li>questName(p=6)->[complexAdjem] [complexFem] [finalWord]</li>
     <li>questName->[complex] [finalWord]</li>
     <li>complexAdj->секретный</li>
     <li>complexAdj->таинственный</li>
@@ -42,7 +42,7 @@
     <li>complexAdj->старый</li>
     <li>complexAdj->спрятанный</li>
     <li>complexAdj->смертоносный</li>
-	<li>complexAdjem->секретная</li>
+    <li>complexAdjem->секретная</li>
     <li>complexAdjem->таинственная</li>
     <li>complexAdjem->древняя</li>
     <li>complexAdjem->старая</li>

@@ -2,47 +2,47 @@
 <LanguageData>
   
   <!-- EN: farming work site -->
-  <WorkSite_Farming.label>сельскохозяйственная ферма</WorkSite_Farming.label>
+  <WorkSite_Farming.label>фермерский лагерь</WorkSite_Farming.label>
   <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
-  <WorkSite_Farming.description>Рабочая площадка, построенная другой фракцией. Со временем она исчезнет. А до тех пор вы можете совершить на нее налет, если пожелаете.</WorkSite_Farming.description>
+  <WorkSite_Farming.description>Рабочий лагерь другой фракции. Его свернут через некоторое время. До этого момента его можно разграбить.</WorkSite_Farming.description>
   <!-- EN: Attacking {0} -->
-  <WorkSite_Farming.approachingReportString>Атаковать {0}</WorkSite_Farming.approachingReportString>
+  <WorkSite_Farming.approachingReportString>Нападает на {0}</WorkSite_Farming.approachingReportString>
   <!-- EN: Attack {0} -->
-  <WorkSite_Farming.approachOrderString>Атака {0}</WorkSite_Farming.approachOrderString>
+  <WorkSite_Farming.approachOrderString>Напасть на {0}</WorkSite_Farming.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Farming.arrivedLetter>В этом районе есть нейтральный лагерь.</WorkSite_Farming.arrivedLetter>
+  <WorkSite_Farming.arrivedLetter>В этой области находится нейтральный лагерь.</WorkSite_Farming.arrivedLetter>
   
   <!-- EN: hunting work site -->
-  <WorkSite_Hunting.label>охотничьи угодья</WorkSite_Hunting.label>
+  <WorkSite_Hunting.label>охотничий лагерь</WorkSite_Hunting.label>
   <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
-  <WorkSite_Hunting.description>Рабочая площадка, построенная другой фракцией. Со временем она исчезнет. А до тех пор вы можете совершить на нее налет, если пожелаете.</WorkSite_Hunting.description>
+  <WorkSite_Hunting.description>Рабочий лагерь другой фракции. Его свернут через некоторое время. До этого момента его можно разграбить.</WorkSite_Hunting.description>
   <!-- EN: Attacking {0} -->
-  <WorkSite_Hunting.approachingReportString>Атаковать {0}</WorkSite_Hunting.approachingReportString>
+  <WorkSite_Hunting.approachingReportString>Нападает на {0}</WorkSite_Hunting.approachingReportString>
   <!-- EN: Attack {0} -->
-  <WorkSite_Hunting.approachOrderString>Атака {0}</WorkSite_Hunting.approachOrderString>
+  <WorkSite_Hunting.approachOrderString>Напасть на {0}</WorkSite_Hunting.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Hunting.arrivedLetter>В этом районе есть нейтральный лагерь.</WorkSite_Hunting.arrivedLetter>
+  <WorkSite_Hunting.arrivedLetter>В этой области находится нейтральный лагерь.</WorkSite_Hunting.arrivedLetter>
   
   <!-- EN: logging work site -->
-  <WorkSite_Logging.label>лесоповал</WorkSite_Logging.label>
+  <WorkSite_Logging.label>лесозаготовочный лагерь</WorkSite_Logging.label>
   <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
-  <WorkSite_Logging.description>Рабочая площадка, построенная другой фракцией. Со временем она исчезнет. А до тех пор вы можете совершить на нее налет, если пожелаете.</WorkSite_Logging.description>
+  <WorkSite_Logging.description>Рабочий лагерь другой фракции. Его свернут через некоторое время. До этого момента его можно разграбить.</WorkSite_Logging.description>
   <!-- EN: Attacking {0} -->
-  <WorkSite_Logging.approachingReportString>Атаковать {0}</WorkSite_Logging.approachingReportString>
+  <WorkSite_Logging.approachingReportString>Нападает на {0}</WorkSite_Logging.approachingReportString>
   <!-- EN: Attack {0} -->
-  <WorkSite_Logging.approachOrderString>Атака {0}</WorkSite_Logging.approachOrderString>
+  <WorkSite_Logging.approachOrderString>Напасть на {0}</WorkSite_Logging.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Logging.arrivedLetter>В этом районе есть нейтральный лагерь.</WorkSite_Logging.arrivedLetter>
+  <WorkSite_Logging.arrivedLetter>В этой области находится нейтральный лагерь.</WorkSite_Logging.arrivedLetter>
   
   <!-- EN: {THING_label} mining work site -->
-  <WorkSite_Mining.label>{THING_label} шахта</WorkSite_Mining.label>
+  <WorkSite_Mining.label>добывающий {THING_label} шахтёрский лагерь</WorkSite_Mining.label>
   <!-- EN: A work site built by another faction. It will expire in time. Until then, you can raid it if you wish. -->
-  <WorkSite_Mining.description>Рабочая площадка, построенная другой фракцией. Со временем она исчезнет. А до тех пор вы можете совершить на нее налет, если пожелаете.</WorkSite_Mining.description>
+  <WorkSite_Mining.description>Рабочий лагерь другой фракции. Его свернут через некоторое время. До этого момента его можно разграбить.</WorkSite_Mining.description>
   <!-- EN: Attacking {0} -->
-  <WorkSite_Mining.approachingReportString>Атаковать {0}</WorkSite_Mining.approachingReportString>
+  <WorkSite_Mining.approachingReportString>Нападает на {0}</WorkSite_Mining.approachingReportString>
   <!-- EN: Attack {0} -->
-  <WorkSite_Mining.approachOrderString>Атака {0}</WorkSite_Mining.approachOrderString>
+  <WorkSite_Mining.approachOrderString>Напасть на {0}</WorkSite_Mining.approachOrderString>
   <!-- EN: There is a neutral camp in this area. -->
-  <WorkSite_Mining.arrivedLetter>В этом районе есть нейтральный лагерь.</WorkSite_Mining.arrivedLetter>
+  <WorkSite_Mining.arrivedLetter>В этой области находится нейтральный лагерь.</WorkSite_Mining.arrivedLetter>
   
 </LanguageData>

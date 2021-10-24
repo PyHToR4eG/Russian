@@ -128,25 +128,45 @@
   <!-- EN: Remove current role -->
   <RemoveCurrentRole>Убрать текущую роль</RemoveCurrentRole>
 
-  <!-- EN: Enter biosculpter pod -->
-  <EnterBiosculpterPod>Войти в биоскульптор</EnterBiosculpterPod>
+  <!-- EN: Enter biosculpter pod for {0} cycle -->
+  <EnterBiosculpterPod>Войти в биоскульптор для цикла {0}</EnterBiosculpterPod>
   <!-- EN: Biotuned to someone else. -->
-  <BiosculpterBiotunedToAnother>Откалибровано для кого-то другого</BiosculpterBiotunedToAnother>
+  <BiosculpterBiotunedToAnother>Откалиброван для кого-то другого</BiosculpterBiotunedToAnother>
   <!-- EN: Must be {0} years old for age reversal. -->
   <UnderMinBiosculpterAgeReversalAge>Должно быть {0_numCase ? год : лет : лет} для омоложения.</UnderMinBiosculpterAgeReversalAge>
-  <!-- EN: Carry {PAWN_label} to biosculpter pod ({CYCLE}) -->
-  <CarryToBiosculpterPod>Нести {PAWN_label} в биоскульптор ({CYCLE})</CarryToBiosculpterPod>
+  <!-- EN: Carry {PAWN_labelShort} to biosculpter ({CYCLE} cycle) -->
+  <CarryToBiosculpterPod>Нести {PAWN_labelShort} в биоскульптор (цикл {CYCLE})</CarryToBiosculpterPod>
   <!-- EN: Cannot carry to biosculpter pod -->
   <CannotCarryToBiosculpterPod>Невозможно нести в биоскульптор</CannotCarryToBiosculpterPod>
   <!-- EN: No available biosculpter pod. -->
   <NoBiosculpterPod>Нет доступного биоскульптора.</NoBiosculpterPod>
-  <!-- EN: No cycle active -->
-  <BiosculpterNoCycleActive>Цикл не активен</BiosculpterNoCycleActive>
-  <!-- EN: Nutrition being loaded -->
-  <BiosculpterLoadingNutrition>Питание загружается</BiosculpterLoadingNutrition>
+  <!-- EN: Nutrition not loaded -->
+  <BiosculpterNutritionNotLoaded>Питание не загружено</BiosculpterNutritionNotLoaded>
   <!-- EN: Occupied -->
   <BiosculpterOccupied>Занят</BiosculpterOccupied>
   <!-- EN: Cannot enter -->
   <CannotEnter>Не удается войти</CannotEnter>
+  <!-- EN: Cannot start {0} cycle -->
+  <BiosculpterCannotStartCycle>Не удается запустить цикл {0}</BiosculpterCannotStartCycle>
+  <!-- EN: Cannot find cycle ingredients ({INGREDIENTS}) -->
+  <BiosculpterMissingIngredients>Не удается найти ингредиенты для цикла ({INGREDIENTS})</BiosculpterMissingIngredients>
+  <!-- EN: Nobody around can use this -->
+  <BiosculpterNoEligiblePawns>Никто не может этим воспользоваться</BiosculpterNoEligiblePawns>
+  <!-- EN: Biotuned to {PAWN_labelShort} and {PAWN_pronoun} isn't around -->
+  <BiosculpterNoEligiblePawnsBiotuned>Настроено на {PAWN_labelShort} и {PAWN_possessive} нет поблизости</BiosculpterNoEligiblePawnsBiotuned>
+  <!-- EN: Auto load nutrition -->
+  <BiosculpterAutoLoadNutritionLabel>Автозагрузка питания</BiosculpterAutoLoadNutritionLabel>
+  <!-- EN: Automatically load the nutrition required to run a cycle -->
+  <BiosculpterAutoLoadNutritionDescription>Автоматически загружать питание, необходимое для выполнения цикла</BiosculpterAutoLoadNutritionDescription>
+  <!-- EN: Auto age reversal for {PAWN_labelShort} -->
+  <BiosculpterAutoAgeReversalLabel>Автоматическое омоложение для {PAWN_labelShort}</BiosculpterAutoAgeReversalLabel>
+  <!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run a yearly age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+  <BiosculpterAutoAgeReversalDescription>Автоматически удовлетворять желание {PAWN_labelShort} запускать ежегодный цикл омоложения в этом модуле в соответствии с {PAWN_possessive} убеждениями. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <!-- EN: If enabled, {PAWN_labelShort} will automatically take {PAWN_possessive} next treament in {TIME} if the pod is ready. -->
+  <BiosculpterAutoAgeReversalDescriptionFuture>Если включено, {PAWN_labelShort} автоматически выполнит свой цикл омоложения через {TIME}, если модуль готов</BiosculpterAutoAgeReversalDescriptionFuture>
+  <!-- EN: {PAWN_labelShort} already wants {PAWN_possessive} next treatment and will automatically begin one if this is enabled. -->
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} уже хочет следующее лечение и автоматически начнет его, если это разрешено.</BiosculpterAutoAgeReversalDescriptionNow>
+  <!-- EN: Collecting ingredients for biosculpter cycle -->
+  <BiosculpterJobReportCollectIngredients>Сбор ингредиентов для цикла биоскульптера</BiosculpterJobReportCollectIngredients>
 
 </LanguageData>

@@ -14,7 +14,7 @@
   <!-- EN: medical specialist -->
   <IdeoRole_MedicalSpecialist.label>медицинский специалист</IdeoRole_MedicalSpecialist.label>
   <!-- EN: A special ideoligious status focusing on medicine to the exclusion of all else. This specialized role gives improved surgery and tending efficiency, and the ability to boost the medical abilities of nearby allies. Believers who receive care from one of this role will be happy about it. Holders of this role will refuse to do any kind of violence, and won't perform some non-medical tasks. -->
-  <IdeoRole_MedicalSpecialist.description>Особый идеолигический статус, сосредоточенный на медицине, исключающий все остальное. Эта специализированная роль обеспечивает улучшенную эффективность хирургии и ухода, а также возможность повысить медицинские способности ближайших союзников. Верующие, которые получают заботу от одной из этих ролей, будут рады этому. Обладатели этой роли откажутся выполнять некоторые немедицинские задачи.</IdeoRole_MedicalSpecialist.description>
+  <IdeoRole_MedicalSpecialist.description>Особый идеолигический статус, сосредоточенный на медицине, исключающий все остальное. Эта специализированная роль обеспечивает улучшенную эффективность хирургии и ухода, а также возможность повысить медицинские способности ближайших союзников. Верующие, которые получают заботу от одной из этих ролей, будут рады этому. Обладатели этой роли откажутся от любого вида насилия и не будут выполнять некоторые немедицинские задачи.</IdeoRole_MedicalSpecialist.description>
   
   <!-- EN: melee specialist -->
   <IdeoRole_MeleeSpecialist.label>специалист по рукопашному бою</IdeoRole_MeleeSpecialist.label>

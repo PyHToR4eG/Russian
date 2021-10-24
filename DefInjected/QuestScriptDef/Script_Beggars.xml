@@ -109,7 +109,7 @@
     <li>beggarSingle->оборванец</li>
     <li>beggarSingle->бродяга</li>
     <li>beggarSingle->путешественник</li>
-	<li>beggarPlural->нищие</li>
+    <li>beggarPlural->нищие</li>
     <li>beggarPlural->оборванцы</li>
     <li>beggarPlural->бродяги</li>
     <li>beggarPlural->путешественники</li>

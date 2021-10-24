@@ -61,15 +61,15 @@
   <ReliquaryPilgrims.questDescriptionRules.rulesStrings>
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] поклониться [relic_name].\n\nЕсли вы гарантируете [isAre] безопасность и уважение, пока [pronounSingularOrPlural] [visitSingularOrPlural] древнюю реликвию, [pronounSingularOrPlural] [can] предложить вам награду.</li>
     <li>isAre(pilgrimCount==1)->[possessive]</li>
-	<li>possessive(pawns0_gender==Male)->ему</li>
-	<li>possessive(pawns0_gender==Female)->ей</li>
+    <li>possessive(pawns0_gender==Male)->ему</li>
+    <li>possessive(pawns0_gender==Female)->ей</li>
     <li>isAre(pilgrimCount>=2)->им</li>
     <li>pronounSingularOrPlural(pilgrimCount==1)->[pawns0_pronoun]</li>
     <li>pronounSingularOrPlural(pilgrimCount>=2)->они</li>
     <li>visitSingularOrPlural(pilgrimCount==1)->посещает</li>
     <li>visitSingularOrPlural(pilgrimCount>=2)->посещают</li>
-	<li>can(pilgrimCount>=1)->может</li>
-	<li>can(pilgrimCount>=2)->могут</li>
+    <li>can(pilgrimCount>=1)->может</li>
+    <li>can(pilgrimCount>=2)->могут</li>
   </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
@@ -93,11 +93,11 @@
   -->
   <ReliquaryPilgrims.questNameRules.rulesStrings>
     <li>questName(pilgrimCount==1)->[visitAdj] [visit] [pilgrimsLabelSingularOrPlural]</li>
-	<li>questName(pilgrimCount==1)->[visitAdjMas] [visiMas] [pilgrimsLabelSingularOrPlural]</li>
-	<li>questName(pilgrimCount==1)->[visitAdjFem] [visitFem] [pilgrimsLabelSingularOrPlural]</li>
+    <li>questName(pilgrimCount==1)->[visitAdjMas] [visiMas] [pilgrimsLabelSingularOrPlural]</li>
+    <li>questName(pilgrimCount==1)->[visitAdjFem] [visitFem] [pilgrimsLabelSingularOrPlural]</li>
     <li>questName(pilgrimCount>=2)->[visitAdj] [visit] [pilgrimsLabelSingularOrPlural]</li>
-	<li>questName(pilgrimCount>=2)->[visitAdjMas] [visiMas] [pilgrimsLabelSingularOrPlural]</li>
-	<li>questName(pilgrimCount>=2)->[visitAdjFem] [visitFem] [pilgrimsLabelSingularOrPlural]</li>
+    <li>questName(pilgrimCount>=2)->[visitAdjMas] [visiMas] [pilgrimsLabelSingularOrPlural]</li>
+    <li>questName(pilgrimCount>=2)->[visitAdjFem] [visitFem] [pilgrimsLabelSingularOrPlural]</li>
     <li>visitAdjMas(p=6)-></li>
     <li>visitAdjMas->святой</li>
     <li>visitAdjMas->священный</li>
@@ -107,7 +107,7 @@
     <li>visitAdjMas->торжественный</li>
     <li>visitAdjMas->сакральный</li>
     <li>visitAdjMas->ханжеский</li>
-	<li>visitAdjFem(p=6)-></li>
+    <li>visitAdjFem(p=6)-></li>
     <li>visitAdjFem->святая</li>
     <li>visitAdjFem->священная</li>
     <li>visitAdjFem->духовная</li>
@@ -116,7 +116,7 @@
     <li>visitAdjFem->торжественная</li>
     <li>visitAdjFem->сакральная</li>
     <li>visitAdjFem->ханжеская</li>
-	<li>visitAdj(p=6)-></li>
+    <li>visitAdj(p=6)-></li>
     <li>visitAdj->святое</li>
     <li>visitAdj->священное</li>
     <li>visitAdj->духовное</li>

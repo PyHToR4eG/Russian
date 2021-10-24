@@ -56,5 +56,8 @@
 
   <!-- EN: Biosculpting speed -->
   <StatsReport_BiosculptingSpeedFactor>Скорость биоскульптинга</StatsReport_BiosculptingSpeedFactor>
-  
+
+  <!-- EN: The amount of progress that has been made towards hacking this object. -->
+  <Stat_Thing_HackingProgress>Степень прогресса, достигнутого во взломе этого объекта.</Stat_Thing_HackingProgress>
+
   </LanguageData>

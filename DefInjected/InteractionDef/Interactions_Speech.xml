@@ -30,7 +30,7 @@
     <li>speechtopic->putting a role above [INITIATOR_possessive] personal desires</li>
   -->
   <Speech_AcceptRole.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->о [INITIATOR_possessive] новой роли в сообществе</li>
     <li>speechtopic->об ответственности [INITIATOR_possessive] новой роли</li>
     <li>speechtopic->о важности [INITIATOR_possessive] новой роли</li>
@@ -353,7 +353,7 @@
     <li>speechtopic->putting community goals above [INITIATOR_possessive] personal ambitions</li>
   -->
   <Speech_RemoveRole.logRulesInitiator.rulesStrings>
-	<li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
     <li>speechtopic->о своей прежней роли в обществе</li>
     <li>speechtopic->об ответственности своей прежней роли</li>
     <li>speechtopic->о сложностях своей прежней роли</li>

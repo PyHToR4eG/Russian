@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: caravan hitching spot -->
+  <CaravanPackingSpot.label>коновязь для каравана</CaravanPackingSpot.label>
+  <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
+  <CaravanPackingSpot.description>Обозначает место для запрягания животных и формирования караванов. Поселенцы будут запрягать здесь животных во время погрузки каравана. Вы также можете использовать их во время встреч вдали от дома, чтобы животные не бродили.</CaravanPackingSpot.description>
+  
+</LanguageData>

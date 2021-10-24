@@ -7,7 +7,7 @@
     <li>raidConsequences(faction_temporary==true)->Since [faction_name] is just a small, independent group, you can attack them without any broader diplomatic consequences.</li>
   -->
   <OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
-    <li>questDescription->Вы обнаружили поблизости [siteLabel], контролируемый [faction_name].\n\nЕсли хотите, Вы можете совершить набег на лагерь, чтобы собрать добычу ([loot]). [raidConsequences]\n\nЛагерь соберется и двинется дальше через [timeout_duration].</li>
+    <li>questDescription->Вы обнаружили поблизости [siteLabel], под контролем [faction_name].\n\nЕсли хотите, Вы можете совершить набег на лагерь, чтобы собрать добычу ([loot]). [raidConsequences]\n\nЛагерь соберется и двинется дальше через [timeout_duration].</li>
     <li>raidConsequences(faction_temporary==false)->Если Вы это сделаете, [faction_name] станет враждебным.</li>
     <li>raidConsequences(faction_temporary==true)->Поскольку [faction_name] - это всего лишь небольшая независимая группа, вы можете атаковать их без каких-либо серьезных дипломатических последствий.</li>
   </OpportunitySite_WorkSite.questDescriptionRules.rulesStrings>
